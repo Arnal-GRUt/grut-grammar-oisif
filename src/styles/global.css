@@ -27,7 +27,8 @@ h1 {
   color: #fff;
   font-size: 1.2rem;
   font-weight: bold;
-  padding: 5px 10px;
+  padding: 4px 8px;
+  border-radius: 16px;
 }
 
 .nav-links {
@@ -58,21 +59,15 @@ h1 {
 
 @media screen and (min-width: 636px) {
   .nav-links {
-/*     margin-left: 5em;
- */ display: block;
-    /* position: static; */
+    display: block;
     position: fixed;
-    /* width: auto; */
-    /* background: none; */
     background: linear-gradient(to right, rgba(0,0,0, 0.05) 30%, transparent 50%);
     backdrop-filter: blur(10px);
   }
-
   .nav-links a {
     display: inline-block;
     padding: 8px 16px;
   }
-
   .menu {
     display: none;
   }

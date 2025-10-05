@@ -23,6 +23,10 @@ const goal = 3;
         color: purple;
         font-size: 4rem;
       }
+      .skill {
+        color: green;
+        font-weight: bold;
+      }
     </style>
   </head>
   <body>
@@ -40,9 +44,9 @@ const goal = 3;
         <li>Deux de mes loisirs sont : {identity.hobbies[0]} et {identity.hobbies[1]}</li>
       }
     </ul>
-    <p>Voici mes compétences :</p>
+    <p>Mes compétences sont :</p>
     <ul>
-      {skills.map((skill) => <li>{skill}</li>)}
+      {skills.map((skill) => <li class="skill">{skill}</li>)}
     </ul>
     {happy && <p>Je suis heureux d'apprendre Astro !</p>}
     {finished && <p>J'ai terminé ce tutoriel !</p>}

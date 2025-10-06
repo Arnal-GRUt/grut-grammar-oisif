@@ -1,4 +1,4 @@
----
+<!-- ---
 import Header from '../components/Navigation.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
@@ -61,4 +61,17 @@ const textCase = "uppercase";
     {goal === 3 ? <p>Mon objectif est de terminer en 3 jours.</p> : <p>Mon objectif n'est pas de 3 jours.</p>}
     <Footer/>
   </body>
-</html>
+</html> -->
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const pageTitle = "About moi";
+---
+<BaseLayout pageTitle={pageTitle}>
+  <h2>... et de mon nouveau site Astro !</h2>
+
+    <p>Voici quelques faits me concernant :</p>
+    <ul>
+      <li>Je m'appelle Arnal Grut.</li>  
+    </ul>    
+    
+</BaseLayout>

@@ -1,15 +1,15 @@
 ---
 const { platform, username } = Astro.props;
+
 ---
 <a href={`https://www.${platform}.com/${username}`}>{platform}</a>
-
 
 <style>
   a {
     text-decoration: none;
     transition: filter 0.2s ease-in-out;
     font-size: 0.8rem;
-    padding-right: 1rem;
+    padding-right: 1rem
     
     &::before {
       content: "🔗";

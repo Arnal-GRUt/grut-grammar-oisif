@@ -9,6 +9,9 @@ body {
   max-width: 80ch;
   padding: 1rem;
   line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  
 }
 
 * {
@@ -49,25 +52,27 @@ h1 {
 }
 
 .nav-links a:is(:hover, :focus) {
-    transform: translateY(-5px);
-    filter:grayscale(1)    
+  transform: translateY(-5px);
+  filter: grayscale(1)
 }
 
 :has(.menu[aria-expanded="true"]) .nav-links {
   display: unset;
-}   
+}
 
 @media screen and (min-width: 636px) {
   .nav-links {
     display: block;
     position: fixed;
-    background: linear-gradient(to right, rgba(0,0,0, 0.05) 30%, transparent 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.05) 30%, transparent 50%);
     backdrop-filter: blur(10px);
   }
+
   .nav-links a {
     display: inline-block;
     padding: 8px 16px;
   }
+
   .menu {
     display: none;
   }

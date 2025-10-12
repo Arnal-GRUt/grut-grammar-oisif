@@ -6,15 +6,20 @@ const { platform, username } = Astro.props;
 
 <style>
   a {
-    padding: 0.5rem 0.5rem;
-    color: white;
-    background-color: #4c1d95;
     text-decoration: none;
-    border-radius: 8px;    
     transition: filter 0.2s ease-in-out;
+    font-size: 0.8rem;
+    padding-right: 1rem;
+    
+    &::before {
+      content: "🔗";
+      padding-right: 0.5rem;
+    }
 
     &:hover {
         filter: grayscale(90%);
+        border-bottom: 1px solid grey;
     }
   }
+
 </style>

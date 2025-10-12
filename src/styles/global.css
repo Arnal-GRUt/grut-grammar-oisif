@@ -15,11 +15,11 @@ body {
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 h1 {
-  margin: calc(5vh + 40px) auto;
+  margin-top: calc(5vh + 64px);
   font-size: 3rem;
 }
 
@@ -31,7 +31,7 @@ h1 {
   font-size: 1.1rem;
   font-weight: bold;
   padding: 4px 8px;
-  border-radius: 16px;
+  border-radius: 8px;
 }
 
 .nav-links {
@@ -62,15 +62,17 @@ h1 {
 
 @media screen and (min-width: 636px) {
   .nav-links {
-    display: block;
+    display: flex;
     position: fixed;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.05) 30%, transparent 50%);
+    /* background: linear-gradient(to right, rgba(0, 0, 0, 0.05) 30%, transparent 50%); */
     backdrop-filter: blur(10px);
+    flex-direction: row;
+    gap: 16px;   
   }
 
   .nav-links a {
-    display: inline-block;
-    padding: 8px 16px;
+    /* display: inline-block; */
+    /* padding: 8px 16px; */
   }
 
   .menu {

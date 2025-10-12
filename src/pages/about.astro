@@ -4,16 +4,9 @@ const pageTitle = "About moi";
 const skillColor = "crimson";
 const fontWeight = "bold";
 const textCase = "uppercase";
----
-
-<!-- ---
-import Header from '../components/Navigation.astro';
-import Footer from '../components/Footer.astro';
-import '../styles/global.css';
-const pageTitle = "À propos de moi";
 
 const identity = {
-  firstName: "Arnal",
+  firstName: "Arnal GRUt.",
   country: "Fronccceeee",
   occupation: "Web-dé",
   hobbies: ["gribouille", "écritouille", "jeudrôlisme"]
@@ -23,33 +16,20 @@ const skills = ["HTML", "CSS", "Astro", "Rédaction de documentation"];
 const happy = true;
 const finished = false;
 const goal = 3;
-
-const skillColor = "crimson";
-const fontWeight = "bold";
-const textCase = "uppercase";
-
 ---
-<html lang="fr">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{pageTitle}</title>
-    <style define:vars={{skillColor, fontWeight, textCase}}>
-      h1 {
-        color: purple;
-        font-size: 4rem;
-      }
-      .skill {
-        color: var(--skillColor);
-        font-weight: var(--fontWeight);
-        text-transform: var(--textCase);
-      }
-    </style>
-  </head>
-  <body>
-    <Header/>
 
-    <h1>{pageTitle}</h1>
+<BaseLayout pageTitle={pageTitle}>
+  <style define:vars={{ skillColor, fontWeight, textCase }}>    
+    h1 {
+      color: purple;
+      font-size: 4rem;
+    }
+    .skill {
+      color: var(--skillColor);
+      font-weight: var(--fontWeight);
+      text-transform: var(--textCase);
+    }
+  </style>
     <h2>... et de mon nouveau site Astro !</h2>
 
     <p>Voici quelques faits me concernant :</p>
@@ -64,26 +44,6 @@ const textCase = "uppercase";
     <ul>
       {skills.map((skill) => <li class="skill">{skill}</li>)}
     </ul>
-    {happy && <p>Je suis heureux d'apprendre Astro !</p>}
-    {finished && <p>J'ai terminé ce tutoriel !</p>}
-    {goal === 3 ? <p>Mon objectif est de terminer en 3 jours.</p> : <p>Mon objectif n'est pas de 3 jours.</p>}
-    <Footer/>
-  </body>
-</html> -->
-
-<BaseLayout pageTitle={pageTitle}>
-  <style define:vars={{ skillColor, fontWeight, textCase }}>
-    
-    h1 {
-      color: purple;
-      font-size: 4rem;
-    }
-    .skill {
-      color: var(--skillColor);
-      font-weight: var(--fontWeight);
-      text-transform: var(--textCase);
-    }
-  </style>
   <h2>... et de mon nouveau site Astro !</h2>
 
   <p>
@@ -116,7 +76,4 @@ const textCase = "uppercase";
     et tempus. Donec semper id diam non dapibus. Integer sit amet consequat
     urna.
   </p>
-  <ul>
-    <li>Je m'appelle Arnal Grut.</li>
-  </ul>
 </BaseLayout>

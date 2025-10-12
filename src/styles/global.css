@@ -27,8 +27,7 @@ h1 {
 .menu {
   background-color: #0d0950;
   border: none;
-  color: #fff;
-  font-size: 1.1rem;
+  color: #fff; 
   font-weight: bold;
   padding: 4px 8px;
   border-radius: 8px;
@@ -39,15 +38,14 @@ h1 {
   display: none;
   margin: 0;
   padding: 8px;
-  border-radius: 8px;
 }
 
 .nav-links a {
   display: block;
   text-align: center;
-  padding: 10px 0;
+  padding: 4px 0;
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
   transition: transform 0.2s ease-in-out;
 }
 
@@ -64,10 +62,12 @@ h1 {
   .nav-links {
     display: flex;
     position: fixed;
+    background: whitesmoke;
     /* background: linear-gradient(to right, rgba(0, 0, 0, 0.05) 30%, transparent 50%); */
-    backdrop-filter: blur(10px);
+    /* backdrop-filter: blur(10px); */
     flex-direction: row;
-    gap: 16px;   
+    gap: 16px;
+    border-bottom: 1px solid lightgrey; 
   }
 
   .nav-links a {

@@ -1,9 +1,71 @@
+/*************************************************/
+/****************** RESET - CSS ******************/
+/*************************************************/
+
+/* 1. Use a more-intuitive box-sizing model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+/* 2. Remove default margin */
+* {
+  margin: 0;
+}
+/* 3. Enable keyword animations */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    interpolate-size: allow-keywords;
+  }
+}
+body {
+  /* 4. Add accessible line-height */
+  line-height: 1.5;
+  /* 5. Improve text rendering */
+  -webkit-font-smoothing: antialiased;
+}
+/* 6. Improve media defaults */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+/* 7. Inherit fonts for form controls */
+input, button, textarea, select {
+  font: inherit;
+}
+/* 8. Avoid text overflows */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+/* 9. Improve line wrapping */
+p {
+  text-wrap: pretty;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+/*
+  10. Create a root stacking context
+*/
+#root, #__next {
+  isolation: isolate;
+}
+
+:root{
+  --yellow: #f3bd22;
+  --black: #050315;
+  --white: #ffffff;
+  --background: #eeeadb;
+  --animStart: 150vh;
+  --animEnd: 150vh;
+  --weight: 400 /* entre 100 et 900 */
+  /* --min-height: 400vh; */
+}
+
 html {
-  background-color: #f1f5f9;
+	background-color: var(--background);
   font-family: sans-serif;
 }
 
-body {
+/* body {
   margin: 0 auto;
   width: 100%;
   max-width: 80ch;
@@ -12,16 +74,35 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;  
+} */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  justify-self: center; 
+  width: 100%;
+  /* min-height: var(--min-height); */
 }
 
 * {
   box-sizing: border-box; 
 }
 
-h1 {
+/* h1 {
   margin-top: calc(5vh + 64px);
   font-size: 3rem;
+} */
+h1, h1 a, .soustitre, h2, ul li a, .cta a, ul li, .to-home {
+  font-family: "Chelsea Market", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--black); 
 }
+
+/*************************************************/
+/****************** CSS - GRUt· ******************/
+/*************************************************/
 
 /******************** Styles de la navigation ********************/
 .menu {
@@ -63,19 +144,45 @@ h1 {
     display: flex;
     position: fixed;
     background: whitesmoke;
-    /* background: linear-gradient(to right, rgba(0, 0, 0, 0.05) 30%, transparent 50%); */
-    /* backdrop-filter: blur(10px); */
     flex-direction: row;
     gap: 16px;
     border-bottom: 1px solid lightgrey; 
   }
 
-  .nav-links a {
-    /* display: inline-block; */
-    /* padding: 8px 16px; */
-  }
-
   .menu {
     display: none;
   }
+  
+  ul {
+    padding: 8px;	
+  }
+
+  li {
+    font-weight: 700;
+      list-style: none;
+  }
+
+  p {
+    font-family: "Libre Franklin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: var(--weight);
+    font-style: normal;
+  }
+
+  h1, .soustitre {
+    min-width: fit-content;  
+    line-height: 1.6ch;
+    text-shadow: 4px 4px var(--background);
+    transition: text-shadow 0.3s ease-in-out;
+  }
+
+  h1 a {
+    text-decoration: none;
+    transition: text-shadow 0.3s ease-in-out;	
+  }
+
+  h1:hover {
+    text-shadow: -4px 4px var(--background);	
+  }
+  
 }

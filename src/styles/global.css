@@ -127,8 +127,8 @@ ul {
 }
 
 li {
-	font-weight: 700;
-    list-style: none;
+	font-weight: 700; 
+  list-style: none;
 }
 
 p {
@@ -337,7 +337,9 @@ body .main {
 	        align-items: center;
 	gap: 3vh;
 }
-
+header {
+  width:inherit;
+}
 
 .cta {
 	padding: 0 8px;
@@ -515,9 +517,7 @@ body nav.to-top {
   }
 }
 
-
-
-nav .to-small-menu {
+nav.to-top .to-small-menu {
 	position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%) translateY(13vh);

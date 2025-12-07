@@ -1,32 +1,17 @@
 ---
-import Footer from '../components/Footer.astro';
+// import Footer from '../components/Footer.astro';
+// import Header from '../components/Header.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
 import '../styles/global.css';
-import Header from '../components/Header.astro';
 const pageTitle = "Le blogax";
 ---
-<html lang="fr">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>	
-        <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Londrina+Shadow&family=Special+Elite&family=Trade+Winds&family=VT323&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Jersey+25&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Londrina+Shadow&family=Special+Elite&family=Trade+Winds&family=VT323&display=swap" rel="stylesheet">
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-    </head>
-    <body>
-        <Header/>
 
-        <h1>{pageTitle}</h1>
-        <p>Voici où je vais publier mon parcours d'apprentissage d'Astro.</p>
-        <ul>
-            <li><a href="/posts/post-1/">Article 1</a></li>
-            <li><a href="/posts/post-2/">Article 2</a></li>
-            <li><a href="/posts/post-3/">Article 3</a></li>
-
-        </ul>
-        <Footer/>
-    </body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+    <p class="page-titre to-small-titre">{pageTitle}</p>
+    <p>Voici où je vais publier mon parcours d'apprentissage d'Astro.</p>
+    <ul>
+        <li><a href="/posts/post-1/">Article 1</a></li>
+        <li><a href="/posts/post-2/">Article 2</a></li>
+        <li><a href="/posts/post-3/">Article 3</a></li>
+    </ul>
+</BaseLayout>

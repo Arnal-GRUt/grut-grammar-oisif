@@ -211,6 +211,7 @@ p a {
 	font-style: italic;	
 }
 
+
 *:is(li, p):not(.cta) a {	
 	text-decoration: none;
 	-webkit-transition: -webkit-text-decoration 0.2s ease;

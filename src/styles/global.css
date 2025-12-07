@@ -86,35 +86,6 @@ html {
 /*************************************************/
 
 /******************** Styles de la navigation ********************/
-/* .menu {
-  background-color: #0d0950;
-  border: none;
-  color: #fff; 
-  font-weight: bold;
-  padding: 4px 8px;
-  border-radius: 8px;
-}
-
-.nav-links {
-  width: 100%;
-  display: none;
-  margin: 0;
-  padding: 8px;
-}
-
-.nav-links a {
-  display: block;
-  text-align: center;
-  padding: 4px 0;
-  text-decoration: none;
-  font-size: 1rem;
-  transition: transform 0.2s ease-in-out;
-}
-
-.nav-links a:is(:hover, :focus) {
-  transform: translateY(-5px);
-  filter: grayscale(1)
-}
 
 :has(.menu[aria-expanded="true"]) .nav-links {
   display: unset;
@@ -138,7 +109,7 @@ p {
   font-style: normal;
 }
 
-h1, .soustitre {
+.page-titre, .soustitre {
   min-width: -webkit-fit-content;
   min-width: -moz-fit-content;
   min-width: fit-content;  
@@ -149,14 +120,14 @@ h1, .soustitre {
   transition: text-shadow 0.3s ease-in-out;
 }
 
-h1 a {
+.page-titre a {
   text-decoration: none;
   -webkit-transition: text-shadow 0.3s ease-in-out;
   -o-transition: text-shadow 0.3s ease-in-out;
   transition: text-shadow 0.3s ease-in-out;	
 }
 
-h1:hover {
+.page-titre:hover {
 	text-shadow: -4px 4px var(--background);	
 }
 
@@ -268,7 +239,8 @@ li:not(.cta):hover a::after {
 	width: 100%;	
 }
 
-h1, h1 a, .soustitre, h2, ul li a, .cta a, ul li, .to-home {
+/* h1, h1 a, *.page-titre, *.page-titre a .soustitre, h2, ul li a, .cta a, ul li, .to-home { */
+.page-titre, .page-titre a .soustitre, h2, ul li a, .cta a, ul li, .to-home {
   font-family: "Chelsea Market", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -414,8 +386,10 @@ header {
         justify-self: center;
     position: sticky;
     top: 0;	
-    -o-object-fit: cover;	
-       object-fit: cover;	
+    /* -o-object-fit: cover;	
+       object-fit: cover;    */
+	-o-object-fit: contain;	
+       object-fit: contain;	
 	background: var(--yellow);
 		
 	view-timeline-axis: block;
@@ -502,8 +476,7 @@ body nav.to-top {
         -ms-transform: translateX(-50%);
             transform: translateX(-50%);
     width: auto;
-    text-wrap: nowrap;
-	
+    text-wrap: nowrap;	
 	padding-bottom: 8px;
 	view-timeline-name: --to-small;
     view-timeline-axis: block;
@@ -517,7 +490,7 @@ body nav.to-top {
   }
 }
 
-nav.to-top .to-small-menu {
+body nav.to-top .to-small-menu {
 	position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%) translateY(13vh);

@@ -86,7 +86,7 @@ html {
 /*************************************************/
 
 /******************** Styles de la navigation ********************/
-
+/* 
 :has(.menu[aria-expanded="true"]) .nav-links {
   display: unset;
 } */

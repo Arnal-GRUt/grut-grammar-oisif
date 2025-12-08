@@ -3,6 +3,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 const { pageTitle } = Astro.props;
+// const pageTitle ="Grammar Oisif";
 
 ---
 <html lang="fr">
@@ -16,7 +17,7 @@ const { pageTitle } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <Header />
+    <Header/>
     <div class="main">
       <div class="image-container">
 			  <img class="image-reveal" src='../src/img/logo-grut-point.svg' alt="test"/> 

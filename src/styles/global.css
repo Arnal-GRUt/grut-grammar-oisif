@@ -24,6 +24,7 @@
     interpolate-size: allow-keywords;
   }
 }
+
 body {
   /* 4. Add accessible line-height */
   line-height: 1.5;
@@ -69,8 +70,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 html {
-	background-color: var(--background);
+  background-color: var(--background);
   font-family: sans-serif;
+  font-size: 18px;
 }
 
 * {
@@ -106,7 +108,7 @@ p {
   font-family: "Libre Franklin", sans-serif;
   font-optical-sizing: auto;
   font-weight: var(--weight);
-  font-style: normal;
+  font-style: normal;  
 }
 
 .page-titre, .soustitre {
@@ -132,11 +134,11 @@ p {
 }
 
 .soustitre {
-	font-size: 24px;
+	font-size: 1.5rem;
 }
 
 h2 {
-   font-size: 32px;
+   font-size: 2rem;
 }
 
 div.display-flex {

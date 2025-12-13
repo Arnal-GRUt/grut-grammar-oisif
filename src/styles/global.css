@@ -390,9 +390,9 @@ header {
     position: sticky;
     top: 0;	
     /* -o-object-fit: cover;	
-       object-fit: cover;    */
+       object-fit: cover;
 	-o-object-fit: contain;	
-       object-fit: contain;	
+       object-fit: contain; */	
 	background: var(--yellow);
 		
 	view-timeline-axis: block;

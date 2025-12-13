@@ -1,13 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "Chez GRUt·";
+const Background ="../../src/images/route-grut.png";
 ---
 <BaseLayout pageTitle={pageTitle}>
   <div class="main">
       <div class="image-container">
         <img
           class="image-reveal"
-          src="../../src/images/route-grut.png"
+          src={Background}
           alt="test"
         />
         <div class="carton-texte"></div>

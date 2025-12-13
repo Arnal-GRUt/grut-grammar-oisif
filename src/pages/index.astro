@@ -4,6 +4,17 @@ const pageTitle = "Chez GRUt·";
 ---
 <BaseLayout pageTitle={pageTitle}>
   <div class="main">
+      <div class="image-container">
+        <img
+          class="image-reveal"
+          src="../../src/images/route-grut.png"
+          alt="test"
+        />
+        <div class="carton-texte"></div>
+      </div>
+      <slot />
+    </div>
+  <div class="main">
 		<div class="main-text">
 			<div class="display-flex direction-row">
 				<div class="display-flex direction-column ">

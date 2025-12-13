@@ -1,5 +1,5 @@
 ---
-import HeaderPage from "../components/HeaderPage.astro";
+import Header from "../components/HeaderPage.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 const { pageTitle } = Astro.props;
@@ -24,7 +24,7 @@ const { pageTitle } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <HeaderPage />
+    <Header />
     <slot />
     <Footer />
     <script>

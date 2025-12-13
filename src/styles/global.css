@@ -105,10 +105,10 @@ li {
 }
 
 p {
-  font-family: "Libre Franklin", sans-serif;
+  font-family: "Libre Baskerville", serif;
   font-optical-sizing: auto;
-  font-weight: var(--weight);
-  font-style: normal;  
+  font-weight: regular;
+  font-style: normal;
 }
 
 .page-titre, .soustitre {

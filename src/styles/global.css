@@ -511,6 +511,7 @@ header {
 
 
 /* Autres pages que la home */
+.image-hero-article,
 .image-container img.image-reveal {
     min-width: 100vw;
     height: 160px;

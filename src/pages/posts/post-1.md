@@ -5,13 +5,17 @@ pubDate: 2022-07-01
 description: "Il s'agit du premier article de mon nouveau blog Astro."
 author: 'Apprenti Astro'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: "Le logo Astro sur un fond sombre avec une lueur rose."
+    url: '../../src/images/route-grut.png'
+    alt: "crowbar de paysage urbain"
 tags: ["astro", "blogging", "apprentissage en public"]
 ---
 # Mon premier article de blog
 
 Bienvenue sur mon _nouveau blog_ dédié à l'apprentissage d'Astro ! Ici, je vais partager mon parcours d'apprentissage en créant un nouveau site web.
+
+### Le lorem ipsum à travers les âges
+On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes).
+
 
 ## Ce que j'ai accompli
 

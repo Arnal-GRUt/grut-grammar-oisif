@@ -21,5 +21,6 @@ const Background ="../../src/images/route-grut.png";
     <p>Voici où je vais publier mon parcours d'apprentissage d'Astro.</p>
     <ul>
       {allPosts.map((post: any) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
+      <!-- {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)} -->
     </ul>
 </BaseLayout>

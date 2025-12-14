@@ -1,28 +1,11 @@
 ---
+import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props;
-import "../styles/global.css";
-
 ---
- <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Londrina+Shadow&family=Special+Elite&family=Trade+Winds&family=VT323&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Jersey+25&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Londrina+Shadow&family=Special+Elite&family=Trade+Winds&family=VT323&display=swap"
-      rel="stylesheet"
-    />
-    <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-  </head>
-  <body>
-<h1>{frontmatter.title}</h1>
-<p>{frontmatter.pubDate.toString().slice(0,10)}</p>
-<p><em>{frontmatter.description}</em></p>
-<p>Écrit par : {frontmatter.author}</p>
-<img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
-<slot />
-</body>
+<BaseLayout pageTitle={frontmatter.title}>
+  <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
+  <p><em>{frontmatter.description}</em></p>
+  <p>Écrit par : {frontmatter.author}</p>
+  <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
+  <slot />
+</BaseLayout>

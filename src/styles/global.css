@@ -227,7 +227,7 @@ p a {
 	}	
 }
 body div p a::after,
-li:not(.cta):hover a::after {
+li:not(.cta):is(:hover, :focus) a::after {
 	width: 100%;	
 }
 

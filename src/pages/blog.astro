@@ -2,7 +2,7 @@
 /* import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro'; */
 import BaseLayout from "../layouts/BaseLayout.astro";
-import '../styles/global.css';
+const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
 const pageTitle = "Le-blogax";
 const Background ="../../src/images/route-grut.png";
 
@@ -20,8 +20,6 @@ const Background ="../../src/images/route-grut.png";
     </div>
     <p>Voici où je vais publier mon parcours d'apprentissage d'Astro.</p>
     <ul>
-        <li><a href="/posts/post-1/">Article 1</a></li>
-        <li><a href="/posts/post-2/">Article 2</a></li>
-        <li><a href="/posts/post-3/">Article 3</a></li>
+      {allPosts.map((post: any) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
     </ul>
 </BaseLayout>

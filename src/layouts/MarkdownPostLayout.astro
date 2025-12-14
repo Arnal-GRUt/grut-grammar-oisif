@@ -4,7 +4,7 @@ const { frontmatter } = Astro.props;
 ---
 <BaseLayout pageTitle={frontmatter.title}>
   <img class="image-hero-article" src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
-  <div>
+  <div class="contexte">
     <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
     <p><em>{frontmatter.description}</em></p>
     <p>Écrit par : {frontmatter.author}</p>

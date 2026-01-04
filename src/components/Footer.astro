@@ -2,17 +2,47 @@
 import Social from "./Social.astro";
 ---
 
-<style>
-  footer {
-    display: flex;
-    gap: 1rem;
-    margin-top: 2rem;
-    height: 10vh;
-    background: color-mix(in srgb, lightgrey 50%, transparent 50%);
-    padding: 16px;
-  }
-</style>
-<footer>
-  <Social platform="instagram" username="grut_point" />
-  <Social platform="github" username="Arnal-GRUt" />
+<footer class="display-flex direction-column">
+	<p class="accroche">Me suivre, me contacter</p>
+	<ul class="navigation">
+		<Social
+			platform="instagram"
+			username="grut_point"
+			icon_rs="icon-insta"
+		/>
+		<Social
+			platform="facebook"
+			username="GRUt.artwork"
+			icon_rs="icon-fbook"
+		/>
+		<li>
+			<div class="cta">
+				<a href="mailto:reverendgrut@hotmail.com">Le mail du gars</a>
+			</div>
+		</li>
+	</ul>
+	<p class="display-flex mentions-legales">
+		All works are licensed under<a
+			href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
+			>CC BY-NC-ND 4.0</a
+		><span
+			><img
+				src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+				alt=""
+				style="max-width: 1em;max-height:1em;margin-left: .2em;"
+			/><img
+				src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+				alt=""
+				style="max-width: 1em;max-height:1em;margin-left: .2em;"
+			/><img
+				src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"
+				alt=""
+				style="max-width: 1em;max-height:1em;margin-left: .2em;"
+			/><img
+				src="https://mirrors.creativecommons.org/presskit/icons/nd.svg"
+				alt=""
+				style="max-width: 1em;max-height:1em;margin-left: .2em;"
+			/></span
+		>
+	</p>
 </footer>

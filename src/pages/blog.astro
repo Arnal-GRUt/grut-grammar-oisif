@@ -2,7 +2,7 @@
 /* import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro'; */
 import BaseLayout from "../layouts/BaseLayout.astro";
-const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
+const allPosts = Object.values(import.meta.blog('./posts/*.md', { eager: true }));
 const pageTitle = "Le-blogax";
 const Background ="../../src/images/route-grut.png";
 

@@ -1,19 +1,15 @@
 ---
+import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "Chez-GRUt";
-const Background ="../../src/images/route-grut-2.png";
+import Background from '../images/grut-ville-2-1.png';
+
 ---
 <BaseLayout pageTitle={pageTitle}>
-	<!-- <div class="carton-texte">
-		<p>Portfolio & tutti quanti</p>
-	</div> -->
 	<div class="main">
       <div class="image-container">
-        <img
-          class="image-reveal"
-          src={Background}
-          alt="test"
-        />
+        <!-- <img class="image-reveal" src={Background} alt="crowbar d'une ville et d'une tour en arrière plan" /> -->
+        <Image class="image-reveal" src={Background} alt="crowbar d'une ville et d'une tour en arrière plan" />
     </div>
   </div>
   <div class="main-text display-flex direction-row">
@@ -34,14 +30,14 @@ const Background ="../../src/images/route-grut-2.png";
 					</div>
 					<div class="dernier-texte display-flex direction-row">
 						<div class="box">
-							<div class="info-texte">
+							<article>
 								<input type="date" id="start" name="trip-start" value="2018-07-22" min="2018-01-01"
 									max="2018-12-31" />
 								<p class="titre-texte">Lorem ipsum, consectetur adipiscing elit</p>
 								<p>Début du texte plus 3 petits points, donec euismod turpis non urna auctor sagittis.
 									Nulla facilisi. Suspendisse tempor elit urna [...]</p>
-							</div>
-							<div class="cta"><a href="./ecritouille.astro">C'est par ici</a></div>
+							</article>
+							<div class="cta"><a href="/ecritouille/">C'est par ici</a></div>
 						</div>
 					</div>
 				</div>
@@ -53,7 +49,7 @@ const Background ="../../src/images/route-grut-2.png";
 						consectetur adipiscing elit. Donec euismod turpis non urna auctor sagittis. Nulla facilisi.
 						Suspendisse tempor elit urna, a ultrices enim convallis in.
 					</p>
-					<div class="cta"><a href="./gribouille.astro">C'est par là</a></div>
+					<div class="cta"><a href="/gribouille/">C'est par là</a></div>
 				</div>
 			</div>
 			<div class="redirection-card-webouille">
@@ -64,7 +60,7 @@ const Background ="../../src/images/route-grut-2.png";
 						Suspendisse tempor elit urna, a ultrices enim convallis in.
 					</p>
 				</div>
-				<div class="cta"><a href="./webouille.astro">Click ici</a></div>
+				<div class="cta"><a href="/webouille/">Click ici</a></div>
 			</div>
 		</div>
 	</div>

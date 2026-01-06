@@ -2,11 +2,12 @@
 const { title, url } = Astro.props;
 ---
 
-<div class="info-texte">
+<!-- <div class="info-texte"> -->
+<article>
     <input
         type="date"
         id="start"
-        name="trip-start"
+        name="Publication"
         value="2018-07-22"
         min="2018-01-01"
         max="2018-12-31"
@@ -18,4 +19,5 @@ const { title, url } = Astro.props;
         <li>#test catégories</li>
     </ul>
     <a href={url}></a>
-</div>
+</article>
+<!-- </div> -->

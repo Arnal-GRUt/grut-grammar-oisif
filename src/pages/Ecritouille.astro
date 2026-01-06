@@ -4,7 +4,7 @@ import BlogPost from "../components/BlogPost.astro";
 const allPosts = Object.values(
   import.meta.glob("./posts*.md", { eager: true }),
 );
-const pageTitle = "l'écritouille";
+const pageTitle = "Ecritouille";
 // const pageEcritouille : "Écritouille";
 // const Background ="../../src/images/route-grut.png";
 ---
@@ -17,7 +17,7 @@ const pageTitle = "l'écritouille";
         allPosts.map((post: any) => (
           <BlogPost url={post.url} title={post.frontmatter.title} />
         ))
-      }
+      }    
     </div>
   </div>
   <div class="display-flex direction-column contenu-texte">

@@ -651,7 +651,7 @@ body .display-flex.direction-row.redirection-col {
 
 /* body#ecritouille .redirection-card-ecritouille .box .info-texte {	 */
 /* body#ecritouille .tous-les-textes .box .info-texte {	 */
-body .tous-les-textes .box .info-texte {	
+html#ecritouille body .tous-les-textes .box .info-texte {	
 	border-bottom: 2px dashed var(--white);
 	
 	&::hover a {
@@ -1018,7 +1018,7 @@ body *.to-small-titre:before {
 /******************************************/
 
 /* body:is(#gribouille, #ecritouille, #about) { */
-body:is(#Gribouille, #Écritouille, #About) {
+html:is(#gribouille, #ecritouille, #about) body {
 	background: var(--background);
 	position: relative;
 
@@ -1583,7 +1583,7 @@ ul.categories li {
 }
 
 @media (width < 1081px) {
-	body#ecritouille .main-text {
+	html#ecritouille body .main-text {
 		flex-direction: column;
 		max-width: 100vw;
 		align-items: center;

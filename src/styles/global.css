@@ -1018,7 +1018,7 @@ body *.to-small-titre:before {
 /******************************************/
 
 /* body:is(#gribouille, #ecritouille, #about) { */
-html:is(#gribouille, #ecritouille, #about) body {
+html:is(#Gribouille, #Ecritouille, #About) body {
 	background: var(--background);
 	position: relative;
 

@@ -1,25 +1,12 @@
 ---
-const { platform, username } = Astro.props;
-
+const { platform, username, icon_rs } = Astro.props;
 ---
-<a href={`https://www.${platform}.com/${username}`}>{platform}</a>
 
-<style>
-  a {
-    text-decoration: none;
-    transition: filter 0.2s ease-in-out;
-    font-size: 0.8rem;
-    padding-right: 1rem;
-    
-    &::before {
-      content: "🔗";
-      padding-right: 0.5rem;
-    }
-
-    &:hover {
-        filter: grayscale(90%);
-        border-bottom: 1px solid grey;
-    }
-  }
-
-</style>
+<!-- <a href={`https://www.${platform}.com/${username}`}>{platform}</a> -->
+<li>
+  <div class="cta">
+    <a href={`https://www.${platform}.com/${username}`}>
+      <div class={`${icon_rs}`}></div>{username}
+    </a>
+  </div>
+</li>

@@ -1,17 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-const pageTitle = "About-moi";
+const pageTitle = "About";
 const skillColor = "crimson";
 const fontWeight = "bold";
 const textCase = "uppercase";
-const Background ="../../src/images/route-grut.png";
-
+const Background = "../../src/images/route-grut.png";
 
 const identity = {
   firstName: "Arnal GRUt.",
   country: "Fronccceeee",
   occupation: "Web-dé",
-  hobbies: ["gribouille", "écritouille", "jeudrôlisme"]
+  hobbies: ["gribouille", "écritouille", "jeudrôlisme"],
 };
 
 const skills = ["HTML", "CSS", "Astro", "Rédaction de documentation"];
@@ -21,16 +20,7 @@ const goal = 3;
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-    <div class="main">
-      <div class="image-container">
-        <img
-          class="image-reveal"
-          src={Background}
-          alt="test"
-        />
-      </div>
-  </div>
-  <style define:vars={{ skillColor, fontWeight, textCase }}>    
+  <style define:vars={{ skillColor, fontWeight, textCase }}>
     h1 {
       color: purple;
       font-size: 4rem;
@@ -41,20 +31,29 @@ const goal = 3;
       text-transform: var(--textCase);
     }
   </style>
-    <h2>... et de mon nouveau site Astro !</h2>
+  <h2>... et de mon nouveau site Astro !</h2>
 
-    <p>Voici quelques faits me concernant :</p>
-    <ul>
-      <li>Je m'appelle {identity.firstName}.</li>
-      <li>Je vis en {identity.country} et je travaille en tant que {identity.occupation}.</li>
-      {identity.hobbies.length >= 2 &&
-        <li>Deux de mes loisirs sont : {identity.hobbies[0]} et {identity.hobbies[1]}</li>
-      }
-    </ul>
-    <p>Mes compétences sont :</p>
-    <ul>
-      {skills.map((skill) => <li class="skill">{skill}</li>)}
-    </ul>
+  <p>Voici quelques faits me concernant :</p>
+  <ul>
+    <li>Je m'appelle {identity.firstName}.</li>
+    <li>
+      Je vis en {identity.country} et je travaille en tant que {
+        identity.occupation
+      }.
+    </li>
+    {
+      identity.hobbies.length >= 2 && (
+        <li>
+          Deux de mes loisirs sont : {identity.hobbies[0]} et{" "}
+          {identity.hobbies[1]}
+        </li>
+      )
+    }
+  </ul>
+  <p>Mes compétences sont :</p>
+  <ul>
+    {skills.map((skill) => <li class="skill">{skill}</li>)}
+  </ul>
   <h2>... et de mon nouveau site Astro !</h2>
 
   <p>

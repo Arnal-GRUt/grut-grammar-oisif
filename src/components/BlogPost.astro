@@ -1,0 +1,23 @@
+---
+const { title, url } = Astro.props;
+---
+
+<!-- <div class="info-texte"> -->
+<article>
+    <input
+        type="date"
+        id="start"
+        name="Publication"
+        value="2018-07-22"
+        min="2018-01-01"
+        max="2018-12-31"
+    />
+    <p class="titre-texte">{title}</p>
+    <ul class="categories">
+        <li>#test catégories</li>
+        <li>#test catégories</li>
+        <li>#test catégories</li>
+    </ul>
+    <a href={url}></a>
+</article>
+<!-- </div> -->

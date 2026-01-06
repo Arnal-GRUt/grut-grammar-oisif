@@ -29,6 +29,7 @@ body {
 }
 
 /* 6. Improve media defaults */
+Image,
 img,
 picture,
 video,
@@ -127,7 +128,7 @@ p a {
 	font-style: italic;
 }
 
-*:not(.cta, .info-texte, *.to-small-titre, li.about)>a {
+*:not(.cta, .info-texte, article, *.to-small-titre, li.about)>a {
 	text-decoration: none;
 	transition: text-decoration 0.2s ease;
 	position: relative;
@@ -182,8 +183,8 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 	font-size: 0.8rem;
 }
 
-h1,
 /* h1 a, */
+h1,
 *.to-small-titre a,
 .soustitre,
 h2,
@@ -498,7 +499,7 @@ body .display-flex.direction-row.redirection-col {
 	}
 }
 
-/* [class*="redirection-card"] img { */
+/* [class*="redirection-card"] Image { */
 	/* height: fit-content; */
 	/* flex-grow: 1; */
 	/* object-fit: cover; */
@@ -651,7 +652,7 @@ body .display-flex.direction-row.redirection-col {
 
 /* body#ecritouille .redirection-card-ecritouille .box .info-texte {	 */
 /* body#ecritouille .tous-les-textes .box .info-texte {	 */
-html#ecritouille body .tous-les-textes .box .info-texte {	
+html#ecritouille body .tous-les-textes .box article {	
 	border-bottom: 2px dashed var(--white);
 	
 	&::hover a {
@@ -1153,6 +1154,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 				position: relative;
 			
 				& img {
+				/* & Image { */
 					max-height: 50vh;
 					width: 100vw;
 					object-fit: cover;
@@ -1166,11 +1168,13 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		overflow: hidden;
 
 		& img {
+		/* & Image { */
 			filter: grayscale(80%);
 			transition: all 0.2s ease;
 		}
 		
 		&:hover img {
+		/* &:hover Image { */
 			filter: none;
 			transform: scale(1.005);
 			overflow: visible;
@@ -1259,7 +1263,8 @@ ul.categories li {
 	font-family: "Source Serif 4", serif;
 }
 
-.info-texte {
+/* .info-texte { */
+article {
 	gap: 1.1ch;
 	display: flex;
 	flex-direction: column;
@@ -1291,7 +1296,8 @@ ul.categories li {
 	}
 }
 
-.info-texte a {
+/* .info-texte a { */
+article a {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -1541,9 +1547,11 @@ ul.categories li {
 			overflow: hidden;
 
 			& img {
+			/* & Image { */
 				filter: none;				
 			}
 			&:hover img {
+			/* &:hover Image { */
 				transform: scale(1);
 			}
 					

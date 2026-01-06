@@ -576,25 +576,6 @@ body .display-flex.direction-row.redirection-col {
 	background: transparent;
 }
 
-/* 
-.redirection-card-gribouille {
-	transition: background 0.2s ease;
-
-	
-	& *:is(h2,p) {
-		background-color: var(--white);
-	}
-	
-	& h2 {
-		transform: rotate(-2deg);
-	}
-	
-	& p {
-		transform: translateX(6vw) rotate(3deg);
-	}
-} */
-
-
 /* Section écritouille */
 .redirection-card-ecritouille {
     align-items: flex-start;
@@ -615,7 +596,6 @@ body .display-flex.direction-row.redirection-col {
         margin: auto;
 		max-width:75vw;
 		align-items: center;
-
 	}
 }
 
@@ -1649,9 +1629,9 @@ article a {
 		& .display-flex.direction-row {
 			flex-wrap: wrap;
 			flex-direction: row;
-
+/* 
 			& .presentation.display-flex.direction-column {
-			}
+			} */
 
 			& .dernier-texte {
 				width: 70%;

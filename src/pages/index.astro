@@ -1,19 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "Chez-GRUt";
-const Background ="../../src/images/grut-ville-2-1.png";
+const Background = "/src/images/grut-ville-2-1.png";
 ---
 <BaseLayout pageTitle={pageTitle}>
-	<!-- <div class="carton-texte">
-		<p>Portfolio & tutti quanti</p>
-	</div> -->
 	<div class="main">
       <div class="image-container">
-        <img
-          class="image-reveal"
-          src={Background}
-          alt="test"
-        />
+        <img class="image-reveal" src={Background} alt="crowbar d'une ville et d'une tour en arrière plan" />
     </div>
   </div>
   <div class="main-text display-flex direction-row">
@@ -41,7 +34,7 @@ const Background ="../../src/images/grut-ville-2-1.png";
 								<p>Début du texte plus 3 petits points, donec euismod turpis non urna auctor sagittis.
 									Nulla facilisi. Suspendisse tempor elit urna [...]</p>
 							</div>
-							<div class="cta"><a href="/ecritouille.astro">C'est par ici</a></div>
+							<div class="cta"><a href="/ecritouille/">C'est par ici</a></div>
 						</div>
 					</div>
 				</div>
@@ -53,7 +46,7 @@ const Background ="../../src/images/grut-ville-2-1.png";
 						consectetur adipiscing elit. Donec euismod turpis non urna auctor sagittis. Nulla facilisi.
 						Suspendisse tempor elit urna, a ultrices enim convallis in.
 					</p>
-					<div class="cta"><a href="/gribouille.astro">C'est par là</a></div>
+					<div class="cta"><a href="/gribouille/">C'est par là</a></div>
 				</div>
 			</div>
 			<div class="redirection-card-webouille">
@@ -64,7 +57,7 @@ const Background ="../../src/images/grut-ville-2-1.png";
 						Suspendisse tempor elit urna, a ultrices enim convallis in.
 					</p>
 				</div>
-				<div class="cta"><a href="/webouille.astro">Click ici</a></div>
+				<div class="cta"><a href="/webouille/">Click ici</a></div>
 			</div>
 		</div>
 	</div>

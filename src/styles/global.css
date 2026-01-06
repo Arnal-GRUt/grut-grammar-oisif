@@ -650,7 +650,8 @@ body .display-flex.direction-row.redirection-col {
 }
 
 /* body#ecritouille .redirection-card-ecritouille .box .info-texte {	 */
-body#ecritouille .tous-les-textes .box .info-texte {	
+/* body#ecritouille .tous-les-textes .box .info-texte {	 */
+body .tous-les-textes .box .info-texte {	
 	border-bottom: 2px dashed var(--white);
 	
 	&::hover a {
@@ -1016,7 +1017,8 @@ body *.to-small-titre:before {
 /************* Autres pages ***************/
 /******************************************/
 
-body:is(#gribouille, #ecritouille, #about) {
+/* body:is(#gribouille, #ecritouille, #about) { */
+body:is(#Gribouille, #Écritouille, #About) {
 	background: var(--background);
 	position: relative;
 

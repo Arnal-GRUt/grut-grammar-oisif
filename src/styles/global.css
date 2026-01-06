@@ -82,8 +82,7 @@ h6 {
 
 :root {
 	--yellow: #f3bd22;
-	--black: #000000;
-	/* --black: #050315; */
+	--black: #000000;	
 	--white: #ffffff;
 	--background: #eeeadb;
 	--animStart: 150vh;
@@ -524,7 +523,9 @@ body .display-flex.direction-row.redirection-col {
 	background: url(../images/homonde-Fork-2020-to-2023-v2.png);
     background-size: 50%;
     background-position: center;	
-	
+	transition: background 0.4s ease;
+
+
 	&::after {
 		content: "";
 		position: absolute;
@@ -535,7 +536,15 @@ body .display-flex.direction-row.redirection-col {
 		background: var(--background);
 		mix-blend-mode: color;
 		z-index: -1;
+		transition: opacity 1.5s ease;
 	}
+	
+	&:has(.cta:hover):after {
+		opacity: 0;	
+	}
+	&:hover:has(.cta:hover) {
+		background-size: 51%;
+	}	
 
 	&:before {
 		content: "[Nom de l'image] - [date/date/date]";
@@ -544,25 +553,8 @@ body .display-flex.direction-row.redirection-col {
 		right: 5%;
 		background: var(--white);
 		padding: 2px;
-
 	}	
-}
 
-.redirection-card-gribouille .display-flex.direction-column {
-	width: 100%;
-    max-width: 500px;	
-	gap: var(--gap-24);
-	padding: 24px;
-	background: transparent;
-}
-
-.redirection-card-gribouille {
-	transition: background 0.2s ease;
-	
-	&:hover {	
-		background-size: 51%;
-	}
-	
 	& *:is(h2,p) {
 		background-color: var(--white);
 	}
@@ -575,6 +567,32 @@ body .display-flex.direction-row.redirection-col {
 		transform: translateX(6vw) rotate(3deg);
 	}
 }
+
+.redirection-card-gribouille .display-flex.direction-column {
+	width: 100%;
+    max-width: 500px;	
+	gap: var(--gap-24);
+	padding: 24px;
+	background: transparent;
+}
+
+/* 
+.redirection-card-gribouille {
+	transition: background 0.2s ease;
+
+	
+	& *:is(h2,p) {
+		background-color: var(--white);
+	}
+	
+	& h2 {
+		transform: rotate(-2deg);
+	}
+	
+	& p {
+		transform: translateX(6vw) rotate(3deg);
+	}
+} */
 
 
 /* Section écritouille */

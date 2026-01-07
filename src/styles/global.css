@@ -188,7 +188,7 @@ h1,
 .soustitre,
 h2,
 h3,
-ul:not(.liste-contraintes) li a,
+ul:not(.liste-contraintes, .tags) li a,
 .cta a,
 ul li,
 .to-home,
@@ -657,7 +657,7 @@ html#ecritouille body .tous-les-textes .box article {
 		background-color: color-mix(in srgb, var(--background), 60%, transparent);
 		transform: translateX(-1rem);
 	}
-	& *:is(p, input#start) {
+	& *:is(p, p.date-publication, input#start) {
 
 		&.titre-texte {
 			font-size: 1rem;
@@ -1279,7 +1279,8 @@ article {
 		transform: translateX(-0.5rem);
 	}
 
-	& input#start {
+	/* & input#start { */
+	& p.date-publication {
 		background: transparent;
 		border: none;
 		font-size: 0.8rem;
@@ -1615,6 +1616,10 @@ article a {
 			}
 
 			& input#start {
+				width: fit-content;
+			}
+			
+			& p.date-publication {
 				width: fit-content;
 			}
 		}

@@ -2,7 +2,7 @@
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
-const { pageTitle, cartonTexte } = Astro.props;
+const { pageTitle } = Astro.props;
 ---
 
 <html lang="fr" id={pageTitle}>
@@ -24,7 +24,8 @@ const { pageTitle, cartonTexte } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <Header pageTitle={pageTitle} , cartonTexte={cartonTexte} />
+    <!-- <Header pageTitle={pageTitle} , cartonTexte={cartonTexte} /> -->
+    <Header />
     <slot />
     <Footer />
   </body>

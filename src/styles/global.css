@@ -427,13 +427,14 @@ body .main {
 .carton-texte {
 	content: "";
 	position: absolute;
-	top: 5vh;
+	top: 20vh;
 	width: 100%;
 	min-width: auto;
 	height: auto;
 	padding: 32px 0;
 	display: flex;
 	justify-content: center;
+	z-index: 2;
 
 	view-timeline-name: --to-opacity-0;
 	view-timeline-axis: block;
@@ -1469,7 +1470,7 @@ article a {
 		animation-range-end: 120vh;
 		padding: 24px 0;
 		left: 10vw;
-		z-index: 0;
+		z-index: 2;
 
 		& p {
             font-size: 3.2rem;

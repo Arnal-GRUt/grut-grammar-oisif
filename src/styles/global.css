@@ -188,7 +188,7 @@ h1,
 .soustitre,
 h2,
 h3,
-ul:not(.liste-contraintes) li a,
+ul:not(.liste-contraintes, .tags) li a,
 .cta a,
 ul li,
 .to-home,
@@ -443,8 +443,8 @@ body .main {
 	animation-range-end: 250vh;
 
 	& p {
-		font-size: 3rem;
-		padding: 16px 0;
+        font-size: 4rem;
+        padding: 32px 0;        
 	}
 }
 
@@ -576,25 +576,6 @@ body .display-flex.direction-row.redirection-col {
 	background: transparent;
 }
 
-/* 
-.redirection-card-gribouille {
-	transition: background 0.2s ease;
-
-	
-	& *:is(h2,p) {
-		background-color: var(--white);
-	}
-	
-	& h2 {
-		transform: rotate(-2deg);
-	}
-	
-	& p {
-		transform: translateX(6vw) rotate(3deg);
-	}
-} */
-
-
 /* Section écritouille */
 .redirection-card-ecritouille {
     align-items: flex-start;
@@ -615,7 +596,6 @@ body .display-flex.direction-row.redirection-col {
         margin: auto;
 		max-width:75vw;
 		align-items: center;
-
 	}
 }
 
@@ -677,7 +657,7 @@ html#ecritouille body .tous-les-textes .box article {
 		background-color: color-mix(in srgb, var(--background), 60%, transparent);
 		transform: translateX(-1rem);
 	}
-	& *:is(p, input#start) {
+	& *:is(p, p.date-publication, input#start) {
 
 		&.titre-texte {
 			font-size: 1rem;
@@ -1299,7 +1279,8 @@ article {
 		transform: translateX(-0.5rem);
 	}
 
-	& input#start {
+	/* & input#start { */
+	& p.date-publication {
 		background: transparent;
 		border: none;
 		font-size: 0.8rem;
@@ -1637,6 +1618,10 @@ article a {
 			& input#start {
 				width: fit-content;
 			}
+			
+			& p.date-publication {
+				width: fit-content;
+			}
 		}
 	}
 	
@@ -1649,9 +1634,9 @@ article a {
 		& .display-flex.direction-row {
 			flex-wrap: wrap;
 			flex-direction: row;
-
+/* 
 			& .presentation.display-flex.direction-column {
-			}
+			} */
 
 			& .dernier-texte {
 				width: 70%;

@@ -5,28 +5,35 @@ const tags = [...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat
 const pageTitle = "Index des étiquettes";
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <div class="tags">
+  <ul class="tags">
     {tags.map((tag) => (
-      <p class="tag"><a href={`/tags/${tag}`}>{tag}</a></p>
+      <li class="tag"><a href={`/tags/${tag}`}>{tag}</a></li>
     ))}
-  </div>
+  </ul>
 </BaseLayout>
 <style>
-  a {
-    color: #00539F;
-  }
+ul.tags {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	gap: 0.5rem;
+	padding: 1ch 0;
+	flex-wrap: wrap;
 
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-  }
+	& li.tag {
+		font-size: 0.9rem;
+		font-weight: 400;
+		font-family: "Source Serif 4", serif;
+		padding: 0.5ch 1ch;
+		border-radius: 4px;
+		background-color: color-mix(in srgb, var(--background) 60%, transparent);
+		min-width: fit-content;
+		transition: background 0.3s ease;
 
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: .5em;
-    padding: .5em 1em;
-    font-size: 1.15em;
-    background-color: #F8FCFD;
-  }
+		&:hover {
+			background: var(--black);
+			color: var(--white);
+		}
+	}
+}
 </style>

@@ -9,15 +9,19 @@ image:
     alt: "crowbar de paysage urbain"
 tags: ["astro", "blogging", "apprentissage en public"]
 ---
-# Mon premier article de blog
+# MPremier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna auctor sagittis.
 
-Bienvenue sur mon _nouveau blog_ dédié à l'apprentissage d'Astro ! Ici, je vais partager mon parcours d'apprentissage en créant un nouveau site web.
+consectetur adipiscing elit. Donec euismod turpis non urna auctor sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec venenatis dui, in ornare leo. Sed auctor magna arcu, id tincidunt purus facilisis quis. [Phasellus vehicula eros quis ex faucibus](/gribouille/), ac pellentesque sem feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem vel vehicula. Integer eros justo, commodo id eros eget, aliquet pellentesque erat.
 
-### Le lorem ipsum à travers les âges
-On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte. Du texte. Du texte.' est qu'il possède une distribution de lettres plus ou moins normale, et en tout cas comparable avec celle du français standard. De nombreuses suites logicielles de mise en page ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de petits clins d'oeil, voire des phrases embarassantes).
+## Second chacha, on contenue etc. 
 
+consectetur adipiscing elit. Donec euismod turpis non urna auctor sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec venenatis dui, in ornare leo. Sed auctor magna arcu, id tincidunt purus facilisis quis. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem vel vehicula. Integer eros justo, commodo id eros eget, aliquet pellentesque erat.
 
-## Ce que j'ai accompli
+Fusce sed urna in dolor imperdiet efficitur nec vitae risus. Aenean id purus id dolor efficitur varius. Vivamus consequat nibh dolor, nec pellentesque nisi pulvinar vitae. Integer blandit molestie eros vel sagittis. Mauris nec iaculis ex, ut sodales enim. Vestibulum mattis gravida ante id hendrerit. Sed elementum enim in nisl mollis, et varius magna scelerisque. Integer tristique magna id purus luctus luctus.
+
+## Troisième chacha la fin de le test moche
+
+consectetur adipiscing elit. Donec euismod turpis non urna auctor sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec venenatis dui, in ornare leo. Sed auctor magna arcu, id tincidunt purus facilisis quis. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem vel vehicula. Integer eros justo, commodo id eros eget, aliquet pellentesque erat.
 
 1. **Installation d'Astro** : Tout d'abord, j'ai créé un nouveau projet Astro et configuré mes comptes en ligne.
 

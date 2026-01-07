@@ -1647,6 +1647,10 @@ article a {
 }
 
 @media (width < 1441px) {
+	.carton-texte {
+		top: 8vh;
+	}
+
 	.display-flex.direction-row.redirection-col {
 		flex-direction: column;
 	}

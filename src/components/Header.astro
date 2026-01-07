@@ -1,7 +1,7 @@
 ---
 // import Menu from './Menu.astro';
 import Navigation from "./Navigation.astro";
-const pageTitle = Astro.props;
+const { pageTitle, cartonTexte } = Astro.props;
 ---
 
 <header>
@@ -12,9 +12,9 @@ const pageTitle = Astro.props;
       </p>
       <Navigation />
       <div class="carton-texte">
-        <p>Portfolio & tutti quanti</p>
+        <!-- <p>Portfolio & tutti quanti</p> -->
+        <p>{cartonTexte}</p>
       </div>
     </div>
   </nav>
 </header>
-

@@ -443,8 +443,8 @@ body .main {
 	animation-range-end: 250vh;
 
 	& p {
-		font-size: 3rem;
-		padding: 16px 0;
+        font-size: 4rem;
+        padding: 32px 0;        
 	}
 }
 

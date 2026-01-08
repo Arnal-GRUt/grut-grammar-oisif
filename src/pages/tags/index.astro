@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-const allPosts = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
+const allPosts = await Astro.glob('./posts/*.md', { eager: true });
 const tags = [...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat())];
 const pageTitle = "Index des étiquettes";
 ---
@@ -12,7 +12,7 @@ const pageTitle = "Index des étiquettes";
   </ul>
 </BaseLayout>
 <style>
-ul.tags {
+/* ul.tags {
 	display: flex;
 	flex-direction: row;
 	width: 100%;
@@ -32,8 +32,8 @@ ul.tags {
 
 		&:hover {
 			background: var(--black);
-			color: var(--white);
+			color: var(--background);
 		}
 	}
-}
+} */
 </style>

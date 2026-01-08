@@ -795,7 +795,7 @@ footer .mentions-legales {
 .display-flex.direction-column.contenu-texte {
 	border-radius: 4px;
 	padding: 24px;
-	width: 75%;
+	/* width: 75%; */
 	background: var(--white);
 	max-width: 768px;
 }
@@ -1022,11 +1022,20 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	background: var(--background);
 	position: relative;
 
+	& h1.soustitre-page {
+		position: static;
+		margin-top: 80px;
+		width: 100%;
+		padding: 0 2vw;
+		font-size: clamp(2.6rem, 2.32rem + 1.4vw, 4rem);
+		background: var(--white);
+	}
+
 	& .main {
 		background: var(--background);
 		position: relative;
 		max-width: 1024px;
-		padding: 13vh 0 10vh 0;
+		padding: 3vh 0 10vh 0;
 	}
 	
 	/* & nav.to-top { */

@@ -8,8 +8,8 @@ const pageTitle = "Ecritouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
+  <h1 class="soustitre-page">{pageTitle}</h1>
   <div class="main">
-    <p class="soustitre">Écritouille</p>
     <div class="box">
       {
         allPosts.map((post: any) => (

@@ -2,7 +2,8 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
 const allPosts = Object.values(
-  import.meta.glob("./posts*.md", { eager: true }),
+  await Astro.glob('./posts/*.md', { eager: true })
+  
 );
 const pageTitle = "Ecritouille";
 ---

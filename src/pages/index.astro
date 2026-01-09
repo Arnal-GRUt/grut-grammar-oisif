@@ -1,11 +1,14 @@
 ---
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
-const pageTitle = "Grammar Oisif";
 import Background from "../images/grut-ville-2-1.png";
+const pageTitle = "Grammar Oisif";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
+	<div class="carton-texte">
+		<p>Portfolio & tutti quanti</p>
+	</div>
 	<div class="main">
 		<div class="image-container">
 			<Image
@@ -77,9 +80,9 @@ import Background from "../images/grut-ville-2-1.png";
 				<div class="display-flex direction-column">
 					<h2>La gribouille</h2>
 					<p>
-						consectetur adipiscing elit. Donec euismod turpis non
-						urna auctor sagittis. Nulla facilisi. Suspendisse tempor
-						elit urna, a ultrices enim convallis in.
+						Trad ou numérique. Trad et numérique. Des travaux
+						terminées. D'autres à l'étape du crowbar. Du neuf, du
+						vieux.
 					</p>
 					<div class="cta">
 						<a href="/gribouille/">C'est par là</a>
@@ -90,9 +93,9 @@ import Background from "../images/grut-ville-2-1.png";
 				<div class="display-flex direction-column">
 					<h2>La webouille</h2>
 					<p>
-						consectetur adipiscing elit. Donec euismod turpis non
-						urna auctor sxagittis. Nulla facilisi. Suspendisse
-						tempor elit urna, a ultrices enim convallis in.
+						Les étapes de création du projet "Grammar Oisif" -
+						inspirations, choix techniques, expérimentations design,
+						ressources.
 					</p>
 				</div>
 				<div class="cta"><a href="/webouille/">Click ici</a></div>

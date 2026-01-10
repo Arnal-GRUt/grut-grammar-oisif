@@ -1678,7 +1678,7 @@ article a {
 
 @media (width < 1441px) {
 	.carton-texte {
-		top: 8vh;
+		top: 15vh;
 	}
 
 	.display-flex.direction-row.redirection-col {

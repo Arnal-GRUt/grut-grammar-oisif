@@ -948,7 +948,7 @@ header nav .to-small-menu {
 
 @keyframes to-small-titre {
 	0% {
-		font-size: clamp(4.3rem, 0.6906rem + 6.9245vw, 9rem);
+		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
 	}
 
 	100% {

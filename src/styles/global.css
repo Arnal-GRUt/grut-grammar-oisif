@@ -1258,7 +1258,7 @@ p.titre-texte {
 
 /* ul.categories { */
 ul.tags {
-	display: flex;
+	display: flex;	
     gap: 8px;
     flex-wrap: wrap;
     font-size: .8rem;

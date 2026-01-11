@@ -14,8 +14,8 @@ const pageTitle = "Ecritouille";
     <div class="box">
       {
         allPosts.map((post: any) => (
-          <BlogPost url={post.url} title={post.frontmatter.title} pubDate={post.frontmatter.pubDate} tag={post.frontmatter.tag}/>
-        ))
+          <BlogPost url={post.url} title={post.frontmatter.title} pubDate={post.frontmatter.pubDate}/>
+        ))        
       }
     </div>
   </div>

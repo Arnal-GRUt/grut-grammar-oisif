@@ -794,7 +794,8 @@ footer .mentions-legales {
 
 .display-flex.direction-column.contenu-texte {
 	border-radius: 4px;
-	padding: 24px;
+	/* padding: 24px; */
+	padding: 3vh 24px;
 	/* width: 75%; */
 	background: var(--white);
 	max-width: 672px;
@@ -1028,15 +1029,38 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		width: 100%;
 		padding: 0 2vw;
 		font-size: clamp(2.6rem, 2.32rem + 1.4vw, 4rem);
-		background: var(--white);
+		text-align: center;
 	}
 
-	& .main {
-		background: var(--background);
-		position: relative;
-		max-width: 1024px;
-		padding: 3vh 0 10vh 0;
+	& .contenu-page.direction-row {
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: var(--gap-24);
+		padding-bottom: 3rem;
+
+		& .main {
+            /* background: var(--background); */
+            position: relative;
+            max-width: 1024px;
+            padding: 3vh 1rem 10vh 1rem;
+            gap: 1rem;
+            flex-grow: 1;
+            border: 2px solid var(--white);
+            border-radius: 4px;
+
+			& .soustitre {
+				font-size: 24px;
+				width: fit-content;
+				padding: 0 0 2rem 0;
+				margin-left: 8px;
+				align-self: self-start;
+				border-bottom: 2px dashed var(--white);
+			}
+		}
 	}
+
+
+	
 	
 	/* & nav.to-top { */
 	& header nav.to-top {
@@ -1306,7 +1330,7 @@ article {
 		background 0.3s ease;
 	
 	&:hover {
-		background: color-mix(in srgb, var(--white) 25%, transparent);
+		background: color-mix(in srgb, var(--white) 66%, transparent);
 		transform: translateX(-0.5rem);
 	}
 

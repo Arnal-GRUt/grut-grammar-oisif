@@ -7,117 +7,91 @@ const allPosts = Object.values(
 );
 const pageTitle = "Ecritouille";
 ---
-
 <BaseLayout pageTitle={pageTitle}>
   <h1 class="soustitre-page">{pageTitle}</h1>
-  <div class="main">
-    <div class="box">
-      {
-        allPosts.map((post: any) => (
-          <BlogPost url={post.url} title={post.frontmatter.title} pubDate={post.frontmatter.pubDate}/>
-        ))        
-      }
+  <div class="contenu-page display-flex direction-row">
+    <div class="main">
+      <p class="soustitre">Ailleurs et plus tôt</p>
+      <div class="box">
+        {
+          allPosts.map((post: any) => (
+            <BlogPost url={post.url} title={post.frontmatter.title} pubDate={post.frontmatter.pubDate}/>
+          ))        
+        }
+      </div>
     </div>
-  </div>
-  <div class="display-flex direction-column contenu-texte">
-    <div class="carton-presentation">
-      <h2>Titre du texte qui peut être un peu long</h2>
-      <div class="publication display-flex direction-row">
-        <span class="date-publication">[xx / xx / xx]</span>
-      </div>
-      <div class="display-flex container-paragraph introduction">
-        <h3>Présentation / contexte</h3>
-        <p>
-          Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-          urna auctor sagittis. Ut et magna nibh. Nullam id pharetra enim, nec
-          auctor augue. Mauris dignissim ornare interdum. Quisque at nisi
-          ullamcorper, lobortis erat at, vehicula nisl.
-        </p>
-      </div>
-      <div class="display-flex boite-contrainte">
-        <div>
-          <h3>Contraintes</h3>
-          <ul class="tags">
-            <li class="tag"><a>+/- 20min</a></li>
-            <li class="tag"><a>[X] mots à intégrer</a></li>
-            <li class="tag"><a>+/- 20min</a></li>
-            <li class="tag"><a>sans contrainte</a></li>
-            <li class="tag"><a>Poule de cristal</a></li>
-            <li class="tag"><a>Thème(s) abandonné(s)</a></li>
-            <li class="tag"><a>Thème gardé</a></li>
-            <li class="tag"><a>exercice</a></li>
-            <li class="tag"><a>article</a></li>
-          </ul>
+    <div class="display-flex direction-column contenu-texte">
+      <div class="carton-presentation">
+        <h2>Titre du texte qui peut être un peu long</h2>
+        <div class="publication display-flex direction-row">
+          <span class="date-publication">[xx / xx / xx]</span>
+        </div>
+        <div class="display-flex container-paragraph introduction">
+          <h3>Présentation / contexte</h3>
+          <p>
+            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+            urna auctor sagittis. Ut et magna nibh. Nullam id pharetra enim, nec
+            auctor augue. Mauris dignissim ornare interdum. Quisque at nisi
+            ullamcorper, lobortis erat at, vehicula nisl.
+          </p>
+        </div>
+        <div class="display-flex boite-contrainte">
+          <div>
+            <h3>Contraintes</h3>
+            <ul class="tags">
+              <li class="tag"><a>+/- 20min</a></li>
+              <li class="tag"><a>[X] mots à intégrer</a></li>
+              <li class="tag"><a>+/- 20min</a></li>
+              <li class="tag"><a>sans contrainte</a></li>
+              <li class="tag"><a>Poule de cristal</a></li>
+              <li class="tag"><a>Thème(s) abandonné(s)</a></li>
+              <li class="tag"><a>Thème gardé</a></li>
+              <li class="tag"><a>exercice</a></li>
+              <li class="tag"><a>article</a></li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
+      <div class="corps-texte display-flex direction-column">
+        <h3>
+          Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+          urna auctor sagittis.
+        </h3>
+        <div class="display-flex container-paragraph direction-row">
+          <p>
+            consectetur adipiscing elit. Donec euismod turpis non urna auctor
+            sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
+            enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
+            venenatis dui, in ornare leo. <a href="#"
+              >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
+            >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
+            feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
+            enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at
+            nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem
+            vel vehicula. Integer eros justo, commodo id eros eget, aliquet
+            pellentesque erat.
+          </p>
+        </div>  
+      </div> 
     <div class="corps-texte display-flex direction-column">
       <h3>
-        Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-        urna auctor sagittis.
+        Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna
+        auctor sagittis.
       </h3>
       <div class="display-flex container-paragraph direction-row">
         <p>
           consectetur adipiscing elit. Donec euismod turpis non urna auctor
-          sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
-          enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
+          sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices enim
+          convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
           venenatis dui, in ornare leo. <a href="#"
             >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
           >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-          feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
-          enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at
-          nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem
-          vel vehicula. Integer eros justo, commodo id eros eget, aliquet
-          pellentesque erat.
-        </p>
-      </div>  
-    </div> 
-  <div class="corps-texte display-flex direction-column">
-    <h3>
-      Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna
-      auctor sagittis.
-    </h3>
-    <div class="display-flex container-paragraph direction-row">
-      <p>
-        consectetur adipiscing elit. Donec euismod turpis non urna auctor
-        sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices enim
-        convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
-        venenatis dui, in ornare leo. <a href="#"
-          >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
-        >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-        feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra enim,
-        nec auctor augue. Mauris dignissim ornare interdum. Quisque at nisi
-        ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem vel
-        vehicula. Integer eros justo, commodo id eros eget, aliquet pellentesque
-        erat.</br>
-      </br>      
-        Fusce sed urna in dolor imperdiet efficitur nec vitae risus. Aenean id purus
-        id dolor efficitur varius. Vivamus consequat nibh dolor, nec pellentesque nisi
-        pulvinar vitae. Integer blandit molestie eros vel sagittis. Mauris nec iaculis
-        ex, ut sodales enim. Vestibulum mattis gravida ante id hendrerit. Sed elementum
-        enim in nisl mollis, et varius magna scelerisque. Integer tristique magna id
-        purus luctus luctus.
-      </p>
-    </div>
-    <div class="corps-texte display-flex direction-column">
-      <h3>
-        Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-        urna auctor sagittis.
-      </h3>
-      <div class="display-flex container-paragraph direction-row">
-        <p>
-          consectetur adipiscing elit. Donec euismod turpis non urna auctor
-          sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
-          enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
-          venenatis dui, in ornare leo. <a href="#"
-            >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
-          >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-          feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
-          enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at
-          nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem
-          vel vehicula. Integer eros justo, commodo id eros eget, aliquet
-          pellentesque erat.</br>
-        </br>
+          feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra enim,
+          nec auctor augue. Mauris dignissim ornare interdum. Quisque at nisi
+          ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem vel
+          vehicula. Integer eros justo, commodo id eros eget, aliquet pellentesque
+          erat.</br>
+        </br>      
           Fusce sed urna in dolor imperdiet efficitur nec vitae risus. Aenean id purus
           id dolor efficitur varius. Vivamus consequat nibh dolor, nec pellentesque nisi
           pulvinar vitae. Integer blandit molestie eros vel sagittis. Mauris nec iaculis
@@ -125,6 +99,34 @@ const pageTitle = "Ecritouille";
           enim in nisl mollis, et varius magna scelerisque. Integer tristique magna id
           purus luctus luctus.
         </p>
-      </div>        
+      </div>
+      <div class="corps-texte display-flex direction-column">
+        <h3>
+          Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+          urna auctor sagittis.
+        </h3>
+        <div class="display-flex container-paragraph direction-row">
+          <p>
+            consectetur adipiscing elit. Donec euismod turpis non urna auctor
+            sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
+            enim convallis in. In non congue elit, sed fringilla ipsum. Nunc nec
+            venenatis dui, in ornare leo. <a href="#"
+              >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
+            >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
+            feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
+            enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque at
+            nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum id lorem
+            vel vehicula. Integer eros justo, commodo id eros eget, aliquet
+            pellentesque erat.</br>
+          </br>
+            Fusce sed urna in dolor imperdiet efficitur nec vitae risus. Aenean id purus
+            id dolor efficitur varius. Vivamus consequat nibh dolor, nec pellentesque nisi
+            pulvinar vitae. Integer blandit molestie eros vel sagittis. Mauris nec iaculis
+            ex, ut sodales enim. Vestibulum mattis gravida ante id hendrerit. Sed elementum
+            enim in nisl mollis, et varius magna scelerisque. Integer tristique magna id
+            purus luctus luctus.
+          </p>
+        </div>        
+    </div>
   </div>
 </BaseLayout>

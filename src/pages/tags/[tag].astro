@@ -3,8 +3,10 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BlogPost from "../../components/BlogPost.astro";
 
 export async function getStaticPaths() {
-  // const allPosts = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
-  const allPosts = await Astro.glob("./posts/*.md", { eager: true });
+  // const ResOk = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
+  const ResOk = await Astro.glob("./posts/*.md", { eager: true });
+  const allPosts = Object.values(ResOk);
+
   const uniqueTags = [
     ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
   ];

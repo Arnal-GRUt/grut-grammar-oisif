@@ -1041,8 +1041,6 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		position: relative;
 
 		& .main {
-            /* background: var(--background); */
-            /* position: relative; */
             position: sticky;
             max-width: 1024px;
             padding: 3vh 1rem 10vh 1rem;
@@ -1061,11 +1059,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 				border-bottom: 2px dashed var(--white);
 			}
 		}
-	}
-
-
-	
-	
+	}	
 	/* & nav.to-top { */
 	& header nav.to-top {
 		background-color: var(--background);

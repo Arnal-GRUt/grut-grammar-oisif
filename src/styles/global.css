@@ -1261,8 +1261,8 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	top: 96px;
 
 	& .box {
-		display: inherit;
-		flex-direction: column;
+		display: flex;
+		flex-direction: row;
 		gap: 24px;
 	}
 }

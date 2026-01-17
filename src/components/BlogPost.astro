@@ -1,4 +1,5 @@
 ---
+<<<<<<< Updated upstream
 const { title, url, pubDate} = Astro.props;
 ---
 
@@ -6,4 +7,19 @@ const { title, url, pubDate} = Astro.props;
     <p class="titre-texte">{title}</p>
     <span class="date-publication">{pubDate}</span>
     <a href={url}></a>
+=======
+const { pub_title, pub_url, pub_date } = Astro.props;
+---
+
+<!-- <div class="info-texte"> -->
+<article class="info-texte">
+    <div class="publication-date">{pub_date}</div>
+    <p class="titre-texte">{pub_title}</p>
+    <ul class="tags">
+        <li>#test catégories</li>
+        <li>#test catégories</li>
+        <li>#test catégories</li>
+    </ul>
+    <a href={pub_url}></a>
+>>>>>>> Stashed changes
 </article>

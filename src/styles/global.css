@@ -1041,16 +1041,15 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		position: relative;
 
 		& .main {
-            /* background: var(--background); */
-            /* position: relative; */
             position: sticky;
             max-width: 1024px;
-            padding: 3vh 1rem 10vh 1rem;
+            padding: 3vh 1rem 3vh 1rem;
             gap: 1rem;
             flex-grow: 1;
             border: 2px solid var(--white);
             border-radius: 4px;
 			max-height: fit-content;
+			width: fit-content;
 
 			& .soustitre {
 				font-size: 24px;
@@ -1061,11 +1060,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 				border-bottom: 2px dashed var(--white);
 			}
 		}
-	}
-
-
-	
-	
+	}	
 	/* & nav.to-top { */
 	& header nav.to-top {
 		background-color: var(--background);
@@ -1267,8 +1262,8 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	top: 96px;
 
 	& .box {
-		display: inherit;
-		flex-direction: column;
+		display: flex;
+		flex-direction: row;
 		gap: 24px;
 	}
 }

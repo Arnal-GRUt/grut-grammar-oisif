@@ -1039,6 +1039,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		gap: var(--gap-24);
 		padding-bottom: 3rem;
 		position: relative;
+		max-width: 1024px;
 
 		& .main {
             position: sticky;

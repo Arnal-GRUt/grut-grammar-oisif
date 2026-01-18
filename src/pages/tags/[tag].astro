@@ -1,24 +1,37 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-const title = "titre random";
-const pubDate = "date ";
-const url = "../index.astro";
+import BlogPost from "../../components/BlogPost.astro";
+
+export async function getStaticPaths() {
+  const allPosts = Object.values(
+    import.meta.glob("../posts/*.md", { eager: true }),
+  );
+  const uniqueTags = [
+    ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
+  ];
+
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allPosts.filter((post: any) =>
+      post.frontmatter.tags.includes(tag),
+    );
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
 
 const { tag } = Astro.params;
-// const { posts } = Astro.props;
+const { posts } = Astro.props;
 ---
 
 <BaseLayout pageTitle={tag}>
   <p>Articles étiquetés avec {tag}</p>
   <ul>
     {
-      (
-        <article>
-          <p class="titre-texte">{title}</p>
-          <span class="date-publication">{pubDate}</span>
-          <a href={url} />
-        </article>
-      )
+      posts.map((post: any) => (
+        <BlogPost url={post.url} title={post.frontmatter.title} />
+      ))
     }
   </ul>
 </BaseLayout>

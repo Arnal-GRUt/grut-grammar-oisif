@@ -1,18 +1,25 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-const allPosts = await Astro.glob('./posts/*.md', { eager: true });
-const tags = [...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat())];
+import BaseLayout from "../../layouts/BaseLayout.astro";
+const allPosts = await Astro.glob("../posts/*.md", { eager: true });
+const tags = [
+	...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
+];
 const pageTitle = "Index des étiquettes";
 ---
+
 <BaseLayout pageTitle={pageTitle}>
-  <ul class="tags">
-    {tags.map((tag) => (
-      <li class="tag"><a href={`/tags/${tag}`}>{tag}</a></li>
-    ))}
-  </ul>
+	<ul class="tags">
+		{
+			tags.map((tag) => (
+				<li class="tag">
+					<a href={`/tags/${tag}`}>{tag}</a>
+				</li>
+			))
+		}
+	</ul>
 </BaseLayout>
 <style>
-/* ul.tags {
+	/* ul.tags {
 	display: flex;
 	flex-direction: row;
 	width: 100%;

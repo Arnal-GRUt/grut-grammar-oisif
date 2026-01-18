@@ -6,8 +6,7 @@ const allPosts = Object.values(
   await Astro.glob("./posts/*.md", { eager: true }),
 );
 const tags = [
-  // ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
-  ...new Set(PostTags.map((post: any) => post.frontmatter.tags).flat()),
+  ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
 ];
 const pageTitle = "Ecritouille";
 ---

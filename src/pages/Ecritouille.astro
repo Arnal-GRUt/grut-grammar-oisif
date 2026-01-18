@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
+import PostTags from "../components/postTags.astro";
 const allPosts = Object.values(
   await Astro.glob("./posts/*.md", { eager: true }),
 );
@@ -43,7 +44,8 @@ const pageTitle = "Ecritouille";
           <div>
             <h3>Contraintes</h3>
             <ul class="tags">
-              <li class="tag"><a>+/- 20min</a></li>
+              <postTags></postTags>
+              <!-- <li class="tag"><a>+/- 20min</a></li>
               <li class="tag"><a>[X] mots à intégrer</a></li>
               <li class="tag"><a>+/- 20min</a></li>
               <li class="tag"><a>sans contrainte</a></li>
@@ -51,7 +53,7 @@ const pageTitle = "Ecritouille";
               <li class="tag"><a>Thème(s) abandonné(s)</a></li>
               <li class="tag"><a>Thème gardé</a></li>
               <li class="tag"><a>exercice</a></li>
-              <li class="tag"><a>article</a></li>
+              <li class="tag"><a>article</a></li> -->
             </ul>
           </div>
         </div>

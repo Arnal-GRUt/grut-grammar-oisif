@@ -166,7 +166,7 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 
 /* h1 a, */
 h1,
-*.to-small-titre,
+*.to-small-titre a,
 .soustitre,
 h2,
 h3,

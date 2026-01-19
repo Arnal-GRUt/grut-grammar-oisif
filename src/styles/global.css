@@ -179,7 +179,7 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 	display: inline-block;
 	margin-inline-start: 1ch;
 	text-indent: 0;
-	font-size: 0.8rem;
+	font-size: 1rem;
 }
 
 /* h1 a, */
@@ -215,7 +215,7 @@ p {
 	font-optical-sizing: auto;
 	font-weight: var(--weight);
 	font-style: normal;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 }
 
 *.to-small-titre a,
@@ -237,11 +237,11 @@ p.accroche {
 }
 
 .soustitre {
-	font-size: 24px;
+	font-size: 2rem;
 }
 
 h2 {
-	font-size: 32px;
+	font-size: 2.4rem;
 }
 
 *.display-flex {
@@ -291,9 +291,9 @@ div.direction-column .container-paragraph {
 	padding-bottom: 0.33rem;
 }
 
-.carton-presentation p {
+/* .carton-presentation p {
 	font-size: 0.9rem;
-}
+} */
 
 .carton-presentation .container-paragraph.introduction {
 	min-width: 100%;

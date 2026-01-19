@@ -128,7 +128,7 @@ p a {
 	font-style: italic;
 }
 
-*:not(.cta, .info-texte, article, *.to-small-titre a, li.about)>a {
+*:not(.cta, .info-texte, article, *.to-small-titre, li.about)>a {
 	text-decoration: none;
 	transition: text-decoration 0.2s ease;
 	position: relative;
@@ -166,7 +166,7 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 
 /* h1 a, */
 h1,
-*.to-small-titre a,
+*.to-small-titre,
 .soustitre,
 h2,
 h3,
@@ -200,7 +200,7 @@ p {
 	font-size: 1.4rem;
 }
 
-*.to-small-titre a,
+*.to-small-titre,
 .soustitre,
 p.accroche {
 	min-width: fit-content;
@@ -209,12 +209,12 @@ p.accroche {
 	transition: text-shadow 0.3s ease-in-out;
 }
 
-*.to-small-titre a {
+*.to-small-titre {
 	text-decoration: none;
 	transition: text-shadow 0.3s ease-in-out;
 }
 
-*.to-small-titre:hover a {
+*.to-small-titre:hover {
 	text-shadow: -4px 4px var(--background);
 }
 
@@ -841,7 +841,7 @@ body header nav.to-top {
 }
 
 /* nav.to-top *.to-small-titre { */
-header nav.to-top *.to-small-titre a {
+header nav.to-top *.to-small-titre {
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
@@ -962,7 +962,7 @@ header nav .to-small-menu {
 	}	
 }
 
-body *.to-small-titre a {
+body *.to-small-titre {
 	display:flex;
 	align-items: flex-start;
 	
@@ -970,7 +970,7 @@ body *.to-small-titre a {
 		transform: scale(1.1);
 	}
 }
-body *.to-small-titre a:before {
+body *.to-small-titre:before {
     content: "";
     position: absolute;
     background: url(../images/logo-grut-2026.svg);
@@ -1042,7 +1042,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	/* & nav.to-top { */
 	& header nav.to-top {
 		background-color: var(--background);
-			& .nav-box .to-small-titre a {
+			& .nav-box .to-small-titre {
 				view-timeline-name: --to-small;
 				view-timeline-axis: block;
 				animation: linear to-small-titre both;
@@ -1459,7 +1459,7 @@ article a {
 	}
 
 	/* nav.to-top *.to-small-titre { */
-	header nav.to-top *.to-small-titre a {
+	header nav.to-top *.to-small-titre {
 		animation-range-start: 100vh;
 		animation-range-end: 160vh;
 		left: 0;

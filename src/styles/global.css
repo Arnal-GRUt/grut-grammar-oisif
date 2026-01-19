@@ -200,7 +200,7 @@ p {
 	font-size: 1.4rem;
 }
 
-*.to-small-titre,
+*.to-small-titre a,
 .soustitre,
 p.accroche {
 	min-width: fit-content;
@@ -209,12 +209,12 @@ p.accroche {
 	transition: text-shadow 0.3s ease-in-out;
 }
 
-*.to-small-titre {
+*.to-small-titre a {
 	text-decoration: none;
 	transition: text-shadow 0.3s ease-in-out;
 }
 
-*.to-small-titre:hover {
+*.to-small-titre:hover a {
 	text-shadow: -4px 4px var(--background);
 }
 

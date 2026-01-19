@@ -761,10 +761,10 @@ footer .mentions-legales {
 }
 
 .display-flex.direction-column.contenu-texte {
-	border-radius: 4px;
 	padding: 3vh 24px;
 	max-width: 672px;
 	position: relative;
+	/* border-radius: 4px; */
 }
 
 /* nav.to-top *.to-small-menu { */
@@ -1013,6 +1013,9 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		gap: var(--gap-24);
 		padding-bottom: 3rem;
 		position: relative;
+		background: var(--background);
+		z-index: 1;
+		width: 100%;
 		/* max-width: 1024px; */
 
 		& .main {
@@ -1020,10 +1023,10 @@ html:is(#Gribouille, #Ecritouille, #About) body {
             max-width: 1024px;
             padding: 3vh 1rem 3vh 1rem;
             gap: 1rem;
-            flex-grow: 1;
-            /* border: 2px solid var(--white); */
-            border-radius: 4px;
 			max-height: fit-content;
+            /* flex-grow: 1; */
+            /* border: 2px solid var(--white); */
+            /* border-radius: 4px; */
 
 			& .soustitre {
 				font-size: 2rem;
@@ -1094,12 +1097,13 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	}
 
 	& footer.display-flex.direction-column {
-		position: relative;
+		position: sticky;
 		height: auto;
 		padding: 5vh 2vw;
 		gap: var(--gap-16);
 		background: none;
 		border-top: 2px dashed var(--white);
+		z-index: 0;
 
 		& p.accroche {
 			font-size: 3rem;

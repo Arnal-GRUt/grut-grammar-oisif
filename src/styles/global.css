@@ -128,7 +128,7 @@ p a {
 	font-style: italic;
 }
 
-*:not(.cta, .info-texte, article, *.to-small-titre, li.about)>a {
+*:not(.cta, .info-texte, article, *.to-small-titre a, li.about)>a {
 	text-decoration: none;
 	transition: text-decoration 0.2s ease;
 	position: relative;
@@ -962,7 +962,7 @@ header nav .to-small-menu {
 	}	
 }
 
-body *.to-small-titre {
+body *.to-small-titre a {
 	display:flex;
 	align-items: flex-start;
 	
@@ -970,7 +970,7 @@ body *.to-small-titre {
 		transform: scale(1.1);
 	}
 }
-body *.to-small-titre:before {
+body *.to-small-titre a:before {
     content: "";
     position: absolute;
     background: url(../images/logo-grut-2026.svg);
@@ -1042,7 +1042,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	/* & nav.to-top { */
 	& header nav.to-top {
 		background-color: var(--background);
-			& .nav-box .to-small-titre {
+			& .nav-box .to-small-titre a {
 				view-timeline-name: --to-small;
 				view-timeline-axis: block;
 				animation: linear to-small-titre both;
@@ -1459,7 +1459,7 @@ article a {
 	}
 
 	/* nav.to-top *.to-small-titre { */
-	header nav.to-top *.to-small-titre {
+	header nav.to-top *.to-small-titre a {
 		animation-range-start: 100vh;
 		animation-range-end: 160vh;
 		left: 0;

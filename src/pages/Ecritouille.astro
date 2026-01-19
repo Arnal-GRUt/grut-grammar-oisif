@@ -36,7 +36,7 @@ const pageTitle = "Ecritouille";
                   {
           allPosts.map((post: any) => (
             <BlogPost
-              pubDate={post.frontmatter.pubDate}
+              pubDate={post.frontmatter[0].pubDate}
             />
           ))
         }

@@ -104,6 +104,7 @@ h6 {
 
 html {
 	background-color: var(--yellow);
+	font-size: clamp(14px, 11.0838px + 0.2778vw, 18px);
 }
 
 body {
@@ -761,9 +762,7 @@ footer .mentions-legales {
 
 .display-flex.direction-column.contenu-texte {
 	border-radius: 4px;
-	/* padding: 24px; */
 	padding: 3vh 24px;
-	/* width: 75%; */
 	background: var(--white);
 	max-width: 672px;
 	position: relative;
@@ -1015,7 +1014,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		gap: var(--gap-24);
 		padding-bottom: 3rem;
 		position: relative;
-		max-width: 1024px;
+		/* max-width: 1024px; */
 
 		& .main {
             position: sticky;
@@ -1026,7 +1025,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
             border: 2px solid var(--white);
             border-radius: 4px;
 			max-height: fit-content;
-			width: fit-content;
+			/* width: fit-content; */
 
 			& .soustitre {
 				font-size: 2rem;

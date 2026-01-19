@@ -1305,7 +1305,8 @@ ul.tags li.tag {
 
 	&:hover {
 		background: var(--black);	
-
+		color: var(--background);
+		
 		& a {
 			color: var(--background);		
 		}

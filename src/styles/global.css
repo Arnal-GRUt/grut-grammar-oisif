@@ -1024,6 +1024,15 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	background: var(--background);
 	position: relative;
 
+	& section.display-flex.direction-column {
+		gap: var(--gap-24);
+		padding: 1rem 0;
+
+		& .corps-texte {
+			gap: inherit;
+		}
+	}
+
 	& h1.soustitre-page {
 		position: static;
 		margin-top: 80px;

@@ -100,6 +100,7 @@ h6 {
 
 * {
 	font-family: "Source Serif 4", serif;
+	font-size: 18px;	
 }
 
 html {
@@ -147,26 +148,6 @@ p a {
 	&:hover:before {
 		width: 100%;
 	}
-	/* &::before { */
-        /* content: ""; */
-        /* position: absolute; */
-        /* background: color-mix(in srgb, var(--yellow) 50%, transparent); */
-        /* width: 0%; */
-        /* height: 100%; */
-        /* left: 0; */
-        /* border-radius: 0.2ch; */
-        /* transition: width 0.2s ease; */
-        /* z-index: -1; */
-	/* } */
-
-    /* &:hover:before { */
-        /* width: 110%; */
-        /* height: 115%; */
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: center; */
-        /* left: -5%; */
-    /* } */
 }
 
 p:not(.cta, *.to-small-titre, li.about) a::after {
@@ -179,7 +160,8 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 	display: inline-block;
 	margin-inline-start: 1ch;
 	text-indent: 0;
-	font-size: 1rem;
+	/* font-size: 1rem; */
+	font-size: 1.4rem;
 }
 
 /* h1 a, */
@@ -292,10 +274,6 @@ div.direction-column .container-paragraph {
 .carton-presentation h3 {
 	padding-bottom: 0.33rem;
 }
-
-/* .carton-presentation p {
-	font-size: 0.9rem;
-} */
 
 .carton-presentation .container-paragraph.introduction {
 	min-width: 100%;
@@ -1064,7 +1042,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 			width: fit-content;
 
 			& .soustitre {
-				font-size: 24px;
+				font-size: 2rem;
 				width: fit-content;
 				padding: 0 0 2rem 0;
 				margin-left: 8px;
@@ -1134,7 +1112,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 			padding: 16px 0;
 
 			& h2 {
-				font-size: 1.5rem;
+				font-size: 2.4rem;
 			}
 		}
 	}

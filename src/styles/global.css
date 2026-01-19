@@ -479,18 +479,6 @@ body .display-flex.direction-row.redirection-col {
 	}
 }
 
-/* [class*="redirection-card"] Image { */
-	/* height: fit-content; */
-	/* flex-grow: 1; */
-	/* object-fit: cover; */
-	/* min-height: 100vh; */
-	/* position: absolute; */
-	/* bottom: 0; */
-	/* left: 0; */
-	/* z-index: -1;	 */
-	/* width: 100%; */
-/* } */
-
 /* Section gribouille */
 .redirection-card-gribouille {
 	align-items: flex-start;
@@ -853,7 +841,7 @@ body header nav.to-top {
 }
 
 /* nav.to-top *.to-small-titre { */
-header nav.to-top *.to-small-titre {
+header nav.to-top *.to-small-titre a {
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
@@ -1072,14 +1060,6 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 			animation-range-end: 0vh;
 		}
 	}
-
-	/* & nav .to-small-menu { */
-		/* animation: linear to-small-menu both; */
-		/* animation-timeline: view(); */
-		/* animation-duration: 0.2s; */
-		/* animation-range-start: 0vh; */
-		/* animation-range-end: 0vh; */
-	/* } */
 
 	& header nav.to-top {
 		padding: 8px 2vw;

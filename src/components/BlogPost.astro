@@ -4,6 +4,6 @@ const { title, url, pubDate, author } = Astro.props;
 
 <article>
     <p class="titre-texte">{title}</p>
-    <span class="date-publication">{pubDate}</span> | <span class="auteur">{author}</span>
+    <p><span class="date-publication">{pubDate}</span><span class="auteur">{author}</span></p>
     <a href={url}></a>
 </article>

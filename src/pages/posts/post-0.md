@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Moulin du Blochet - jour 2'
 pubDate: 2024-09-08
 description: "2ème jour au Moulin du Blochet."
-author: 'GRUt·'
+author: "GRUt·"
 tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 ---
 ## Exercice 1 du matin

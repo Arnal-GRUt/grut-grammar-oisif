@@ -15,8 +15,6 @@ const pageTitle = "Ecritouille";
   <h1 class="soustitre-page">{pageTitle}</h1>
   <div class="contenu-page display-flex direction-row">
     <div class="main">
-      <p class="soustitre">Ailleurs et plus tôt</p>
-      <!-- <div class="box"> -->
       {
         allPosts.map((post: any) => (
           <BlogPost
@@ -29,7 +27,6 @@ const pageTitle = "Ecritouille";
           />
         ))
       }
-      <!-- </div> -->
     </div>
     <div class="display-flex direction-column contenu-texte">
       <div class="carton-presentation">

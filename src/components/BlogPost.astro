@@ -1,6 +1,6 @@
 ---
 import PostTags from "../components/postTags.astro";
-const { title, url, pubDate, author, contexte, tags } = Astro.props;
+const { title, url, pubDate, author, contexte } = Astro.props;
 ---
 
 <!-- <article>
@@ -24,7 +24,12 @@ const { title, url, pubDate, author, contexte, tags } = Astro.props;
             <div>
                 <h3>Contraintes</h3>
                 <ul class="tags">
-                    {tags.map((tag) => <PostTags tag={tag} />)}
+                    <!-- {tags.map((tag) => <PostTags tag={tag} />)} -->
+                    <li class="tag">test</li>
+                    <li class="tag">test test</li>
+                    <li class="tag">test test test</li>
+                    <li class="tag">test test</li>
+                    <li class="tag">test</li>
                 </ul>
             </div>
         </div>

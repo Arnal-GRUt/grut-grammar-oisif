@@ -6,12 +6,11 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 <div class="display-flex direction-column contenu-texte">
     <div class="carton-presentation">
         <h2>{title}</h2>
-        <div class="publication display-flex direction-row">
-            <p class="date-et-auteur">
-                <span class="date-publication"> {pubDate}</span><span>|</span
-                ><span class="auteur">{author}</span>
-            </p>
-        </div>
+        <p class="date-et-auteur">
+            <span class="date-publication"> {pubDate}</span><span>|</span><span
+                class="auteur">{author}</span
+            >
+        </p>
     </div>
     <div class="display-flex container-paragraph introduction">
         <h3>Présentation / contexte</h3>

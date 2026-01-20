@@ -3,11 +3,6 @@ import PostTags from "../components/postTags.astro";
 const { title, url, pubDate, author, contexte } = Astro.props;
 ---
 
-<!-- <article>
-    <p class="titre-texte">{title}</p>
-    <p class="date-et-auteur"><span class="date-publication">{pubDate}</span><span>|</span><span class="auteur">{author}</span></p>
-    <a href={url}></a>
-</article> -->
 <div class="display-flex direction-column contenu-texte">
     <div class="carton-presentation">
         <h2>{title}</h2>

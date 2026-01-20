@@ -44,4 +44,24 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     div.contenu-texte {
         border-bottom: 2px dashed var(--black);
     }
+
+    .display-flex.direction-column.presentation {
+        max-width: 1280px;
+        width: 100%;
+        border-bottom: 2px dashed var(--black);
+        padding: 24px 0;
+    }
+    .main {
+        position: sticky;
+        max-width: 672px;
+        padding: 3vh 1rem 3vh 1rem;
+        gap: 1rem;
+        max-height: fit-content;
+    }
+
+    .display-flex.direction-column.contenu-texte {
+        padding: 3vh 24px;
+        max-width: 672px;
+        position: relative;
+    }
 </style>

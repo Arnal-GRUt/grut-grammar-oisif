@@ -263,7 +263,7 @@ div.direction-column .container-paragraph {
 }
 
 .carton-presentation {
-	border-bottom: 2px dashed var(--black);
+	/* border-bottom: 2px dashed var(--black); */
 	border-radius: 4px 4px 0 0;
 	gap: 1rem;
 	display: flex;

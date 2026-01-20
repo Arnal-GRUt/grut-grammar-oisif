@@ -4,21 +4,15 @@ title: 'Moulin du Blochet - jour 2'
 pubDate: 2024-09-08
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
-tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 contexte : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
+enonce : "Écrire 3 textes courts en 15min maximum."
+tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 ---
 ## Exercice 1 du matin
 
 Énoncé : écrire 3 textes courts en 15min maximum.
 
-### Les contraintes
-
-- 3 temps : passé, présent, futur
-- Sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues
-- Garder 1 mot de chaque liste de mots (tirage au sort)
-- 15 minutes par texte.
-
-#### Texte 1 au PASSÉ
+### Texte 1 au PASSÉ
 
 - Lecture d'un article du magazine *Chut !* - p.26
 - liste des mots sélectionnés (mot à utiliser en gras): programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation

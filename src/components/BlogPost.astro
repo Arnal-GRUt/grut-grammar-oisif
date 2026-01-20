@@ -1,6 +1,6 @@
 ---
-import PostTags from "../components/postTags.astro";
-const { title, url, pubDate, author, contexte } = Astro.props;
+// import PostTags from "../components/postTags.astro";
+const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 ---
 
 <div class="display-flex direction-column contenu-texte">
@@ -14,6 +14,8 @@ const { title, url, pubDate, author, contexte } = Astro.props;
         <div class="display-flex container-paragraph introduction">
             <h3>Présentation / contexte</h3>
             <p>{contexte}</p>
+            <h3>Énoncé</h3>
+            <p>{enonce}</p>
         </div>
         <div class="display-flex boite-contrainte">
             <div>

@@ -16,18 +16,21 @@ const pageTitle = "Ecritouille";
   <div class="contenu-page display-flex direction-row">
     <div class="main">
       <p class="soustitre">Ailleurs et plus tôt</p>
-      <div class="box">
-        {
-          allPosts.map((post: any) => (
-            <BlogPost
-              url={post.url}
-              title={post.frontmatter.title}
-              pubDate={post.frontmatter.pubDate}
-              author={post.frontmatter.author}
-            />
-          ))
-        }
-      </div>
+      <!-- <div class="box"> -->
+      {
+        allPosts.map((post: any) => (
+          <BlogPost
+            url={post.url}
+            title={post.frontmatter.title}
+            pubDate={post.frontmatter.pubDate}
+            author={post.frontmatter.author}
+            title={post.frontmatter.title}
+            contexte={post.frontmatter.contexte}
+            tags={post.frontmatter.tags}
+          />
+        ))
+      }
+      <!-- </div> -->
     </div>
     <div class="display-flex direction-column contenu-texte">
       <div class="carton-presentation">

@@ -1,18 +1,42 @@
 ---
-const { title, url, pubDate, author } = Astro.props;
+import PostTags from "../components/postTags.astro";
+const { title, url, pubDate, author, contexte, tags } = Astro.props;
 ---
 
-<article>
+<!-- <article>
     <p class="titre-texte">{title}</p>
     <p class="date-et-auteur"><span class="date-publication">{pubDate}</span><span>|</span><span class="auteur">{author}</span></p>
     <a href={url}></a>
-</article>
-
+</article> -->
+<div class="display-flex direction-column contenu-texte">
+    <div class="carton-presentation">
+        <h2>{title}</h2>
+        <div class="publication display-flex direction-row">
+            <span class="date-publication"> {pubDate}</span><span>|</span><span
+                class="auteur">{author}</span
+            >
+        </div>
+        <div class="display-flex container-paragraph introduction">
+            <h3>Présentation / contexte</h3>
+            <p>{contexte}</p>
+        </div>
+        <div class="display-flex boite-contrainte">
+            <div>
+                <h3>Contraintes</h3>
+                <ul class="tags">
+                    {tags.map((tag) => <PostTags tag={tag} />)}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <a href={url}></a>
+</div>
+<!-- Style -->
 <style>
-p.date-et-auteur {
-    font-size: 0.8rem;
-    display: flex;
-    flex-direction: row;
-    gap : 8px;
-}
+    p.date-et-auteur {
+        font-size: 0.8rem;
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+    }
 </style>

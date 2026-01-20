@@ -5,6 +5,12 @@ pubDate: 2024-09-08
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
 tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
+contexte : "
+- 3 temps : passé, présent, futur
+- Sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues
+- Garder 1 mot de chaque liste de mots (tirage au sort)
+- 15 minutes par texte.
+- "
 ---
 ## Exercice 1 du matin
 

@@ -7,32 +7,34 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     <div class="carton-presentation">
         <h2>{title}</h2>
         <div class="publication display-flex direction-row">
-            <span class="date-publication"> {pubDate}</span><span>|</span><span
-                class="auteur">{author}</span
-            >
-        </div>
-        <div class="display-flex container-paragraph introduction">
-            <h3>Présentation / contexte</h3>
-            <p>{contexte}</p>
-            <h3>Énoncé</h3>
-            <p>{enonce}</p>
-        </div>
-        <div class="display-flex boite-contrainte">
-            <div>
-                <h3>Contraintes</h3>
-                <ul class="tags">
-                    <!-- {tags.map((tag) => <PostTags tag={tag} />)} -->
-                    <li class="tag">test</li>
-                    <li class="tag">test test</li>
-                    <li class="tag">test test test</li>
-                    <li class="tag">test test</li>
-                    <li class="tag">test</li>
-                </ul>
-            </div>
+            <p class="date-et-auteur">
+                <span class="date-publication"> {pubDate}</span><span>|</span
+                ><span class="auteur">{author}</span>
+            </p>
         </div>
     </div>
-    <a href={url}></a>
+    <div class="display-flex container-paragraph introduction">
+        <h3>Présentation / contexte</h3>
+        <p>{contexte}</p>
+        <h3>Énoncé</h3>
+        <p>{enonce}</p>
+    </div>
+    <div class="display-flex boite-contrainte">
+        <div>
+            <h3>Contraintes</h3>
+            <ul class="tags">
+                <!-- {tags.map((tag) => <PostTags tag={tag} />)} -->
+                <li class="tag">test</li>
+                <li class="tag">test test</li>
+                <li class="tag">test test test</li>
+                <li class="tag">test test</li>
+                <li class="tag">test</li>
+            </ul>
+        </div>
+    </div>
 </div>
+<a href={url}></a>
+
 <!-- Style -->
 <style>
     p.date-et-auteur {

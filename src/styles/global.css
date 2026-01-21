@@ -262,24 +262,6 @@ div.direction-column .container-paragraph {
 	}
 }
 
-.carton-presentation {
-	/* border-bottom: 2px dashed var(--black); */
-	border-radius: 4px 4px 0 0;
-	gap: 1rem;
-	display: flex;
-	flex-direction: column;
-	padding-bottom: 24px;
-}
-
-.carton-presentation h3 {
-	padding-bottom: 0.33rem;
-}
-
-.carton-presentation .container-paragraph.introduction {
-	min-width: 100%;
-	gap: 0;
-}
-
 .display-flex.boite-contrainte {
 	flex-wrap: wrap;
 	gap: 1rem;

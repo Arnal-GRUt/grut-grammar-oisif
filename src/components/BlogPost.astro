@@ -34,6 +34,17 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 
 <!-- Style -->
 <style>
+    
+.carton-presentation {
+	gap: 1rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.carton-presentation .container-paragraph.introduction {
+	min-width: 100%;
+}
+
 
     h2 {
         font-size: 1.5rem;
@@ -58,6 +69,10 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
             width: 100%;
             border-bottom: 2px dashed var(--black);
             padding: 24px;
+
+            & p {
+                font-size: 1.1rem;
+            }
     }
 
     .display-flex.direction-column.contenu-texte {

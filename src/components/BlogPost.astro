@@ -3,7 +3,6 @@
 const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 ---
 
-<div class="main">
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
             <h2>{title}</h2>
@@ -32,7 +31,6 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
         </div>
         <a href={url}></a>
     </div>
-</div>
 
 <!-- Style -->
 <style>
@@ -45,22 +43,14 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     div.contenu-texte {
         border-bottom: 2px dashed var(--black);
     }
-    .contenu-page .main {
-        max-width: 1280px;
-        padding: 3vh 1rem 3vh 1rem;
-        gap: 1rem;
-        max-height: fit-content;
-        flex-wrap: wrap;
-        display: flex;
-        flex-direction: row;
-
-        & .display-flex.direction-column.presentation {
+    
+    .display-flex.direction-column.presentation {
             max-width: calc(640px - 4ch);
             width: 100%;
             border-bottom: 2px dashed var(--black);
             padding: 24px;
-        }
     }
+    
     .display-flex.direction-column.contenu-texte {
         padding: 3vh 24px;
         max-width: 672px;

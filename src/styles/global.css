@@ -1016,24 +1016,6 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		background: var(--background);
 		z-index: 1;
 		width: 100%;
-		/* max-width: 1024px; */
-
-		/* & .main {
-            position: sticky;
-            max-width: 1024px;
-            padding: 3vh 1rem 3vh 1rem;
-            gap: 1rem;
-			max-height: fit-content; */
-
-			/* & .soustitre {
-				font-size: 2rem;
-				width: fit-content;
-				padding: 0 0 2rem 0;
-				margin-left: 8px;
-				align-self: self-start;
-				border-bottom: 2px dashed var(--white);
-			} */
-		}
 	}	
 	/* & nav.to-top { */
 	& header nav.to-top {

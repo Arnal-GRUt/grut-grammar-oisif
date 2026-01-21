@@ -1018,15 +1018,12 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		width: 100%;
 		/* max-width: 1024px; */
 
-		& .main {
+		/* & .main {
             position: sticky;
             max-width: 1024px;
             padding: 3vh 1rem 3vh 1rem;
             gap: 1rem;
-			max-height: fit-content;
-            /* flex-grow: 1; */
-            /* border: 2px solid var(--white); */
-            /* border-radius: 4px; */
+			max-height: fit-content; */
 
 			& .soustitre {
 				font-size: 2rem;

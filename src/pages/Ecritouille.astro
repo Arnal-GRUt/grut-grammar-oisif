@@ -13,8 +13,7 @@ const pageTitle = "Ecritouille";
 
 <BaseLayout pageTitle={pageTitle}>
   <h1 class="soustitre-page">{pageTitle}</h1>
-  <div class="contenu-page display-flex direction-row">
-    <div class="main">
+  <div class="contenu-page display-flex direction-row">    
       {
         allPosts.map((post: any) => (
           <BlogPost
@@ -28,7 +27,6 @@ const pageTitle = "Ecritouille";
           />
         ))
       }
-    </div>
     <!-- <div class="display-flex direction-column contenu-texte">
       <div class="carton-presentation">
         <h2>Titre du texte qui peut être un peu long</h2>

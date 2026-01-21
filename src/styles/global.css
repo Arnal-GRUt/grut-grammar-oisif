@@ -1240,42 +1240,7 @@ p.titre-texte {
 	font-size: 1rem;
 }
 
-/* ul.categories { */
-ul.tags {
-	display: flex;	
-    gap: 8px;
-    flex-wrap: wrap;
-    font-size: .8rem;
-    line-height: 2ch;
-    padding-bottom: 1ch;
-    display: flex;
-    margin-left: 0;
-    padding-left: 0;
-}
 
-/* ul.categories li { */
-ul.tags li.tag {
-    font-size: .8rem;
-    font-weight: 400;
-    font-family: "Source Serif 4", serif;
-    background: var(--white);
-    padding: 1ch;
-    border-radius: 4px;
-    cursor: pointer;
-
-	&:hover {
-		background: var(--black);	
-		color: var(--background);
-		
-		& a {
-			color: var(--background);		
-		}
-	}
-
-	&::before{
-		display: none;
-	}
-}
 
 /* .info-texte { */
 article {

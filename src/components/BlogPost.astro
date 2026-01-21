@@ -46,19 +46,20 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     }
 
     .display-flex.direction-column.presentation {
-        max-width: calc(640px - 1ch);
+        max-width: calc(640px - 4ch);
         width: 100%;
         border-bottom: 2px dashed var(--black);
-        padding: 24px 0;
+        padding: 24px;
     }
     .main {
         position: sticky;
         max-width: 1280px;
+        padding: 3vh 1rem 3vh 1rem;
         gap: 1rem;
+        max-height: fit-content;
         flex-wrap: wrap;
+        display: flex;
         flex-direction: row;
-        align-items: flex-start;
-        height: fit-content;
     }
 
     .display-flex.direction-column.contenu-texte {

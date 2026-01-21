@@ -1025,14 +1025,14 @@ html:is(#Gribouille, #Ecritouille, #About) body {
             gap: 1rem;
 			max-height: fit-content; */
 
-			& .soustitre {
+			/* & .soustitre {
 				font-size: 2rem;
 				width: fit-content;
 				padding: 0 0 2rem 0;
 				margin-left: 8px;
 				align-self: self-start;
 				border-bottom: 2px dashed var(--white);
-			}
+			} */
 		}
 	}	
 	/* & nav.to-top { */

@@ -65,7 +65,7 @@ Le capitaine du « Barboteurs des étoiles ».&nbsp;&nbsp;
 
 ---
 
-## Exercice 2 du matin 
+## Exercice 2 du matin
 
 Énoncé : prendre le 8e mot de chaque liste (passé, présent, futur) et rédiger ayant pour thème le mot du 8e jour de la liste de Katty Steward (cf. compte Bluesky) - 20min ?
 &nbsp;

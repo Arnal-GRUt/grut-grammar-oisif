@@ -1,8 +1,10 @@
 ---
-// import PostTags from "../components/postTags.astro";
-const { title, url, pubDate, author, contexte, enonce } = Astro.props;
----
+// import Tag from "../pages/tags/[tag].astro";
 
+// import PostTags from "../components/postTags.astro";
+const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
+// const tags import {  } from "module";
+---
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
             <h2>{title}</h2>
@@ -21,12 +23,12 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
         <div class="display-flex boite-contrainte">
             <h3>Contraintes</h3>
             <ul class="tags">
-                <!-- {tags.map((tag) => <PostTags tag={tag} />)} -->
-                <li class="tag">test</li>
+                {tags.map(tag) => <li class="tag">{Tag}</li>}
+                <!-- <li class="tag">test</li>
                 <li class="tag">test test</li>
                 <li class="tag">test test test</li>
                 <li class="tag">test test</li>
-                <li class="tag">test</li>
+                <li class="tag">test</li> -->
             </ul>
         </div>
         <a href={url}></a>

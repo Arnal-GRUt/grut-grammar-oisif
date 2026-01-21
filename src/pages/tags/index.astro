@@ -6,7 +6,7 @@ const allPosts = Object.values(
 const tags = [
 	...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
 ];
-const pageTitle = "Index des étiquettes";
+const pageTitle = "Tags";
 ---
 
 <BaseLayout pageTitle={pageTitle}>

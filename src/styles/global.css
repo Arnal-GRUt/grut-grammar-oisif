@@ -262,42 +262,6 @@ div.direction-column .container-paragraph {
 	}
 }
 
-.display-flex.boite-contrainte {
-	flex-wrap: wrap;
-	gap: 1rem;
-}
-
-.display-flex.boite-contrainte div:not(:has(ul)) {
-	width: 100%;
-	max-width: calc(33% - 0.34rem - 48px);
-	/* 3 colonnes */
-}
-
-ul.liste-contraintes {
-	display: flex;
-	flex-direction: row;
-	width: 100%;
-	gap: 0.5rem;
-	padding: 1ch 0;
-	flex-wrap: wrap;
-
-	& li {
-		font-size: 0.9rem;
-		font-weight: 400;
-		font-family: "Source Serif 4", serif;
-		padding: 0.5ch 1ch;
-		border-radius: 4px;
-		background-color: color-mix(in srgb, var(--background) 60%, transparent);
-		min-width: fit-content;
-		transition: background 0.3s ease;
-
-		&:hover {
-			background: var(--black);
-			color: var(--white);
-		}
-	}
-}
-
 body#gribouille .galerie-ligne-1 ul.liste-contraintes {
 	gap: 1ch;
 	padding:0;

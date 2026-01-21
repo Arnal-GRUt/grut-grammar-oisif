@@ -45,13 +45,7 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
         border-bottom: 2px dashed var(--black);
     }
 
-    .display-flex.direction-column.presentation {
-        max-width: calc(640px - 4ch);
-        width: 100%;
-        border-bottom: 2px dashed var(--black);
-        padding: 24px;
-    }
-    .main {
+    .contenu-page .main {
         position: sticky;
         max-width: 1280px;
         padding: 3vh 1rem 3vh 1rem;
@@ -60,6 +54,13 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
         flex-wrap: wrap;
         display: flex;
         flex-direction: row;
+
+        & .display-flex.direction-column.presentation {
+            max-width: calc(640px - 4ch);
+            width: 100%;
+            border-bottom: 2px dashed var(--black);
+            padding: 24px;
+        }
     }
 
     .display-flex.direction-column.contenu-texte {

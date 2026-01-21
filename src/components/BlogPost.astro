@@ -66,11 +66,18 @@ div.contenu-texte {
 .display-flex.direction-column.presentation {
     max-width: calc(640px - 4ch);
     width: 100%;
-    border-bottom: 2px dashed var(--black);
+    border: 2px dashed var(--black);
     padding: 8px;
+    transition: transform 0.2s ease;
+    border-radius: 4px;
 
     & p {
         font-size: 1.1rem;
+    }
+
+    &:hover {
+        background: var(--white);
+        transform: translate(-8px, -8px);
     }
 }
 

@@ -967,7 +967,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 			max-width: 1280px;
 			padding: 3vh 1rem 3vh 1rem;
 			gap: 1rem;
-			max-height: fit-content;
+			/* max-height: fit-content; */
 			flex-wrap: wrap;
 			display: flex;
 			flex-direction: row;

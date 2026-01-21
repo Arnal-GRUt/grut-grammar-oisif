@@ -5,159 +5,162 @@
 const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
 // const tags import {  } from "module";
 ---
-    <div class="display-flex direction-column presentation">
-        <div class="display-flex carton-presentation direction-column">
-            <h2>{title}</h2>
-            <p class="date-et-auteur">
-                <span class="date-publication"> {pubDate}</span><span>|</span><span
-                    class="auteur">{author}</span
-                >
-            </p>
-        </div>
-        <div class="display-flex introduction direction-column">
-            <h3>Présentation / contexte</h3>
-            <p>{contexte}</p>
-            <h3>Énoncé</h3>
-            <p>{enonce}</p>
-        </div>
-        <div class="display-flex boite-contrainte">
-            <h3>Contraintes</h3>
-            <ul class="tags">
-                {tags.map(tag) => <li class="tag">{Tag}</li>}
-                <!-- <li class="tag">test</li>
-                <li class="tag">test test</li>
-                <li class="tag">test test test</li>
-                <li class="tag">test test</li>
-                <li class="tag">test</li> -->
-            </ul>
-        </div>
-        <a href={url}></a>
+
+<div class="display-flex direction-column presentation">
+    <div class="display-flex carton-presentation direction-column">
+        <h2>{title}</h2>
+        <p class="date-et-auteur">
+            <span class="date-publication"> {pubDate}</span><span>|</span><span
+                class="auteur">{author}</span
+            >
+        </p>
     </div>
+    <div class="display-flex introduction direction-column">
+        <h3>Présentation / contexte</h3>
+        <p>{contexte}</p>
+        <h3>Énoncé</h3>
+        <p>{enonce}</p>
+    </div>
+    <div class="display-flex boite-contrainte">
+        <h3>Contraintes</h3>
+        <ul class="tags">
+            <!-- {tags.map(tag) => <li class="tag">{Tag}</li>} -->
+            <li class="tag">test</li>
+            <li class="tag">test test</li>
+            <li class="tag">test test test</li>
+            <li class="tag">test test</li>
+            <li class="tag">test</li>
+        </ul>
+    </div>
+    <a href={url}></a>
+</div>
 
 <!-- Style -->
 <style>
-    
-.carton-presentation {
-	display: flex;
-	flex-direction: column;
-}
-
-.carton-presentation .container-paragraph.introduction {
-	min-width: 100%;
-}
-
-
-h2 {
-    font-size: 1.5rem;
-}
-
-h3 {
-    font-size: 1.2rem;
-    line-height: 3.5ch;
-}
-
-p.date-et-auteur {
-    font-size: 0.8rem;
-    display: flex;
-    flex-direction: row;
-    gap: 8px;
-}
-div.contenu-texte {
-    border-bottom: 2px dashed var(--black);
-}
-    
-.display-flex.direction-column.presentation {
-    max-width: calc(640px - 4ch);
-    width: 100%;
-    border: 2px dashed var(--black);
-    padding: 8px;
-    transition: transform 0.2s ease;
-    border-radius: 4px;
-
-    & p {
-        font-size: 1rem;
+    .carton-presentation {
+        display: flex;
+        flex-direction: column;
     }
 
-    &:hover {
-        background: var(--white);
-        transform: translate(-8px, -8px);
+    .carton-presentation .container-paragraph.introduction {
+        min-width: 100%;
     }
-}
 
-.display-flex.direction-column.contenu-texte {
-    padding: 3vh 24px;
-    max-width: 672px;
-    position: relative;
-}
-    
-.display-flex.boite-contrainte {
-	flex-wrap: wrap;
-	gap: 1rem;
-}
+    h2 {
+        font-size: 1.5rem;
+    }
 
-.display-flex.boite-contrainte div:not(:has(ul)) {
-	width: 100%;
-	max-width: calc(33% - 0.34rem - 48px);
-}
+    h3 {
+        font-size: 1.2rem;
+        line-height: 3.5ch;
+    }
 
-ul.liste-contraintes {
-	display: flex;
-	flex-direction: row;
-	width: 100%;
-	gap: 0.5rem;
-	padding: 1ch 0;
-	flex-wrap: wrap;
+    p.date-et-auteur {
+        font-size: 0.8rem;
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+    }
+    div.contenu-texte {
+        border-bottom: 2px dashed var(--black);
+    }
 
-	& li {
-		font-size: 0.9rem;
-		font-weight: 400;
-		font-family: "Source Serif 4", serif;
-		padding: 0.5ch 1ch;
-		border-radius: 4px;
-		background-color: color-mix(in srgb, var(--background) 60%, transparent);
-		min-width: fit-content;
-		transition: background 0.3s ease;
+    .display-flex.direction-column.presentation {
+        max-width: calc(640px - 4ch);
+        width: 100%;
+        border: 2px dashed var(--black);
+        padding: 8px;
+        transition: transform 0.2s ease;
+        border-radius: 4px;
 
-		&:hover {
-			background: var(--black);
-			color: var(--white);
-		}
-	}
-}
+        & p {
+            font-size: 1rem;
+        }
+
+        &:hover {
+            background: var(--white);
+            transform: translate(-8px, -8px);
+        }
+    }
+
+    .display-flex.direction-column.contenu-texte {
+        padding: 3vh 24px;
+        max-width: 672px;
+        position: relative;
+    }
+
+    .display-flex.boite-contrainte {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .display-flex.boite-contrainte div:not(:has(ul)) {
+        width: 100%;
+        max-width: calc(33% - 0.34rem - 48px);
+    }
+
+    ul.liste-contraintes {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        gap: 0.5rem;
+        padding: 1ch 0;
+        flex-wrap: wrap;
+
+        & li {
+            font-size: 0.9rem;
+            font-weight: 400;
+            font-family: "Source Serif 4", serif;
+            padding: 0.5ch 1ch;
+            border-radius: 4px;
+            background-color: color-mix(
+                in srgb,
+                var(--background) 60%,
+                transparent
+            );
+            min-width: fit-content;
+            transition: background 0.3s ease;
+
+            &:hover {
+                background: var(--black);
+                color: var(--white);
+            }
+        }
+    }
     /* ul.categories { */
-ul.tags {
-	display: flex;	
-    gap: 8px;
-    flex-wrap: wrap;
-    font-size: .8rem;
-    line-height: 2ch;
-    padding-bottom: 1ch;
-    display: flex;
-    margin-left: 0;
-    padding-left: 0;
-}
+    ul.tags {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        font-size: 0.8rem;
+        line-height: 2ch;
+        padding-bottom: 1ch;
+        display: flex;
+        margin-left: 0;
+        padding-left: 0;
+    }
 
-/* ul.categories li { */
-ul.tags li.tag {
-    font-size: .8rem;
-    font-weight: 400;
-    font-family: "Source Serif 4", serif;
-    background: var(--white);
-    padding: 1ch;
-    border-radius: 4px;
-    cursor: pointer;
+    /* ul.categories li { */
+    ul.tags li.tag {
+        font-size: 0.8rem;
+        font-weight: 400;
+        font-family: "Source Serif 4", serif;
+        background: var(--white);
+        padding: 1ch;
+        border-radius: 4px;
+        cursor: pointer;
 
-	&:hover {
-		background: var(--black);	
-		color: var(--background);
-		
-		& a {
-			color: var(--background);		
-		}
-	}
+        &:hover {
+            background: var(--black);
+            color: var(--background);
 
-	&::before{
-		display: none;
-	}
-}
+            & a {
+                color: var(--background);
+            }
+        }
+
+        &::before {
+            display: none;
+        }
+    }
 </style>

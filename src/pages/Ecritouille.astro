@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
-import PostTags from "../components/postTags.astro";
+// import PostTags from "../components/postTags.astro";
 const allPosts = Object.values(
   await Astro.glob("./posts/*.md", { eager: true }),
 );
@@ -13,7 +13,7 @@ const pageTitle = "Ecritouille";
 
 <BaseLayout pageTitle={pageTitle}>
   <h1 class="soustitre-page">{pageTitle}</h1>
-  <div class="contenu-page display-flex direction-row"> 
+  <div class="contenu-page display-flex direction-row">
     <div class="main">
       {
         allPosts.map((post: any) => (
@@ -28,7 +28,7 @@ const pageTitle = "Ecritouille";
           />
         ))
       }
-      </div>
+    </div>
     <!-- <div class="display-flex direction-column contenu-texte">
       <div class="carton-presentation">
         <h2>Titre du texte qui peut être un peu long</h2>

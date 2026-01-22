@@ -949,6 +949,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	}
 
 	& h1.soustitre-page {
+		max-width: calc(640px - 2rem);
 		position: relative;
 		margin-top: 4rem;
 		width: 100%;
@@ -965,7 +966,8 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 		position: relative;
 		background: var(--background);
 		z-index: 1;
-		width: 100%;
+		width: 100%;		
+        margin-top: 56px;
 
 		& .main {
 			max-width: 1280px;

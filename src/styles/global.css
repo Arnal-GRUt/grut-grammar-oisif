@@ -128,7 +128,7 @@ p a {
 	font-style: italic;
 }
 
-*:not(.cta, .info-texte, article, *.to-small-titre, li.about)>a {
+*:not(.cta, .info-texte, article, *.to-small-titre, li.about)>a:not(.lien-post) {
 	text-decoration: none;
 	transition: text-decoration 0.2s ease;
 	position: relative;

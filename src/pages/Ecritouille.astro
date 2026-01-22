@@ -1,9 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
-// const allPosts = Object.values(
-//   await Astro.glob("./posts/*.md", { eager: true }),
-// );
 const allPosts = Object.values(
   import.meta.glob("./posts/*.md", { eager: true }),
 );
@@ -28,6 +25,7 @@ const pageTitle = "Ecritouille";
             title={post.frontmatter.title}
             contexte={post.frontmatter.contexte}
             enonce={post.frontmatter.enonce}
+            tags={post.frontmatter.tags}
           />
         ))
       }

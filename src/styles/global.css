@@ -345,7 +345,8 @@ body .main {
 
 	view-timeline-axis: block;
 	animation: clip-reveal 1s both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-range-start: 130vh;
 	animation-range-end: 500vh;
 }
@@ -365,7 +366,8 @@ body .main {
 	view-timeline-name: --to-opacity-0;
 	view-timeline-axis: block;
 	animation: linear to-opacity-0 both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-range-start: 130vh;
 	animation-range-end: 250vh;
 
@@ -461,14 +463,14 @@ body .display-flex.direction-row.redirection-col {
 		background-size: 51%;
 	}	
 
-	&:before {
+	/* &:before {
 		content: "[Nom de l'image] - [date/date/date]";
 		position: absolute;
 		bottom: 5%;
 		right: 5%;
 		background: var(--white);
 		padding: 2px;
-	}	
+	}	 */
 
 	& *:is(h2,p) {
 		background-color: var(--white);
@@ -727,7 +729,8 @@ header nav.to-top *.to-small-menu {
 	justify-content: center;
 
 	animation: linear to-small-menu both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-duration: 0.2s;
 	animation-range-start: 450vh;
 	animation-range-end: 600vh;
@@ -746,7 +749,8 @@ body header nav.to-top {
 	view-timeline-name: --to-top;
 	view-timeline-axis: block;
 	animation: linear to-top both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-range-start: 450vh;
 	animation-range-end: 600vh;
 
@@ -793,7 +797,8 @@ header nav.to-top *.to-small-titre {
 	view-timeline-name: --to-small;
 	view-timeline-axis: block;
 	animation: linear to-small-titre both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-duration: 0.2s;
 	animation-range-start: 450vh;
 	animation-range-end: 550vh;
@@ -821,7 +826,8 @@ header nav .to-small-menu {
 	justify-content: center;
 
 	animation: linear to-small-menu both;
-	animation-timeline: view();
+	/* animation-timeline: view(); */
+	animation-timeline: scroll();
 	animation-duration: 0.2s;
 	animation-range-start: 450vh;
 	animation-range-end: 600vh;
@@ -1473,11 +1479,9 @@ article a {
 			overflow: hidden;
 
 			& img {
-			/* & Image { */
 				filter: none;				
 			}
 			&:hover img {
-			/* &:hover Image { */
 				transform: scale(1);
 			}
 					

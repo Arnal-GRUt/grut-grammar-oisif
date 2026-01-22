@@ -3,6 +3,7 @@
 
 // import PostTags from "../components/postTags.astro";
 const { title, url, pubDate, author, contexte, enonce } = Astro.props;
+const { tags } = Astro.props;
 // const tags import {  } from "module";
 ---
 
@@ -10,9 +11,11 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     <div class="display-flex carton-presentation direction-column">
         <h2>{title}</h2>
         <p class="date-et-auteur">
-            <span class="date-publication"> {pubDate}</span><span>|</span><span
-                class="auteur">{author}</span
+            <!-- <span class="date-publication"> {pubDate}</span><span>|</span><span -->
+            <span class="date-publication">
+                {pubDate.toString().slice(0, 10)}</span
             >
+            <span>|</span><span class="auteur">{author}</span>
         </p>
     </div>
     <div class="display-flex introduction direction-column">
@@ -24,16 +27,17 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
     <div class="display-flex boite-contrainte">
         <h3>Contraintes</h3>
         <ul class="tags">
-            <!-- {tags.map(tag) => <li class="tag">{Tag}</li>} -->
-            <li class="tag">test</li>
-            <li class="tag">test test</li>
-            <li class="tag">test test test</li>
-            <li class="tag">test test</li>
-            <li class="tag">test</li>
+            {
+                tags.map((tag: string) => (
+                    <li class="tag">
+                        <a href={`/tags/${tag}`}>{tag}</a>
+                    </li>
+                ))
+            }
         </ul>
     </div>
-    <a class="lien-post" href={url}></a>
 </div>
+<a class="lien-post" href={url}></a>
 
 <!-- Style -->
 <style>

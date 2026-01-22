@@ -150,7 +150,7 @@ p a {
 	}
 }
 
-p:not(.cta, *.to-small-titre, li.about) a::after {
+p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a::after {
 	content: "\f08e";
 	font-family: "fontAwesome";
 	font-weight: 400;
@@ -160,11 +160,9 @@ p:not(.cta, *.to-small-titre, li.about) a::after {
 	display: inline-block;
 	margin-inline-start: 1ch;
 	text-indent: 0;
-	/* font-size: 1rem; */
 	font-size: 1.4rem;
 }
 
-/* h1 a, */
 h1,
 *.to-small-titre a,
 .soustitre,
@@ -190,7 +188,7 @@ ul {
 
 li {
 	font-weight: 700;
-	list-style: none;
+	list-style: none;	
 }
 
 p {
@@ -971,12 +969,14 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 
 		& .main {
 			max-width: 1280px;
-			padding: 3vh 1rem 3vh 1rem;
-			gap: 1rem;
-			/* max-height: fit-content; */
-			flex-wrap: wrap;
-			display: flex;
-			flex-direction: row;
+            padding: 3vh 1rem 3vh 1rem;
+            max-height: fit-content;
+            flex-wrap: wrap;
+            display: flex;
+            flex-direction: row;
+            column-gap: 8px;
+            row-gap: 16px;
+            align-items: flex-start;
 		}
 	}	
 	/* & nav.to-top { */

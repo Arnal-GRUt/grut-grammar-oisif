@@ -7,6 +7,8 @@ author: 'Apprenti Astro'
 image:
     url: '../../src/images/route-grut.png'
     alt: "crowbar de paysage urbain"
+contexte : "Du lorem pour tester les pages dynamiques."
+enonce : "3 texte en lorem + liste numérique"
 tags: ["article","blogging", "nouvelle", "non-narratif", "liste", "texte stylisé", "exercice", "concours", "poule de cristal", "stage", "inachevé", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "contrainte(s)", "jdr"]
 ---
 ## MPremier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna auctor sagittis

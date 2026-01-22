@@ -12,9 +12,9 @@ const pageTitle = "Ecritouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1 class="soustitre-page">{pageTitle}</h1>
   <div class="contenu-page display-flex direction-row">
     <div class="main">
+      <h1 class="soustitre-page">{pageTitle}</h1>
       {
         allPosts.map((post: any) => (
           <BlogPost

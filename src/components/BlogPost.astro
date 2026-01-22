@@ -11,7 +11,6 @@ const { tags } = Astro.props;
     <div class="display-flex carton-presentation direction-column">
         <h2>{title}</h2>
         <p class="date-et-auteur">
-            <!-- <span class="date-publication"> {pubDate}</span><span>|</span><span -->
             <span class="date-publication">
                 {pubDate.toString().slice(0, 10)}</span
             >
@@ -72,7 +71,7 @@ const { tags } = Astro.props;
     .display-flex.direction-column.presentation {
         max-width: calc(640px - 2rem);
         width: 100%;
-        border: 2px dashed var(--black);
+        border: 2px dashed var(--white);
         padding: 8px;
         transition: background 0.1s ease;
         border-radius: 4px;
@@ -83,7 +82,8 @@ const { tags } = Astro.props;
         }
 
         &:hover {
-            background: var(--white);
+            /* background: var(--white); */
+            background: color-mix(in srgb, var(--white) 25%, transparent);
         }
     }
 

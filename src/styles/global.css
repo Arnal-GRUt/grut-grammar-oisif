@@ -949,12 +949,12 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 	}
 
 	& h1.soustitre-page {
-		position: static;
-		margin-top: 80px;
+		position: relative;
+		margin-top: 4rem;
 		width: 100%;
-		padding: 0 2vw;
-		font-size: clamp(2.6rem, 2.32rem + 1.4vw, 4rem);
-		text-align: center;
+		padding: 0 2rem;
+		font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
+		text-align: left;
 	}
 
 	& .contenu-page.direction-row {
@@ -977,6 +977,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
             column-gap: 8px;
             row-gap: 16px;
             align-items: flex-start;
+			justify-content: center;
 		}
 	}	
 	/* & nav.to-top { */

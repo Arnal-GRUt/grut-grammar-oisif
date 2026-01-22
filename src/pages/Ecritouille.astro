@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
-// import PostTags from "../components/postTags.astro";
 const allPosts = Object.values(
   await Astro.glob("./posts/*.md", { eager: true }),
 );

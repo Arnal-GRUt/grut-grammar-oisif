@@ -122,7 +122,6 @@ header {
 	width: 100%;
 }
 
-
 p a {
 	color: color-mix(in srgb, var(--black) 75%, transparent);
 	font-style: italic;

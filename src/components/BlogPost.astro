@@ -41,15 +41,42 @@ const { tags } = Astro.props;
 <!-- Style -->
 <style>
     a.lien-post { 
-        & .carton-presentation {
-            display: flex;
-            flex-direction: column;
-            
+        & .display-flex.direction-column.presentation {
+            max-width: calc(640px - 2rem);
+            width: 100%;
+            border: 2px dashed var(--white);
+            padding: 8px;
+            transition: background 0.1s ease;
+            border-radius: 4px;
+            position: relative;
+
+            & .carton-presentation {
+                display: flex;
+                flex-direction: column;            
+            }
+                
+            & .container-paragraph.introduction {
+                    min-width: 100%;
+            }        
+
+            & .display-flex.boite-contrainte {
+                flex-wrap: wrap;
+                gap: 1rem;
+                
+                & div:not(:has(ul)) {
+                    width: 100%;
+                    max-width: calc(33% - 0.34rem - 48px);
+                }
+            }
         }
             
-        & .container-paragraph.introduction {
-                min-width: 100%;
-        }        
+        &:hover {        
+            background: color-mix(in srgb, var(--white) 25%, transparent);
+        }    
+        
+        & p {
+            font-size: 1rem;
+        }
 
         & h2 {
             font-size: 1.5rem;
@@ -66,43 +93,16 @@ const { tags } = Astro.props;
             flex-direction: row;
             gap: 8px;
         }
+
         & div.contenu-texte {
             border-bottom: 2px dashed var(--black);
         }
 
-        & .display-flex.direction-column.presentation {
-            max-width: calc(640px - 2rem);
-            width: 100%;
-            border: 2px dashed var(--white);
-            padding: 8px;
-            transition: background 0.1s ease;
-            border-radius: 4px;
-            position: relative;
-
-            & p {
-                font-size: 1rem;
-            }
-
-            &:hover {
-                /* background: var(--white); */
-                background: color-mix(in srgb, var(--white) 25%, transparent);
-            }
-        }
 
         & .display-flex.direction-column.contenu-texte {
             padding: 3vh 24px;
             max-width: 672px;
             position: relative;
-        }
-
-        & .display-flex.boite-contrainte {
-            flex-wrap: wrap;
-            gap: 1rem;
-        }
-
-        & .display-flex.boite-contrainte div:not(:has(ul)) {
-            width: 100%;
-            max-width: calc(33% - 0.34rem - 48px);
         }
 
         & ul.liste-contraintes {

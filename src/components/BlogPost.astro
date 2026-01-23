@@ -46,7 +46,9 @@ const { tags } = Astro.props;
 <style>
     a.lien-post {        
         transition: background 0.2s ease;
-
+        max-width: calc(640px - 2rem);
+        width: 100%;
+        
         &:hover {        
             background: color-mix(in srgb, var(--white) 50%, transparent);
         } 

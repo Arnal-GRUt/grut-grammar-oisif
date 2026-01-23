@@ -39,11 +39,6 @@ const { tags } = Astro.props;
 <!-- Style -->
 <style>
     a.lien-post { 
-        transition: background 0.2s ease;
-
-        &:hover {        
-            background: color-mix(in srgb, var(--white) 50%, transparent);
-        } 
 
         & .display-flex.direction-column.presentation {
             max-width: calc(640px - 2rem);
@@ -53,6 +48,12 @@ const { tags } = Astro.props;
             transition: background 0.1s ease;
             border-radius: 4px;
             position: relative;
+            transition: background 0.2s ease;
+
+
+            &:hover {        
+                background: color-mix(in srgb, var(--white) 50%, transparent);
+            } 
 
             & .carton-presentation {
                 display: flex;

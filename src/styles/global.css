@@ -1169,7 +1169,7 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 /***** Colonne sticky > liens textes ******/
 /******************************************/
 
-.display-flex.direction-row.tous-les-textes {
+/* .display-flex.direction-row.tous-les-textes {
 	width: 25%;
 	flex-wrap: wrap;
 	align-items: self-start;
@@ -1193,12 +1193,12 @@ html:is(#Gribouille, #Ecritouille, #About) body {
 
 p.titre-texte {
 	font-size: 1rem;
-}
+} */
 
 
 
 /* .info-texte { */
-article {
+/* article {
 	gap: 1.1ch;
 	display: flex;
 	flex-direction: column;
@@ -1215,7 +1215,6 @@ article {
 		transform: translateX(-0.5rem);
 	}
 
-	/* & input#start { */
 	& p.date-publication {
 		background: transparent;
 		border: none;
@@ -1229,7 +1228,7 @@ article {
 		background: var(--white);
 		border: none;
 	}
-}
+} */
 
 /* .info-texte a { */
 article a {

@@ -44,11 +44,16 @@ const { tags } = Astro.props;
 </a>
 <!-- Style -->
 <style>
-    a.lien-post {
+    a.lien-post {        
         transition: background 0.2s ease;
+
         &:hover {        
             background: color-mix(in srgb, var(--white) 50%, transparent);
         } 
+
+        &:after {
+            display: none;
+        }
  
         & .display-flex.direction-column.presentation {       
             max-width: calc(640px - 2rem);
@@ -82,6 +87,7 @@ const { tags } = Astro.props;
         
         & p {
             font-size: 1rem;
+            color: var(--black);
         }
 
         & h2 {

@@ -6,37 +6,37 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 const { tags } = Astro.props;
 // const tags import {  } from "module";
 ---
-
-<div class="display-flex direction-column presentation">
-    <div class="display-flex carton-presentation direction-column">
-        <h2>{title}</h2>
-        <p class="date-et-auteur">
-            <span class="date-publication">
-                {pubDate.toString().slice(0, 10)}</span
-            >
-            <span>|</span><span class="auteur">{author}</span>
-        </p>
+<a class="lien-post" href={url}>
+    <div class="display-flex direction-column presentation">
+        <div class="display-flex carton-presentation direction-column">
+            <h2>{title}</h2>
+            <p class="date-et-auteur">
+                <span class="date-publication">
+                    {pubDate.toString().slice(0, 10)}</span
+                >
+                <span>|</span><span class="auteur">{author}</span>
+            </p>
+        </div>
+        <div class="display-flex introduction direction-column">
+            <h3>Présentation / contexte</h3>
+            <p>{contexte}</p>
+            <h3>Énoncé</h3>
+            <p>{enonce}</p>
+        </div>
+        <div class="display-flex boite-contrainte">
+            <h3>Contraintes</h3>
+            <ul class="tags">
+                {
+                    tags.map((tag: string) => (
+                        <li class="tag">
+                            <a href={`/tags/${tag}`}>{tag}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </div>
     </div>
-    <div class="display-flex introduction direction-column">
-        <h3>Présentation / contexte</h3>
-        <p>{contexte}</p>
-        <h3>Énoncé</h3>
-        <p>{enonce}</p>
-    </div>
-    <div class="display-flex boite-contrainte">
-        <h3>Contraintes</h3>
-        <ul class="tags">
-            {
-                tags.map((tag: string) => (
-                    <li class="tag">
-                        <a href={`/tags/${tag}`}>{tag}</a>
-                    </li>
-                ))
-            }
-        </ul>
-    </div>
-    <a class="lien-post" href={url}></a>
-</div>
+</a>
 
 <!-- Style -->
 <style>

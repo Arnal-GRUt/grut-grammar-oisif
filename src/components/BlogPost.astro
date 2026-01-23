@@ -5,7 +5,6 @@ const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 const { tags } = Astro.props;
 ---
 <a class="lien-post" href={url}>
-    <div>
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
             <h2>{title}</h2>
@@ -35,14 +34,17 @@ const { tags } = Astro.props;
             </ul>
         </div>
     </div>
-    </div>
 </a>
 
 <!-- Style -->
 <style>
-    a.lien-post { 
-        
-        & .display-flex.direction-column.presentation {
+    a.lien-post {
+        transition: background 0.2s ease;
+        &:hover {        
+            background: color-mix(in srgb, var(--white) 50%, transparent);
+        } 
+ 
+        & .display-flex.direction-column.presentation {       
             max-width: calc(640px - 2rem);
             width: 100%;
             border: 2px dashed var(--white);
@@ -50,12 +52,7 @@ const { tags } = Astro.props;
             transition: background 0.1s ease;
             border-radius: 4px;
             position: relative;
-            transition: background 0.2s ease;
 
-
-            &:hover {        
-                background: color-mix(in srgb, var(--white) 50%, transparent);
-            } 
 
             & .carton-presentation {
                 display: flex;
@@ -75,8 +72,7 @@ const { tags } = Astro.props;
                     max-width: calc(33% - 0.34rem - 48px);
                 }
             }
-        }                
-           
+        }          
         
         & p {
             font-size: 1rem;

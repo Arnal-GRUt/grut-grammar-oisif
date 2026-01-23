@@ -979,6 +979,18 @@ html:is(#Gribouille, #Ecritouille, #About) body {
             row-gap: 16px;
             align-items: flex-start;
 			justify-content: center;
+			
+			&:after {
+				content: "";
+    			position: absolute;
+				width: 100%;
+				height: 100%;
+				background: url(../images/alien-et-flingue-2.png);
+				z-index: 1;
+				opacity: 0.2;
+				left:0;
+				bottom: 0;
+			}
 		}
 	}	
 	/* & nav.to-top { */

@@ -40,144 +40,146 @@ const { tags } = Astro.props;
 
 <!-- Style -->
 <style>
-    .carton-presentation {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .carton-presentation .container-paragraph.introduction {
-        min-width: 100%;
-    }
-
-    h2 {
-        font-size: 1.5rem;
-    }
-
-    h3 {
-        font-size: 1.2rem;
-        line-height: 3.5ch;
-    }
-
-    p.date-et-auteur {
-        font-size: 0.8rem;
-        display: flex;
-        flex-direction: row;
-        gap: 8px;
-    }
-    div.contenu-texte {
-        border-bottom: 2px dashed var(--black);
-    }
-
-    .display-flex.direction-column.presentation {
-        max-width: calc(640px - 2rem);
-        width: 100%;
-        border: 2px dashed var(--white);
-        padding: 8px;
-        transition: background 0.1s ease;
-        border-radius: 4px;
-        position: relative;
-
-        & p {
-            font-size: 1rem;
+    a.lien-post { 
+        & .carton-presentation {
+            display: flex;
+            flex-direction: column;
+            
+            & .container-paragraph.introduction {
+                min-width: 100%;
+            }
         }
 
-        &:hover {
-            /* background: var(--white); */
-            background: color-mix(in srgb, var(--white) 25%, transparent);
+        & h2 {
+            font-size: 1.5rem;
         }
-    }
 
-    .display-flex.direction-column.contenu-texte {
-        padding: 3vh 24px;
-        max-width: 672px;
-        position: relative;
-    }
+        & h3 {
+            font-size: 1.2rem;
+            line-height: 3.5ch;
+        }
 
-    .display-flex.boite-contrainte {
-        flex-wrap: wrap;
-        gap: 1rem;
-    }
+        & p.date-et-auteur {
+            font-size: 0.8rem;
+            display: flex;
+            flex-direction: row;
+            gap: 8px;
+        }
+        & div.contenu-texte {
+            border-bottom: 2px dashed var(--black);
+        }
 
-    .display-flex.boite-contrainte div:not(:has(ul)) {
-        width: 100%;
-        max-width: calc(33% - 0.34rem - 48px);
-    }
-
-    ul.liste-contraintes {
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-        gap: 0.5rem;
-        padding: 1ch 0;
-        flex-wrap: wrap;
-
-        & li {
-            font-size: 0.9rem;
-            font-weight: 400;
-            font-family: "Source Serif 4", serif;
-            padding: 0.5ch 1ch;
+        & .display-flex.direction-column.presentation {
+            max-width: calc(640px - 2rem);
+            width: 100%;
+            border: 2px dashed var(--white);
+            padding: 8px;
+            transition: background 0.1s ease;
             border-radius: 4px;
-            background-color: color-mix(
-                in srgb,
-                var(--background) 60%,
-                transparent
-            );
-            min-width: fit-content;
-            transition: background 0.3s ease;
+            position: relative;
+
+            & p {
+                font-size: 1rem;
+            }
 
             &:hover {
-                background: var(--black);
-                color: var(--white);
+                /* background: var(--white); */
+                background: color-mix(in srgb, var(--white) 25%, transparent);
             }
         }
-    }
-    ul.tags {
-        display: flex;
-        gap: 8px;
-        flex-wrap: wrap;
-        font-size: 0.8rem;
-        line-height: 2ch;
-        padding-bottom: 1ch;
-        display: flex;
-        margin-left: 0;
-        padding-left: 0;
-    }
 
-    ul.tags li.tag {
-        font-size: 0.8rem;
-        font-weight: 400;
-        font-family: "Source Serif 4", serif;
-        background: var(--white);
-        padding: 1ch;
-        border-radius: 4px;
-        cursor: pointer;
+        & .display-flex.direction-column.contenu-texte {
+            padding: 3vh 24px;
+            max-width: 672px;
+            position: relative;
+        }
 
-        & a {
-            text-decoration: none;
-            color: var(--black);
+        & .display-flex.boite-contrainte {
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
 
-            &::before {
-                display: none;
+        & .display-flex.boite-contrainte div:not(:has(ul)) {
+            width: 100%;
+            max-width: calc(33% - 0.34rem - 48px);
+        }
+
+        & ul.liste-contraintes {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            gap: 0.5rem;
+            padding: 1ch 0;
+            flex-wrap: wrap;
+
+            & li {
+                font-size: 0.9rem;
+                font-weight: 400;
+                font-family: "Source Serif 4", serif;
+                padding: 0.5ch 1ch;
+                border-radius: 4px;
+                background-color: color-mix(
+                    in srgb,
+                    var(--background) 60%,
+                    transparent
+                );
+                min-width: fit-content;
+                transition: background 0.3s ease;
+
+                &:hover {
+                    background: var(--black);
+                    color: var(--white);
+                }
             }
         }
-        &:hover {
-            background: var(--black);
-            color: var(--background);
+        & ul.tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            font-size: 0.8rem;
+            line-height: 2ch;
+            padding-bottom: 1ch;
+            display: flex;
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+        & ul.tags li.tag {
+            font-size: 0.8rem;
+            font-weight: 400;
+            font-family: "Source Serif 4", serif;
+            background: var(--white);
+            padding: 1ch;
+            border-radius: 4px;
+            cursor: pointer;
 
             & a {
+                text-decoration: none;
+                color: var(--black);
+
+                &::before {
+                    display: none;
+                }
+            }
+            &:hover {
+                background: var(--black);
                 color: var(--background);
+
+                & a {
+                    color: var(--background);
+                }
             }
         }
-    }
-    .presentation a.lien-post {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        background: transparent;
-        z-index: 0;
-        content: "";
-        top: 0;
-        left: 0;
-        cursor: pointer;
-    }
+        /* a .presentation a.lien-post {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            background: transparent;
+            z-index: 0;
+            content: "";
+            top: 0;
+            left: 0;
+            cursor: pointer;
+        } */
+    </a>
 </style>

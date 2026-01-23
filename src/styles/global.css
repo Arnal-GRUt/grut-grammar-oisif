@@ -133,7 +133,7 @@ p a {
 	transition: text-decoration 0.2s ease;
 	position: relative;
 
-	&::before {
+	&:not(.lien-post)::before {
 		content: "";
 		position: absolute;
 		background: var(--black);

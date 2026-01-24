@@ -35,12 +35,18 @@ const { frontmatter } = Astro.props;
       </div>
     </div>
   </div>
-  <style></style>
 </BaseLayout>
 <style>
+  * {
+    gap: 1.7ch;
+  }
   .contenu-page .main.page-texte {
     max-width: 768px;
     width: 100%;
+
+    & .corps-texte p {
+      text-indent: 2ch;
+    }
   }
 
   .boite-contrainte h3,

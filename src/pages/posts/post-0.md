@@ -21,7 +21,7 @@ Lecture d'un article du magazine Chut !- p.26
 
 - programme fondation neige technologie mondial scientifique centrer **vertical** éducation
   
-L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur Est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.
+L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur Est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.  
 
 De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur de sa vie, celui de douleur de Daron à la réception et le mien étouffé par la surprise, il ne restait que peu de place au débat.
 
@@ -32,12 +32,12 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 - Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"
 - liste des mots sélectionnés (mot à utiliser en gras): triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
-« Il faut que tu sautes là. Soupire J. P.
-— J’ai plus trop envie. Répond Alfred.
-— Oui mais maintenant que t’es là, il faut que tu sautes. Insiste J. P.
-— C’est trop loin. Tu le vois autant que moi. S’insurge Alfred.
-— J’ai demandé. T’as dit oui. T’as payé. Maintenant tu te débines pas.
-— Bon OK. Je saute. »
+« Il faut que tu sautes là. Soupire J. P.  
+-- J’ai plus trop envie. Répond Alfred.  
+-- Oui mais maintenant que t’es là, il faut que tu sautes. Insiste J. P.  
+-- C’est trop loin. Tu le vois autant que moi. S’insurge Alfred.  
+-- J’ai demandé, t’as dit oui, t’as payé. Maintenant tu te débines pas.  
+-- Bon OK. Je saute. »  
 
 Alfred prend son élan. Quatre bons mètres et il saute comme jamais. L’arrivée en bas est rude. L’avantage c’est qu’il ne ressent plus rien. L’idée même de ressentir n’existe plus. Alfred d’ailleurs n’existe plus.&nbsp;
 J. P. fait avancer un nouveau candidat.

@@ -1015,6 +1015,7 @@ html:not([id*=Grammar]) body {
 		animation-range-start: 0vh;
 		animation-range-end: 0vh;
 		border-bottom: 2px dashed var(--white);
+		/* border-bottom: 2px dashed var(--black); */
 	}
 	
 	@keyframes to-top-2 {

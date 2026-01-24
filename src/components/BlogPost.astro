@@ -1,8 +1,7 @@
 ---
 // import Tag from "../pages/tags/[tag].astro";
 // import PostTags from "../components/postTags.astro";
-const { title, url, pubDate, author, contexte, enonce } = Astro.props;
-const { tags } = Astro.props;
+const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
 ---
 
 <a class="lien-post" href={url}>
@@ -12,7 +11,7 @@ const { tags } = Astro.props;
             <p class="date-et-auteur">
                 <span class="date-publication">
                     <!-- {pubDate.toString().slice(0, 10)}</span -->
-                    {pubDate}</span
+                    {pubDate.toString().slice(0, 10)}</span
                 >
                 <span>|</span><span class="auteur">{author}</span>
             </p>

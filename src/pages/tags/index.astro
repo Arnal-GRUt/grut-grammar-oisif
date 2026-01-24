@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+const allPosts = Object.values(
+    import.meta.glob("../posts/*.md", { eager: true }),
+);
+const tags = [
+    ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
+];
+const pageTitle = "text-tags";
+---
+
+<BaseLayout pageTitle={pageTitle}>
+    <div class="contenu-page display-flex direction-row">
+        <div class="main">
+            <ul class="tags">
+                {
+                    tags.map((tag) => (
+                        <li class="tag">
+                            <a href={`/tags/${tag}`}>{tag}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </div>
+    </div>
+    <style>
+        ul.tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            font-size: 0.8rem;
+            line-height: 2ch;
+            padding-bottom: 1ch;
+            display: flex;
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+        ul.tags li.tag {
+            font-size: 0.8rem;
+            font-weight: 400;
+            font-family: "Source Serif 4", serif;
+            background: var(--white);
+            padding: 1ch;
+            border-radius: 4px;
+            cursor: pointer;
+
+            & a {
+                text-decoration: none;
+                color: var(--black);
+
+                &::before {
+                    display: none;
+                }
+            }
+            &:hover {
+                background: var(--black);
+                color: var(--background);
+
+                & a {
+                    color: var(--background);
+                }
+            }
+        }
+    </style>
+</BaseLayout>

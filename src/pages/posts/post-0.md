@@ -8,19 +8,23 @@ contexte : "3 temps : passé, présent, futur - sélectionner plusieurs mots da
 enonce : "Écrire 3 textes courts en 15min maximum."
 tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 ---
+
 ## Exercice 1 du matin
 
 Énoncé : écrire 3 textes courts en 15min maximum.
 
 ### Texte 1 au PASSÉ
 
-- Lecture d'un article du magazine *Chut !* - p.26
-- liste des mots sélectionnés (mot à utiliser en gras): programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
+Lecture d'un article du magazine *Chut !* - p.26
 
----
+### liste des mots sélectionnés (mot à utiliser en gras)
 
-L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur Est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.&nbsp;&nbsp;
-De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur de sa vie, celui de douleur de Daron à la réception et le mien étouffé par la surprise, il ne restait que peu de place au débat.&nbsp;&nbsp;
+- programme fondation neige technologie mondial scientifique centrer **vertical** éducation
+  
+L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur Est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.
+
+De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur de sa vie, celui de douleur de Daron à la réception et le mien étouffé par la surprise, il ne restait que peu de place au débat.
+
 À l’hôpital, la jambe dans le plâtre et tenue à l’horizontale, Daron riait des inquiétudes et des reproches de Daronne. Daronne soufflait agacées. Quant à moi, le fiston flippé de tout et de rien je réglais les chaînes de TV sur l’écran de la chambre afin que Daron puisse regarder tranquillement ses mondiaux d’escalade.
 
 ### Texte 2 au PRÉSENT
@@ -28,42 +32,44 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 - Lecture d'un extrait de *J.O.* de R. Depardon - "Munich 1975"
 - liste des mots sélectionnés (mot à utiliser en gras): triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
----
-
 « Il faut que tu sautes là. Soupire J. P.
-    — J’ai plus trop envie. Répond Alfred.
-    — Oui mais maintenant que t’es là, il faut que tu sautes. Insiste J. P.
-    — C’est trop loin. Tu le vois autant que moi. S’insurge Alfred.
-    — J’ai demandé. T’as dit oui. T’as payé. Maintenant tu te débines pas.
-    — Bon OK. Je saute. »&nbsp;&nbsp;
-Alfred prend son élan. Quatre bons mètres et il saute comme jamais. L’arrivée en bas est rude. L’avantage c’est qu’il ne ressent plus rien. L’idée même de ressentir n’existe plus. Alfred d’ailleurs n’existe plus.&nbsp;&nbsp;
-J. P. fait avancer un nouveau candidat.&nbsp;&nbsp;
+— J’ai plus trop envie. Répond Alfred.
+— Oui mais maintenant que t’es là, il faut que tu sautes. Insiste J. P.
+— C’est trop loin. Tu le vois autant que moi. S’insurge Alfred.
+— J’ai demandé. T’as dit oui. T’as payé. Maintenant tu te débines pas.
+— Bon OK. Je saute. »
+
+Alfred prend son élan. Quatre bons mètres et il saute comme jamais. L’arrivée en bas est rude. L’avantage c’est qu’il ne ressent plus rien. L’idée même de ressentir n’existe plus. Alfred d’ailleurs n’existe plus.&nbsp;
+J. P. fait avancer un nouveau candidat.
+
+
 « Allez, tu me déçois pas hein. Fais pas comme Alfred ce nulos et ça va bien se passer.
-    — C’est trop loin. Clairement. Y a au moins quatorze mètres. Répond Roberto effrayé.
-    — Ça va… Les triples-sauteurs en longueur sont capables de le faire. C’est donc que c’est possible. C’est pas des surhommes ces gars-là non ?
-    — Oué enfin je suis pas triple-sauteur moi.
-    — Tu peux le faire. Ais confiance.
-    — OK. J’y vais. »&nbsp;&nbsp;
+— C’est trop loin. Clairement. Y a au moins quatorze mètres. Répond Roberto effrayé.
+— Ça va… Les triples-sauteurs en longueur sont capables de le faire. C’est donc que c’est possible. C’est pas des surhommes ces gars-là non ?
+— Oué enfin je suis pas triple-sauteur moi.
+— Tu peux le faire. Ais confiance.
+— OK. J’y vais. »
+
+
 Roberto prend son élan. Un bel élan de triple-sauteur olympique et saute ! Loin ! Très loin !
-À mi-chemin cependant il se rend bien compte qu’il lui manque un bon mètre environ. Relativement déçu, il décide donc d’en finir avec les honneurs. Il transforme sa chute en triple saut périlleux avant, puis enchaîne avec une double vrille carpée et termine en écartant les bras façon saut de l’ange comme à la gym. Il a le temps d’entendre quelques applaudissements et plus rien. Comme Alfred.&nbsp;&nbsp;
-J. P. Fait les grands pas. Il commence à s’agacer :&nbsp;&nbsp;
-« Mais enfin, personne ne les veut ces 100 000 boules ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunette dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?&nbsp;&nbsp;
-    — Peter.
-    — Bonjour Péteur. Péteur comment ?
-    — Peter Parker. Et je veux le double.
-    — Lol ! T'es un comique toi. Allez marché conclu et bon courage le binoclard.
+À mi-chemin cependant il se rend bien compte qu’il lui manque un bon mètre environ. Relativement déçu, il décide donc d’en finir avec les honneurs. Il transforme sa chute en triple saut périlleux avant, puis enchaîne avec une double vrille carpée et termine en écartant les bras façon saut de l’ange comme à la gym. Il a le temps d’entendre quelques applaudissements et plus rien. Comme Alfred.
+
+J. P. Fait les grands pas. Il commence à s’agacer :
+
+« Mais enfin, personne ne les veut ces 100 000 boules ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunette dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?
+
+— Peter.
+— Bonjour Péteur. Péteur comment ?
+— Peter Parker. Et je veux le double.
+— Lol ! T'es un comique toi. Allez marché conclu et bon courage le binoclard.
 
 ### Texte 3 au FUTUR
 
 - Lecture d'un extrait de L’affaire Dreyfus – « L’affaire entre commémoration et publicité » – p.56
 - liste des mots sélectionnés (mot à utiliser en gras): inverse / dimension / objet / politique / symbole / souvenir / ordinaire / médaille / pommeau / buste / **réclame** / cigarette / chocolat / affaire / marionette
 
----
-
 J’ai un plan chef. On ne verra jamais l’autre. Il prendra la route cachée et poursuivra par-derrière. On pourra rien y faire. Comment pourrons-nous réclamer quoi que ce soit s’il choisit cette route ? Il aura trop d’avance et sera trop proche de la station commerciale. Trop risqué.&nbsp;&nbsp;Le mieux à faire, ça reste de prévoir 3 chasseurs en planque derrière chacun des 3 plus gros astéroïdes de ma route principale. Quand il les verra, il se doutera d’un truc et se sentira forcé de passer par la route alternative ! Parce qu’on se planquera mal en fait. Mal, mais attention, suffisamment bien pour qu’il ne soupçonne pas qu’on les a cachés là exprès afin que lui et son cargo fassent le tour. Malin hein !&nbsp;&nbsp;Et là, on lui tombera dessus ! Il se prendra son p’tit bonus de douane comme tout le monde. Il faudra faire comme ça chef. Ça fait trop longtemps qu’il nous la joue furtif le gaillard.&nbsp;&nbsp;Cordialement,&nbsp;&nbsp;
 Le capitaine du « Barboteurs des étoiles ».&nbsp;&nbsp;
-
----
 
 ## Exercice 2 du matin
 

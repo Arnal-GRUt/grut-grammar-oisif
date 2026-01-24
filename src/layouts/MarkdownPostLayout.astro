@@ -4,37 +4,97 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
-  <p><em>{frontmatter.description}</em></p>
-  <p>{frontmatter.pubDate.toString().slice(0, 10)}</p>
-
-  <p>Écrit par : {frontmatter.author}</p>
-  <div class="tags">
-    {
-      frontmatter.tags.map((tag: string) => (
-        <li class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </li>
-      ))
-    }
+  <div class="contenu-page display-flex direction-row">
+    <div class="main page-texte">
+      <!-- <h1 class="soustitre-page">{frontmatter.title}</h1> -->
+      <div class="display-flex direction-column presentation">
+        <div class="display-flex carton-presentation direction-column">
+          <h1 class="soustitre-page">{frontmatter.title}</h1>
+          <p class="date-et-auteur">
+            <span class="date-publication">
+              {frontmatter.pubDate.toString().slice(0, 10)}</span
+            >
+            <span>|</span><span class="auteur">{frontmatter.author}</span>
+          </p>
+        </div>
+        <div class="display-flex direction-column introduction">
+          <h3>Présentation</h3>
+          <p>{frontmatter.contexte}</p>
+          <h3>Énoncé</h3>
+          <p>{frontmatter.enonce}</p>
+        </div>
+        <div class="display-flex boite-contrainte">
+          <h3>Contraintes</h3>
+          <ul class="tags">
+            {frontmatter.tags.map((tag: string) => <li class="tag">{tag}</li>)}
+          </ul>
+        </div>
+      </div>
+      <div class="corps-texte display-flex direction-column">
+        <slot />
+      </div>
+    </div>
   </div>
-  <slot />
+  <style></style>
 </BaseLayout>
 <style>
-  /* a {
-    color: #00539f;
+  .contenu-page .main.page-texte {
+    max-width: 768px;
+    width: 100%;
   }
+  .main.page-texte .presentation {
+    padding: 1rem 0;
+    border-bottom: 2px dashed var(--white);
+    border-radius: 4px;
 
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
+    & .carton-presentation {
+      & p.date-et-auteur {
+        padding-bottom: 4rem;
+        border-bottom: 2px dashed var(--white);
+        margin-bottom: 1rem;
+        font-size: 1rem;
+      }
+    }
+
+    & h1.soustitre-page {
+      position: relative;
+      width: 100%;
+      font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
+      text-align: left;
+      padding: 0;
+      line-height: 2ch;
+    }
+    & .boite-contrainte {
+      flex-wrap: wrap;
+      gap: 1rem;
+
+      & ul.tags {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        font-size: 0.8rem;
+        line-height: 2ch;
+        padding-bottom: 1ch;
+        display: flex;
+        margin-left: 0;
+        padding-left: 0;
+      }
+
+      & ul.tags li.tag {
+        font-size: 0.8rem;
+        font-weight: 400;
+        font-family: "Source Serif 4", serif;
+        background: var(--white);
+        padding: 1ch;
+        border-radius: 4px;
+        display: flex;
+        align-self: center;
+      }
+
+      & div:not(:has(ul)) {
+        width: 100%;
+        max-width: calc(33% - 0.34rem - 48px);
+      }
+    }
   }
-
-  .tag {
-    margin: 0.25em;
-    border: dotted 1px #a1a1a1;
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
-    font-size: 1.15em;
-    background-color: #f8fcfd;
-  } */
 </style>

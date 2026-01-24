@@ -934,7 +934,8 @@ body *.to-small-titre:before {
 /******************************************/
 
 /* body:is(#gribouille, #ecritouille, #about) { */
-html:is(#Gribouille, #Ecritouille, #About) body {
+/* html:is(#Gribouille, #Ecritouille, #About, #text-tags) body { */
+html:not([id*=Grammar]) body {
 	background: var(--background);
 	position: relative;
 
@@ -1367,7 +1368,6 @@ article a {
 		}
 	}
 
-	/* nav.to-top *.to-small-titre { */
 	header nav.to-top *.to-small-titre {
 		animation-range-start: 100vh;
 		animation-range-end: 160vh;

@@ -4,6 +4,7 @@
 const { title, url, pubDate, author, contexte, enonce } = Astro.props;
 const { tags } = Astro.props;
 ---
+
 <a class="lien-post" href={url}>
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
@@ -24,11 +25,7 @@ const { tags } = Astro.props;
         <div class="display-flex boite-contrainte">
             <h3>Contraintes</h3>
             <ul class="tags">
-                {
-                    tags.map((tag: string) => (
-                        <li class="tag">{tag}</li>
-                    ))
-                }
+                {tags.map((tag: string) => <li class="tag">{tag}</li>)}
             </ul>
             <!-- <ul class="tags">
                 {
@@ -41,23 +38,97 @@ const { tags } = Astro.props;
             </ul> -->
         </div>
     </div>
+    <!-- 
+      <section class="display-flex direction-column">
+        <div class="corps-texte display-flex direction-column">
+          <h3>
+            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+            urna auctor sagittis.
+          </h3>
+          <div class="display-flex container-paragraph direction-row">
+            <p>
+              consectetur adipiscing elit. Donec euismod turpis non urna auctor
+              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
+              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
+              nec venenatis dui, in ornare leo. <a href="#"
+                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
+              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
+              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
+              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
+              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
+              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
+              aliquet pellentesque erat.
+            </p>
+          </div>
+        </div>
+        <div class="corps-texte display-flex direction-column">
+          <h3>
+            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+            urna auctor sagittis.
+          </h3>
+          <div class="display-flex container-paragraph direction-row">
+            <p>
+              consectetur adipiscing elit. Donec euismod turpis non urna auctor
+              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
+              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
+              nec venenatis dui, in ornare leo. <a href="#"
+                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
+              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
+              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
+              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
+              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
+              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
+              aliquet pellentesque erat.<br /> Fusce sed urna in dolor imperdiet efficitur
+              nec vitae risus. Aenean id purus id dolor efficitur varius. Vivamus
+              consequat nibh dolor, nec pellentesque nisi pulvinar vitae. Integer
+              blandit molestie eros vel sagittis. Mauris nec iaculis ex, ut sodales
+              enim. Vestibulum mattis gravida ante id hendrerit. Sed elementum enim
+              in nisl mollis, et varius magna scelerisque. Integer tristique magna
+              id purus luctus luctus.
+            </p>
+          </div>
+        </div>
+        <div class="corps-texte display-flex direction-column">
+          <h3>
+            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
+            urna auctor sagittis.
+          </h3>
+          <div class="display-flex container-paragraph direction-row">
+            <p>
+              consectetur adipiscing elit. Donec euismod turpis non urna auctor
+              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
+              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
+              nec venenatis dui, in ornare leo. <a href="#"
+                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
+              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
+              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
+              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
+              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
+              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
+              aliquet pellentesque erat.
+            </p>
+          </div>
+        </div>
+      </section>
+    </div> -->
 </a>
+
 <!-- Style -->
 <style>
-    a.lien-post {        
+    a.lien-post {
         transition: background 0.2s ease;
         max-width: calc(640px - 2rem);
         width: 100%;
-        
-        &:hover {        
+
+        &:hover {
             background: color-mix(in srgb, var(--white) 50%, transparent);
-        } 
+        }
 
         &:after {
             display: none;
         }
- 
-        & .display-flex.direction-column.presentation {       
+
+        & .display-flex.direction-column.presentation {
             max-width: calc(640px - 2rem);
             width: 100%;
             border: 2px dashed var(--white);
@@ -66,27 +137,26 @@ const { tags } = Astro.props;
             border-radius: 4px;
             position: relative;
 
-
             & .carton-presentation {
                 display: flex;
-                flex-direction: column;            
+                flex-direction: column;
             }
-                
+
             & .container-paragraph.introduction {
-                    min-width: 100%;
-            }        
+                min-width: 100%;
+            }
 
             & .display-flex.boite-contrainte {
                 flex-wrap: wrap;
                 gap: 1rem;
-                
+
                 & div:not(:has(ul)) {
                     width: 100%;
                     max-width: calc(33% - 0.34rem - 48px);
                 }
             }
-        }          
-        
+        }
+
         & p {
             font-size: 1rem;
             color: var(--black);
@@ -111,7 +181,6 @@ const { tags } = Astro.props;
         & div.contenu-texte {
             border-bottom: 2px dashed var(--black);
         }
-
 
         & .display-flex.direction-column.contenu-texte {
             padding: 3vh 24px;

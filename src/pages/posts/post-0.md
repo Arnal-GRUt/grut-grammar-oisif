@@ -29,7 +29,7 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 
 ### Texte 2 au PRÉSENT
 
-- Lecture d'un extrait de *J.O.* de R. Depardon - "Munich 1975"
+- Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"
 - liste des mots sélectionnés (mot à utiliser en gras): triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
 « Il faut que tu sautes là. Soupire J. P.
@@ -42,14 +42,12 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 Alfred prend son élan. Quatre bons mètres et il saute comme jamais. L’arrivée en bas est rude. L’avantage c’est qu’il ne ressent plus rien. L’idée même de ressentir n’existe plus. Alfred d’ailleurs n’existe plus.&nbsp;
 J. P. fait avancer un nouveau candidat.
 
-
 « Allez, tu me déçois pas hein. Fais pas comme Alfred ce nulos et ça va bien se passer.
 — C’est trop loin. Clairement. Y a au moins quatorze mètres. Répond Roberto effrayé.
 — Ça va… Les triples-sauteurs en longueur sont capables de le faire. C’est donc que c’est possible. C’est pas des surhommes ces gars-là non ?
 — Oué enfin je suis pas triple-sauteur moi.
 — Tu peux le faire. Ais confiance.
 — OK. J’y vais. »
-
 
 Roberto prend son élan. Un bel élan de triple-sauteur olympique et saute ! Loin ! Très loin !
 À mi-chemin cependant il se rend bien compte qu’il lui manque un bon mètre environ. Relativement déçu, il décide donc d’en finir avec les honneurs. Il transforme sa chute en triple saut périlleux avant, puis enchaîne avec une double vrille carpée et termine en écartant les bras façon saut de l’ange comme à la gym. Il a le temps d’entendre quelques applaudissements et plus rien. Comme Alfred.
@@ -65,7 +63,7 @@ J. P. Fait les grands pas. Il commence à s’agacer :
 
 ### Texte 3 au FUTUR
 
-- Lecture d'un extrait de L’affaire Dreyfus – « L’affaire entre commémoration et publicité » – p.56
+- Lecture d'un extrait de L’affaire Dreyfus – « L’affaire, entre commémoration et publicité » – p.56
 - liste des mots sélectionnés (mot à utiliser en gras): inverse / dimension / objet / politique / symbole / souvenir / ordinaire / médaille / pommeau / buste / **réclame** / cigarette / chocolat / affaire / marionette
 
 J’ai un plan chef. On ne verra jamais l’autre. Il prendra la route cachée et poursuivra par-derrière. On pourra rien y faire. Comment pourrons-nous réclamer quoi que ce soit s’il choisit cette route ? Il aura trop d’avance et sera trop proche de la station commerciale. Trop risqué.&nbsp;&nbsp;Le mieux à faire, ça reste de prévoir 3 chasseurs en planque derrière chacun des 3 plus gros astéroïdes de ma route principale. Quand il les verra, il se doutera d’un truc et se sentira forcé de passer par la route alternative ! Parce qu’on se planquera mal en fait. Mal, mais attention, suffisamment bien pour qu’il ne soupçonne pas qu’on les a cachés là exprès afin que lui et son cargo fassent le tour. Malin hein !&nbsp;&nbsp;Et là, on lui tombera dessus ! Il se prendra son p’tit bonus de douane comme tout le monde. Il faudra faire comme ça chef. Ça fait trop longtemps qu’il nous la joue furtif le gaillard.&nbsp;&nbsp;Cordialement,&nbsp;&nbsp;

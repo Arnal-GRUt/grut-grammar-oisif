@@ -979,7 +979,7 @@ html:not([id*=Grammar]) body {
             column-gap: 8px;
             row-gap: 16px;
             align-items: flex-start;
-			justify-content: center;
+			/* justify-content: center; */
 		}
 	}	
 	/* & nav.to-top { */

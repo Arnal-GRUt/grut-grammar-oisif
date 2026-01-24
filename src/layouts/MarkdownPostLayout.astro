@@ -37,18 +37,17 @@ const { frontmatter } = Astro.props;
   </div>
 </BaseLayout>
 <style>
-  * {
-    gap: 1.7ch;
+  :not(.introduction)* {
+    gap: 3ch;
   }
   .contenu-page .main.page-texte {
     max-width: 768px;
     width: 100%;
-
-    & .corps-texte p {
-      text-indent: 2ch;
-    }
   }
-
+  /* 
+  .corps-texte p {
+    text-indent: 2ch;
+  } */
   .boite-contrainte h3,
   .corps-texte h3 {
     font-size: 1.8rem;
@@ -63,13 +62,19 @@ const { frontmatter } = Astro.props;
     border-bottom: 2px dashed var(--white);
     padding-bottom: 1ch;
   }
+
+  .corps-texte p img {
+    height: auto;
+    width: 50%;
+  }
+
   .main.page-texte .presentation {
     padding: 1rem 0;
     border-bottom: 2px dashed var(--black);
     border-radius: 4px;
 
     & .display-flex.direction-column.introduction {
-      gap: 1.5ch;
+      gap: 1ch;
     }
 
     & .carton-presentation {

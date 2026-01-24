@@ -9,13 +9,13 @@ enonce : "Écrire 3 textes courts en 15min maximum."
 tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 ---
 
-## Exercice 1 du matin
+### Exercice 1 du matin
 
-Énoncé : écrire 3 textes courts en 15min maximum.
+Écrire 3 textes courts en 15min maximum.
 
 ### Texte 1 au PASSÉ
 
-Lecture d'un article du magazine *Chut !* - p.26
+Lecture d'un article du magazine Chut !- p.26
 
 ### liste des mots sélectionnés (mot à utiliser en gras)
 

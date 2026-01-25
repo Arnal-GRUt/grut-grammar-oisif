@@ -1,44 +1,77 @@
 ---
+import ArtCard from "../components/ArtCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import BlogPost from "../components/BlogPost.astro";
-const allPosts = Object.values(
-	import.meta.glob("./posts/*.md", { eager: true }),
-);
+const { imagePath, altText } = Astro.props;
 
-const tags = [
-	...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
-];
-const pageTitle = "Ecritouille";
+const pageTitle = "Gribouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<div class="contenu-page display-flex direction-row">
-		<div class="main">
-			<h1 class="soustitre-page">{pageTitle}</h1>
-			{
-				allPosts.map((post: any) => (
-					<BlogPost
-						url={post.url}
-						title={post.frontmatter.title}
-						pubDate={post.frontmatter.pubDate}
-						author={post.frontmatter.author}
-						title={post.frontmatter.title}
-						contexte={post.frontmatter.contexte}
-						enonce={post.frontmatter.enonce}
-						tags={post.frontmatter.tags}
-					/>
-				))
-			}
+	<div class="galerie display-flex direction-row">
+		<div class="colonne-image-1">
+			<!-- <ArtCard imagePath={imagePath} altText={altText} /> -->
+			<ArtCard
+				imagePath="../images/alien-et-flingue-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/gardien_v-2023-final-color-1.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/fork-ciel-nb.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/saintes_doodle.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/texte-perso-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/background-home.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/alien-et-flingue-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/gardien_v-2023-final-color-1.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/fork-ciel-nb.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/saintes_doodle.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/texte-perso-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
+			<ArtCard
+				imagePath="../images/background-home.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+			/>
 		</div>
 	</div>
+	<style>
+		#Gribouille .contenu-page .main.grid {
+			max-width: 60rem;
+			margin: 0 auto;
+			display: grid;
+			gap: 1em;
+			grid-template-columns: repeat(3, 1fr);
+			grid-template-rows: masonry;
+
+			& a.lien-post:first-of-type {
+				grid-column: span 2;
+			}
+		}
+	</style>
 </BaseLayout>
-<style>
-	.main {
-		max-width: 60rem;
-		margin: 0 auto;
-		display: grid;
-		gap: 1em;
-		grid-template-columns: repeat(3, 1fr);
-		grid-template-rows: masonry;
-	}
-</style>

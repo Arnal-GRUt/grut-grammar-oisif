@@ -35,46 +35,46 @@ const { frontmatter } = Astro.props;
       </div>
     </div>
   </div>
-</BaseLayout>
-<style>
-  :not(.introduction)* {
-    gap: 3ch;
-  }
-  .contenu-page .main.page-texte {
-    max-width: 768px;
-    width: 100%;
-  }
-  /* 
-  .corps-texte p {
-    text-indent: 2ch;
-  } */
-  .boite-contrainte h3,
-  .corps-texte h3 {
-    font-size: 1.8rem;
-  }
-  .corps-texte ul {
-    padding: 1rem 0;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-  .corps-texte ul li {
-    border-bottom: 2px dashed var(--white);
-    padding-bottom: 1ch;
-  }
+  <style>
+    * {
+      gap: 1.6rem;
+    }
+    .boite-contrainte h3,
+    .corps-texte {
+      & p img {
+        height: auto;
+        width: 50%;
+      }
+      & h3 {
+        font-size: 1.8rem;
+      }
 
-  .corps-texte p img {
-    height: auto;
-    width: 50%;
-  }
+      & ul {
+        padding: 1rem 0;
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
 
-  .main.page-texte .presentation {
-    padding: 1rem 0;
-    border-bottom: 2px dashed var(--black);
-    border-radius: 4px;
+        & li {
+          border-bottom: 2px dashed var(--white);
+          padding-bottom: 1ch;
+        }
+      }
+    }
 
-    & .display-flex.direction-column.introduction {
-      gap: 1ch;
+    ul:not(.tags) {
+      padding: 0 0 0 24px;
+      border-left: 2px dashed var(--black);
+    }
+
+    .main.page-texte .presentation {
+      padding: 1rem 0;
+      border-bottom: 2px dashed var(--black);
+      border-radius: 4px;
+
+      & .display-flex.direction-column.introduction {
+        gap: 1ch;
+      }
     }
 
     & .carton-presentation {
@@ -125,5 +125,5 @@ const { frontmatter } = Astro.props;
         max-width: calc(33% - 0.34rem - 48px);
       }
     }
-  }
-</style>
+  </style>
+</BaseLayout>

@@ -12,8 +12,7 @@ enonce : "Écrire 3 textes courts en 15min maximum."
 tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "texte(s) remanié(s)"]
 ---
 
-### Exercice 1 du matin
-
+## Exercice 1 du matin
 
 Écrire 3 textes courts en 15min maximum.
 
@@ -84,17 +83,16 @@ Le capitaine du « Barboteurs des étoiles ».
 
 ## Exercice 2 du matin
 
-Énoncé : prendre le 8e mot de chaque liste (passé, présent, futur) et rédiger ayant pour thème le mot du 8e jour de la liste de Katty Steward (cf. compte Bluesky) - 20min ?
-&nbsp;
+Énoncé : prendre le 8e mot de chaque liste (passé, présent, futur) et rédiger ayant pour thème le mot du 8e jour de la liste de Katty Steward (cf. compte Bluesky) - 20min ?  
+
 Les mots tirés au sort :
 
 - Passé : VERTICAL
 - Présent : BRASSE
 - Futur : MÉDAILLE
+- Le thème de Katty : « Mélanger »
 
-Le thème de Katty : « Mélanger »
-
-*Texte remanié d’après le premier jet sur le cahier (Moulin du Blochet).*
+**Texte remanié d’après le premier jet sur le cahier (Moulin du Blochet).**
 
 Il m’a mordu il y a 4 jours ce con de clébard. C’était un très gros chien-loup. J’y connais rien en race de chien mais toujours est-il que ça y ressemblait. En tous cas la blessure au bras m’a fait très mal. On m’avait prévenu que les bois derrière la ville étaient mal fréquentés même si je ne pensais pas à ce genre de « fréquentation » pour être tout à fait honnête. J’ai failli y passer vraiment. Heureusement que la bagnole était garée pas loin, à 1 ou 2 seconde près je finissais en quatre-heures pour le bestiau. Je crois que je n’ai jamais couru aussi vite de ma vie. Je mériterais une médaille pour une telle performance.  
 
@@ -111,18 +109,3 @@ Finalement je crois que je vais y retourner dans cette forêt. Et peut-être mê
 J’ai faim bon sang.  
 
 J’ai faim.  
-
-<style>
- *:not(.introduction) .corps-texte p {
-    text-indent: 3.5ch;
-  }
-.corps-texte p img {
-    height: auto;
-    width:100%;
-    object-fit: cover;
-    max-height: 400px;
-    border-radius: 4px;
-    border: 2px dashed var(--black);
-    margin: 1rem 0;
-  }
-  </style>

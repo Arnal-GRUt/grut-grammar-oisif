@@ -950,12 +950,21 @@ html:not([id*=Grammar]) body {
 		}
 	}
 
+	/* *:not(.introduction) .corps-texte p {
+        text-indent: 3.5ch;
+    } */
+
+	ul:not(.tags, .nav-links, .navigation) {
+    padding: 0px 24px;
+    border-left: 2px dashed var(--black);
+}
+
 	& h1.soustitre-page {
 		max-width: calc(640px - 2rem);
 		position: relative;
 		margin-top: 4rem;
 		width: 100%;
-		padding: 0 2rem;
+		/* padding: 0 2rem; */
 		font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
 		text-align: left;
 	}
@@ -972,7 +981,7 @@ html:not([id*=Grammar]) body {
         margin-top: 56px;
 
 		& .main {
-			max-width: 1280px;
+			max-width: 640px;
             padding: 3vh 1rem 3vh 1rem;
             max-height: fit-content;
             flex-wrap: wrap;
@@ -1089,7 +1098,9 @@ html:not([id*=Grammar]) body {
 		width: 100vw;	
 		width: calc(100vw - (var(--gap-24) / 2));
         gap: var(--gap-24);		
-		padding: 0 2vw;
+		padding: 0 2vw;		
+		z-index: 1;
+        background: var(--background);
 		
 		& .carton-presentation {
 			max-width: calc(25% - (var(--gap-24)/2));	
@@ -1113,7 +1124,7 @@ html:not([id*=Grammar]) body {
 		}
 	}	
 
-	& div[class*="galerie"] figure {
+	& div[class*="galerie"] .figure {
 		position: relative;
 		overflow: hidden;
 
@@ -1130,7 +1141,7 @@ html:not([id*=Grammar]) body {
 			overflow: visible;
 		}
 		
-		& figcaption {	
+		& .figcaption {	
 			font-size: clamp(0.8rem, 0.5rem + 0.5667vw, 1.2rem);
 			background-color: var(--black);
             width: fit-content;
@@ -1149,7 +1160,7 @@ html:not([id*=Grammar]) body {
             transform: rotate(-2deg);
 			color: var(--white);
 		}
-		&:hover figcaption {
+		&:hover .figcaption {
 			opacity: 1;			
 		}
 	}
@@ -1463,7 +1474,7 @@ article a {
 	}
 	
 	
-	body#gribouille {
+	body#Gribouille {
 		& .main div.galerie.display-flex.direction-row {
 			flex-direction: column;
 			
@@ -1476,9 +1487,9 @@ article a {
 
 
 @media (width < 1025px) {
-	body#gribouille {
+	body#Gribouille {
 
-		& div[class*="galerie"] figure {
+		& div[class*="galerie"] .figure {
 			position: relative;
 			overflow: hidden;
 
@@ -1489,7 +1500,7 @@ article a {
 				transform: scale(1);
 			}
 					
-			& figcaption {
+			& .figcaption {
 				position: relative;
 				width: 110%;
 				height: fit-content;

@@ -14,15 +14,13 @@ tags: ["nouvelle", "exercice", "premier jet", "mot(s) imposé(s)", "temps impos�
 
 ## Exercice 1 du matin
 
+Lecture d'un article du magazine Chut !- p.26  
 Écrire 3 textes courts en 15min maximum.
 
 ### Texte 1 au PASSÉ
 
-Lecture d'un article du magazine Chut !- p.26
-
-### liste des mots sélectionnés (mot à utiliser en gras)
-
-- programme fondation neige technologie mondial scientifique centrer **vertical** éducation
+- Liste des mots sélectionnés (mot à utiliser en gras) :
+- programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
 
 <!-- ![alien cyclope de dos qui tient un flingue](../../images/alien-et-flingue-2.png) -->
 
@@ -34,8 +32,8 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 
 ### Texte 2 au PRÉSENT
 
-- Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"
-- liste des mots sélectionnés (mot à utiliser en gras): triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
+- Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"  
+- liste des mots sélectionnés (mot à utiliser en gras) : triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
 « Il faut que tu sautes là. Soupire J. P.  
 -- J’ai plus trop envie. Répond Alfred.  
@@ -60,7 +58,7 @@ Roberto prend son élan. Un bel élan de triple-sauteur olympique et saute ! Lo
 
 J. P. Fait les grands pas. Il commence à s’agacer :
 
-« Mais enfin, personne ne les veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunette dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
+« Mais enfin, personne ne le veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunette dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
 -- Peter.  
 -- Bonjour Péteur. Péteur comment ?  T'es le Cousin péteur c'est ça ? Héhé. La foule est hilare.  
 -- Non. Parker. Peter Parker. Et je veux le double si j'arrive de l'autre coté.  
@@ -83,7 +81,7 @@ Le capitaine du « Barboteurs des étoiles ».
 
 ## Exercice 2 du matin
 
-Énoncé : prendre le 8e mot de chaque liste (passé, présent, futur) et rédiger ayant pour thème le mot du 8e jour de la liste de Katty Steward (cf. compte Bluesky) - 20min ?  
+Énoncé : prendre le 8e mot de chaque liste (passé, présent, futur) et rédiger un texte ayant pour thème le mot du 8e jour de la liste de Katty Steward (cf. compte Bluesky) - 20min ?  
 
 Les mots tirés au sort :
 

@@ -6,7 +6,6 @@ const { frontmatter } = Astro.props;
 <BaseLayout pageTitle={frontmatter.title}>
   <div class="contenu-page display-flex direction-row">
     <div class="main page-texte">
-      <!-- <h1 class="soustitre-page">{frontmatter.title}</h1> -->
       <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
           <h1 class="soustitre-page">{frontmatter.title}</h1>
@@ -84,6 +83,11 @@ const { frontmatter } = Astro.props;
         margin-bottom: 1rem;
         font-size: 1rem;
       }
+
+      & h1.soustitre-page {
+        width: 100%;
+        max-width: 100%;
+      }
     }
 
     & h1.soustitre-page {
@@ -93,7 +97,9 @@ const { frontmatter } = Astro.props;
       text-align: left;
       padding: 0;
       line-height: 2ch;
+      max-width: none;
     }
+
     & .boite-contrainte {
       flex-wrap: wrap;
       gap: 1.5ch;

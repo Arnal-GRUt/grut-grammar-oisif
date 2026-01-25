@@ -27,12 +27,49 @@ const { posts } = Astro.props;
 ---
 
 <BaseLayout pageTitle={tag}>
-    <p>Articles étiquetés avec {tag}</p>
-    <ul>
-        {
-            posts.map((post: any) => (
-                <BlogPost url={post.url} title={post.frontmatter.title} />
-            ))
-        }
-    </ul>
+    <div class="contenu-page display-flex direction-row">
+        <div class="main tags">
+            <h1 class="soustitre-page">{tag}</h1>
+            <ul class="tag-selection display-flex direction-row">
+                {
+                    posts.map((post: any) => (
+                        <BlogPost
+                            url={post.url}
+                            title={post.frontmatter.title}
+                            pubDate={post.frontmatter.pubDate}
+                            author={post.frontmatter.author}
+                            contexte={post.frontmatter.contexte}
+                            enonce={post.frontmatter.enonce}
+                        />
+                    ))
+                }
+            </ul>
+        </div>
+    </div>
 </BaseLayout>
+<style>
+    .contenu-page {
+        align-items: flex-start;
+        justify-content: flex-start;
+        margin-top: 0;
+    }
+    .contenu-page .main.tags {
+        min-width: calc(100% - 24px);
+        min-height: 100vh;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    .main.tags ul.tag-selection {
+        margin-top: 5vw;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        justify-content: start;
+        align-items: flex-start;
+        background: var(--background);
+        /* padding-left: 0; */
+        gap: var(--gap-24);
+        height: auto;
+        flex-wrap: wrap;
+    }
+</style>

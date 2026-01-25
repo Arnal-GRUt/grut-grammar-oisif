@@ -538,7 +538,9 @@ body .display-flex.direction-row.redirection-col {
 
 .redirection-card-ecritouille .ambiance.display-flex.direction-row {
     gap: var(--gap-24);
-    width: calc(100% - 24px);
+    /* width: calc(100% - 24px); */
+	width: 70vw;
+    align-self: flex-start;
 
 	& p {
 		width: 100%;

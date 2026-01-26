@@ -12,11 +12,21 @@ const pageTitle = "Ecritouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <div class="contenu-page display-flex direction-row">
+  <div class="contenu-page display-flex direction-row">    
     <div class="main">
-      <h1 class="soustitre-page">{pageTitle}</h1>
-      {
-        allPosts.map((post: any) => (
+      <ul class="tags">
+                {
+                    tags.map((tag) => (
+                        <li class="tag">
+                            <a href={`/tags/${tag}`}>{tag}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+        <h1 class="soustitre-page">{pageTitle}</h1>   
+            {
+              
+              allPosts.map((post: any) => (
           <BlogPost
             url={post.url}
             title={post.frontmatter.title}
@@ -25,89 +35,54 @@ const pageTitle = "Ecritouille";
             title={post.frontmatter.title}
             contexte={post.frontmatter.contexte}
             enonce={post.frontmatter.enonce}
-            tags={post.frontmatter.tags}
+            tags={post.frontmatter.tags}            
           />
         ))
       }
-    </div>
-    <!-- 
-      <section class="display-flex direction-column">
-        <div class="corps-texte display-flex direction-column">
-          <h3>
-            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-            urna auctor sagittis.
-          </h3>
-          <div class="display-flex container-paragraph direction-row">
-            <p>
-              consectetur adipiscing elit. Donec euismod turpis non urna auctor
-              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
-              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
-              nec venenatis dui, in ornare leo. <a href="#"
-                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
-              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
-              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
-              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
-              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
-              aliquet pellentesque erat.
-            </p>
-          </div>
-        </div>
-        <div class="corps-texte display-flex direction-column">
-          <h3>
-            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-            urna auctor sagittis.
-          </h3>
-          <div class="display-flex container-paragraph direction-row">
-            <p>
-              consectetur adipiscing elit. Donec euismod turpis non urna auctor
-              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
-              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
-              nec venenatis dui, in ornare leo. <a href="#"
-                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
-              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
-              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
-              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
-              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
-              aliquet pellentesque erat.<br /> Fusce sed urna in dolor imperdiet efficitur
-              nec vitae risus. Aenean id purus id dolor efficitur varius. Vivamus
-              consequat nibh dolor, nec pellentesque nisi pulvinar vitae. Integer
-              blandit molestie eros vel sagittis. Mauris nec iaculis ex, ut sodales
-              enim. Vestibulum mattis gravida ante id hendrerit. Sed elementum enim
-              in nisl mollis, et varius magna scelerisque. Integer tristique magna
-              id purus luctus luctus.
-            </p>
-          </div>
-        </div>
-        <div class="corps-texte display-flex direction-column">
-          <h3>
-            Premier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non
-            urna auctor sagittis.
-          </h3>
-          <div class="display-flex container-paragraph direction-row">
-            <p>
-              consectetur adipiscing elit. Donec euismod turpis non urna auctor
-              sagittis. Nulla facilisi. Suspendisse tempor elit urna, a ultrices
-              enim convallis in. In non congue elit, sed fringilla ipsum. Nunc
-              nec venenatis dui, in ornare leo. <a href="#"
-                >Sed auctor magna arcu, id tincidunt purus facilisis quis</a
-              >. Phasellus vehicula eros quis ex faucibus, ac pellentesque sem
-              feugiat. Fusce vel eros quam. Ut et magna nibh. Nullam id pharetra
-              enim, nec auctor augue. Mauris dignissim ornare interdum. Quisque
-              at nisi ullamcorper, lobortis erat at, vehicula nisl. Nam dictum
-              id lorem vel vehicula. Integer eros justo, commodo id eros eget,
-              aliquet pellentesque erat.
-            </p>
-          </div>
-        </div>
-      </section>
-    </div> -->
+    </div>  
   </div>
   <style>
     html#Ecritouille .contenu-page .main {
       max-width: 1024px;
       & h1.soustitre-page
     }
+    ul.tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            font-size: 0.8rem;
+            line-height: 2ch;
+            padding-bottom: 1ch;
+            display: flex;
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+        ul.tags li.tag {
+            font-size: 0.8rem;
+            font-weight: 400;
+            font-family: "Source Serif 4", serif;
+            background: var(--white);
+            padding: 1ch;
+            border-radius: 4px;
+            cursor: pointer;
+
+            & a {
+                text-decoration: none;
+                color: var(--black);
+
+                &::before {
+                    display: none;
+                }
+            }
+            &:hover {
+                background: var(--black);
+                color: var(--background);
+
+                & a {
+                    color: var(--background);
+                }
+            }
+        }
   </style>
 </BaseLayout>

@@ -2,6 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import BlogPost from "../../components/BlogPost.astro";
 
+const { posts } = Astro.props;
+const tous = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
+
 export async function getStaticPaths() {
     const allPosts = Object.values(
         import.meta.glob("../posts/*.md", { eager: true }),
@@ -23,14 +26,22 @@ export async function getStaticPaths() {
 }
 
 const { tag } = Astro.params;
-const { posts } = Astro.props;
 ---
 
 <BaseLayout pageTitle={tag}>
     <div class="contenu-page display-flex direction-row">
         <div class="main tags">
-            <h1 class="soustitre-page">{tag}</h1>
+            <ul class="tags">
+                {
+                    tous.map((post: any) => (
+                        <li class="tag">
+                            <a href={`/tags/${tag}`}>{tag}</a>
+                        </li>
+                    ))
+                }
+            </ul>
             <ul class="tag-selection display-flex direction-row">
+                <h1 class="soustitre-page">{tag}</h1>
                 {
                     posts.map((post: any) => (
                         <BlogPost
@@ -40,6 +51,7 @@ const { posts } = Astro.props;
                             author={post.frontmatter.author}
                             contexte={post.frontmatter.contexte}
                             enonce={post.frontmatter.enonce}
+                            tags={post.frontmatter.tags}
                         />
                     ))
                 }

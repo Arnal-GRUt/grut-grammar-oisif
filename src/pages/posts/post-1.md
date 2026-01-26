@@ -9,7 +9,7 @@ author: 'Apprenti Astro'
 #     alt: "crowbar de paysage urbain"
 contexte : "Du lorem pour tester les pages dynamiques."
 enonce : "3 texte en lorem + liste numérique"
-tags: ["article","blogging", "nouvelle", "non-narratif", "liste", "texte stylisé", "exercice", "concours", "poule de cristal", "stage", "inachevé", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée rédaction", "contrainte(s)", "jdr"]
+tags: ["TOUS", "article", "narratif", "non-narratif", "liste", "exercice", "concours", "poule de cristal", "inachevé", "premier jet", "mot(s) imposé(s)", "durée", "jdr", "texte remanié"]
 ---
 ## MPremier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna auctor sagittis
 

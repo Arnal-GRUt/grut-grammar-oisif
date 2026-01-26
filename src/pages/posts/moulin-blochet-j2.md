@@ -55,7 +55,7 @@ Roberto prend son élan. Un bel élan de triple-sauteur olympique et saute ! Lo
 
 J. P. Fait les grands pas. Il commence à s’agacer :
 
-« Mais enfin, personne ne le veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunette dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
+« Mais enfin, personne ne le veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunettes dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
 -- Peter.  
 -- Bonjour Péteur. Péteur comment ?  T'es le Cousin péteur c'est ça ? Héhé. La foule est hilare.  
 -- Non. Parker. Peter Parker. Et je veux le double si j'arrive de l'autre coté.  

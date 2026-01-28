@@ -5,6 +5,9 @@ import BlogPost from "../../components/BlogPost.astro";
 const { posts } = Astro.props;
 const tous = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
 
+const tags = [
+    ...new Set(posts.map((post: any) => post.frontmatter.tags).flat()),
+];
 export async function getStaticPaths() {
     const allPosts = Object.values(
         import.meta.glob("../posts/*.md", { eager: true }),
@@ -33,6 +36,15 @@ const { tag } = Astro.params;
         <div class="main tags">
             <ul class="tags">
                 {
+                    tags.map((tag) => (
+                        <li class="tag">
+                            <a href={`/tags/${tag}`}>{tag}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+            <ul class="tags">
+                {
                     tous.map((post: any) => (
                         <li class="tag">
                             <a href={`/tags/${tag}`}>{tag}</a>
@@ -41,7 +53,13 @@ const { tag } = Astro.params;
                 }
             </ul>
             <ul class="tag-selection display-flex direction-row">
-                <h1 class="soustitre-page">{tag}</h1>
+                <div>
+                    <div class="cta petit" style="align-items: flex-end;">
+                        <a href="/Ecritouille/">Retour</a>
+                    </div>
+                    <h1 class="soustitre-page">{tag}</h1>
+                </div>
+
                 {
                     posts.map((post: any) => (
                         <BlogPost
@@ -58,30 +76,69 @@ const { tag } = Astro.params;
             </ul>
         </div>
     </div>
+
+    <style>
+        ul.tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            font-size: 0.8rem;
+            line-height: 2ch;
+            padding-bottom: 1ch;
+            display: flex;
+            margin-left: 0;
+            padding-left: 0;
+        }
+
+        ul.tags li.tag {
+            font-size: 0.8rem;
+            font-weight: 400;
+            font-family: "Source Serif 4", serif;
+            background: var(--white);
+            padding: 1ch;
+            border-radius: 4px;
+            cursor: pointer;
+
+            & a {
+                text-decoration: none;
+                color: var(--black);
+
+                &::before {
+                    display: none;
+                }
+            }
+            &:hover {
+                background: var(--black);
+                color: var(--background);
+
+                & a {
+                    color: var(--background);
+                }
+            }
+        }
+        .contenu-page {
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin-top: 0;
+        }
+        .contenu-page .main.tags {
+            min-width: calc(100% - 24px);
+            min-height: 100vh;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+        .main.tags ul.tag-selection {
+            margin-top: 5vw;
+            width: 100%;
+            align-items: center;
+            display: flex;
+            justify-content: start;
+            align-items: flex-start;
+            background: var(--background);
+            /* padding-left: 0; */
+            gap: var(--gap-24);
+            height: auto;
+            flex-wrap: wrap;
+        }
+    </style>
 </BaseLayout>
-<style>
-    .contenu-page {
-        align-items: flex-start;
-        justify-content: flex-start;
-        margin-top: 0;
-    }
-    .contenu-page .main.tags {
-        min-width: calc(100% - 24px);
-        min-height: 100vh;
-        align-items: flex-start;
-        justify-content: flex-start;
-    }
-    .main.tags ul.tag-selection {
-        margin-top: 5vw;
-        width: 100%;
-        align-items: center;
-        display: flex;
-        justify-content: start;
-        align-items: flex-start;
-        background: var(--background);
-        /* padding-left: 0; */
-        gap: var(--gap-24);
-        height: auto;
-        flex-wrap: wrap;
-    }
-</style>

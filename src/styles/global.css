@@ -966,7 +966,8 @@ html:not([id*=Grammar]) body {
 
 	& h1.soustitre-page {
 		/* max-width: calc(50% - 1rem); */
-		max-width: calc(512px - 2rem);
+		/* max-width: calc(512px - 2rem); */
+		max-width: calc(1024px - 2rem);
 		position: relative;
 		margin-top: 4rem;
 		width: 100%;
@@ -984,9 +985,11 @@ html:not([id*=Grammar]) body {
 		z-index: 1;
 		width: 100%;		
         margin-top: 56px;
+		min-height: 100vh;
 
 		& .main {
-			max-width: 640px;
+			/* max-width: 640px; */
+			/* max-width: 1280px; */
             padding: 3vh 1rem 3vh 1rem;
             max-height: fit-content;
             flex-wrap: wrap;
@@ -995,7 +998,7 @@ html:not([id*=Grammar]) body {
             column-gap: 8px;
             row-gap: 16px;
             align-items: flex-start;
-			/* justify-content: center; */
+			justify-content: center;
 		}
 	}	
 	/* & nav.to-top { */

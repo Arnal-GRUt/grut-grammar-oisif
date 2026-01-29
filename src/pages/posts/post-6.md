@@ -7,7 +7,7 @@ author: 'Apprenti Astro'
 image:
     url: '../../src/images/route-grut.png'
     alt: "crowbar de paysage urbain"
-tags: ["Ecritouille", "exercice", "jdr"]
+tags: ["Écritouille", "exercice", "jdr"]
 ---
 ## MPremier chacha. Lorem ipsum dolor sit amet. Donec euismod turpis non urna auctor sagittis
 

@@ -8,6 +8,9 @@ const { frontmatter } = Astro.props;
     <div class="main page-texte">
       <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
+          <span class="icon-arrow"
+            ><a href="/Ecritouille">Retour aux textes</a></span
+          >
           <h1 class="soustitre-page">{frontmatter.title}</h1>
           <p class="date-et-auteur">
             <span class="date-publication">
@@ -35,6 +38,29 @@ const { frontmatter } = Astro.props;
     </div>
   </div>
   <style>
+    span.icon-arrow {
+      position: relative;
+      z-index: 0;
+      display: flex;
+      align-items: center;
+      padding-left: 2rem;
+
+      a {
+        color: var(--black);
+      }
+    }
+    span.icon-arrow::before {
+      content: "";
+      position: absolute;
+      background: transparent url(../images/arrow-bottom-right.png);
+      z-index: 5;
+      width: 1.2rem;
+      height: 1.2rem;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      left: 0;
+    }
     * {
       gap: 1.6rem;
     }
@@ -82,6 +108,10 @@ const { frontmatter } = Astro.props;
         border-bottom: 2px dashed var(--black);
         margin-bottom: 1rem;
         font-size: 1rem;
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        gap: 0.5rem;
       }
 
       & h1.soustitre-page {

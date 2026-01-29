@@ -105,6 +105,8 @@ h6 {
 html {
 	background-color: var(--yellow);
 	font-size: clamp(14px, 11.0838px + 0.2778vw, 18px);
+	overflow-x: hidden;
+
 }
 
 body {
@@ -114,7 +116,6 @@ body {
 	justify-content: start;
 	justify-self: center;
 	width: 100%;
-	overflow-x: hidden;
 	height: fit-content;
 }
 

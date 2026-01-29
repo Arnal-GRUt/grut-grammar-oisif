@@ -6,7 +6,7 @@ description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
 contexte : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
 enonce : "Écrire 3 textes courts en 15min maximum."
-tags: ["TOUS", "narratif", "exercice", "premier jet", "mot(s) imposé(s)", "temps imposé(s)", "durée", "texte remanié"]
+tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "mots", "texte fini", "avec corrections"]
 ---
 
 ## Exercice 1 du matin

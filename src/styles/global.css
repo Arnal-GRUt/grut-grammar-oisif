@@ -117,6 +117,7 @@ body {
 	justify-self: center;
 	width: 100%;
 	height: fit-content;
+	overflow-x: hidden;
 }
 
 header {

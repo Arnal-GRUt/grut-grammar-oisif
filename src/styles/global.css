@@ -995,10 +995,10 @@ html:not([id*=Grammar]) body {
             flex-wrap: wrap;
             display: flex;
             flex-direction: row;
-            column-gap: 8px;
+            column-gap: 16px;
             row-gap: 16px;
             align-items: flex-start;
-			justify-content: center;
+			justify-content: flex-start;
 		}
 
 		& .main.page-texte {
@@ -1167,97 +1167,9 @@ html:not([id*=Grammar]) body {
 				}				
 			}
 		}
-		
-		/* & .carton-presentation {
-			max-width: calc(25% - (var(--gap-24)/2));	
-            background: var(--white);
-            padding: 2vh;
-            border-radius: 0;
-			border: none;
-		}		 */
-		/* & div.dernier-post {
-			
-			& figure {
-				position: relative;
-			
-				& img {
-					max-height: 50vh;
-					width: 100vw;
-					object-fit: cover;
-				}
-			}
-		}*/
+
 	}	
-/* 
-	& div[class*="galerie"] .figure {
-		position: relative;
-		overflow: hidden;
-
-		& img,
-		& Image {
-			filter: grayscale(80%);
-			transition: all 0.2s ease;
-		}
-		
-		&:hover img {
-			filter: none;
-			transform: scale(1.005);
-			overflow: visible;
-		}
-		
-		& .figcaption {	
-			font-size: clamp(0.8rem, 0.5rem + 0.5667vw, 1.2rem);
-			background-color: var(--black);
-            width: fit-content;
-            height: fit-content;
-            min-height: 5%;
-            padding: 0.25rem 1rem;
-            position: absolute;
-            z-index: 2;
-            inset: 0;
-            margin: auto;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            text-align: center;
-            margin-left: -0.5%;
-            margin-bottom: 10%;
-            transform: rotate(-2deg);
-			color: var(--white);
-		}
-		&:hover .figcaption {
-			opacity: 1;			
-		}
-	} */
-	
-	/* & .galerie.display-flex.direction-row {
-		width: 100vw;	
-		width: calc(100vw - (var(--gap-24) / 3));
-		gap: var(--gap-24);
-		
-		& *[class*="colonne-image"] {
-			width: 33%;
-			gap: var(--gap-24);
-			display:flex;
-			flex-direction: column;
-		}
-	} */
 }
-
-/* .info-texte a { */
-/* article a {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	text-decoration: none;
-	z-index: 10;
-	background-color: transparent;
-	/*workaround to make clickable in IE */
-	/*workaround to make clickable in IE */
-	/* filter: alpha(opacity=0); */
-	/*workaround to make clickable in IE */
-/* } */
 
 /* FIN COL STICKY */
 

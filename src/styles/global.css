@@ -106,11 +106,6 @@ html {
 	background-color: var(--yellow);
 	font-size: clamp(14px, 11.0838px + 0.2778vw, 18px);
 	overflow-x: clip;
-
-	& body {
-		overflow-x: inherit;
-	}
-
 }
 
 body {
@@ -121,6 +116,7 @@ body {
 	justify-self: center;
 	width: 100%;
 	height: fit-content;
+	overflow-x: clip;
 }
 
 header {

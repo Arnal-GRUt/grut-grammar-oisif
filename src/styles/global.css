@@ -966,7 +966,7 @@ html:not([id*=Grammar]) body {
 	& h1.soustitre-page {
 		max-width: calc(1024px - 2rem);
 		position: relative;
-		margin-top: 4rem;
+		/* margin-top: 4rem; */
 		width: 100%;
 		font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
 		text-align: left;

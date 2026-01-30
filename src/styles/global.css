@@ -117,7 +117,7 @@ body {
 	justify-self: center;
 	width: 100%;
 	height: fit-content;
-	overflow-x: hidden;
+	overflow-x: clip;
 }
 
 header {
@@ -263,8 +263,6 @@ div.direction-column .container-paragraph {
 		width: fit-content;
 	}
 }
-
-
 
 /* body#Gribouille .galerie-ligne ul.liste-contraintes {
 	gap: 1ch;

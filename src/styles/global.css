@@ -124,7 +124,7 @@ header {
 	width: 100%;
 }
 
-    span.icon-arrow {
+span.icon-arrow {
       position: relative;
       z-index: 0;
       display: flex;

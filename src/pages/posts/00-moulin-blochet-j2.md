@@ -16,8 +16,8 @@ Lecture d'un article du magazine Chut !- p.26
 
 ### Texte 1 au PASSÉ
 
-- Liste des mots sélectionnés (mot à utiliser en gras) :
-- programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
+- Liste des mots sélectionnés (mot à utiliser en majuscules) :
+- programme / fondation / neige / technologie / mondial / scientifique / centrer / VERTICAL / éducation
 
 <!-- ![alien cyclope de dos qui tient un flingue](../../images/alien-et-flingue-2.png) -->
 

@@ -1,6 +1,8 @@
 ---
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
+import { imageMetadata } from "astro/assets/utils";
+import { map } from "astro:schema";
 
 interface Props {
     imagePath: string;
@@ -18,7 +20,15 @@ if (!images[imagePath])
     );
 ---
 
+<!-- <div class="figure">    
+        <Image src={images[imagePath]()} alt={altText} />    
+    <div class="figcaption">{description}</div>
+</div> -->
 <div class="figure">
-    <Image src={images[imagePath]()} alt={altText} />
+    <!-- <a target="_blank" href={`../${imagePath}`}> -->
+    <!-- <a target="_blank" href={imagePath}> -->
+    <a target="_blank" href={imagePath}>
+        <Image src={images[imagePath]()} alt={altText} format="webp" />
+    </a>
     <div class="figcaption">{description}</div>
 </div>

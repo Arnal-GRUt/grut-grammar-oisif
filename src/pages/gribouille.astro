@@ -1,9 +1,11 @@
 ---
+import { coerce } from "astro:schema";
 import ArtCard from "../components/ArtCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 const { imagePath, altText } = Astro.props;
 
 const pageTitle = "Gribouille";
+// imagePath="../artwork/alien-et-flingue-2.png"
 ---
 
 <BaseLayout pageTitle={pageTitle}>

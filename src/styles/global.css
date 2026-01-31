@@ -520,7 +520,7 @@ body .display-flex.direction-row.redirection-col {
     background-size: cover;
     background: var(--black);
 	min-height: 100vh;
-    padding: 10vh 0;
+    /* padding: 10vh 0; */
     height: fit-content;
 
 	&>.display-flex.direction-row {
@@ -633,10 +633,10 @@ html#ecritouille body .tous-les-textes .box article {
 }
 
 .redirection-card-webouille .display-flex.direction-column {
-	width: 20%;
-	min-width: 400px;
+	max-width: 400px;
+	width: 80%;
 	margin-left: 15%;
-	border-radius: 4px;
+	/* border-radius: 4px; */
 	gap: var(--gap-24);
 	padding: 24px;
 	background: var(--white);
@@ -965,7 +965,7 @@ body *.to-small-titre:before {
 
 /* body:is(#gribouille, #ecritouille, #about) { */
 /* html:is(#Gribouille, #Ecritouille, #About, #text-tags) body { */
-html:not([id*=Grammar]) body {
+html:not([id*="Grammar"]) body {
 	background: var(--background);
 	position: relative;
 
@@ -1186,9 +1186,9 @@ html:not([id*=Grammar]) body {
 
 
 @media (width < 835px) {
-	@keyframes clip-reveal {
+	/* @keyframes clip-reveal {
 		0% {
-			clip-path: inset(9% 18% 20% 18%);
+			clip-path: inset(9% 10% 20% 10%);
 		}
 
 		30% {
@@ -1199,7 +1199,7 @@ html:not([id*=Grammar]) body {
 		100% {
 			clip-path: inset(0% 0% 0% 0%);
 		}
-	}
+	} */
 
 	body ul.to-small-menu {
 		flex-direction: column;

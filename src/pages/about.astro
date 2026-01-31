@@ -1,9 +1,8 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { Image } from "astro:assets";
 // import BlogPost from "../components/BlogPost.astro";
 
-const pageTitle = "Les potos & co";
+const pageTitle = "Le reste, les potos";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
@@ -11,20 +10,42 @@ const pageTitle = "Les potos & co";
     <section>
       <h1 class="soustitre-page">{pageTitle}</h1>
       <div class="main-potos display-flex">
-        <h2 class="soustitre-page">Les potos...</h2>
+        <h2 class="soustitre-page">Un peu de passif</h2>
+        <ul>
+          <li>Y'a longtemps j'ai fait la bouffe dans des restos</li>
+          ///
+          <ul>
+            <li>Pendant ce temps j'ai fait de la musique avec des amis</li>
+            <li>J'ai commencé pleins de choses à la fac</li>
+            <li>j'ai quasi rien terminé</li>
+          </ul>
+          ///
+          <li>Plus tard, j'ai eu un DUT en informatique</li>
+          <li>En 2018 j'ai arrêté de faire le pion au lycée à Saintes</li>
+          <li>Je me suis formé au webdesign</li>
+          <li>Je suis webdesigner depuis 5 ans à Solocal</li>
+          <li>J'ai passé beaucoup trop de temps sur Elden Ring</li>
+        </ul>
+        <h2 class="soustitre-page">Et sinon la vie</h2>
+        <p>
+          La bouffe, la fiction, le jdr et cie, le JV, le foot (à la tévé), la
+          gribouille des autres, la musique des autres <span class="icon"
+            ><a href="https://bandcamp.com/arnalgrut">mon profil bandcamp</a
+            ></span
+          >.
+        </p>
+      </div>
+      <div class="main-potos display-flex">
+        <h2 class="soustitre-page">Le taf des potos...</h2>
         <div class="display-flex direction-row presentation">
           <div class="display-flex">
-            <Image
-              src="../images/bandeau-lolo.PNG"
-              alt="personnage dans un désert"
-            />
             <h3 class="les-potos-ls">
-              <a href="https://onehuman.fr/">Lolo le one human</a>
+              <a href="https://onehuman.fr/">Onehuman</a>
             </h3>
           </div>
           <div class="display-flex">
             <h3 class="les-potos-am">
-              <a href="https://marmoneur.netlify.app/">Le marmonneur</a>
+              <a href="https://marmoneur.netlify.app/">Marmoneur</a>
             </h3>
           </div>
           <div class="display-flex">
@@ -45,19 +66,42 @@ const pageTitle = "Les potos & co";
         </div>
       </div>
       <div class="main-potos display-flex">
-        <h2 class="soustitre-page">... & co</h2>
-        <div class="display-flex direction-row presentation"></div>
+        <h2 class="soustitre-page">Du cador...</h2>
+        <div class="display-flex direction-row presentation">
+          <div class="display-flex">
+            <h3 class="les-cadors">
+              <a href="https://www.bouletcorp.com/home">Bouletcorps</a>
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-cadors">
+              <a href="https://www.simonstalenhag.se/">Simon Stalenhag</a>
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-cadors">
+              <a href="https://www.utopiales.org/">Les Utos</a>
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-cadors">
+              <a href="https://www.ironmaiden.com/">Up The Irons</a>
+            </h3>
+          </div>
+        </div>
       </div>
     </section>
   </div>
   <style>
     .contenu-page.display-flex.direction-row:has(.main-potos) {
       min-height: 100vh;
-      padding: 5vh 0;
+      padding: 10vh 1rem;
       gap: 24px;
       align-items: self-start;
       position: relative;
       flex-wrap: wrap;
+      background-image: linear-gradient(50% var(--background), transparent)
+        url(../artwork/texte-perso.png);
 
       & h1.soustitre-page {
         text-align: left;
@@ -65,7 +109,7 @@ const pageTitle = "Les potos & co";
 
       & section {
         display: flex;
-        max-width: 1024px;
+        max-width: 640px;
         flex-wrap: wrap;
         gap: 24px;
       }
@@ -76,18 +120,12 @@ const pageTitle = "Les potos & co";
         height: 100%;
         position: relative;
         flex-direction: column;
-        width: fit-content;
-        gap: 16px;
+        /* width: fit-content; */
+        gap: 2rem;
         border: 2px dashed var(--white);
         padding: 16px;
         border-radius: 4px;
-
-        &:nth-child(2) {
-          max-width: 50%;
-        }
-        &:nth-child(3) {
-          flex-grow: 1;
-        }
+        width: 100%;
 
         & h2 {
           width: fit-content;
@@ -102,12 +140,14 @@ const pageTitle = "Les potos & co";
 
         & .presentation {
           flex-wrap: wrap;
+          gap: 1rem;
         }
 
+        & div:has(.les-cadors),
         & div:has(h3[class*="les-potos-"]) {
           border-radius: 4px;
           transition: background-image 0.2s ease;
-          width: 100%;
+          width: fit-content;
           /* background-image: linear-gradient(-215deg, var(--background) 50%, transparent 50%); */
 
           & a {
@@ -119,6 +159,29 @@ const pageTitle = "Les potos & co";
           }
         }
       }
+    }
+    span.icon-arrow {
+      position: relative;
+      z-index: 0;
+      display: flex;
+      align-items: center;
+      padding-left: 2rem;
+
+      a {
+        color: var(--black);
+      }
+    }
+    span.icon-arrow::before {
+      content: "";
+      position: absolute;
+      background: transparent url(../images/arrow-bottom-right.png);
+      z-index: 5;
+      width: 1.2rem;
+      height: 1.2rem;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      left: 0;
     }
   </style>
 </BaseLayout>

@@ -1,25 +1,124 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-const pageTitle = "About";
-// const skillColor = "crimson";
-// const fontWeight = "bold";
-// const textCase = "uppercase";
-// const Background = "../../src/images/route-grut.png";
+import { Image } from "astro:assets";
+// import BlogPost from "../components/BlogPost.astro";
 
-// const identity = {
-//   firstName: "Arnal GRUt.",
-//   country: "Fronccceeee",
-//   occupation: "Web-dé",
-//   hobbies: ["gribouille", "écritouille", "jeudrôlisme"],
-// };
-
-// const skills = ["HTML", "CSS", "Astro", "Rédaction de documentation"];
-// const happy = true;
-// const finished = false;
-// const goal = 3;
+const pageTitle = "Les potos & co";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>Bientôt...</p>
+  <div class="contenu-page display-flex direction-row">
+    <section>
+      <h1 class="soustitre-page">{pageTitle}</h1>
+      <div class="main-potos display-flex">
+        <h2 class="soustitre-page">Les potos...</h2>
+        <div class="display-flex direction-row presentation">
+          <div class="display-flex">
+            <Image
+              src="../images/bandeau-lolo.PNG"
+              alt="personnage dans un désert"
+            />
+            <h3 class="les-potos-ls">
+              <a href="https://onehuman.fr/">Lolo le one human</a>
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-potos-am">
+              <a href="https://marmoneur.netlify.app/">Le marmonneur</a>
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-potos-jj">
+              <a
+                href="https://audioblog.arteradio.com/blog/261344/lectus-podcast"
+                >LectUs</a
+              >
+            </h3>
+          </div>
+          <div class="display-flex">
+            <h3 class="les-potos-sr">
+              <a href="https://stefan-rooy-artworks.multiscreensite.com/"
+                >Stefan Rooy</a
+              >
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div class="main-potos display-flex">
+        <h2 class="soustitre-page">... & co</h2>
+        <div class="display-flex direction-row presentation"></div>
+      </div>
+    </section>
+  </div>
+  <style>
+    .contenu-page.display-flex.direction-row:has(.main-potos) {
+      min-height: 100vh;
+      padding: 5vh 0;
+      gap: 24px;
+      align-items: self-start;
+      position: relative;
+      flex-wrap: wrap;
+
+      & h1.soustitre-page {
+        text-align: left;
+      }
+
+      & section {
+        display: flex;
+        max-width: 1024px;
+        flex-wrap: wrap;
+        gap: 24px;
+      }
+      & .main-potos {
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: flex-start;
+        height: 100%;
+        position: relative;
+        flex-direction: column;
+        width: fit-content;
+        gap: 16px;
+        border: 2px dashed var(--white);
+        padding: 16px;
+        border-radius: 4px;
+
+        &:nth-child(2) {
+          max-width: 50%;
+        }
+        &:nth-child(3) {
+          flex-grow: 1;
+        }
+
+        & h2 {
+          width: fit-content;
+          background: var(--white);
+          left: 2vw;
+          padding: 0 1rem;
+          font-size: 1.8rem;
+          top: 10vh;
+          border-radius: 4px;
+          transform: rotate(-2deg);
+        }
+
+        & .presentation {
+          flex-wrap: wrap;
+        }
+
+        & div:has(h3[class*="les-potos-"]) {
+          border-radius: 4px;
+          transition: background-image 0.2s ease;
+          width: 100%;
+          /* background-image: linear-gradient(-215deg, var(--background) 50%, transparent 50%); */
+
+          & a {
+            background: var(--background);
+            font-size: 1.2rem;
+          }
+
+          &:hover {
+          }
+        }
+      }
+    }
+  </style>
 </BaseLayout>
-<style></style>

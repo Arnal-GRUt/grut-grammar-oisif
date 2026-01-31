@@ -80,6 +80,7 @@ h6 {
 	isolation: isolate;
 }
 
+
 :root {
 	--yellow: #f3bd22;
 	--black: #000000;	
@@ -168,6 +169,7 @@ h1,
 .soustitre,
 h2,
 h3,
+h3[class*="les-potos"] a,
 h4,
 ul:not(.liste-contraintes, .tags) li a,
 .cta a,
@@ -262,15 +264,6 @@ div.direction-column .container-paragraph {
 		width: fit-content;
 	}
 }
-
-/* body#Gribouille .galerie-ligne ul.liste-contraintes {
-	gap: 1ch;
-	padding:0;
-	
-	& li {
-		padding: 0.25ch;
-	}
-} */
 
 .carton-presentation .container-paragraph {
 	display: inherit;
@@ -777,6 +770,8 @@ body header nav.to-top {
 			justify-content: center;
             display: flex;
 			transition: all 0.2s ease;
+			border: 2px solid var(--black);
+            align-items: center;
 			
 			&:hover {
 				background: var(--background);

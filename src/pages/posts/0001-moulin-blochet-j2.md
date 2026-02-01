@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Moulin du Blochet - jour 2'
-pubDate: "2024-09-08"
+pubDate: "08-09-2024"
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
 contexte : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."

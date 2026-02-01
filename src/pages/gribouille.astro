@@ -1,77 +1,38 @@
 ---
-import { coerce } from "astro:schema";
-import ArtCard from "../components/ArtCard.astro";
+import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
-const { imagePath, altText } = Astro.props;
-
 const pageTitle = "Gribouille";
-// imagePath="../artwork/alien-et-flingue-2.png"
+// import "@fancyapps/ui/dist/fancybox/fancybox.css";
+
+const images = import.meta.glob<{ default: ImageMetadata }>(
+	"../artwork/*.{jpg,jpeg,png,webp}",
+);
 ---
 
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie">
 		<div class="colonne-image flow">
-			<!-- <ArtCard imagePath={imagePath} altText={altText} /> -->
-			<ArtCard
-				imagePath="../artwork/alien-et-flingue-2.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Alien et flingue"
-			/>
-			<ArtCard
-				imagePath="../artwork/gardien_v-2023-final-color-1.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Homonde gardien"
-			/>
-			<ArtCard
-				imagePath="../artwork/fork-ciel-nb.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Homonde Fork noir et blanc"
-			/>
-			<ArtCard
-				imagePath="../artwork/saintes_doodle.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Croquis ville de Saintes"
-			/>
-			<ArtCard
-				imagePath="../artwork/texte-perso-2.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Texte stylisé"
-			/>
-			<ArtCard
-				imagePath="../artwork/background-home.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Chemin et ville"
-			/>
-			<ArtCard
-				imagePath="../artwork/alien-et-flingue-2.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Alien et flingue"
-			/>
-			<ArtCard
-				imagePath="../artwork/gardien_v-2023-final-color-1.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Homonde gardien"
-			/>
-			<ArtCard
-				imagePath="../artwork/fork-ciel-nb.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Homonde Fork noir et blanc"
-			/>
-			<ArtCard
-				imagePath="../artwork/saintes_doodle.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Croquis ville de Saintes"
-			/>
-			<ArtCard
-				imagePath="../artwork/texte-perso-2.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Texte stylisé"
-			/>
-			<ArtCard
-				imagePath="../artwork/background-home.png"
-				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
-				description="Chemin et ville"
-			/>
+			{
+				Object.entries(images).map(async ([_path, image], index) => {
+					const { default: imageData } = await image();
+					return (
+						<div class="figure">
+							<a href={imageData.src} target="_blank">
+								<Image
+									format="webp"
+									src={imageData}
+									alt=""
+									loading={index < 20 ? "eager" : "lazy"}
+								/>
+							</a>
+							<div class="figcaption">
+								{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+								{image.name.slice(11, -4).toLowerCase()}
+							</div>
+						</div>
+					);
+				})
+			}
 		</div>
-	</div>
-</BaseLayout>
+	</div></BaseLayout
+>

@@ -1,0 +1,77 @@
+---
+import { coerce } from "astro:schema";
+import ArtCard from "../components/ArtCard.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+const { imagePath, altText, description } = Astro.props;
+
+const pageTitle = "Gribouille";
+// imagePath="../artwork/alien-et-flingue-2.png"
+---
+
+<BaseLayout pageTitle={pageTitle}>
+	<div class="galerie">
+		<div class="colonne-image flow">
+			<!-- <ArtCard imagePath={imagePath} altText={altText} /> -->
+			<ArtCard
+				imagePath={imagePath}
+				altText={altText}
+				description={description}
+			/>
+			<!-- <ArtCard
+				imagePath="../artwork/gardien_v-2023-final-color-1.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Homonde gardien"
+			/>
+			<ArtCard
+				imagePath="../artwork/fork-ciel-nb.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Homonde Fork noir et blanc"
+			/>
+			<ArtCard
+				imagePath="../artwork/saintes_doodle.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Croquis ville de Saintes"
+			/>
+			<ArtCard
+				imagePath="../artwork/texte-perso-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Texte stylisé"
+			/>
+			<ArtCard
+				imagePath="../artwork/background-home.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Chemin et ville"
+			/>
+			<ArtCard
+				imagePath="../artwork/alien-et-flingue-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Alien et flingue"
+			/>
+			<ArtCard
+				imagePath="../artwork/gardien_v-2023-final-color-1.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Homonde gardien"
+			/>
+			<ArtCard
+				imagePath="../artwork/fork-ciel-nb.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Homonde Fork noir et blanc"
+			/>
+			<ArtCard
+				imagePath="../artwork/saintes_doodle.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Croquis ville de Saintes"
+			/>
+			<ArtCard
+				imagePath="../artwork/texte-perso-2.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Texte stylisé"
+			/>
+			<ArtCard
+				imagePath="../artwork/background-home.png"
+				altText="Dessin abstrait en noir et blanc avec des formes organiques et géométriques."
+				description="Chemin et ville"
+			/> -->
+		</div>
+	</div>
+</BaseLayout>

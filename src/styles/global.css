@@ -104,7 +104,6 @@ h6 {
 }
 
 html {
-	background-color: var(--yellow);
 	font-size: clamp(14px, 11.0838px + 0.2778vw, 18px);
 	overflow-x: clip;
 }
@@ -965,9 +964,11 @@ body *.to-small-titre:before {
 
 /* body:is(#gribouille, #ecritouille, #about) { */
 /* html:is(#Gribouille, #Ecritouille, #About, #text-tags) body { */
+
+
 html:not([id*="Grammar"]) body {
-	background: var(--background);
-	position: relative;
+	/* background: var(--background); */
+	position: relative;	
 
 	& section.display-flex.direction-column {
 		gap: var(--gap-24);
@@ -983,8 +984,10 @@ html:not([id*="Grammar"]) body {
     border-left: 2px dashed var(--black);
 }
 
+
+
 	& h1.soustitre-page {
-		max-width: calc(1024px - 2rem);
+		max-width: calc(640px - 2rem);
 		position: relative;
 		/* margin-top: 4rem; */
 		width: 100%;
@@ -999,6 +1002,7 @@ html:not([id*="Grammar"]) body {
 		padding-bottom: 3rem;
 		position: relative;
 		background: var(--background);
+		/* background: inherit; */
 		z-index: 1;
 		width: 100%;		
         margin-top: 56px;
@@ -1024,7 +1028,7 @@ html:not([id*="Grammar"]) body {
 
 
 	& header nav.to-top {
-		background-color: var(--background);
+		/* background-color: var(--background); */
 			& .nav-box .to-small-titre {
 				view-timeline-name: --to-small;
 				view-timeline-axis: block;
@@ -1052,7 +1056,7 @@ html:not([id*="Grammar"]) body {
 		animation-timeline: view();
 		animation-range-start: 0vh;
 		animation-range-end: 0vh;
-		border-bottom: 2px dashed var(--white);
+		/* border-bottom: 2px dashed var(--white); */
 		/* border-bottom: 2px dashed var(--black); */
 	}
 	
@@ -1087,7 +1091,7 @@ html:not([id*="Grammar"]) body {
 		padding: 5vh 2vw;
 		gap: var(--gap-16);
 		background: none;
-		border-top: 2px dashed var(--white);
+		/* border-top: 2px dashed var(--white); */
 		z-index: 0;
 
 		& p.accroche {
@@ -1551,3 +1555,33 @@ html:not([id*="Grammar"]) body {
 		}
 	}
 }
+
+html:not([id*="Grammar"]) {
+    background-color: var(--background);
+      & header {
+        background-color: var(--background);
+        & nav.to-top {
+          background-color: var(--background);		  
+		  border-bottom: 2px dashed var(--white);
+        }
+      }
+}
+
+html[id*="about"] {
+    background-color: var(--yellow);
+	/* background-color: transparent; */
+    
+	& header {
+    	background-color: var(--yellow);	
+		/* background-color: transparent;	 */
+        
+		& nav.to-top {
+        	background-color: var(--yellow);
+        	/* background-color: transparent; */
+			border-bottom: none;		  
+        }
+      }
+    }
+
+
+	

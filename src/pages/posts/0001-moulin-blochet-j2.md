@@ -4,20 +4,21 @@ title: 'Moulin du Blochet - jour 2'
 pubDate: "08-09-2024"
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
-contexte : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
-enonce : "Écrire 3 textes courts en 15min maximum."
+contexte : "Une semaine dans une chambre d'hôte à écrire."
+enonce : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
 tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
 ---
 
 ## Exercice 1 du matin
 
-Lecture d'un article du magazine Chut !- p.26  
-Écrire 3 textes courts en 15min maximum.
+3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte.
+- Lecture d'un article du magazine Chut !- p.26  
+- Écrire 3 textes courts en 15min maximum.
 
 ### Texte 1 au PASSÉ
 
-- Liste des mots sélectionnés (mot à utiliser en majuscules) :
-- programme / fondation / neige / technologie / mondial / scientifique / centrer / VERTICAL / éducation
+- Liste des mots sélectionnés (mot à utiliser*) :
+- programme / fondation / neige / technologie / mondial / scientifique / centrer / vertical* / éducation
 
 <!-- ![alien cyclope de dos qui tient un flingue](../../images/alien-et-flingue-2.png) -->
 
@@ -30,7 +31,7 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 ### Texte 2 au PRÉSENT
 
 - Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"  
-- liste des mots sélectionnés (mot à utiliser en gras) : triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
+- liste des mots sélectionnés (mot à utiliser*) : triomphe / équipe / artistique / périlleux* / geste / pleurer / papillon / brasse / ivre
 
 « Il faut que tu sautes là. Soupire J. P.  
 -- J’ai plus trop envie. Répond Alfred.  
@@ -64,7 +65,7 @@ J. P. Fait les grands pas. Il commence à s’agacer :
 ### Texte 3 au FUTUR
 
 - Lecture d'un extrait de L’affaire Dreyfus – « L’affaire, entre commémoration et publicité » – p.56
-- liste des mots sélectionnés (mot à utiliser en gras): inverse / dimension / objet / politique / symbole / souvenir / ordinaire / médaille / pommeau / buste / **réclame** / cigarette / chocolat / affaire / marionette
+- liste des mots sélectionnés (mot à utiliser*): inverse / dimension / objet / politique / symbole / souvenir / ordinaire / médaille / pommeau / buste / réclame* / cigarette / chocolat / affaire / marionette
 
 J’ai un plan chef. On ne verra jamais l’autre. Il prendra la route cachée et poursuivra par-derrière. On pourra rien y faire. Comment pourrons-nous réclamer quoi que ce soit s’il choisit cette route ? Il aura trop d’avance et sera trop proche de la station commerciale. Trop risqué.  
 

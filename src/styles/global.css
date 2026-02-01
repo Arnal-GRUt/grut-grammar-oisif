@@ -1392,20 +1392,21 @@ html:not([id*="Grammar"]) body {
 	}
 	
 	
-	body#Gribouille {
-		& .main div.galerie.display-flex.direction-row {
+	html#Gribouille {
+		& body .galerie.display-flex {
 			flex-direction: column;
 			
-			& div[class*="colonne-image"] {
-				min-width: 100%;
+			& .colonne-image.flow {
+				grid-template-columns: repeat(2, 1fr);	
 			}
+			
 		}
 	}
 }
 
 
 @media (width < 1025px) {
-	body#Gribouille {
+	html#Gribouille {
 
 		& div[class*="galerie"] .figure {
 			position: relative;
@@ -1429,7 +1430,7 @@ html:not([id*="Grammar"]) body {
 				opacity: 1;
 				transition: opacity 0.3s ease;
 				text-align: left;
-				margin: -1rem 0 0 0;
+				margin: -3rem 0 0 0;
 
 			}
 			&:hover figcaption {

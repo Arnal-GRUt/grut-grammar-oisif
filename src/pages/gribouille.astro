@@ -10,7 +10,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<div class="galerie">
+	<div class="galerie display-flex">
 		<div class="colonne-image flow">
 			{
 				Object.entries(images).map(async ([_path, image], index) => {

@@ -1129,7 +1129,7 @@ html:not([id*="Grammar"]) body {
         background: var(--background);
 		
 		& .colonne-image {
-			grid-template-columns: repeat(3, 1fr);	
+			grid-template-columns: repeat(5, 1fr);	
 			gap: var(--gap-24);		
 			display: grid;
 
@@ -1400,7 +1400,7 @@ html:not([id*="Grammar"]) body {
 		& body .galerie.display-flex {
 			flex-direction: column;
 			
-			& .colonne-image.flow {
+			& .colonne-image {
 				grid-template-columns: repeat(2, 1fr);	
 			}
 			

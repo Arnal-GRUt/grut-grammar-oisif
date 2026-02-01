@@ -2,7 +2,6 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 const pageTitle = "Gribouille";
-// import "@fancyapps/ui/dist/fancybox/fancybox.css";
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
@@ -11,7 +10,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
-		<div class="colonne-image flow">
+		<div class="colonne-image">
 			{
 				Object.entries(images).map(async ([_path, image], index) => {
 					const { default: imageData } = await image();

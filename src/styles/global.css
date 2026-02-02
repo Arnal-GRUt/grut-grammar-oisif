@@ -1497,6 +1497,14 @@ html:not([id*="Grammar"]) body {
 			line-height: normal;
 			height: 100%;
 	}
+
+	
+	html:is([id*="Grammar"], [id*="about"]) {
+		header nav *:is(.to-small-menu, .to-small-titre) {
+			background:var(--yellow);
+		}
+	}
+
 	@supports (view-timeline-axis: block) {
 		header nav.to-top *.to-small-titre {
 			animation-range-start: 100vh;
@@ -1785,6 +1793,5 @@ html[id*="about"] {
         }
       }
     }
-
 
 	

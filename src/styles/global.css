@@ -1384,20 +1384,12 @@ html:not([id*="Grammar"]) body {
 
 
 @media (width < 835px) {
-	/* @keyframes clip-reveal {
-		0% {
-			clip-path: inset(9% 10% 20% 10%);
-		}
-
-		30% {
-			clip-path: inset(20% 0% 25% 0%);
-		}
-
-		80%,
+	@keyframes clip-reveal {
+		0%,
 		100% {
 			clip-path: inset(0% 0% 0% 0%);
 		}
-	} */
+	}
 
 	body ul.to-small-menu {
 		flex-direction: column;

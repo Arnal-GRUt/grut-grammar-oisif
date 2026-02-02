@@ -1499,24 +1499,33 @@ html:not([id*="Grammar"]) body {
 	}
 
 	header nav.to-top *.to-small-titre {
-		animation-range-start: 100vh;
-		animation-range-end: 160vh;
-		left: 0;
-		transform: translate(0%);
-		align-items: center;
-		line-height: normal;
-		height: 100%;
+			left: 0;
+			transform: translate(0%);
+			align-items: center;
+			line-height: normal;
+			height: 100%;
 	}
-
-	@keyframes to-small-titre {
-
-		0%,
-		100% {
-			top: 0;
-			transform: translateX(-5%);
-			font-size: 1.8rem;
+	@supports (view-timeline-axis: block) {
+		header nav.to-top *.to-small-titre {
+			animation-range-start: 100vh;
+			animation-range-end: 160vh;
+			left: 0;
+			transform: translate(0%);
+			align-items: center;
+			line-height: normal;
+			height: 100%;
 		}
-	}
+		@keyframes to-small-titre {
+			0%,
+			100% {
+				top: 0;
+				transform: translateX(-5%);
+				font-size: 1.8rem;
+			}
+		}
+	}	
+
+
 
 	footer .mentions-legales {
 		flex-direction: column;

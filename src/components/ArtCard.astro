@@ -24,14 +24,12 @@ if (!images[imagePath])
 
 <div class="image">
     <div class="figure">
-        <!-- <a target="_blank" href={imagePath}> -->
         <button
             class="image-button"
             popovertarget={imagePath}
             popovertargetaction="show"
         >
             <a target="_blank" href={imagePath}>
-                <!-- <Image src={images[imagePath]()} alt={altText} format="webp" /> -->
                 <Image src={images[imagePath]()} alt={altText} format="webp" />
             </a>
             <div class="figcaption">{description}</div>

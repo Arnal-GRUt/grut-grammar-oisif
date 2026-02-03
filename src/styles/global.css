@@ -1324,15 +1324,15 @@ html:not([id*="Grammar"]) body {
 		
 		& .colonne-image {
 			grid-template-columns: repeat(5, 1fr);	
-			gap: var(--gap-24);		
+			gap: var(--gap-16);		
 			display: grid;
 
 			& .figure {
-				max-width: fit-content;				
+				/* max-width: fit-content;				
 				border-radius: 4px;
 				overflow: hidden;
 				position:relative;
-				max-height: 50vh;
+				max-height: 50vh; */
 
 				&:hover img {
 					filter: none;
@@ -1341,10 +1341,10 @@ html:not([id*="Grammar"]) body {
 				}
 
 				& img {
-					height: 100%;
+					/* height: 100%;
 					object-fit: cover;
 					filter: grayscale(80%);
-					transition: all 0.2s ease;
+					transition: all 0.2s ease; */
 				}
 
 				& .figcaption {	

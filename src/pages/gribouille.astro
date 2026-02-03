@@ -15,19 +15,53 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				Object.entries(images).map(async ([_path, image], index) => {
 					const { default: imageData } = await image();
 					return (
-						<div class="figure">
-							<a href={imageData.src} target="_blank">
-								<Image
-									format="webp"
-									src={imageData}
-									alt=""
-									loading={index < 20 ? "eager" : "lazy"}
-								/>
-							</a>
-							<div class="figcaption">
-								{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
-								{image.name.slice(11, -4).toLowerCase()}
+						// <div class="figure">
+						// 	<a href={imageData.src} target="_blank">
+						// 		<Image
+						// 			format="webp"
+						// 			src={imageData}
+						// 			alt=""
+						// 			loading={index < 20 ? "eager" : "lazy"}
+						// 		/>
+						// 	</a>
+						// 	<div class="figcaption">
+						// 		{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+						// 		{image.name.slice(11, -4).toLowerCase()}
+						// 	</div>
+						// </div>
+						<div class="image cards">
+							<div
+								class="figure flow"
+								style="height: 100%; width: 100%;"
+							>
+								<button
+									class="image-button"
+									style="height: 100%;"
+									popovertarget={_path}
+									popovertargetaction="show"
+								>
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+									<div class="figcaption">
+										{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+										{image.name.slice(11, -4).toLowerCase()}
+									</div>
+								</button>
 							</div>
+							<dialog popover="image-lightbox" id={_path}>
+								<div class="image-lightbox--img">
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+								</div>
+							</dialog>
 						</div>
 					);
 				})
@@ -35,3 +69,70 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 		</div>
 	</div></BaseLayout
 >
+<style>
+	.image.cards {
+		& .figure.flow {
+			max-width: fit-content;
+			border-radius: 8px;
+			overflow: hidden;
+			position: relative;
+			max-height: 50vh;
+
+			& button.image-button {
+				border-radius: 0.25rem;
+				border: none;
+				cursor: pointer;
+				width: 100%;
+
+				&:hover img {
+					filter: none;
+					transform: scale(1.005);
+					overflow: visible;
+				}
+
+				& img {
+					width: auto;
+					object-fit: cover;
+					height: 100%;
+					margin: auto;
+					border-radius: 0.2rem;
+					filter: grayscale(80%);
+					transition: all 0.2s ease;
+				}
+			}
+		}
+
+		& .image-lightbox {
+			display: none;
+			opacity: 0;
+			pointer-events: all;
+			position: fixed;
+			min-width: 30vw;
+			max-width: 50vw;
+			height: fit-content;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			margin: 0;
+			padding: 0;
+			border: 0;
+			background: transparent;
+			overflow: visible;
+
+			& .image-lightbox--img {
+				display: flex;
+				overflow: auto;
+				width: 100%;
+				height: fit-content;
+				max-height: 90vh;
+				& img {
+					width: 100%;
+					height: auto;
+					margin: auto;
+					border-radius: 0.2rem;
+					background-color: transparent;
+				}
+			}
+		}
+	}
+</style>

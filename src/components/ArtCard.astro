@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import { map } from "astro:schema";
+import { propsToFilename } from "astro/assets/utils";
 
 interface Props {
     imagePath: string;
@@ -19,11 +20,26 @@ if (!images[imagePath])
     );
 ---
 
-<div class="figure">
-    <!-- <a target="_blank" href={imagePath}> -->
-    <a target="_blank" href={imagePath}>
-        <!-- <Image src={images[imagePath]()} alt={altText} format="webp" /> -->
-        <Image src={images[imagePath]()} alt={altText} format="webp" />
-    </a>
-    <div class="figcaption">{description}</div>
+²
+
+<div class="image">
+    <div class="figure">
+        <!-- <a target="_blank" href={imagePath}> -->
+        <button
+            class="image-button"
+            popovertarget={imagePath}
+            popovertargetaction="show"
+        >
+            <a target="_blank" href={imagePath}>
+                <!-- <Image src={images[imagePath]()} alt={altText} format="webp" /> -->
+                <Image src={images[imagePath]()} alt={altText} format="webp" />
+            </a>
+            <div class="figcaption">{description}</div>
+        </button>
+    </div>
+    <dialog popover="image-lightbox" id={imagePath}>
+        <div class="image-lightbox--img">
+            <Image src={images[imagePath]()} alt={altText} format="webp" />
+        </div>
+    </dialog>
 </div>

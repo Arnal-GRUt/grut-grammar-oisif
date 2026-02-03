@@ -52,7 +52,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 									</div>
 								</button>
 							</div>
-							<dialog popover="image-lightbox" id={_path}>
+							<dialog popover class="image-lightbox" id={_path}>
 								<div class="image-lightbox--img">
 									<Image
 										format="webp"
@@ -70,6 +70,16 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 	</div></BaseLayout
 >
 <style>
+	.colonne-image:has(.image-lightbox:popover-open) {
+		&:after {
+			content: "";
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: var(--black);
+			opacity: 0.8;
+		}
+	}
 	.image.cards {
 		& .figure.flow {
 			max-width: fit-content;
@@ -118,6 +128,15 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 			border: 0;
 			background: transparent;
 			overflow: visible;
+			transition: all 0.2s ease;
+
+			&:popover-open {
+				display: grid;
+				align-content: center;
+				gap: 0.5rem;
+				opacity: 1;
+				color: var(--white);
+			}
 
 			& .image-lightbox--img {
 				display: flex;
@@ -131,6 +150,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 					margin: auto;
 					border-radius: 0.2rem;
 					background-color: transparent;
+					object-fit: contain;
 				}
 			}
 		}

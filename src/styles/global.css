@@ -1607,7 +1607,7 @@ html:not([id*="Grammar"]) body {
 			flex-direction: column;
 			
 			& .colonne-image {
-				grid-template-columns: repeat(2, 1fr);	
+				grid-template-columns: repeat(1, 1fr);	
 			}			
 		}
 	}

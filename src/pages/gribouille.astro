@@ -18,7 +18,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 						<div class="image cards">
 							<div
 								class="figure flow"
-								style="height: 100%; width: 100%;"
+								style="width: 100%; height: 100%;"
 							>
 								<button
 									class="image-button"
@@ -73,6 +73,8 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 			overflow: hidden;
 			position: relative;
 			max-height: 50vh;
+			display: flex;
+			align-items: center;
 
 			& button.image-button {
 				border-radius: 0.25rem;

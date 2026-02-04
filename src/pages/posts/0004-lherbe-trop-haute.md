@@ -6,7 +6,7 @@ description: "Une très courte nouvelle"
 author: "GRUt·"
 contexte : "Une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
 enonce : "n/a"
-tags: ["Ecritouille", "micro", "rarratif"]
+tags: ["Ecritouille", "micro", "narratif"]
 
 ---
 

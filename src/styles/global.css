@@ -1312,8 +1312,8 @@ html:not([id*="Grammar"]) body {
 
 	& .galerie {
 		width: 100vw;	
-		padding: 6.5vh 2vh;		
-		z-index: 1;
+		padding: 82px 2vh;		
+		z-index: 1; 
         background: var(--background);
 		
 		& .colonne-image {

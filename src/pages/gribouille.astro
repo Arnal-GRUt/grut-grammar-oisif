@@ -16,13 +16,9 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 					const { default: imageData } = await image();
 					return (
 						<div class="image cards">
-							<div
-								class="figure flow"
-								style="width: 100%; height: 100%;"
-							>
+							<div class="figure flow">
 								<button
 									class="image-button"
-									style="height: 100%;"
 									popovertarget={_path}
 									popovertargetaction="show"
 								>
@@ -56,7 +52,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 	</div></BaseLayout
 >
 <style>
-	.colonne-image:has(.image-lightbox:popover-open) {
+	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {
 			content: "";
 			position: absolute;
@@ -68,11 +64,12 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 	}
 	.image.cards {
 		& .figure.flow {
-			max-width: fit-content;
+			width: inherit;
 			border-radius: 8px;
 			overflow: hidden;
 			position: relative;
-			max-height: 50vh;
+			max-height: fit-content;
+			height: 400px;
 			display: flex;
 			align-items: center;
 
@@ -82,6 +79,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				cursor: pointer;
 				width: 100%;
 				padding: 0;
+				height: inherit;
 
 				&:hover img {
 					filter: none;
@@ -90,13 +88,13 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				}
 
 				& img {
-					width: auto;
+					width: 100%;
 					object-fit: cover;
-					height: 100%;
 					margin: auto;
 					border-radius: 0.2rem;
 					filter: grayscale(80%);
 					transition: all 0.2s ease;
+					max-height: 100%;
 				}
 			}
 		}

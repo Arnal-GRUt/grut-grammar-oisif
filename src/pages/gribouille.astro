@@ -15,20 +15,6 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				Object.entries(images).map(async ([_path, image], index) => {
 					const { default: imageData } = await image();
 					return (
-						// <div class="figure">
-						// 	<a href={imageData.src} target="_blank">
-						// 		<Image
-						// 			format="webp"
-						// 			src={imageData}
-						// 			alt=""
-						// 			loading={index < 20 ? "eager" : "lazy"}
-						// 		/>
-						// 	</a>
-						// 	<div class="figcaption">
-						// 		{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
-						// 		{image.name.slice(11, -4).toLowerCase()}
-						// 	</div>
-						// </div>
 						<div class="image cards">
 							<div
 								class="figure flow"
@@ -93,6 +79,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				border: none;
 				cursor: pointer;
 				width: 100%;
+				padding: 0;
 
 				&:hover img {
 					filter: none;
@@ -117,8 +104,8 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 			opacity: 0;
 			pointer-events: all;
 			position: fixed;
-			min-width: 30vw;
-			max-width: 50vw;
+			min-width: 70vw;
+			max-width: 85vw;
 			height: fit-content;
 			top: 50%;
 			left: 50%;

@@ -1608,8 +1608,7 @@ html:not([id*="Grammar"]) body {
 			
 			& .colonne-image {
 				grid-template-columns: repeat(2, 1fr);	
-			}
-			
+			}			
 		}
 	}
 }
@@ -1665,6 +1664,12 @@ html:not([id*="Grammar"]) body {
 }
 
 @media (width < 1081px) {
+	html#Gribouille {
+
+		& .colonne-image {
+			grid-template-columns: repeat(3, 1fr);	
+		}	
+	}
 	html#Ecritouille body .main-text {
 		flex-direction: column;
 		max-width: 100vw;

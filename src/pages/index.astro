@@ -2,6 +2,10 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
+const gribArt = import.meta.glob<{ default: ImageMetadata }>(
+	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
+)[0];
+
 const pageTitle = "Grammar Oisif";
 ---
 

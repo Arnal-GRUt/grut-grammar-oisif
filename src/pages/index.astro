@@ -5,13 +5,14 @@ import Background from "../images/grut-ville-2-1.png";
 import { Debug } from 'astro:components';
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
-)[0];
+);
+const art = gribArt[0];
 
 const pageTitle = "Grammar Oisif";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-	<Debug {gribArt} />
+	<!-- <Debug {gribArt} /> -->
 	<div class="carton-texte">
 		<p>Portfolio & tutti quanti</p>
 	</div>
@@ -85,7 +86,7 @@ const pageTitle = "Grammar Oisif";
 					</div> -->
 				</div>
 			</div>
-			<div class="redirection-card-gribouille">
+			<div class="redirection-card-gribouille" style={`background=${art};`}>
 				<div class="display-flex direction-column">
 					<h2>La gribouille</h2>
 					<p>

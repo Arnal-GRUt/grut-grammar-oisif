@@ -2,14 +2,16 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
+import { Debug } from 'astro:components';
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
 )[0];
-console.log(gribArt);
+
 const pageTitle = "Grammar Oisif";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
+	<Debug {gribArt} />
 	<div class="carton-texte">
 		<p>Portfolio & tutti quanti</p>
 	</div>

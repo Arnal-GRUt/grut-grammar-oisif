@@ -523,7 +523,7 @@ body .display-flex.direction-row.redirection-col {
 	position: relative;
 	padding: 6vh 0 0 2vw;
 	z-index: 2;
-	/* background: url(../artwork/homonde-Fork-2020-to-2023-v2.png); */
+	background: url(../artwork/homonde-Fork-2020-to-2023-v2.png);
     background-size: 50%;
     background-position: center;	
 	transition: background 0.4s ease;

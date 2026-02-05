@@ -4,7 +4,7 @@ title: "L'herbe-était trop haute"
 pubDate: "11-04-2023"
 description: "Une très courte nouvelle"
 author: "GRUt·"
-contexte : "Une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
+contexte : "D'après une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
 enonce : "n/a"
 tags: ["Ecritouille", "micro", "narratif"]
 

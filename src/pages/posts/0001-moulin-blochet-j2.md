@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Moulin du Blochet - jour 2'
-pubDate: "08-09-2024"
+pubDate: "12-01-2026"
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
-contexte : "Une semaine dans une chambre d'hôte à écrire."
+contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôte."
 enonce : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
 tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
 ---

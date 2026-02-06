@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "L'herbe-était trop haute"
-pubDate: "11-04-2023"
-description: "Une très courte nouvelle"
+title: "L'herbe était trop haute"
+pubDate: "04-02-2026"
+description: "Une très courte nouvelle écrite en avril 2023"
 author: "GRUt·"
 contexte : "D'après une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
 enonce : "n/a"

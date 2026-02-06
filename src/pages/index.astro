@@ -6,7 +6,6 @@ import { Debug } from 'astro:components';
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
 );
-const art = gribArt[0];
 
 const pageTitle = "Grammar Oisif";
 ---

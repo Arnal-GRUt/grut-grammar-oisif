@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Moulin du Blochet - jour 2'
-pubDate: "12-01-2026"
+pubDate: "18-01-2026"
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
 contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôte."
@@ -9,7 +9,7 @@ enonce : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans
 tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
 ---
 
-## Exercice 1 du matin
+## Exercice 1 du matin  
 
 3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte.
 - Lecture d'un article du magazine Chut !- p.26  

@@ -19,8 +19,7 @@ La voix portait, c’était celle de Daron qui interpellait Fils.
 — T’as fait l’tour de ta bagnole ? Je t’ai déjà dit la dernière fois qu’elle en faisait un sale bruit.  
 — Non pas encore, je m’en occupe ce week-end ».  
 
-La maison était grande et calme. Construite en haut d’une colline, elle surplombait un hameau d’une dizaine de familles. Fils y passait régulièrement. Ce vendredi il était venu faire le tri dans les livres : ceux qu’on garde, ceux qu’on donne, ceux dont on ne sait quoi faire parce qu’on ne veut pas qu’ils soient lus. À la base ils étaient classés par genre en un et par auteur en deux. L’âge avançant, Daron et Daronne avaient opté pour un stockage pragmatique.  
-Les « pas lus » devant et à portée, les autres derrière.  
+La maison était grande et calme. Construite en haut d’une colline, elle surplombait un hameau d’une dizaine de familles. Fils y passait régulièrement. Ce vendredi il était venu faire le tri dans les livres : ceux qu’on garde, ceux qu’on donne, ceux dont on ne sait quoi faire parce qu’on ne veut pas qu’ils soient lus. À la base ils étaient classés par genre en un et par auteur en deux. L’âge avançant, Daron et Daronne avaient opté pour un stockage pragmatique. Les « pas lus » devant et à portée, les autres derrière.  
 
 « —Dis-lui pour son cousin, chuchota Daronne.  
 — Ha oui ! Ta mère me dit de te dire qu’y a le cousin qui arrive jeudi.  

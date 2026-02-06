@@ -8,7 +8,7 @@ contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre 
 enonce : "Chaque phrase doit débuter par un mot ou une expression tirée au sort dans une liste établie d’après lecture d’un texte à haute voix. Dans cette liste : 3 mots/expressions sont tirées au sort. Au moins 3 phrases du texte doivent commencer par les mots/expressions sélectionnées."
 tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
 ---
-## Exercice 1 du matin
+## Exercice 1 du matin 
 
 Chaque phrase doit débuter par un mot ou une expression tirée au sort dans une liste établie d’après lecture d’un texte à haute voix. Dans cette liste : 3 mots/expressions sont tirées au sort. Au moins 3 phrases du texte doivent commencer par les mots/expressions sélectionnées.
 

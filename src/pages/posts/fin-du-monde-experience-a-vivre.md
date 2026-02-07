@@ -4,7 +4,7 @@ title: 'La fin du monde, une expérience à vivre au moins une fois dans sa vie'
 pubDate: "07-02-2026"
 description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un de contexte. "
 author: "GRUt·"
-contexte : "En 2016. Il en est sorti quelques textes dont celui que vous allez lire et qui date de 2018." 
+contexte : "En 2016, je me suis créé une proto-méthode de travail pour écrire. Quelques textes dont celui que vous allez lire ici a été écrit dans ce cadre de travail." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de cristal. »"
 tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article"]
 ---

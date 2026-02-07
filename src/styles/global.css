@@ -1373,6 +1373,10 @@ html:not([id*="Grammar"]) body {
 		}
 	}
 
+	body .nav-secondaire.nav-links {
+		display: none;
+	}
+
 	body ul.to-small-menu {
 		flex-direction: column;
 		top: 0;

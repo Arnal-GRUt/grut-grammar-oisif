@@ -832,7 +832,7 @@ footer .mentions-legales {
 body header nav.to-top {
 	padding: 8px 2vw;
 	position: fixed;
-	z-index: 2;
+	z-index: 4;
 	width: 100%;
 	max-width: inherit;
 	height: fit-content;
@@ -876,7 +876,8 @@ body header nav.to-top {
 	body header nav.to-top {
 		padding: 8px 2vw;
 		position: fixed;
-		z-index: 2;
+		/* z-index: 2; */
+		z-index: 4;
 		width: 100%;
 		max-width: inherit;
 		height: fit-content;
@@ -1373,17 +1374,13 @@ html:not([id*="Grammar"]) body {
 		}
 	}
 
-	body .nav-secondaire.nav-links {
-		display: none;
-	}
-
 	body ul.to-small-menu {
 		flex-direction: column;
 		top: 0;
 		background: var(--yellow);
 		border-radius: 4px;
 		gap: 1ch;
-		margin-top: 2.5rem;
+		margin-top: 2.5rem;		
 	}
 
 	body .nav-box div.burger-box {
@@ -1493,7 +1490,6 @@ html:not([id*="Grammar"]) body {
 			line-height: normal;
 			height: 100%;
 	}
-
 	
 	html:is([id*="Grammar"], [id*="about"]) {
 		header nav *:is(.to-small-menu, .to-small-titre) {
@@ -1502,6 +1498,7 @@ html:not([id*="Grammar"]) body {
 	}
 
 	@supports (view-timeline-axis: block) {
+	
 		header nav.to-top *.to-small-titre {
 			animation-range-start: 100vh;
 			animation-range-end: 160vh;

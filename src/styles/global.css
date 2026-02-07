@@ -515,10 +515,16 @@ body .display-flex.direction-row.redirection-col {
 
 /* Section gribouille */
 .redirection-card-gribouille {
-	align-items: flex-start;
-	justify-content: center;
+	-webkit-box-align: start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
 	width: 60%;
-	transform: rotate(-2.5deg);
+	-webkit-transform: rotate(-2.5deg);
+	    -ms-transform: rotate(-2.5deg);
+	        transform: rotate(-2.5deg);
 	border: 4px solid var(--black);
 	position: relative;
 	padding: 6vh 0 0 2vw;
@@ -526,6 +532,8 @@ body .display-flex.direction-row.redirection-col {
 	background: url(../artwork/homonde-Fork-2020-to-2023-v2.png);
     background-size: 50%;
     background-position: center;	
+	-webkit-transition: background 0.4s ease;	
+	-o-transition: background 0.4s ease;	
 	transition: background 0.4s ease;
 
 

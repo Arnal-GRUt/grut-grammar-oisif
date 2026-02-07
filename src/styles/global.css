@@ -1435,9 +1435,19 @@ html:not([id*="Grammar"]) body {
 		transform: translateX(-100%);
 		opacity: 1;
 		transition: all 0.3s ease;
+		display:flex;
+		gap: 1rem;
+		padding: 1.5rem 0;
 		
+		& li {
+			font-size: 1.5rem;
+		}
+
 		& li.about {
 			margin-left: 1ch;
+			height: 2rem;
+			width: 2rem;
+
 		}
 	}
 

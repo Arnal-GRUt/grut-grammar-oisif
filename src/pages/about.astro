@@ -207,12 +207,39 @@ const pageTitle = "about La vie, les potos et le reste";
 
     @media (width < 1281px) {
       .contenu-page.display-flex.direction-row:has(.main-potos) {
-        background: var(--yellow);
+        background-position: 3vw 9vh;
+        background-size: 16vh;
         & section {
           transform: initial;
           background: var(--yellow);
           padding: 5vh 0;
         }
+      }
+    }
+    @media (width < 1025px) {
+      .contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 18vw 8vh;
+        background-size: 14vh;
+        padding-top: 18vh;
+
+        & section {
+          background: var(--yellow);
+          padding-bottom: 5vh;
+          padding-top: 0;
+        }
+      }
+    }
+    @media (width < 769px) {
+      .contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 6vh 8vh;
+        background-size: 14vh;
+      }
+    }
+    @media (width < 601px) {
+      .contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 2vw 8vh;
+        background-size: 10vh;
+        padding-top: 14vh;
       }
     }
     /* span.icon-arrow::before {

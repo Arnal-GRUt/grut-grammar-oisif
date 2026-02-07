@@ -174,7 +174,7 @@ p a {
 	}
 }
 
-p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a::after {
+p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a:not(.data-footnote-backref)::after {
 	content: "\f08e";
 	font-family: "fontAwesome";
 	font-weight: 400;
@@ -184,7 +184,7 @@ p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a::after {
 	display: inline-block;
 	margin-inline-start: 1ch;
 	text-indent: 0;
-	font-size: 1.4rem;
+	font-size: 1.1rem;
 }
 
 h1,
@@ -1168,7 +1168,7 @@ html:not([id*="Grammar"]) body {
 		padding: 1rem 0;
 
 		& .corps-texte {
-			gap: inherit;
+			gap: inherit;				
 		}
 	}
 
@@ -1505,10 +1505,8 @@ html:not([id*="Grammar"]) body {
 				font-size: 1.8rem;
 			}
 		}
-	}	
-
-
-
+	}
+	
 	footer .mentions-legales {
 		flex-direction: column;
 		align-items: center;
@@ -1593,6 +1591,12 @@ html:not([id*="Grammar"]) body {
 			}			
 		}
 	}
+    html:not([id*="Grammar"]) .contenu-page .main.page-texte .corps-texte.display-flex.direction-column {
+
+      & blockquote {
+        transform: initial;
+      }
+    }    
 }
 
 

@@ -529,13 +529,24 @@ body .display-flex.direction-row.redirection-col {
 	position: relative;
 	padding: 6vh 0 0 2vw;
 	z-index: 2;
-	background: url(../artwork/homonde-Fork-2020-to-2023-v2.png);
+	/* background-image: url(../artwork/homonde-Fork-2020-to-2023-v2.png); */
     background-size: 50%;
     background-position: center;	
 	-webkit-transition: background 0.4s ease;	
 	-o-transition: background 0.4s ease;	
 	transition: background 0.4s ease;
 
+	& .art-du-jour {
+		content: "";
+		height: 100%;
+		object-fit: cover;
+		object-position: center;
+		top: 0;
+		z-index: -1;
+		width: 100vw;
+		left: 0;
+		transition: transform 0.4s ease-in-out;
+	}
 
 	&::after {
 		content: "";
@@ -555,6 +566,11 @@ body .display-flex.direction-row.redirection-col {
 	}
 	&:hover:has(.cta:hover) {
 		background-size: 51%;
+
+		& .art-du-jour {
+			transform: scale(1.01);
+			/* object-fit: contain; */
+		}
 	}	
 
 	/* &:before {

@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
+import artSectionGrib from "../artwork/homonde-Fork-2020-to-2023-v2.png";
 import { Debug } from "astro:components";
 import Navigation from "../components/Navigation.astro";
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
@@ -66,23 +67,7 @@ const pageTitle = "Grammar Oisif";
 					<!-- <div class="dernier-texte display-flex direction-row">
 						<div class="box">
 							<article>
-								<input
-									type="date"
-									id="start"
-									name="trip-start"
-									value="2018-07-22"
-									min="2018-01-01"
-									max="2018-12-31"
-								/>
-								<p class="titre-texte">
-									Lorem ipsum, consectetur adipiscing elit
-								</p>
-								<p>
-									Début du texte plus 3 petits points, donec
-									euismod turpis non urna auctor sagittis.
-									Nulla facilisi. Suspendisse tempor elit urna
-									[...]
-								</p>
+							
 							</article>
 							<div class="cta" style="align-items: flex-end;">
 								<a href="/ecritouille/">C'est par ici</a>
@@ -94,6 +79,12 @@ const pageTitle = "Grammar Oisif";
 			<!-- <div class="redirection-card-gribouille" style={`background="${art};"`}> -->
 			<div class="redirection-card-gribouille">
 				<div class="display-flex direction-column">
+					<Image
+						src={artSectionGrib}
+						class="art-du-jour"
+						alt="Géant port 2 tours séparées par une passerelle fragile"
+						style="position: absolute;"
+					/>
 					<h2>La gribouille</h2>
 					<p>
 						Trad ou numérique. Trad et numérique. Des travaux

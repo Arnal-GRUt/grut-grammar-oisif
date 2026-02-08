@@ -538,17 +538,21 @@ body .display-flex.direction-row.redirection-col {
 	transition: background 0.4s ease;
 
 	&::after {
-		content: "";
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		left: 0;
-		/* background: var(--background); */
-		background: red;
-		mix-blend-mode: color;
-		z-index: 0;
-		transition: opacity 1.5s ease;
+		display: none;
+	}
+	@supports (mix-blend-mode: color) {
+		&::after {
+			content: "";
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background: var(--background);		
+			mix-blend-mode: color;
+			z-index: 0;
+			transition: opacity 1.5s ease;
+		}
 	}
 	
 	

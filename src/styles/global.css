@@ -899,9 +899,8 @@ body header nav.to-top {
 @supports (view-timeline-axis: block) {	
 	body header nav.to-top {
 		padding: 8px 2vw;
-		position: fixed;
-		/* z-index: 2; */
-		z-index: 4;
+		position: fixed;		
+		z-index: 2;
 		width: 100%;
 		max-width: inherit;
 		height: fit-content;
@@ -971,7 +970,6 @@ body header nav.to-top {
 		}
 	} */
 }
-
 
 header nav .to-small-menu {
 	position: absolute;
@@ -1396,6 +1394,9 @@ html:not([id*="Grammar"]) body {
 		100% {
 			clip-path: inset(0% 0% 0% 0%);
 		}
+	}
+	body header nav.to-top {
+		z-index: 2;
 	}
 
 	body ul.to-small-menu {

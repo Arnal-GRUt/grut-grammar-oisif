@@ -544,7 +544,8 @@ body .display-flex.direction-row.redirection-col {
 		height: 100%;
 		top: 0;
 		left: 0;
-		background: var(--background);
+		/* background: var(--background); */
+		background: red;
 		mix-blend-mode: color;
 		z-index: 0;
 		transition: opacity 1.5s ease;

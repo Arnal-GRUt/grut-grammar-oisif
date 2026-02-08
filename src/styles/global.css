@@ -315,7 +315,7 @@ body .main {
 	height: fit-content;
 	align-self: flex-end;
 	min-width: max-content;
-	z-index: 1;
+	z-index: 2;
 
 	& a {
 		text-decoration: none;
@@ -550,7 +550,7 @@ body .display-flex.direction-row.redirection-col {
 		left: 0;
 		background: var(--background);		
 		mix-blend-mode: color;
-		z-index: 0;
+		z-index: 1;
 		transition: opacity 1.5s ease;
 	}	
 	
@@ -561,7 +561,7 @@ body .display-flex.direction-row.redirection-col {
 		object-fit: cover;
 		object-position: center;
 		top: 0;
-		z-index: 0;
+		z-index: 1;
 		width: 100vw;
 		left: 0;
 		transition: transform 0.4s ease-in-out;
@@ -582,12 +582,12 @@ body .display-flex.direction-row.redirection-col {
 	
 	& *:is(h2,p) {
 		background-color: var(--white);
-		z-index: 1;
+		z-index: 2;
 	}
 	
 	& h2 {
 		transform: rotate(-2deg);
-		z-index: 1;
+		z-index: 2;
 	}
 		
 	& p {

@@ -552,8 +552,7 @@ body .display-flex.direction-row.redirection-col {
 		mix-blend-mode:color;
 		z-index: 1;
 		transition: opacity 1.5s ease;
-	}	
-	
+	}		
 
 	& .art-du-jour {
 		content: "";
@@ -565,9 +564,7 @@ body .display-flex.direction-row.redirection-col {
 		width: 100vw;
 		left: 0;
 		transition: transform 0.4s ease-in-out;		
-	}
-
-	
+	}	
 	
 	&:has(.cta:hover):after {
 		opacity: 0;	
@@ -1099,7 +1096,7 @@ header nav .to-small-menu {
 
 @keyframes to-top {
 	0% {
-		transform: translateY(12vh);
+		transform: translateY(14vh);
 	}
 
 	50% {
@@ -1134,7 +1131,6 @@ header nav .to-small-menu {
 		opacity: 0;
 		left: 100%;
 		z-index: -1;
-
 	}
 
 	15% {

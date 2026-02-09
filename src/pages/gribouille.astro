@@ -98,19 +98,6 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 				}
 			}
 		}
-		.image.cards:first-of-type {
-			grid-row: 1 / 3;
-			grid-column: span 2;
-			min-height: auto;
-			background-color: var(--yellow);
-			& .figure.flow {
-				min-height: 100%;
-				& button.image-button {
-					min-height: 100%;
-				}
-			}
-		}
-
 		& .image-lightbox {
 			display: none;
 			opacity: 0;

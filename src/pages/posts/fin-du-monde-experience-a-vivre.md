@@ -4,7 +4,7 @@ title: 'La fin du monde, une expérience à vivre au moins une fois dans sa vie'
 pubDate: "07-02-2026"
 description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un de contexte. "
 author: "GRUt·"
-contexte : "En 2016, je me suis créé une proto-méthode de travail pour écrire. Quelques textes dont celui que vous allez lire ici a été écrit dans ce cadre de travail." 
+contexte : "En 2016, je me suis créé une proto-méthode de travail pour écrire. Quelques textes, dont celui que vous allez lire ici, ont été écrits dans ce cadre de travail." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de cristal. »"
 tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article"]
 ---
@@ -15,9 +15,9 @@ En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà r
 
 Alors oui, je ne vous apprends rien. C'est de la pure eau tiède pressée à froid. Celà dit, être convaincu d'une chose c'est bien, mais ne rien en faire derrière c'est comme se dire qu'on a faim et attendre que le repas se fasse tout seul les panards posés sur la table basse. <i>Spoiler alert !</i> Il ne se passe rien et on meurt d'inanition (avec quelques étapes entre les 2 je l'admets volontiers, et si l'on pose la fin du patriarcat comme condition <i>sine qua non</i> à la réalisation de l'hypothèse. Cette parenthèse est beaucoup trop longue).  
 
-Enfin bref, j'ai commencé à fouiller l'internet dans le but de trouver la méthode ultime qui me permettrait de devenir le nouveau Franck Herbert (faut de l'ambition dans la vie). La première question que je me suis posée - mon cerveau de rôliste est toujours aux commandes quand il s'agit de fabriquer de la gamification (ce mot est moche) - c'est "comment pourrais-je générer du thème aléatoire pour le fun ?", un peu à la manière du générateur de scénarios que publia le magazine Casus Belli[^1] dans les années 1990. En somme, je voulais rendre l'expérience ludique, et assez vite une solution s'est imposée à moi : "Poule de Cristal". 
+Enfin bref, j'ai commencé à fouiller l'internet dans le but de trouver la méthode ultime qui me permettrait de devenir le nouveau Franck Herbert (faut de l'ambition dans la vie). La première question que je me suis posée - mon cerveau de rôliste est toujours aux commandes quand il s'agit de fabriquer de la gamification (ce mot est moche) - c'est "comment pourrais-je générer du thème aléatoire pour le fun ?", un peu à la manière du générateur de scénarios qu'avait publié dans ses colonnes le magazine Casus Belli[^1] au milieu des années 1990. En somme, je voulais rendre l'expérience ludique, et assez vite une solution s'est imposée à moi : "Poule de Cristal". 
 
-C'est quoi donc ce truc ? Malheureusement la bête à clamsé en 2024, mais depuis les années 2010, c'était un super outil d'aide à la création graphique. Il était mis à disposition des professionnels francophones des métiers d'artistes sur le hub/forum coopératif [Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9). Il permettait de générer (bien avant ChatGPT) des thèmes aléatoires variés et originaux.  
+C'est quoi donc ce truc ? Malheureusement la bête à clamsé en 2024, mais depuis les années 2010, c'était un super outil d'aide à la création graphique. Il avait été mis à disposition des professionnels francophones des métiers d'artistes sur le hub/forum coopératif [Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9). Il permettait de générer (bien avant ChatGPT) des thèmes aléatoires variés et originaux.  
 
 J'ai rapidement adopté l'outil. Il faut dire que je l'utilisais déjà pas mal avec le poto [Stefan](https://stefan-rooy-artworks.multiscreensite.com/) quand on arrivait à se caler des après-midi dessins chez lui. Le fonctionnement de l'outil était simple : on cliquait sur générer un thème et il générait un thème à partir d'une base de données d'adjectifs, des verbes d'action etc. Il proposait 3 types de génération : 1 mot, une idée ou 1 phrase.  
 

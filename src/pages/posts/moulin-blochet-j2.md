@@ -4,7 +4,7 @@ title: 'Moulin du Blochet - jour 2'
 pubDate: "18-01-2026"
 description: "2ème jour au Moulin du Blochet."
 author: "GRUt·"
-contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôte."
+contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte."
 tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
 ---

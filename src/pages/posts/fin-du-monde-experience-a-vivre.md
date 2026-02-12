@@ -15,7 +15,7 @@ En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà r
 
 Alors oui, je ne vous apprends rien. C'est de la pure eau tiède pressée à froid. Celà dit, être convaincu d'une chose c'est bien, mais ne rien en faire derrière c'est comme se dire qu'on a faim et attendre que le repas se fasse tout seul les panards posés sur la table basse. <i>Spoiler alert !</i> Il ne se passe rien et on meurt d'inanition (avec quelques étapes entre les 2 je l'admets volontiers, et si l'on pose la fin du patriarcat comme condition <i>sine qua non</i> à la réalisation de l'hypothèse. Cette parenthèse est beaucoup trop longue).  
 
-Enfin bref, j'ai commencé à fouiller l'internet dans le but de trouver la méthode ultime qui me permettrait de devenir le nouveau Franck Herbert (faut de l'ambition dans la vie). La première question que je me suis posée - mon cerveau de rôliste est toujours aux commandes quand il s'agit de fabriquer de la gamification (ce mot est moche) - c'est "comment pourrais-je générer du thème aléatoire pour le fun ?", un peu à la manière du générateur de scénarios qu'avait publié dans ses colonnes le magazine Casus Belli[^1] au milieu des années 1990. En somme, je voulais rendre l'expérience ludique, et assez vite une solution s'est imposée à moi : "Poule de Cristal". 
+Enfin bref, j'ai commencé à fouiller l'internet dans le but de trouver la méthode ultime qui me permettrait de devenir le nouveau Franck Herbert (faut de l'ambition dans la vie). La première question que je me suis posée - mon cerveau de rôliste est toujours aux commandes quand il s'agit de fabriquer de la gamification (ce mot est moche) - c'est "comment pourrais-je générer du thème aléatoire pour le fun ?", un peu à la manière du générateur de scénarios qu'avait publié dans ses colonnes le magazine Casus Belli[^1] au milieu des années 1990. En somme, je voulais rendre l'expérience ludique, et assez vite une solution s'est imposée à moi : "Poule de Cristal".  
 
 C'est quoi donc ce truc ? Malheureusement la bête à clamsé en 2024, mais depuis les années 2010, c'était un super outil d'aide à la création graphique. Il avait été mis à disposition des professionnels francophones des métiers d'artistes sur le hub/forum coopératif [Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9). Il permettait de générer (bien avant ChatGPT) des thèmes aléatoires variés et originaux.  
 
@@ -34,8 +34,9 @@ Pour conclure, je dirais que j'ai tiré 3 axes de cette proto-méthode :
 Le texte qui suit a été commencé en novembre 2018 et a été terminé assez vite. Cette version a cependant bénéficié de beaucoup de petites retouches et de coupures <i>a posteriori</i>.  
 
 Pour info je vous mets les 3 thèmes tirés ce jour là :  
+
 - "une grenouille"
-- "des faunes ivres"  
+- "des faunes ivres"
 - "des machins ivres se retranchent dans une frégate, pendant la fin du monde".  
 
 Bonne lecture à vous.  
@@ -82,4 +83,4 @@ Je n’ai même pas pris de photo.
 ----
 
 [^2]:[Article Wikipedia sur Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9)
-[^1]:[Article wikipedia sur Casus Belli](https://fr.wikipedia.org/wiki/Casus_Belli) : <i>"Casus Belli est un magazine francophone créé en 1980 traitant du jeu de rôle, du wargame (à ses débuts), du jeu de rôle grandeur nature, du jeu sur internet et de la « culture de l'imaginaire »."</i>
+[^1]:[Article wikipedia sur Casus Belli](https://fr.wikipedia.org/wiki/Casus_Belli) : "Casus Belli est un magazine francophone créé en 1980 traitant du jeu de rôle, du wargame (à ses débuts), du jeu de rôle grandeur nature, du jeu sur internet et de la « culture de l'imaginaire »."

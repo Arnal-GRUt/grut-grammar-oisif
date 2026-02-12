@@ -10,7 +10,6 @@ tags: ["Ecritouille", "micro", "narratif"]
 
 ---
 
-  
 « — Dis ? fiston, t’as fait ta vidange ? ».  
 
 La voix portait, c’était celle de Daron qui interpellait Fils.  

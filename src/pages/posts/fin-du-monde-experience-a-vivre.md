@@ -4,9 +4,9 @@ title: 'La fin du monde, une expérience à vivre au moins une fois dans sa vie'
 pubDate: "07-02-2026"
 description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un de contexte. "
 author: "GRUt·"
-contexte : "En 2016, je me suis créé une proto-méthode de travail pour écrire. Quelques textes, dont celui que vous allez lire ici, ont été écrits dans ce cadre de travail." 
-enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de cristal. »"
-tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article"]
+contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
+enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"
+tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article", "Poule de Cristal"]
 ---
 
 ### Encore un peu de contexte : ###

@@ -41,4 +41,4 @@ En guise de conclusion, Baresi exécuta une révérence tandis que son image dis
 ----
 
 [^1]: admirez la finesse de l'expert écritouilleur.
-[^2]: Ce passage m'a posé beaucoup de problème à l'époque. Je l'ai retravaillé 40 fois environ sans arriver à un resultat satisfaisant. Je ne sais pas si c'est trop court, mal formulé, ou s'il faut carrément le remplacer par un autre "pont" vers la fin du texte. Peut-être qu'un jour je me replongerais dedans.
+[^2]: Ce passage m'a posé beaucoup de problèmes à l'époque. Je l'ai retravaillé 40 fois environ sans arriver à un resultat satisfaisant. Je ne sais pas si c'est trop court, mal formulé, ou s'il faut carrément le remplacer par un autre "pont" vers la fin du texte. Peut-être qu'un jour je me replongerais dedans.

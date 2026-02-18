@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Moulin du Blochet - jour 4'
-pubDate: 2026-02-01
+pubDate: 02-01-2026
 description: "4ème jour au Moulin du Blochet"
 author: "GRUt·"
 contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."

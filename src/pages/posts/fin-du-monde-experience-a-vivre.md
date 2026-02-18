@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'La fin du monde, une expérience à vivre au moins une fois dans sa vie'
 pubDate: 2026-07-02
-description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un de contexte. "
+description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un de contexte."
 author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"

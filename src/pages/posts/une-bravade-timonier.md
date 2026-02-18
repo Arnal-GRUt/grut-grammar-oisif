@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Une bravade de timonier'
-pubDate: 12-02-2026
+pubDate: 2026-02-12
 description: "Micro nouvelle écrite entre 2016 et 2017"
 author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre."

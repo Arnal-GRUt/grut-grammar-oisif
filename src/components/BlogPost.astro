@@ -9,18 +9,16 @@ const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
         <div class="display-flex carton-presentation direction-column">
             <h2>{title}</h2>
             <p class="date-et-auteur">
-                <span class="date-publication">
-                    <!-- {pubDate.toString().slice(0, 10)}</span -->
+                <!-- <span class="date-publication">
                     {pubDate}</span
-                >
+                > -->
+                    <time datetime={pubDate}>{new Date(pubDate).toLocaleDateString("fr-FR", { year: 'numeric', month: 'short', day: 'numeric' })}</time>                    
                 <span>|</span><span class="auteur">{author}</span>
             </p>
         </div>
         <div class="display-flex introduction direction-column">
             <h3>Présentation / contexte</h3>
             <p>{contexte}</p>
-            <!-- <h3>L'objectif</h3>
-            <p>{enonce}</p> -->
         </div>
     </div>
 </a>

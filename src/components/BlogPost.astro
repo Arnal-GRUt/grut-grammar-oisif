@@ -12,7 +12,15 @@ const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
                 <!-- <span class="date-publication">
                     {pubDate}</span
                 > -->
-                    <time datetime={pubDate}>{new Date(pubDate).toLocaleDateString("fr-FR", { year: 'numeric', month: 'short', day: 'numeric' })}</time>                    
+                <time datetime={pubDate}
+                    >{
+                        new Date(pubDate).toLocaleDateString("fr-FR", {
+                            year: "numeric",
+                            month: "short",
+                            day: "numeric",
+                        })
+                    }</time
+                >
                 <span>|</span><span class="auteur">{author}</span>
             </p>
         </div>
@@ -38,7 +46,7 @@ const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
         & .display-flex.direction-column.presentation {
             max-width: calc(640px - 2rem);
             width: 100%;
-            border: 2px dashed var(--white);
+            border: 2px dashed var(--black);
             padding: 8px;
             transition: background 0.1s ease;
             border-radius: 4px;

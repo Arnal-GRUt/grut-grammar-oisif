@@ -187,8 +187,6 @@ p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a:not(.data-footnote-backref)
 	font-size: 1.1rem;
 }
 
-/* ul li, */
-/* strong, */
 h1,
 *.to-small-titre a,
 .soustitre,
@@ -1841,7 +1839,7 @@ html:not([id*="Grammar"]) {
         background-color: var(--background);
         & nav.to-top {
           background-color: var(--background);		  
-		  border-bottom: 2px dashed var(--white);
+		  border-bottom: 2px dashed var(--black);
         }
       }
 }

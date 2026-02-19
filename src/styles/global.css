@@ -187,6 +187,7 @@ p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a:not(.data-footnote-backref)
 	font-size: 1.1rem;
 }
 
+/* ul li, */
 h1,
 *.to-small-titre a,
 .soustitre,
@@ -197,9 +198,7 @@ h3.les-cadors a,
 h4,
 ul:not(.liste-contraintes, .tags) li a,
 .cta a,
-ul li,
 strong,
-em,
 .to-home,
 p.titre-texte,
 .carton-texte p,
@@ -216,7 +215,7 @@ ul {
 }
 
 li {
-	font-weight: 700;
+	font-weight: 500;
 	list-style: none;	
 }
 

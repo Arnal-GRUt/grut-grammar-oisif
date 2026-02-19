@@ -51,6 +51,10 @@ const { title, url, pubDate, author, contexte, enonce, tags } = Astro.props;
             transition: background 0.1s ease;
             border-radius: 4px;
             position: relative;
+            height: 200px;
+            overflow-y: auto;
+            scrollbar-color: var(--black) transparent;
+            scrollbar-width: thin;
 
             & .carton-presentation {
                 display: flex;

@@ -702,10 +702,16 @@ html#ecritouille body .tous-les-textes .box article {
 .ambiance {	
 	& *:nth-child(even) {
 		transform: rotate(2deg);
+		transition: transform 0.1s ease;
 	}
 	& *:nth-child(odd) {
 		transform: rotate(-2deg);
+		transition: transform 0.2s ease;
 	}
+}
+
+.ambiance:has(.cta:hover) p {
+	transform: none;
 }
 
 

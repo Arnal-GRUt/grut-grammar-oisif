@@ -15,7 +15,7 @@ Chaque phrase doit débuter par un mot ou une expression tirée au sort dans une
 ### Texte n°1
 
 - Texte source : « *J. O.* – Depardon – Article Tokyo 1964 »  
-- Les mots/expressions (les sélectionné·e·s*) :  c’est mon / à cette époque / pour / nous sommes / à quelque / rien / aussitôt* / à la fin / je suis très / il / c’est très / il y a* / il n’y a*
+- Les mots/expressions (les sélectionné·e·s en gras) :  c’est mon / à cette époque / pour / nous sommes / à quelque / rien / **aussitôt** / à la fin / je suis très / il / c’est très / **il y a** / **il n’y a**
 
 -----
 
@@ -39,8 +39,7 @@ Devant sa télé, Jean-Pierre était circonspect « Elle est cheloue l’éditi
 ### Texte n°2  
 
 - Texte source : « *J. O.* – Depardon – Article Tokyo 1964 »  
-- Les mots/expressions (les sélectionné·e·s*) :  les plus fous* / tout est fini / au début* / puis / manifestant / ce fut* / jamais / une autre  
-   
+- Les mots/expressions (les sélectionné·e·s en gras) :  **les plus fous** / tout est fini / **au début** / puis / manifestant / **ce fut** / jamais / une autre     
 -----
 
 Au début on ne disait rien. Quand je dis « on », je parle de nous autres les mutants. Contrairement à ceux des comics, nous, on n’avait pas de pouvoirs incroyables. Souvent des capacités un peu utiles comme refroidir une eau bouillante ou de la télékinésie de tout petits objets. Tout au plus quelques grammes et sans grande vélocité. Certains d’entre nous ont des malformations liées aux mutations, voire des altérations physiques comme des cornes ou une peau rouge, bleue, verte. On ne faisait peur à pas grand monde. On nous plaignait même parfois.  
@@ -54,7 +53,7 @@ Aujourd’hui on parle un peu plus. C’est important je crois. Mais derrière d
 ### Texte n°3  
 
 - Texte source : Magazine « Chut ! N°15 – Brisons les codes – Article p. 84-85 »  
-- Les mots/expressions (les sélectionné·e·s*) :  ambiance* / elle scolarise / depuis / pour / aucun prérequis* / ils viennent tous / pour mener à bien / en plus / les labs / dès le départ / dans les faits / aujourd’hui*
+- Les mots/expressions (les sélectionné·e·s en gras) :  **ambiance** / elle scolarise / depuis / pour / **aucun prérequis** / ils viennent tous / pour mener à bien / en plus / les labs / dès le départ / dans les faits / **aujourd’hui**
 -    
 -----
 

@@ -11,7 +11,7 @@ tags: ["Ecritouille", "narratif", "exercice", "mots obligatoires", "complet", "t
 ## Exercice n°1 
 
 Texte source : « Utopiales 2022 » Morgan Caussarieu – La maman de Martin – p.153
-La liste de mots (les mots sélectionnés*) : tuer / déménager / occasion / fils / sang / môme / dormir* / livide* / zombie / elle / chialer / limite* / bruyant / enfer  
+La liste de mots (mots sélectionnés en gras) : tuer / déménager / occasion / fils / sang / môme / **dormir** / **livide** / zombie / elle / chialer / **limite** / bruyant / enfer  
 
 ### Texte n°1 - soude/dormir
 
@@ -54,7 +54,7 @@ Dépasser la limite donne un bon pain.
 Thème : [Ketty Stewart](https://linktr.ee/k_tastrof)  
 
 - Texte source : « Christian Bobin – les différentes régions du ciel » – La nuit du cœur P.847  
-- Les mots (ceux à intégrer*) : bol / percé·e / proche* / voir / étoiles* / vivre / fraîche* / jaunis* / abeille* / lanterne / accueillir / fumée / mort / vert-de-gris / consentement
+- Les mots (ceux à intégrer sont en gras) : bol / percé·e / **proche** / voir / **étoiles** / vivre / **fraîche** / **jaunis** / **abeille** / lanterne / accueillir / fumée / mort / vert-de-gris / consentement
 - Le thème de Ketty : exfoliant ou essentiel·le  
 
 ### Texte n°1
@@ -91,7 +91,7 @@ Juste un travail sur les mots
 3 textes courts de quelques phrases. Sans thème particulier. Juste un mot à utiliser.  
 
 - Texte source : « Christian Bobin – les différentes régions du ciel » – Autoportrait au radiateur P.145  
-- Les mots/expresssions (mots à intégrer*) : en pente* / fleur / tulipe* / ne savent pas / ce qui passe / aucun réconfort / vécu* / poreux* / aérien / s’expliquer / un temps pur / de partout* / imprévisible  
+- Les mots/expresssions (mots à intégrer en gras) : **en pente** / fleur / **tulipe** / ne savent pas / ce qui passe / aucun réconfort / **vécu** / **poreux** / aérien / s’expliquer / un temps pur / **de partout** / imprévisible  
 
 -----
 

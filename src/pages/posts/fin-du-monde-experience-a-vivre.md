@@ -9,7 +9,7 @@ enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le 
 tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article", "Poule de Cristal"]
 ---
 
-### Encore un peu de contexte : ###
+## Encore un peu de contexte : ##
 
 En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà rédigé quelques nouvelles - la plupart inachevées - mais je ne m'étais pas encore imposé, à proprement parler, une discipline de travail. Ce que je cherchais à l'époque, c'était un moyen de réguler l'acte d'écriture, de créer une sorte de rendez-vous régulier avec celui-ci, quitte à ce que le résultat ne soit pas toujours probant. J'étais convaincu et je le suis encore, que la pratique régulière est le meilleur moyen de progresser, quel que soit le domaine.  
 
@@ -27,11 +27,11 @@ J'ai bien rempli le tableau. Il y a eu quelques abandons en rase campagne, des r
 
 Pour conclure, je dirais que j'ai tiré 3 axes de cette proto-méthode :  
 
-> 1/ écrire régulièrement pour prendre et garder le rythme,  
-> 2/ varier les thèmes pour stimuler l'imagination,  
-> 3/ et le plus difficile (pas forcément le + important) à titre perso : terminer ses histoires.  
+> 1. écrire régulièrement pour prendre et garder le rythme,  
+> 2. varier les thèmes pour stimuler l'imagination,  
+> 3. et le plus difficile (pas forcément le + important) à titre perso : terminer ses histoires.  
 
-Le texte qui suit a été commencé en novembre 2018 et a été terminé assez vite. Cette version a cependant bénéficié de beaucoup de petites retouches et de coupures <i>a posteriori</i>.  
+Le texte qui suit a été commencé en novembre 2018 et a été terminé assez vite. Cette version a cependant bénéficié de beaucoup de petites retouches et de coupures *a posteriori*.  
 
 Pour info je vous mets les 3 thèmes tirés ce jour là :  
 
@@ -43,10 +43,10 @@ Bonne lecture à vous.
 
 -----
 
-### La nouvelle ###  
+## La nouvelle ##
 
-<b>Jour 0 – Journal de Lara Voelkner</b>  
-	
+**Jour 0 – Journal de Lara Voelkner**  
+
 C’est la fin. Après nous, plus grand monde, mis à part quelques irréductibles qui n’auront pas été assez convaincants voire convaincus. Et puis il restera des animaux, des plantes, des champignons. Nous sommes du dernier convoi ma famille et moi-même. Une frégate va relâcher un bon gros millier d’hyper-bourges on ne sait où, sur une des vingt planètes native-habitables ou terraformées répertoriées, à une centaine d’années-lumière de notre système, dans la constellation des Poissons. Dans quelques jours, il ne restera plus rien de notre maison commune. Un train d’énormes sphères métalliques de la taille de petites lunes, turbo-blindées de nos déchets radioactifs en tous genres, entrera en collision avec la Terre. Autant vous dire qu’après ça, on aura du mal à trouver un coin tranquille pour buller.
 
 Demain, nous serons en route pour six mois et demi de transfert jusqu’à la première station orbitale qui tourne autour de Centaury B. C’est de là-bas que nous partirons vers notre nouveau monde. L’installation dans nos quartiers s’est bien passée. Les enfants et Al ont préparé les chambres. Pendant ce temps, je suis partie en apprendre un peu plus auprès du capitaine. Le personnage m’a semblé plutôt sympathique, du genre poli tendance soporifique au premier coup d’œil. Grand, cheveux blonds, coupe Ken-de-Barbie, yeux bleus, dents blanches parfaitement alignées. Un clone de steward lambda livré avec le bouzin. Finalement, je crois que c’est son nom qui dénote le plus chez le bonhomme. Fletcher Mac Bisson.  
@@ -62,7 +62,7 @@ La conversation ne mérite pas une retranscription complète. Il s’est d’abo
 
 Peut-être aurais-je dû le renvoyer chier au final ?  
 
-<b>Jour 1 – Journal de Lara Voelkner</b>   
+**Jour 1 – Journal de Lara Voelkner**  
 
 La frégate a décollé au petit matin. Nous avons fait le tour de la Terre deux fois, pour bien prendre notre élan. Pas le droit à l’erreur, pas le droit de se rater. Sur le moment, pas plus émue que ça. Al non plus d’ailleurs. Les gosses, quant à eux, n’ont pas vraiment connecté malgré les explications que nous avons tenté de leur trouver. Ils n’ont que quatre et cinq ans, leur quotidien est rempli d’images représentant des mondes lointains où habiter. Ils sont nés avec l’idée que la Terre n’était qu’une planète parmi tant d’autres. Et si tout se passe pour le mieux, elle représentera, au pire, 2 % de leur existence. Ils l’auront vite oubliée. Espérons.  
 
@@ -70,17 +70,15 @@ Quand bien même. Ce départ sonne faux. De la dissonance cognitive à l’éche
 
 En fin de journée nous avons reçu une annonce vidéo du capitaine :  
 
-<i>« Ce message s’adresse à tous les passagers. Nous allons bientôt entrer en phase de super-accélération pour atteindre notre vitesse de croisière. D’ici une heure à compter de maintenant, il vous sera alors impossible d’observer la Terre depuis notre frégate. Nous vous invitons donc à vous rendre sur les différentes passerelles afin d’observer le spectacle offert par la planète une dernière fois. Soyez dignes. Soyons dignes. Le Capitaine & son équipage ».</i>
+*« Ce message s’adresse à tous les passagers. Nous allons bientôt entrer en phase de super-accélération pour atteindre notre vitesse de croisière. D’ici une heure à compter de maintenant, il vous sera alors impossible d’observer la Terre depuis notre frégate. Nous vous invitons donc à vous rendre sur les différentes passerelles afin d’observer le spectacle offert par la planète une dernière fois. Soyez dignes. Soyons dignes. Le Capitaine & son équipage ».*
 
 Aurait-il pu faire plus trivial encore ? Était-ce le but ? Non, évidemment. Au fond est-il vraiment possible de façonner un algorithme politique, médiatique, social, capable de soustraire l’humanité à la panique engendrée par cette prophétie auto-réalisée ? Peu probable.
 
-Le moment venu, la moitié des passagers avait décidé de rester dans les quartiers. Par indifférence, par snobisme, mais aussi pour s’isoler et préserver l’intimité de cette expérience. Une façon simple de garder un bout de la Terre avec soi. Après concertation, Al et moi avions décidé de faire ainsi. Je me suis installée à côté de lui, dans notre cabine, devant la grande baie vitrée. Les enfants jouaient derrière et se foutaient du spectacle. Nous les avons un peu forcés à nous rejoindre. Ils ont grogné au début, puis se sont posés à nos côtés et finalement, se sont laissés happer quelques minutes par l’événement. Puis ils sont repartis jouer. Mine de rien, nous ressentions une forme de soulagement très égoïste. Entendre des reproches dans quelques années n’est pas envisageable. En tous cas pas à ce sujet. Puis Al a fini par les rejoindre, et je suis restée toute seule à contempler notre monde s’effondrer. C’est à ce moment-là que j’ai ressenti de la culpabilité. Je me suis tournée, incapable d’assumer. Dans le bar, j’ai cherché de quoi me mettre minable, puis je me suis effondrée sur le sol et j’ai commencé à boire. Après une demi-bouteille, je n’étais plus au top rayon amour-propre. Déglinguée. Anesthésiée. Un machin ivre. Je suis restée dans cette position pendant un moment. Suffisamment longtemps pour permettre à Al de me rejoindre. Il s’est assis à mes côtés. Il a bu ce qui restait de la bouteille de <i>Glendronach</i> et m’a prise dans ses bras.  
+Le moment venu, la moitié des passagers avait décidé de rester dans les quartiers. Par indifférence, par snobisme, mais aussi pour s’isoler et préserver l’intimité de cette expérience. Une façon simple de garder un bout de la Terre avec soi. Après concertation, Al et moi avions décidé de faire ainsi. Je me suis installée à côté de lui, dans notre cabine, devant la grande baie vitrée. Les enfants jouaient derrière et se foutaient du spectacle. Nous les avons un peu forcés à nous rejoindre. Ils ont grogné au début, puis se sont posés à nos côtés et finalement, se sont laissés happer quelques minutes par l’événement. Puis ils sont repartis jouer. Mine de rien, nous ressentions une forme de soulagement très égoïste. Entendre des reproches dans quelques années n’est pas envisageable. En tous cas pas à ce sujet. Puis Al a fini par les rejoindre, et je suis restée toute seule à contempler notre monde s’effondrer. C’est à ce moment-là que j’ai ressenti de la culpabilité. Je me suis tournée, incapable d’assumer. Dans le bar, j’ai cherché de quoi me mettre minable, puis je me suis effondrée sur le sol et j’ai commencé à boire. Après une demi-bouteille, je n’étais plus au top rayon amour-propre. Déglinguée. Anesthésiée. Un machin ivre. Je suis restée dans cette position pendant un moment. Suffisamment longtemps pour permettre à Al de me rejoindre. Il s’est assis à mes côtés. Il a bu ce qui restait de la bouteille de *Glendronach* et m’a prise dans ses bras.  
 
 Nous avons quitté le système solaire, à cette distance, la Terre n’était plus qu’un point blanc parmi les autres.  
 
-Je n’ai même pas pris de photo. 
+Je n’ai même pas pris de photo.  
 
-----
-
-[^2]:[Article Wikipedia sur Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9)
+-----
 [^1]:[Article wikipedia sur Casus Belli](https://fr.wikipedia.org/wiki/Casus_Belli) : "Casus Belli est un magazine francophone créé en 1980 traitant du jeu de rôle, du wargame (à ses débuts), du jeu de rôle grandeur nature, du jeu sur internet et de la « culture de l'imaginaire »."

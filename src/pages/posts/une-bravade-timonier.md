@@ -10,7 +10,7 @@ tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "Po
 ---
 
 « Celui qui ne s’est jamais confronté à une pluie de météores, ne peut pas revendiquer ses galons de pilotes ».  
-<i>Proverbe space-pirate. Début du 3ème millénaire.</i>  
+*Proverbe space-pirate. Début du 3ème millénaire.*  
 
 Une fanfaronnade de timonier, en réalité. Rien d’autre. Parmi ceux qui ont voulu narguer la mort, peu ont pu ou peuvent encore, témoigner de l’absurdité de ce défi. Alors pourquoi tenter le coup ? À cet instant même, pour Ava, jeune pirate en quête de reconnaissance, répondre à cette question n’était plus une priorité. Sa navette de course avait tenu 10 pauvres secondes avant d’être pulvérisée, puis expulsée aussi sec, hors la tempête Hypério.13 de la galaxie d’Andromède. De son bolide, il ne restait que le cockpit blindé, ironique cercueil, qui voguait dans l’espace. À demi-consciente, à travers la vitre fêlée, elle voyait la pluie de météores qui s’éloignait inexorablement dans un silence morbide.  
 

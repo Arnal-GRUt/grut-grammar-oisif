@@ -188,6 +188,7 @@ p:not(.cta, *.to-small-titre, li:is(.about, .tag)) a:not(.data-footnote-backref)
 }
 
 /* ul li, */
+/* strong, */
 h1,
 *.to-small-titre a,
 .soustitre,
@@ -198,12 +199,10 @@ h3.les-cadors a,
 h4,
 ul:not(.liste-contraintes, .tags) li a,
 .cta a,
-strong,
 .to-home,
 p.titre-texte,
 .carton-texte p,
-p.accroche,
-figcaption {
+p.accroche {
 	font-family: "Chelsea Market", system-ui;
 	font-weight: 400;
 	font-style: normal;
@@ -211,12 +210,14 @@ figcaption {
 }
 
 ul {
-	padding: 8px;
+	padding: 8px;	
+	& li {		
+		list-style: none;	
+	}
 }
 
 li {
-	font-weight: 500;
-	list-style: none;	
+	font-weight: 400;	
 }
 
 p {

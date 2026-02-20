@@ -230,7 +230,7 @@ p {
 p.accroche {
 	min-width: fit-content;
 	line-height: 1.6ch;
-	text-shadow: 4px 4px var(--background);
+	text-shadow: 1px 1px var(--background);
 	transition: text-shadow 0.3s ease-in-out;
 }
 
@@ -239,9 +239,9 @@ p.accroche {
 	transition: text-shadow 0.3s ease-in-out;
 }
 
-*.to-small-titre:hover a {
-	text-shadow: -4px 4px var(--background);
-}
+/* *.to-small-titre:hover a {
+	text-shadow: -1px 1px var(--background);
+} */
 
 h2 {
 	font-size: 2.4rem;

@@ -861,8 +861,7 @@ footer .mentions-legales {
 	animation-range-start: 450vh;
 	animation-range-end: 600vh;
 } */
-/* @media screen and (min-width > 1024px) { */
-
+ 
 body header nav.to-top {
 	padding: 8px 2vw;
 	position: fixed;

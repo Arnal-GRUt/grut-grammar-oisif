@@ -591,10 +591,12 @@ body .display-flex.direction-row.redirection-col {
 	& h2 {
 		transform: rotate(-2deg);
 		z-index: 2;
+		transition: transform 0.1s ease;
 	}
 		
 	& p {
 		transform: translateX(6vw) rotate(3deg);
+		transition: transform 0.2s ease;
 	}
 
 	/* &:before {

@@ -528,7 +528,7 @@ body .display-flex.direction-row.redirection-col {
 	position: relative;
 	padding: 6vh 0 0 2vw;
 	z-index: 2;
-	background: var(--black);
+	background: var(--black);	
     /* background-size: 50%;
     background-position: center;	
 	-webkit-transition: background 0.4s ease;	
@@ -564,9 +564,13 @@ body .display-flex.direction-row.redirection-col {
 		transition: transform 0.4s ease-in-out;		
 	}	
 
-	&:has(.cta:hover) :is(p, h2) {
-		transform: none;
-	}	
+	&:has(.cta:hover) h2 {
+		transform: rotate(0);
+	}
+	
+	&:has(.cta:hover) p {
+		transform: translatex(6vw) rotate(0);
+	}
 	
 	&:has(.cta:hover):after {
 		opacity: 0;	

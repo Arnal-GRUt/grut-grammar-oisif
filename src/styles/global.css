@@ -598,15 +598,6 @@ body .display-flex.direction-row.redirection-col {
 		transform: translateX(6vw) rotate(3deg);
 		transition: transform 0.2s ease;
 	}
-
-	/* &:before {
-		content: "[Nom de l'image] - [date/date/date]";
-		position: absolute;
-		bottom: 5%;
-		right: 5%;
-		background: var(--white);
-		padding: 2px;
-	}	 */
 }
 
 .redirection-card-gribouille .display-flex.direction-column {

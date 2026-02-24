@@ -762,6 +762,7 @@ body footer {
 	& p.accroche {
 		width: 100%;
 		text-align: center;
+		text-shadow: 3px 3px var(--background);
 	}
 }
 

@@ -230,7 +230,7 @@ p {
 p.accroche {
 	min-width: fit-content;
 	line-height: 1.6ch;
-	text-shadow: 1px 1px var(--background);
+	text-shadow: 3px 3px var(--background);
 	transition: text-shadow 0.3s ease-in-out;
 }
 
@@ -1118,12 +1118,14 @@ header nav .to-small-menu {
 	@keyframes to-small-titre {
 		0% {
 			font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
+			text-shadow: 3px 3px var(--background);
 		}
 
 		100% {
 			left: 0;
 			transform: translateX(-5%);
 			font-size: 1.8rem;
+			text-shadow: 1px 1px var(--background);
 		}
 	}
 }

@@ -3,6 +3,7 @@ import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
 import artSectionGrib from "../artwork/homonde-Fork-2020-to-2023-v2.png";
+import { getEntry, getEntries } from 'astro:content';
 import { Debug } from "astro:components";
 import Navigation from "../components/Navigation.astro";
 import { imageConfig } from "astro:assets";
@@ -11,6 +12,8 @@ import { imageMetadata } from "astro/assets/utils";
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
 );
+
+const lastArt = await getEntry(gribArt[0]);
 
 const pageTitle = "Grammar Oisif";
 ---
@@ -83,10 +86,16 @@ const pageTitle = "Grammar Oisif";
 			<!-- <div class="redirection-card-gribouille" style={`background="${art};"`}> -->
 			<div class="redirection-card-gribouille">
 				<div class="display-flex direction-column">
-					<Image
+					<!-- <Image						
 						src={artSectionGrib}
 						class="art-du-jour"
 						alt="Géant port 2 tours séparées par une passerelle fragile"
+						style="position: absolute;"
+					/> -->
+					<Image 
+						src={lastArt}
+						class="Art du jour"
+						alt="Dernier travail"
 						style="position: absolute;"
 					/>
 					<h2>La gribouille</h2>

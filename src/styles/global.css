@@ -230,7 +230,6 @@ p {
 p.accroche {
 	min-width: fit-content;
 	line-height: 1.6ch;
-	/* text-shadow: 3px 3px var(--background); */
 	transition: text-shadow 0.3s ease-in-out;
 }
 

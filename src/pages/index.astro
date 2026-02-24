@@ -13,7 +13,7 @@ const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
 );
 
-const lastArt = await getEntry(gribArt[0]);
+const lastArt = await getEntry(gribArt(0));
 
 const pageTitle = "Grammar Oisif";
 ---

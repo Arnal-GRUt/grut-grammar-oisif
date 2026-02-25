@@ -92,6 +92,6 @@ Il n’a pas prévu assez de nourriture, ni assez d’eau. Il a mis 1 semaine po
 [^2]: c'est le premier texte du séjour. Il a été beaucoup remanié après coup, notamment pendant 1h environ l'après-midi du même jour.  
 La première partie n'a été que partiellement retouchée (corrections grammaticales et lourdeurs essentiellement). La seconde - après la découverte de la liste manuscrite par le jeune enquêteur - quant à elle, a été réécrite quasi complètement dans l'après-midi, puis a été finalisée entre le retour du séjour et son jour de publication.  
 
-[^3]: *grimpé*, *grimper*, c'était les verbes que j'avais choisis à l'origine. pas vraiment adéquat, j'ai finalement adopté le verbe *escaladé/er* qui me parait plus approprié. En réalité, c'est surtout pour faire plaisir aux fans d'escalade que je connais. À bon entendeur.  
+[^3]: *grimpé*, *grimper*, c'était les verbes que j'avais choisis à l'origine. Pas vraiment adéquat, j'ai finalement adopté le verbe *escaladé/er* qui me parait plus approprié. En réalité, c'est surtout pour faire plaisir aux fans d'escalade que je connais. À bon entendeur.  
 
 [^4]: ça date pour comprendre ce qui m'est passé par la tête à ce moment de la journée. Le texte étant très court, je pense avoir mis du temps pour trouver une idée (pas ouf) et au final j'ai tracé pour arriver à une conclusion. C'est pas brillant du tout, j'imagine qu'on sera d'accord.

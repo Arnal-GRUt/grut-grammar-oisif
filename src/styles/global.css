@@ -549,6 +549,7 @@ body .display-flex.direction-row.redirection-col {
 		mix-blend-mode:color;
 		z-index: 1;
 		transition: opacity 1.5s ease;
+		opacity: 0.85;
 	}		
 
 	& .art-du-jour {

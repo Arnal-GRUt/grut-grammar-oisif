@@ -670,6 +670,7 @@ body .display-flex.direction-row.redirection-col {
 		-webkit-transition: opacity 1.5s ease;
 		-o-transition: opacity 1.5s ease;
 		transition: opacity 1.5s ease;
+		opacity: 0.85;
 	}		
 
 	& .art-du-jour {

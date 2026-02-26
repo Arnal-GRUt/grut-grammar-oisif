@@ -677,8 +677,7 @@ body .display-flex.direction-row.redirection-col {
 		opacity: 0.85;
 	}		
 
-	& .art-du-jour {
-		content: "";
+	& .art-du-jour {		
 		height: 100%;
 		-o-object-fit: cover;
 		   object-fit: cover;

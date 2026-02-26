@@ -1899,9 +1899,9 @@ html:not([id*="Grammar"]) body {
 	}
 	.redirection-card-gribouille {
 
-		& img {
+		/* & img {
 			position: relative;
-		}
+		} */
 
 		&::after {			
 			content:none;			

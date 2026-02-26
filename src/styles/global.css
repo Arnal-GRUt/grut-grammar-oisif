@@ -646,6 +646,7 @@ body .display-flex.direction-row.redirection-col {
 	position: relative;
 	padding: 6vh 0 0 2vw;
 	z-index: 2;	
+	pointer-events: none;
 	/* background: var(--black);	 */
     /* background-size: 50%;
     background-position: center;	
@@ -1898,10 +1899,6 @@ html:not([id*="Grammar"]) body {
 		}
 	}
 	.redirection-card-gribouille {
-
-		/* & img {
-			position: relative;
-		} */
 
 		&::after {			
 			content:none;			

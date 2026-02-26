@@ -659,7 +659,7 @@ body .display-flex.direction-row.redirection-col {
 
 	& img {
 		position: absolute;
-		pointer-events: none;
+		pointer-events: none; 
 	}
 
 	&::after {
@@ -1076,25 +1076,6 @@ footer .mentions-legales {
 	position: relative;
 	/* border-radius: 4px; */
 }
-
-/* header nav.to-top *.to-small-menu {
-	position: absolute;
-	left: 50%;
-	transform: translateX(-50%) translateY(13vh);
-	text-wrap: nowrap;
-	padding: 1ch;
-	font-size: 1.5rem;
-
-	display: flex;
-	width: fit-content;
-	justify-content: center;
-
-	animation: linear to-small-menu both;
-	animation-timeline: scroll();
-	animation-duration: 0.2s;
-	animation-range-start: 450vh;
-	animation-range-end: 600vh;
-} */
  
 body header nav.to-top {
 	padding: 8px 2vw;

@@ -1,6 +1,8 @@
 ---
+import { getCollection, getEntry } from "astro:content";
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { imageConfig } from "astro:assets";
 const pageTitle = "Gribouille";
 
 const images = import.meta.glob<{ default: ImageMetadata }>(

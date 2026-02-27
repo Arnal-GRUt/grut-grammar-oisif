@@ -12,7 +12,10 @@ const pageTitle = "about La vie, les potos et le reste";
       <div class="main-potos display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
         <ul>
-          <li>Y'a longtemps j'ai fait la bouffe dans des restos et servi des cafés dans un cybercafé.</li>
+          <li>
+            Y'a longtemps j'ai fait la bouffe dans des restos et servi des cafés
+            dans un cybercafé.
+          </li>
           ///
           <ul>
             <li>Durant tout ce temps j'ai fait de la musique avec des amis,</li>
@@ -122,7 +125,7 @@ const pageTitle = "about La vie, les potos et le reste";
       position: relative;
       flex-wrap: wrap;
       background: var(--yellow) url(../images/walking-moi.png);
-      background-position: 8vw 66%;
+      background-position: 5vw 66%;
       background-size: 25vw;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -201,7 +204,7 @@ const pageTitle = "about La vie, les potos et le reste";
 
     @media (width < 1281px) {
       .contenu-page.display-flex.direction-row:has(.main-potos) {
-        background-position: 3vw 9vh;
+        background-position: 3vw calc(64px + 2vh);
         background-size: 16vh;
         & section {
           transform: initial;
@@ -212,7 +215,7 @@ const pageTitle = "about La vie, les potos et le reste";
     }
     @media (width < 1025px) {
       .contenu-page.display-flex.direction-row:has(.main-potos) {
-        background-position: 18vw 10vh;
+        background-position: 18vw calc(64px + 2vh);
         background-size: 14vh;
         padding-top: 18vh;
 
@@ -225,13 +228,11 @@ const pageTitle = "about La vie, les potos et le reste";
     }
     @media (width < 769px) {
       .contenu-page.display-flex.direction-row:has(.main-potos) {
-        background-position: 6vh 10vh;
+        background-position: 3vw calc(64px + 2vh);
         background-size: 14vh;
-      }
-    }
     @media (width < 601px) {
       .contenu-page.display-flex.direction-row:has(.main-potos) {
-        background-position: 2vw 10vh;
+        background-position: 2vw calc(64px + 1vh);
         background-size: 10vh;
         padding-top: 14vh;
       }

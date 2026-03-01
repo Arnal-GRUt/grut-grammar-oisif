@@ -11,7 +11,11 @@ tags: ["Ecritouille"]
 
 ## Quelques précisions 
 
-La nouvelle originales, celle que j'ai envoyé à la librairie était plus courte (4 pages comme démandée). Je ne me suis pas amusé à reconter le nombre de caractères
+La nouvelle originales, celle que j'ai envoyé à la librairie était plus courte (4 pages comme démandée).
+
+7800 environ pour l'originale  
+11080 pour la version corrigée  
+
 
 ## La nouvelle
 

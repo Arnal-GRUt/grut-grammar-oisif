@@ -9,15 +9,35 @@ enonce : "écrire une nouvelle de 4 pages ayant pour thème : 'Quand l’autosto
 tags: ["Ecritouille"]
 ---
 
-## Quelques précisions 
+### Quelques précisions 
 
-La nouvelle originales, celle que j'ai envoyé à la librairie était plus courte (4 pages comme démandée).
+La nouvelle originales, celle que j'ai envoyé à la librairie pour le concours, était plus courte (4 pages comme démandée).
 
-7800 environ pour l'originale  
-11080 pour la version corrigée  
+> - 7800 environ pour l'originale (4 pages)
+> - 11080 pour la version corrigée et modifiée (6 pages avec beaucoup de saut de ligne)
 
+Mise à part les corrections, j'ai fait quelques expérimentations qui auraient certainement mérité autre chose qu'une rédaction à la va-vite un peu frustrante. C'est pas mal de ma faute honnêtement, je me suis mis à l'écriture au dernier moment, à la date butoire de tansmission du texte. Au final, le résultat est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels et caractérisation du personnage principal.
 
-## La nouvelle
+Plus généralement je ne suis pas certain que stratégiquement c'était une bonne idée de procéder ainsi. C'est un peu comme inviter 30 potos à diner et tenter de révolutionner la cuisine 2h avant le repas. Sauf miracle le résultat est très souvent boiteux.  
+
+## Les expérimentations en bref 
+
+- rédaction en temps "réel" 
+- texte au présent
+- un long dialogue cadré par les pensées du narrateur
+- les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus d'un rôle classique d'incise (genre "pensa-t-il", etc.) qu'elles ont dans les dialogues. 
+
+Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec le reste du dialogue. À la relecture quelque mois plus tard, la confusion me semblait tout à possible, entre les lignes de dialogues pas tout à fait. En tout cas, la lecture m'a semblée moins fluide.  
+
+La solution que j'ai trouvé c'est de séparer autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. J'ai aussi . Exemple au tout début du texte : 
+
+> — Vous rentrez à Saintes ?
+> (saut de ligne)
+> *Et merde. J’ai parlé trop vite.*
+> (saut de ligne)
+> — Oui.
+
+### La nouvelle
 
 *Il est assis sur le siège passager. Avec sa tête de banquier, sa mallette de VRP, sa veste trop grande. Pourquoi l’ai-je laissé prendre le siège avant d’ailleurs. J’aurais dû lui dire de s’asseoir à l’arrière quitte à trouver une raison bidon. Il aurait pu piquer un somme la tête posée sur son sac-à-dos en guise d’oreiller. Il reste encore une trentaine de minutes avant d’arriver à Saintes et je regrette déjà de m’être arrêté. Au moins il ne cherche pas à discuter.*
 
@@ -208,3 +228,5 @@ Cette chaise de jardin là, elle fera l’affaire.*
 *Non.*  
 
 *Je vais gerber.*  
+
+-----

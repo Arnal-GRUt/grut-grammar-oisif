@@ -1,7 +1,7 @@
 ---
 // import Tag from "../pages/tags/[tag].astro";
 // import PostTags from "../components/postTags.astro";
-const { title, url, pubDate, author, contexte } = Astro.props;
+const { title, url, pubDate, author, contexte, description } = Astro.props;
 ---
 
 <a class="lien-post" href={url}>
@@ -9,9 +9,6 @@ const { title, url, pubDate, author, contexte } = Astro.props;
         <div class="display-flex carton-presentation direction-column">
             <h2>{title}</h2>
             <p class="date-et-auteur">
-                <!-- <span class="date-publication">
-                    {pubDate}</span
-                > -->
                 <time datetime={pubDate}
                     >{
                         new Date(pubDate).toLocaleDateString("fr-FR", {
@@ -27,6 +24,8 @@ const { title, url, pubDate, author, contexte } = Astro.props;
         <div class="display-flex introduction direction-column">
             <h3>Présentation / contexte</h3>
             <p>{contexte}</p>
+            <h3>Description</h3>
+            <p>{description}</p>
         </div>
     </div>
 </a>
@@ -51,7 +50,7 @@ const { title, url, pubDate, author, contexte } = Astro.props;
             transition: background 0.1s ease;
             border-radius: 4px;
             position: relative;
-            height: 200px;
+            height: 260px;
             overflow-y: auto;
             scrollbar-color: var(--background) transparent;
 

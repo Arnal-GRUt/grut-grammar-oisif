@@ -1,43 +1,55 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "L'autostoppeur est vraiment chelou"
-pubDate: "01-03-2026"
+pubDate: "03-03-2026"
 description: "Nouvelle de 6 pages. Avec beaucoup d'espaces des expérimentations."
 author: "GRUt·"
 contexte : "18ème concours de nouvelles de la librairie Cosmopolite à Angoulême"
 enonce : "écrire une nouvelle de 4 pages ayant pour thème : 'Quand l’autostoppeur s’engouffra dans la voiture, je ne savais pas encore qu’il allait faire prendre un virage inattendu au cours de ma vie.' - 4 pages max."
-tags: ["Ecritouille"]
+tags: ["Ecritouille", "Concours", "Nombres de pages max", "Font imposée", "Taille de font imposée", "Thème imposé"]
 ---
 
-### Quelques précisions 
+## Quelques précisions
 
-La nouvelle originales, celle que j'ai envoyé à la librairie pour le concours, était plus courte (4 pages comme démandée).
+La nouvelle originales, celle que j'ai envoyé à la librairie pour le concours, était plus courte.  
 
-> - 7800 environ pour l'originale (4 pages)
-> - 11080 pour la version corrigée et modifiée (6 pages avec beaucoup de saut de ligne)
+> - Version originale : 4 pages / 7800 caractères environ
+> - Version corrigée et modifiée : 6 pages / 11080 caractères environ  
 
-Mise à part les corrections, j'ai fait quelques expérimentations qui auraient certainement mérité autre chose qu'une rédaction à la va-vite un peu frustrante. C'est pas mal de ma faute honnêtement, je me suis mis à l'écriture au dernier moment, à la date butoire de tansmission du texte. Au final, le résultat est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels et caractérisation du personnage principal.
+Mise à part les corrections, j'ai fait quelques expérimentations qui auraient certainement mérité autre chose qu'une rédaction à la va-vite. Bon, je me suis mis à écrire au dernier moment, le jour même où il fallait transmettre le texte. Je peux difficilement m'en plaindre en réalité, c'est un peu comme inviter 30 potos à diner, et se mettre à la cuisine 2h avant le repas en voulant révolutionner les arts culinaires. C'est rarement cloncluant.  
 
-Plus généralement je ne suis pas certain que stratégiquement c'était une bonne idée de procéder ainsi. C'est un peu comme inviter 30 potos à diner et tenter de révolutionner la cuisine 2h avant le repas. Sauf miracle le résultat est très souvent boiteux.  
+Au final, le résultat en soit est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels, de caractérisation du narrateur et manque de cohérence.  
 
-## Les expérimentations en bref 
+### Les expérimentations en bref
 
-- rédaction en temps "réel" 
-- texte au présent
-- un long dialogue cadré par les pensées du narrateur
-- les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus d'un rôle classique d'incise (genre "pensa-t-il", etc.) qu'elles ont dans les dialogues. 
+> 1. rédaction en temps "réel"  
+> 2. texte au présent
+> 3. un long dialogue cadré par les pensées du narrateur
+> 4. les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus du rôle classique d'incises (genre "pensa-t-il", etc.).  
 
-Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec le reste du dialogue. À la relecture quelque mois plus tard, la confusion me semblait tout à possible, entre les lignes de dialogues pas tout à fait. En tout cas, la lecture m'a semblée moins fluide.  
+Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident, trop raide.  
 
-La solution que j'ai trouvé c'est de séparer autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. J'ai aussi . Exemple au tout début du texte : 
+L'autres soucis venait à mes yeux du corps du texte en lui-même. Sur le fond, les incises décrivant les actions me semblent suffisantes. En revanche quand le narrateur décrivait ses sensations, son trouble, il manquait quelques moments de doute. Quant au second personnage, il n'avait pas de répondant, ou pas assez, alors que des réponses évidentes étaient possibles. Au final, cette première version manquait donc de liant et de cohérence, au point de rendre le texte un peu concon.  
 
-> — Vous rentrez à Saintes ?
-> (saut de ligne)
-> *Et merde. J’ai parlé trop vite.*
-> (saut de ligne)
-> — Oui.
+### Les modifications apportées
 
-### La nouvelle
+Sur la forme, j'ai séparé, autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques. Exemple au tout début du texte :  
+
+> — Vous rentrez à Saintes ?  
+> (saut de ligne)  
+> *Et merde. J’ai parlé trop vite.*  
+> (saut de ligne)  
+> — Oui.  
+
+Sans *spoil* toujours, j'ai souhaité ajouter quelques éléments dans les dialogues et les incises pour rendre l'ensemble plus cohérent Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires).  
+
+J'en dis pas plus vous comprendrez peut-être où je veux en venir.
+
+Pour finir, j'ai ajouté du WD40 scénaristique pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version originale se laisse un peu mieux digérée, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
+
+C'était un peu long. La bonne lecture.  
+
+## La nouvelle
 
 *Il est assis sur le siège passager. Avec sa tête de banquier, sa mallette de VRP, sa veste trop grande. Pourquoi l’ai-je laissé prendre le siège avant d’ailleurs. J’aurais dû lui dire de s’asseoir à l’arrière quitte à trouver une raison bidon. Il aurait pu piquer un somme la tête posée sur son sac-à-dos en guise d’oreiller. Il reste encore une trentaine de minutes avant d’arriver à Saintes et je regrette déjà de m’être arrêté. Au moins il ne cherche pas à discuter.*
 

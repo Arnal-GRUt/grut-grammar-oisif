@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: "L'autostoppeur est vraiment chelou"
+title: "L'autostoppeur"
 pubDate: "03-03-2026"
 description: "Nouvelle de 6 pages. Avec beaucoup d'espaces des expérimentations."
 author: "GRUt·"
@@ -11,41 +11,40 @@ tags: ["Ecritouille", "Concours", "Nombres de pages max", "Font imposée", "Tail
 
 ## Quelques précisions
 
-La nouvelle originales, celle que j'ai envoyé à la librairie pour le concours, était plus courte.  
+Je vais vous parler d'un texte que vous n'allez pas lire, et vous laissez lire un texte qui aurait dû être lu par d'autres avant vous.  
 
-> - Version originale : 4 pages / 7800 caractères environ
+Il s'agit d'une nouvelle que j'ai originellement écrite pour un concours. Elle n'avait qu'un nom de travail, je lui en ai trouvé un autre pour le blog.
+
+Je ne sais pas encore pourquoi, mais j'ai fait quelques expérimentations pour ce texte. Elles auraient certainement mérité autre chose qu'une rédaction à la va-vite, mais je me suis mis à écrire au dernier moment, le jour même où il fallait la transmettre à l'organisation du concours. Je peux donc difficilement m'en plaindre de fait, c'est un peu comme inviter 30 potos à diner, et se mettre à la cuisine 2h avant le repas en voulant révolutionner les arts culinaires. C'est rarement cloncluant.  
+
+Le résultat en soit est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels, de caractérisation du narrateur et manque de cohérence.  
+
+Du coup j'ai ajouté pas mal de mots.  
+
+
+> - Version concours : 4 pages / 7800 caractères environ
 > - Version corrigée et modifiée : 6 pages / 11080 caractères environ  
-
-Mise à part les corrections, j'ai fait quelques expérimentations qui auraient certainement mérité autre chose qu'une rédaction à la va-vite. Bon, je me suis mis à écrire au dernier moment, le jour même où il fallait transmettre le texte. Je peux difficilement m'en plaindre en réalité, c'est un peu comme inviter 30 potos à diner, et se mettre à la cuisine 2h avant le repas en voulant révolutionner les arts culinaires. C'est rarement cloncluant.  
-
-Au final, le résultat en soit est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels, de caractérisation du narrateur et manque de cohérence.  
 
 ### Les expérimentations en bref
 
-> 1. rédaction en temps "réel"  
-> 2. texte au présent
-> 3. un long dialogue cadré par les pensées du narrateur
-> 4. les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus du rôle classique d'incises (genre "pensa-t-il", etc.).  
+1. rédaction en temps "réel"  
+2. texte au présent
+3. un long dialogue cadré par les pensées du narrateur
+4. les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus du rôle classique d'incise (genre "pensa-t-il", etc.).  
 
-Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident, trop raide.  
+Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident et l'enchaînement trop raide.  
 
-L'autres soucis venait à mes yeux du corps du texte en lui-même. Sur le fond, les incises décrivant les actions me semblent suffisantes. En revanche quand le narrateur décrivait ses sensations, son trouble, il manquait quelques moments de doute. Quant au second personnage, il n'avait pas de répondant, ou pas assez, alors que des réponses évidentes étaient possibles. Au final, cette première version manquait donc de liant et de cohérence, au point de rendre le texte un peu concon.  
+L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur le fond, les incises décrivant les actions me semblaient suffisantes. En revanche quand le narrateur décrit ses sensations, son trouble, il manquait quelques moments de remise en question. Quant au second personnage, il n'avait pas de répondant, ou pas assez, alors que des réponses évidentes étaient possibles. Au final, cette première version manquait donc de liant et de cohérence, au point de rendre le texte un peu concon.  
 
 ### Les modifications apportées
 
-Sur la forme, j'ai séparé, autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques. Exemple au tout début du texte :  
+Sur la forme j'ai séparé, autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques pour accentuer l'effet.  
 
-> — Vous rentrez à Saintes ?  
-> (saut de ligne)  
-> *Et merde. J’ai parlé trop vite.*  
-> (saut de ligne)  
-> — Oui.  
+Sans *spoil* toujours, j'ai souhaité ajouter quelques éléments dans les dialogues et des incises pour rendre l'ensemble plus cohérent. Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires).  
 
-Sans *spoil* toujours, j'ai souhaité ajouter quelques éléments dans les dialogues et les incises pour rendre l'ensemble plus cohérent Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires).  
+J'en dis pas plus, vous comprendrez peut-être où je veux en venir.
 
-J'en dis pas plus vous comprendrez peut-être où je veux en venir.
-
-Pour finir, j'ai ajouté du WD40 scénaristique pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version originale se laisse un peu mieux digérée, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
+Pour finir, j'ai ajouté du WD40 scénaristique pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version originale se laisse un peu mieux digérer, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
 
 C'était un peu long. La bonne lecture.  
 
@@ -89,39 +88,39 @@ C'était un peu long. La bonne lecture.
 
 *Il a peut-être raison Kerviel ? Enfin, je ne sais pas, ce n’est pas connu du tout comme combo Parius. Non ?*
 
-— Pardon, je ne voulais pas être désagréable. Du coup, vous faites souvent le stop ou c’est juste là aujourd’hui ?
+— Pardon, je ne voulais pas être désagréable. Du coup, vous faites souvent le stop ou c’est juste là aujourd’hui ?  
 — Juste là.
 
-*Je l’ai vexé là ou c’est juste un taiseux ? Et il a ce ton bizarre, glacial, venu du fond du congélo, entre les glaçons et les restes de soupe d’il y a deux ans.*
+*Je l’ai vexé ou c’est juste un taiseux ? Et il a ce ton bizarre, glacial, venu du fond du congélo, entre les glaçons et les restes de soupe d’il y a deux ans.*
 
 — Vous avez des connaissances dans le coin ?
 — J’ai grandi ici. Je suis allé au collège à Saintes, puis au lycée, à Bellevue, dans les années 90.
 
 *Parius, Bellevue ? C’est quoi ces coïncidences de l’enfer ? Et pourquoi ça me fait froid dans le dos ?*
 
-— Je suis allé à Bellevue aussi et j’ai fait mon collège à Agrippa. Vous aussi peut-être ?
+— Je suis allé à Bellevue aussi et j’ai fait mon collège à Agrippa. Vous aussi peut-être ?  
 — Oui.
 
 *« Oui » qu’il répond. Sa voix me dit quelque chose. Je le connais. En revanche, reste concentré sur la route, hein, ou tu vas finir par mettre la caisse à l’envers dans le champ de patates. Si je lui demandais son nom, tiens ? Non, non, une coïncidence de plus et je fais un arrêt cardiaque. On va d’abord faire une petite pause, juste avant la deux fois deux. Et ça me donnera l’occasion d’approfondir un peu la question. Je ne suis pas spécialement parano – enfin je ne crois pas – mais j’ai besoin d’en savoir plus avant de continuer. Y’a un truc que je sens pas chez ce gars.*
 
 ***
 
-*On est bien, on se détend, on respire un bon coup. Commence par ouvrir ta fenêtre déjà. Ouh là ! il fait un peu frisquet je trouve. Et il fait un peu sombre pour une fin d’après-midi de printemps. Quelle heure est-il d’ailleurs ? 18H30 ! Je n’ai pas débauché si tard que ça pourtant ? Mais merde ! Ça fait une heure et demie qu’on roule ! J’ai foutu quoi sur la route ?*
+*On est bien, on se détend, on respire un bon coup. Commence par ouvrir ta fenêtre déjà. Ouh là ! il fait un peu frisquet je trouve. Et il fait un peu sombre pour une fin d’après-midi d'été. Quelle heure est-il d’ailleurs ? 18H30 ! Je n’ai pas débauché si tard que ça pourtant ? Mais merde ! Ça fait une heure et demie qu’on roule ! J’ai foutu quoi sur la route ?*
 
 — Je m’appelle Lxxrxxxt au fait.
 
 *À peine sorti de la caisse il embraye direct. Préviens avant de parler l’ami, j’ai à peine eu le temps d’allumer ma clope. Il a dit quoi comme prénom déjà ?*
 
-— Navré, entre la fermeture de porte et le vent qui se lève, je ne vous ai pas compris.
-— Laurent. Je m’appelle Laurent.
+— Navré, entre la fermeture de porte et le vent qui se lève, je ne vous ai pas compris.  
+— Laurent. Je m’appelle Laurent.  
 — Ok. Enchanté Laurent. Laurent aussi. Du coup.
 
 *Il se contentera de cette réponse. Ou pas. Il ne bronche pas. On a le même prénom, on est allé dans le même lycée, dans le même collège. On a globalement le même âge. On a un peu la même dégaine. Il ne bronche pas. Il est de dos, je le fixe. Je fais quoi ? Je remonte dans la voiture direct et je reprends la route en deux-deux ? Non non, tu ne vas pas faire l’autruche comme d’habitude. Tu prends ton courage à deux mains et tu y vas.*
 
 — Pardon mais c’est quoi le délire ? *Garde bien ce ton détaché. Le clope au bec, à la Clint. Du style et de la décontraction.*
-— C’est-à-dire ?
-— On a beaucoup de points en commun, non ? Ça ne vous étonne pas plus que ça ?
-— Ça devrait ?
+— C’est-à-dire ?  
+— On a beaucoup de points en commun, non ? Ça ne vous étonne pas plus que ça ?  
+— Ça devrait ?  
 
 *Mmm. J’aime pas ce ton sec. On dirait moi quand je fuis une conversation.*
 
@@ -129,43 +128,43 @@ C'était un peu long. La bonne lecture.
 
 *Il me ressemble en plus. Un peu plus sec de visage. Les cheveux courts, la raie sur le côté. On dirait une version de moi bien propre sur soi. Il voit bien que je le dévisage, il fuit mon regard, passe son temps à tourner la tête.*
 
-— Si vous voulez. Ça existe les coïncidences, non ? Ça pourrait juste vous amuser d’ailleurs. Et puis vous n’êtes pas le seul à avoir fait Agrippa, puis Bellevue dans les années 90 a priori – *Non mais il a raison. Ça doit être la fatigue. Je pars en vrille*. je viens voir de la famille que je n’ai pas revue depuis très longtemps. J’ai des choses à régler. Navré si j’ai laissé transparaître des choses ou si j’ai pourri l’ambiance. Du coup, on reprend la route ou vous comptez me laisser là ?
-— Mouaip. C’est toujours pénible les histoires de famille – *t’as rien de plus banal comme réflexion ?* – on reprend la route dans 5 minutes. Je vous dépose où ? Vous avez une idée ?
+— Si vous voulez. Ça existe les coïncidences, non ? Ça pourrait juste vous amuser d’ailleurs. Et puis vous n’êtes pas le seul à avoir fait Agrippa, puis Bellevue dans les années 90 a priori – *Non mais il a raison. Ça doit être la fatigue. Je pars en vrille*. je viens voir de la famille que je n’ai pas revue depuis très longtemps. J’ai des choses à régler. Navré si j’ai laissé transparaître des choses ou si j’ai pourri l’ambiance. Du coup, on reprend la route ou vous comptez me laisser là ?  
+— Mouaip. C’est toujours pénible les histoires de famille – *t’as rien de plus banal comme réflexion ?* – on reprend la route dans 5 minutes. Je vous dépose où ? Vous avez une idée ?  
 — Laissez-moi au croisement de Saint-Cézaire et de Chaniers.
 
 *On va faire ça té.*
 
-— Je peux vous poser une question ?
+— Je peux vous poser une question ?  
 
-*Ouh la. Je ne sais pas où ça part, mais on y va direct.*
+*Ouh la. Je ne sais pas où ça part, mais on y va direct.*  
 
-— Chais pas. Allez-y oui et on verra si je vous laisse ici ou pas.
+— Chais pas. Allez-y oui et on verra si je vous laisse ici ou pas.  
 
-*Ça le fait pas marrer manifestement. Ceci-dit c’était à moitié une vanne.*
+*Ça le fait pas marrer manifestement. Ceci-dit c’était à moitié une vanne.*  
 
 — Vous seriez prêt à quoi pour revoir un proche décédé à qui vous n’auriez pas eu le temps de dire quelque chose d’important ?
 
 *Mais c’est quoi cette question ? J’espère que t’as prévu une Quechua parce que tu vas pioncer ici.*
 
-— Pardon, mais qu’est-ce que ça peut vous faire ? Je pourrais vous laisser ici pour moins que ça hein. Parce que j’ai pas tellement envie de parler de ce genre de choses avec quelqu’un que je connais depuis une heure à peine en fait.
+— Pardon, mais qu’est-ce que ça peut vous faire ? Je pourrais vous laisser ici pour moins que ça hein. Parce que j’ai pas tellement envie de parler de ce genre de choses avec quelqu’un que je connais depuis une heure à peine en fait.  
 — Et pourquoi pas ?
 
-*Il me regarde dans les yeux maintenant. Fixement. Il ne fuit plus mon regard. J’ai l’impression de me voir dans un miroir déformant. C’est flippant.*
+*Il me regarde dans les yeux maintenant. Fixement. Il ne fuit plus mon regard. J’ai l’impression de me voir dans un miroir déformant. C’est flippant.*  
 
 — Ma mère. À propos de ma mère. L’avant-veille du décès de mon père. C’était le jour de l’an. Il s’est levé de son lit pour la première fois depuis qu’il passait ses journées allongées à attendre la mort. Très fatigué il a tenu à nous rejoindre à table. On était tous content. Ma mère la première, comme si tout ce qui se passait depuis des mois n’existait plus d’un coup. Lui il savait que c’était ses dernières heures. Nous le savions aussi. On lui a donc servi une coupe de mousseux à sa demande et au moment de trinquer, il a commencé, la voix bien fatiguée à nous dire combien il était heureux de passer ce temps de repas avec ses proches. Et surtout combien il nous aimait. Surtout ça. On était en petit comité. Ce n’était vraiment pas son genre de s’épancher comme ça. Sauf que voilà, ses premiers mots à peine sortis de sa bouche, ma mère l’a interrompu en se marrant. Elle réagit souvent comme ça face aux choses très intimes. C’était pas méchant. Elle lui dit d’arrêter parce que c’était pas le moment pour ce genre de discours. Il s’est tu. Il n’a jamais terminé sa phrase. Ma mère venait de nous priver des derniers mots de notre père, de notre oncle, de notre beau-père, de notre ami. Horrible, violent. À ce moment, nous autres, autour de la table on s’est tous regardé dans les yeux. Il flottait dans l’air un mélange écœurant de parfum de tristesse et de colère. Et en même temps on était un peu choqué. Au final on a rien dit, on a continué le repas comme si de rien n’était. C’est fou comme ce jour-là ma mère n’a rien pigé à ce qui se tramait. Elle était complètement à la ramasse. Je lui en ai voulu longtemps. Je lui ai bien fait la gueule. Une dizaine d’années environ. Certainement plus que mon père qui aurait pris la chose avec philosophie voyez. J’en suis certain. Et puis un jour, elle m’a demandé pourquoi je passais moins souvent, pourquoi je ne lui parlais plus de sport, pourquoi je ne lui parlais plus de mes vacances, pourquoi je ne lui parlais plus tout court. Je lui ai alors tout balancé. Et pas gentiment hein, froidement, sèchement. Au début elle n’a pas compris. Elle s’est énervée en me disant que j’avais pas le droit de lui parler comme ça. Je me suis énervé à mon tour. C’est parti très haut, ça a crié fort au point que la voisine a débarquée. Ça a eu le mérite de faire retomber la tension. Et là je crois qu’elle a pigé un peu ce qu’on lui reprochait par ma voix. Elle aurait pu en crever. Elle en a eu envie ce jour-là. Bon, évidemment on s’est mis à pleurer tous les deux. Je l’ai prise dans mes bras un long moment. Le temps qu’elle vide son sac, qu’elle n’est plus de flotte à pleurer. Je me suis excusé pour le ton, elle s’est excusée autant qu’elle a pu pour le reste. Avec le temps, les choses se sont tassées. Plus jamais je ne lui ai reparlé de ça. Aujourd’hui je ne lui en veux plus, mais je sais que jusqu’à sa mort elle culpabilisera. Ma mère est toujours de ce monde, mais c’est typiquement ce genre de chose qui m’aurait fait mal de garder pour moi. Il m’arrive de le regretter en vrai, je l’ai flinguée pour toujours ce jour-là. Je le sais. Mais je crois que c’était la chose à faire.
-Enfin bref, pour répondre à votre question, oui, je crois que je serais capable d’aller assez loin. Quitte à ce que ça foute la merde dans pas mal de vies. C’est égoïste oui. J’en suis conscient. 
+Enfin bref, pour répondre à votre question, oui, je crois que je serais capable d’aller assez loin. Quitte à ce que ça foute la merde dans pas mal de vies. C’est égoïste oui. J’en suis conscient.  
 Ça vous va ? On peut y aller ? En plus je commence à avoir des vertiges.
 
-Il fait oui d’un hochement de tête. Il sourit. Je crois. C’est vraiment un sourire ? Il est flippant ce gars. J’ai vu ses yeux rougis par les larmes. Il y a une profonde tristesse qui se cache au fond de lui. Malaise land – regard camera à la The Office. Allez on se casse. Peut-être qu’en roulant, la fenêtre ouverte ça fera disparaître les vertiges.
+*Il fait oui d’un hochement de tête. Il sourit. Je crois. C’est vraiment un sourire ? Il est flippant ce gars. J’ai vu ses yeux rougis par les larmes. Il y a une profonde tristesse qui se cache au fond de lui. Malaise land – regard camera à la The Office. Allez on se casse. Peut-être qu’en roulant, la fenêtre ouverte ça fera disparaître les vertiges.*
 
 ***
 
 *Depuis qu’on est reparti il ne dit plus rien. L’avantage c’est que j’ai pu remettre la zic. Pas longtemps ça me pète le crâne. On arrive au croisement des deux routes, je vais le lâcher ici comme il me l’a demandé.*
 
-— Pardon pour l’ambiance et pour les futurs désagréments. Vraiment j’aurais aimé que ça se passe autrement. Bon courage.
-— Euh ouais ok. Bonne route alors. 
+— Pardon pour l’ambiance et pour les futurs désagréments. Vraiment j’aurais aimé que ça se passe autrement. Bon courage.  
+— Euh ouais ok. Bonne route alors.  
 
-*Je comprends rien. De quoi parle-t-il ? Il part dans la direction de Chaniers à pied. J’aurais pu l’emmener au point où j’en suis, j’y passe de toute manière.* 
+*Je comprends rien. De quoi parle-t-il ? Il part dans la direction de Chaniers à pied. J’aurais pu l’emmener au point où j’en suis, j’y passe de toute manière.*  
 
 *Il fait sombre là, carrément nuit là, en fait. Bon sang, mais quelle heure-est-il ? 21 heures ? C’est quoi ce tunnel temporel dans lequel je me suis embarqué ? Et je suis fatigué bon sang. J’ai encore la tête qui tourne. C’est de pire en pire. Je crois qu’avant de reprendre la route je vais faire une sieste. Pas longue. 20 – 30 minutes suffiront.* 
 
@@ -177,11 +176,11 @@ Il fait oui d’un hochement de tête. Il sourit. Je crois. C’est vraiment un 
 
 *C’est fermé. Je vais foutre les warnings et me montrer pour qu’il m’ouvre.*
 
-« Hey ! Tu m’ouvres ? » 
+« Hey ! Tu m’ouvres ? »  
 
-*Il a fait une drôle de tête en me voyant.* 
+*Il a fait une drôle de tête en me voyant.*  
 
-*Ah mais, elle a refait la peinture extérieure de la baraque aussi ? C’est quoi le délire.* 
+*Ah mais, elle a refait la peinture extérieure de la baraque aussi ? C’est quoi le délire.*  
 
 *Une jolie allée pavée, une table de jardin, de la pelouse bien proprette.*
 
@@ -191,27 +190,26 @@ Il fait oui d’un hochement de tête. Il sourit. Je crois. C’est vraiment un 
 
 *Il a picolé le frangin. On s’est vu la semaine dernière.*
 
-— Tu m’as pris pour qui ?
+— Tu m’as pris pour qui ?  
 — T’es à moitié sapé comme un clodo et avec ta coupe de skin là, je ne t’ai pas reconnu de suite.
 
 *Ma coupe de skin ? Non mais il est pas bien ? Et qu’est-ce qu’il fout là, il prévient d’habitude avant de passer.*
 
-— Bah super. Qu’est-ce tu fais là, elle est où maman ?
-— Ouh là. Ça va pas toi. Ça fait 15 ans qu’on habite ici. Et t’aurais pu prévenir avant de passer non ?
+— Bah super. Qu’est-ce tu fais là, elle est où maman ?  
+— Ouh là. Ça va pas toi. Ça fait 15 ans qu’on habite ici. Et t’aurais pu prévenir avant de passer non ?  
 
-*Mais c’est très marrant comme blaguounette. Félicitations.*
+*Mais c’est très marrant comme blaguounette. Félicitations.*  
 
-— Arrête tes conneries. Elle est où maman ? 
+— Arrête tes conneries. Elle est où maman ?  
 
-*J’ai de plus en plus mal au crâne. Ça tourne. J’ai du mal à me concentrer.*
+*J’ai de plus en plus mal au crâne. Ça tourne. J’ai du mal à me concentrer.*  
 
 — Comment ça ? Qu’est-ce que tu racontes ?
 — Elle est partie chez la frangine ?
 
 *C’est quoi ce regard ahuri ? Pourquoi j’ai la tête qui tourne de plus en plus. Je tiens plus debout. L’envie de gerber.*  
 
-*Faut que je m’asseye. 
-Cette chaise de jardin là, elle fera l’affaire.* 
+*Faut que je m’asseye. Cette chaise de jardin là, elle fera l’affaire.*  
 
 *Je connais pas ce vieux mobilier d’ailleurs. C’est bien du goût du frangin.*
 
@@ -221,15 +219,15 @@ Cette chaise de jardin là, elle fera l’affaire.*
 *Je vais rien boire.*  
 *J’ai la gerbe.*  
 
-— T’as passé une sale journée toi. Tu m’inquiètes là, t’es pâle comme un linge.
+— T’as passé une sale journée toi. Tu m’inquiètes là, t’es pâle comme un linge.  
 
-*T’as pas tort le frangin.*
+*T’as pas tort le frangin.*  
 
-— Je suis pas malade ! Je pige rien à ce qui se passe ! Elle est où maman putain !?
+— Je suis pas malade ! Je pige rien à ce qui se passe ! Elle est où maman putain !?  
 
-*À deux doigts de growler. Je vais encore rameuter tout le gentil quartier.*
+*À deux doigts de growler. Je vais encore rameuter tout le gentil quartier.*  
 
-— Mais t’es maboule ? Ça fait 15 ans qu’elle est partie ! 15 ans qu’elle est morte maman ! Elle s’est foutu en l’air merde ! C’est même toi qui l’as retrouvée !
+— Mais t’es maboule ? Ça fait 15 ans qu’elle est partie ! 15 ans qu’elle est morte maman ! Elle s’est foutu en l’air merde ! C’est même toi qui l’as retrouvée !  
 
 *J’ai froid d’un coup.*  
 *Mon cœur va trop vite.*  
@@ -241,4 +239,4 @@ Cette chaise de jardin là, elle fera l’affaire.*
 
 *Je vais gerber.*  
 
------
+***

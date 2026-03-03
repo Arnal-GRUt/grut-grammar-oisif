@@ -33,17 +33,17 @@ Du coup j'ai ajouté pas mal de mots.
 
 Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident et l'enchaînement trop raide.  
 
-L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur la fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
+L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur l2 fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
 
 Cette première version manquait donc de liant et était mal équilibrée, au point de rendre le texte un peu concon.  
 
 ### Les modifications apportées
 
-Sur la forme j'ai séparé, autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques pour accentuer l'effet.  
+Sur la forme j'ai séparé, autant que faire ce peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques pour accentuer l'effet.  
 
 Quant au texte en lui-même, j'ai souhaité ajouter quelques éléments dans les dialogues et des incises pour rendre l'ensemble plus cohérent. Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires). J'en dis pas plus, vous comprendrez peut-être où je veux en venir.  
 
-Pour finir, j'ai ajouté du "WD40 scénaristique" pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version concours se laisse un peu mieux digérer dans la version blog, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
+Pour finir, j'ai ajouté du "WD40 scénaristique" pour apporter un peu de progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrupte de la version concours se laisse un peu mieux digérer dans la version blog, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
 
 C'était un peu long. La bonne lecture.  
 

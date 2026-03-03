@@ -63,14 +63,14 @@ C'était un peu long. La bonne lecture.
 
 *Ne pas rebondir. Rester focus sur l’objectif.*
 
-— Oui oui. Dites, je ne sais plus, pardon, je vous laisse où déjà ?
-— Juste avant Saintes. Je n’ai pas encore décidé.
+— Oui oui. Dites, je ne sais plus, pardon, je vous laisse où déjà ?  
+— Juste avant Saintes. Je n’ai pas encore décidé.  
 
-*Il a pas encore décidé ? C’est quoi l’idée ?*
+*Il a pas encore décidé ? C’est quoi l’idée ?*  
 
-— Ok. Vous dites alors ? D’accord ? Il y a quelques villages et encore un bout de deux fois deux à venir. Je peux passer par la route basse si vous le souhaitez ?
-— Non merci.
-— Ok, parfait. Ça vous dérange si je mets un peu de musique ?
+— Ok. Vous dites alors ? D’accord ? Il y a quelques villages et encore un bout de deux fois deux à venir. Je peux passer par la route basse si vous le souhaitez ?  
+— Non merci.  
+— Ok, parfait. Ça vous dérange si je mets un peu de musique ?  
 
 *Il m’a répondu non d’un hochement de tête discret le boug. Parfait. Je vais la fermer. Je me connais, s’il me relance dans 10 minutes il sait tout de ma vie. Dans le lecteur il y a quoi déjà ? Ah oui, le dernier album de Parius. Ça fera l’affaire. C’est du gros son et même s’il est beaucoup, beaucoup, beaucoup moins brutal que les précédents, je vais quand même limiter le volume sonore. Ça reste très tranquille pour un initié au deathmetal, mais peut-être que le stade ultime de la violence musicale pour lui c’est Bono ou Thomas Dutron ? Chais pas.*
 
@@ -82,7 +82,7 @@ C'était un peu long. La bonne lecture.
 
 *Et voilà j’ai laissé mon enthousiasme éclabousser comme les spores d’une vesse-de-loup. J’ai le sourire jusqu’aux esgourdes. On doit être deux à connaître ce groupe dans le un sept et je viens de prendre le deuxième en stop. On va peut-être pas s’emmerder finalement.*
 
-— C’est très niche Parius. Vous les avez connus comment ?
+— C’est très niche Parius. Vous les avez connus comment ?  
 — Comme tout le monde j’imagine. Via Bandcamp. Vous savez mon accoutrement ne dit pas tout de moi.
 
 *Il a peut-être raison Kerviel ? Enfin, je ne sais pas, ce n’est pas connu du tout comme combo Parius. Non ?*
@@ -92,7 +92,7 @@ C'était un peu long. La bonne lecture.
 
 *Je l’ai vexé ou c’est juste un taiseux ? Et il a ce ton bizarre, glacial, venu du fond du congélo, entre les glaçons et les restes de soupe d’il y a deux ans.*
 
-— Vous avez des connaissances dans le coin ?
+— Vous avez des connaissances dans le coin ?  
 — J’ai grandi ici. Je suis allé au collège à Saintes, puis au lycée, à Bellevue, dans les années 90.
 
 *Parius, Bellevue ? C’est quoi ces coïncidences de l’enfer ? Et pourquoi ça me fait froid dans le dos ?*
@@ -112,11 +112,11 @@ C'était un peu long. La bonne lecture.
 
 — Navré, entre la fermeture de porte et le vent qui se lève, je ne vous ai pas compris.  
 — Laurent. Je m’appelle Laurent.  
-— Ok. Enchanté Laurent. Laurent aussi. Du coup.
+— Ok. Enchanté Laurent. Laurent aussi. Du coup.  
 
 *Il se contentera de cette réponse. Ou pas. Il ne bronche pas. On a le même prénom, on est allé dans le même lycée, dans le même collège. On a globalement le même âge. On a un peu la même dégaine. Il ne bronche pas. Il est de dos, je le fixe. Je fais quoi ? Je remonte dans la voiture direct et je reprends la route en deux-deux ? Non non, tu ne vas pas faire l’autruche comme d’habitude. Tu prends ton courage à deux mains et tu y vas.*
 
-— Pardon mais c’est quoi le délire ? *Garde bien ce ton détaché. Le clope au bec, à la Clint. Du style et de la décontraction.*
+— Pardon mais c’est quoi le délire ? *Garde bien ce ton détaché. Le clope au bec, à la Clint. Du style et de la décontraction.*  
 — C’est-à-dire ?  
 — On a beaucoup de points en commun, non ? Ça ne vous étonne pas plus que ça ?  
 — Ça devrait ?  
@@ -127,8 +127,8 @@ C'était un peu long. La bonne lecture.
 
 *Il me ressemble en plus. Un peu plus sec de visage. Les cheveux courts, la raie sur le côté. On dirait une version de moi bien propre sur soi. Il voit bien que je le dévisage, il fuit mon regard, passe son temps à tourner la tête.*
 
-— Si vous voulez. Ça existe les coïncidences, non ? Ça pourrait juste vous amuser d’ailleurs. Et puis vous n’êtes pas le seul à avoir fait Agrippa, puis Bellevue dans les années 90 a priori – *Non mais il a raison. Ça doit être la fatigue. Je pars en vrille*. je viens voir de la famille que je n’ai pas revue depuis très longtemps. J’ai des choses à régler. Navré si j’ai laissé transparaître des choses ou si j’ai pourri l’ambiance. Du coup, on reprend la route ou vous comptez me laisser là ?  
-— Mouaip. C’est toujours pénible les histoires de famille – *t’as rien de plus banal comme réflexion ?* – on reprend la route dans 5 minutes. Je vous dépose où ? Vous avez une idée ?  
+— Si vous voulez. Ça existe les coïncidences, non ? Ça pourrait juste vous amuser d’ailleurs. Et puis vous n’êtes pas le seul à avoir fait Agrippa, puis Bellevue dans les années 90 a priori · *Non mais il a raison. Ça doit être la fatigue. Je pars en vrille* · je viens voir de la famille que je n’ai pas revue depuis très longtemps. J’ai des choses à régler. Navré si j’ai laissé transparaître des choses ou si j’ai pourri l’ambiance. Du coup, on reprend la route ou vous comptez me laisser là ?  
+— Mouaip. C’est toujours pénible les histoires de famille · *t’as rien de plus banal comme réflexion ?* · on reprend la route dans 5 minutes. Je vous dépose où ? Vous avez une idée ?  
 — Laissez-moi au croisement de Saint-Cézaire et de Chaniers.
 
 *On va faire ça té.*

@@ -1203,29 +1203,6 @@ body header nav.to-top {
 			}
 		}
 	}
-	/* header nav.to-top *.to-small-titre {
-		position: absolute;
-		left: 50%;
-		transform: translateX(-50%);
-		width: auto;
-		text-wrap: nowrap;
-		view-timeline-name: --to-small;
-		view-timeline-axis: block;
-		animation: linear to-small-titre both;
-		animation-timeline: scroll();
-		animation-duration: 0.2s;
-		animation-range-start: 450vh;
-		animation-range-end: 550vh;
-		padding-left: 3rem;
-					
-		&::before {
-			height: 100%;
-		}
-					
-		& a {
-			line-height: normal;
-		}
-	} */
 }
 
 header nav .to-small-menu {

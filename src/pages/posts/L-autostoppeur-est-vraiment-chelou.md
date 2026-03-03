@@ -6,7 +6,7 @@ description: "Nouvelle de 6 pages. Avec beaucoup d'espaces des expérimentations
 author: "GRUt·"
 contexte : "18ème concours de nouvelles de la librairie Cosmopolite à Angoulême"
 enonce : "écrire une nouvelle ayant pour thème : « Quand l’autostoppeur s’engouffra dans la voiture, je ne savais pas encore qu’il allait faire prendre un virage inattendu au cours de ma vie. » - 4 pages max."
-tags: ["Ecritouille", "Concours", "Nombres de pages max", "format page imposé", "Thème imposé", "avec corrections"]
+tags: ["Ecritouille", "Concours", "Nombres de pages max", "Format page imposé", "Thème imposé", "Avec corrections", "article"]
 ---
 
 ## Quelques précisions

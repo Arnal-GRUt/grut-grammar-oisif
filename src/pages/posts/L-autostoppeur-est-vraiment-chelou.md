@@ -33,7 +33,7 @@ Du coup j'ai ajouté pas mal de mots.
 
 Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident et l'enchaînement trop raide.  
 
-L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur l2 fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
+L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur le fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
 
 Cette première version manquait donc de liant et était mal équilibrée, au point de rendre le texte un peu concon.  
 

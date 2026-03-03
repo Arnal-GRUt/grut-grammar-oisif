@@ -5,8 +5,8 @@ pubDate: "03-03-2026"
 description: "Nouvelle de 6 pages. Avec beaucoup d'espaces des expérimentations."
 author: "GRUt·"
 contexte : "18ème concours de nouvelles de la librairie Cosmopolite à Angoulême"
-enonce : "écrire une nouvelle yant pour thème : « Quand l’autostoppeur s’engouffra dans la voiture, je ne savais pas encore qu’il allait faire prendre un virage inattendu au cours de ma vie. » - 4 pages max."
-tags: ["Ecritouille", "Concours", "Nombres de pages max", "Font imposée", "Taille de font imposée", "Thème imposé"]
+enonce : "écrire une nouvelle ayant pour thème : « Quand l’autostoppeur s’engouffra dans la voiture, je ne savais pas encore qu’il allait faire prendre un virage inattendu au cours de ma vie. » - 4 pages max."
+tags: ["Ecritouille", "Concours", "Nombres de pages max", "format page imposé", "Thème imposé"]
 ---
 
 ## Quelques précisions
@@ -17,13 +17,12 @@ Il s'agit d'une nouvelle que j'ai originellement écrite pour un concours. Elle 
 
 Je ne sais pas encore pourquoi, mais j'ai fait quelques expérimentations pour ce texte. Elles auraient certainement mérité autre chose qu'une rédaction à la va-vite, mais je me suis mis à écrire au dernier moment, le jour même où il fallait la transmettre à l'organisation du concours. Je peux donc difficilement m'en plaindre de fait, c'est un peu comme inviter 30 potos à diner, et se mettre à la cuisine 2h avant le repas en voulant révolutionner les arts culinaires. C'est rarement cloncluant.  
 
-Le résultat en soit est acceptable pour un premier jet, mais l'ensemble a beaucoup trop de défauts structurels, de caractérisation du narrateur et manque de cohérence.  
+Ceci-dit, le résultat en soit est acceptable pour un premier jet, même si l'ensemble a beaucoup trop de défauts structurels, de problèmes de caractérisation du narrateur et manque un peu de cohérence.  
 
 Du coup j'ai ajouté pas mal de mots.  
 
-
 > - Version concours : 4 pages / 7800 caractères environ
-> - Version corrigée et modifiée : 6 pages / 11080 caractères environ  
+> - Version blog : 6 pages / 11080 caractères environ  
 
 ### Les expérimentations en bref
 
@@ -34,17 +33,17 @@ Du coup j'ai ajouté pas mal de mots.
 
 Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident et l'enchaînement trop raide.  
 
-L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur le fond, les incises décrivant les actions me semblaient suffisantes. En revanche quand le narrateur décrit ses sensations, son trouble, il manquait quelques moments de remise en question. Quant au second personnage, il n'avait pas de répondant, ou pas assez, alors que des réponses évidentes étaient possibles. Au final, cette première version manquait donc de liant et de cohérence, au point de rendre le texte un peu concon.  
+L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur la fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
+
+Cette première version manquait donc de liant et était mal équilibrée, au point de rendre le texte un peu concon.  
 
 ### Les modifications apportées
 
 Sur la forme j'ai séparé, autant que faire se peut, les incises des phrases prononcées à haute voix et les lignes de dialogues à l'aide d'un saut de ligne. Par ailleurs j'ai mis les incises en italiques pour accentuer l'effet.  
 
-Sans *spoil* toujours, j'ai souhaité ajouter quelques éléments dans les dialogues et des incises pour rendre l'ensemble plus cohérent. Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires).  
+Quant au texte en lui-même, j'ai souhaité ajouter quelques éléments dans les dialogues et des incises pour rendre l'ensemble plus cohérent. Pour celles et ceux qui connaissent, je me suis inspiré (en toute humilité) du travail de [Joss Whedon](https://fr.wikipedia.org/wiki/Joss_Whedon) sur [Buffy](https://fr.wikipedia.org/wiki/Buffy_contre_les_vampires). J'en dis pas plus, vous comprendrez peut-être où je veux en venir.  
 
-J'en dis pas plus, vous comprendrez peut-être où je veux en venir.
-
-Pour finir, j'ai ajouté du WD40 scénaristique pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version originale se laisse un peu mieux digérer, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
+Pour finir, j'ai ajouté du "WD40 scénaristique" pour apporter un peu progressivité dans la narration, à partir de la seconde partie du texte. La rupture de ton abrute de la version concours se laisse un peu mieux digérer dans la version blog, sans pour autant changer quoi que ce soit au dénouement de l'histoire.  
 
 C'était un peu long. La bonne lecture.  
 

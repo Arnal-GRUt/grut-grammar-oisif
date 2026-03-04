@@ -1840,6 +1840,13 @@ html:not([id*="Grammar"]) body {
 /*************** Responsive ***************/
 /******************************************/
 
+@media (width < 768px) {
+    body .contenu-page .main a.lien-post {
+        max-width: auto;
+        width: 100%;
+        height: auto;
+    }
+}
 
 @media (width < 835px) {
 	@-webkit-keyframes clip-reveal {

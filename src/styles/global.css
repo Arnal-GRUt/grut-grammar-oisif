@@ -1841,13 +1841,13 @@ html:not([id*="Grammar"]) body {
 /******************************************/
 
 @media (width < 768px) {
-    body .contenu-page .main a.lien-post {
+    body .contenu-page.direction-row .main a.lien-post {
         max-width: none;
         width: 100%;
         height: auto;
 
-		& .presentation {
-			max-height: fit-content;
+		& .display-flex.direction-column.presentation {			
+			height: fit-content;
 		}
     }
 }

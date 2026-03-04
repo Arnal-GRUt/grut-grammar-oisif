@@ -148,8 +148,7 @@ const { title, url, pubDate, author, contexte, description } = Astro.props;
     }
 
     @media and (max-width < 768px) {
-        a.lien-post {
-            transition: background 0.2s ease;
+        body .contenu-page .main a.lien-post {
             max-width: auto;
             width: 100%;
             height: auto;

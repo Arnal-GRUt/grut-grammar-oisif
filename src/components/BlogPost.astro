@@ -146,12 +146,13 @@ const { title, url, pubDate, author, contexte, description } = Astro.props;
             padding-left: 0;
         }
     }
-/* 
-    @media and (max-width < 1025px) {
+
+    @media and (max-width < 768px) {
         a.lien-post {
             transition: background 0.2s ease;
-            max-width: calc(512px - 2rem);
+            max-width: auto;
             width: 100%;
+            height: auto;
         }
-    } */
+    }
 </style>

@@ -1842,9 +1842,13 @@ html:not([id*="Grammar"]) body {
 
 @media (width < 768px) {
     body .contenu-page .main a.lien-post {
-        max-width: auto;
+        max-width: none;
         width: 100%;
         height: auto;
+
+		& .presentation {
+			height: auto;
+		}
     }
 }
 

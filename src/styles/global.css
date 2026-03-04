@@ -1847,7 +1847,7 @@ html:not([id*="Grammar"]) body {
         height: auto;
 
 		& .presentation {
-			height: auto;
+			max-height: fit-content;
 		}
     }
 }

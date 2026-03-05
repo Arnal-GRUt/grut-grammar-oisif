@@ -1717,14 +1717,14 @@ html:not([id*="Grammar"]) body {
 
 	& footer.display-flex.direction-column {
 		position: sticky;
-		height: auto;
+		/* height: auto; */
 		padding: 5vh 2vw;
 		gap: var(--gap-16);
 		background: none;
 		z-index: 0;
 
 		& p.accroche {
-			font-size: 3rem;
+			/* font-size: 3rem; */
 			padding: 0;
 		}
 

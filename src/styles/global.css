@@ -884,6 +884,13 @@ html#ecritouille body .tous-les-textes .box article {
 	}
 }
 
+html body .contenu-page .page-texte .corps-texte {
+  & p img {
+    height: auto;
+    width: 100%;
+  }
+}    
+
 .ambiance {	
 	& *:nth-child(even) {
 		-webkit-transform: rotate(2deg);

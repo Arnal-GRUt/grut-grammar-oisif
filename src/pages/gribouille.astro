@@ -28,7 +28,7 @@ const arts = (await getCollection('artCollection')).sort(
 								popovertarget={art.img_path}
 								popovertargetaction="show" >
 									<Image
-										format={art.format}
+										format="webp"
 										src={art.img_path}
 										alt={art.img_alt}							
 									/>
@@ -40,7 +40,7 @@ const arts = (await getCollection('artCollection')).sort(
 							<dialog popover class="image-lightbox" id={art.img_path}>
 								<div class="image-lightbox--img">
 									<Image
-										format={art.format}
+										format="webp"
 										src={art.img_path}
 										alt={art.img_alt}							
 									/>

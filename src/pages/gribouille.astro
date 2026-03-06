@@ -31,7 +31,6 @@ const arts = (await getCollection('artCollection')).sort(
 										format={art.format}
 										src={art.img_path}
 										alt={art.img_alt}							
-										loading={art.id < 20 ? "eager" : "lazy"}
 									/>
 									<div class="figcaption">
 										{art.img_path.slice(11, -4).toLowerCase()}
@@ -44,7 +43,6 @@ const arts = (await getCollection('artCollection')).sort(
 										format={art.format}
 										src={art.img_path}
 										alt={art.img_alt}							
-										loading={art.id < 20 ? "eager" : "lazy"}
 									/>
 								</div>								 
 							</dialog>

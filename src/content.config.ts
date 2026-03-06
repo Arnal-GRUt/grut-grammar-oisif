@@ -9,7 +9,8 @@ const artworks = defineCollection({
     // Chargez tous les fichiers Markdown dans le répertoire space-probes, à l'exception de ceux qui commencent par « voyager- »
     // loader: glob({ pattern: ['*.{jpg,jpeg,JPG,png,webp}'], base: 'src/artwork' }),
     loader: file("src/data/grutArt.json"),
-    schema: ({ image }) => z.object({        
+    // schema: ({ image }) => z.object({
+    schema: z.object({
         image: z.object({
             img_path: z.string(),
             img_alt: z.string(),

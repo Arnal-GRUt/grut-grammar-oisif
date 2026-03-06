@@ -20,7 +20,6 @@ const arts = (await getCollection('artCollection')).sort(
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{	
-
 				  {arts.map(art => (
 						<div class="image cards">
 							<div class="figure flow">
@@ -32,7 +31,7 @@ const arts = (await getCollection('artCollection')).sort(
 										format={art.format}
 										src={art.img_path}
 										alt={art.img_alt}							
-										loading={index < 20 ? "eager" : "lazy"}
+										loading={art.id < 20 ? "eager" : "lazy"}
 									/>
 									<div class="figcaption">
 										{art.img_path.slice(11, -4).toLowerCase()}
@@ -45,7 +44,7 @@ const arts = (await getCollection('artCollection')).sort(
 										format={art.format}
 										src={art.img_path}
 										alt={art.img_alt}							
-										loading={index < 20 ? "eager" : "lazy"}
+										loading={art.id < 20 ? "eager" : "lazy"}
 									/>
 								</div>								 
 							</dialog>

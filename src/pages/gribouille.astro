@@ -21,42 +21,75 @@ const arts = (await getCollection('artCollection')).sort(
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			{					
-				Object.entries(images).map(async ([_path, image], index) => {
-					const { default: imageData } = await image();
-					return (
+			{	
+
+				  {arts.map(art => (
 						<div class="image cards">
 							<div class="figure flow">
 								<button
-									class="image-button"
-									popovertarget={_path}
-									popovertargetaction="show"
-								>
-									<Image
-										format="webp"
-										src={imageData}
-										alt=""
-										loading={index < 20 ? "eager" : "lazy"}
-									/>
-									<div class="figcaption">
-										{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
-										{image.name.slice(11, -4).toLowerCase()}
-									</div>
+								class="image-button"
+								popovertarget={_path}
+								popovertargetaction="show"
+							>
+								<Image
+									format={art.format}
+									src={art.img_path}
+									alt={art.img_alt}							
+									loading={index < 20 ? "eager" : "lazy"}
+								/>
+								<div class="figcaption">
+									{art.style } " / " {art.img_path.slice(11, -4).toLowerCase()}
+								</div>
 								</button>
 							</div>
-							<dialog popover class="image-lightbox" id={_path}>
+							<dialog popover class="image-lightbox" id={art.img_path}>
 								<div class="image-lightbox--img">
 									<Image
-										format="webp"
-										src={imageData}
-										alt=""
+										format={art.format}
+										src={art.img_path}
+										alt={art.img_alt}							
 										loading={index < 20 ? "eager" : "lazy"}
 									/>
-								</div>
+								</div>								 
 							</dialog>
 						</div>
-					);
-				})
+					))}
+
+				// Object.entries(images).map(async ([_path, image], index) => {
+				// 	const { default: imageData } = await image();
+				// 	return (
+				// 		<div class="image cards">
+				// 			<div class="figure flow">
+				// 				<button
+				// 					class="image-button"
+				// 					popovertarget={_path}
+				// 					popovertargetaction="show"
+				// 				>
+				// 					<Image
+				// 						format="webp"
+				// 						src={imageData}
+				// 						alt=""
+				// 						loading={index < 20 ? "eager" : "lazy"}
+				// 					/>
+				// 					<div class="figcaption">
+				// 						{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+				// 						{image.name.slice(11, -4).toLowerCase()}
+				// 					</div>
+				// 				</button>
+				// 			</div>
+				// 			<dialog popover class="image-lightbox" id={_path}>
+				// 				<div class="image-lightbox--img">
+				// 					<Image
+				// 						format="webp"
+				// 						src={imageData}
+				// 						alt=""
+				// 						loading={index < 20 ? "eager" : "lazy"}
+				// 					/>
+				// 				</div>
+				// 			</dialog>
+				// 		</div>
+				// 	);
+				// })
 			}
 		</div>
 	</div></BaseLayout

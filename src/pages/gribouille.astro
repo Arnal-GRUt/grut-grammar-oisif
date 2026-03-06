@@ -11,6 +11,10 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 );
 
 const grutArt = await getCollection('artCollection');
+const arts = (await getCollection('artCollection')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
 
 ---
 

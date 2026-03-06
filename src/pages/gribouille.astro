@@ -6,84 +6,84 @@ import { imageConfig } from "astro:assets";
 import { artCollection } from "../content.config";
 const pageTitle = "Gribouille";
 
-// const images = import.meta.glob<{ default: ImageMetadata }>(
-// 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
-// );
+const images = import.meta.glob<{ default: ImageMetadata }>(
+	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
+);
 
 // const grutArt = await getCollection('artCollection');
-const arts = (await getCollection('artCollection')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
-);
+// const arts = (await getCollection('artCollection')).sort(
+//   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+// );
 ---
 
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{	
-				  {arts.map(art => (
-						<div class="image cards">
-							<div class="figure flow">
-								<button
-								class="image-button"
-								popovertarget={art.img_path}
-								popovertargetaction="show" >
-									<Image
-										format="webp"
-										src={art.img_path}
-										alt={art.img_alt}							
-									/>
-									<div class="figcaption">
-										{art.img_path.slice(11, -4).toLowerCase()}
-									</div>
-								</button>
-							</div>
-							<dialog popover class="image-lightbox" id={art.img_path}>
-								<div class="image-lightbox--img">
-									<Image
-										format="webp"
-										src={art.img_path}
-										alt={art.img_alt}							
-									/>
-								</div>								 
-							</dialog>
-						</div>
-					))}
-
-				// Object.entries(images).map(async ([_path, image], index) => {
-				// 	const { default: imageData } = await image();
-				// 	return (
+				//   {arts.map(art => (
 				// 		<div class="image cards">
 				// 			<div class="figure flow">
 				// 				<button
-				// 					class="image-button"
-				// 					popovertarget={_path}
-				// 					popovertargetaction="show"
-				// 				>
+				// 				class="image-button"
+				// 				popovertarget={art.img_path}
+				// 				popovertargetaction="show" >
 				// 					<Image
 				// 						format="webp"
-				// 						src={imageData}
-				// 						alt=""
-				// 						loading={index < 20 ? "eager" : "lazy"}
+				// 						src={art.img_path}
+				// 						alt={art.img_alt}							
 				// 					/>
 				// 					<div class="figcaption">
-				// 						{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
-				// 						{image.name.slice(11, -4).toLowerCase()}
+				// 						{art.img_path.slice(11, -4).toLowerCase()}
 				// 					</div>
 				// 				</button>
 				// 			</div>
-				// 			<dialog popover class="image-lightbox" id={_path}>
+				// 			<dialog popover class="image-lightbox" id={art.img_path}>
 				// 				<div class="image-lightbox--img">
 				// 					<Image
 				// 						format="webp"
-				// 						src={imageData}
-				// 						alt=""
-				// 						loading={index < 20 ? "eager" : "lazy"}
+				// 						src={art.img_path}
+				// 						alt={art.img_alt}							
 				// 					/>
-				// 				</div>
+				// 				</div>								 
 				// 			</dialog>
 				// 		</div>
-				// 	);
-				// })
+				// 	))}
+
+				Object.entries(images).map(async ([_path, image], index) => {
+					const { default: imageData } = await image();
+					return (
+						<div class="image cards">
+							<div class="figure flow">
+								<button
+									class="image-button"
+									popovertarget={_path}
+									popovertargetaction="show"
+								>
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+									<div class="figcaption">
+										{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+										{image.name.slice(11, -4).toLowerCase()}
+									</div>
+								</button>
+							</div>
+							<dialog popover class="image-lightbox" id={_path}>
+								<div class="image-lightbox--img">
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+								</div>
+							</dialog>
+						</div>
+					);
+				})
 			}
 		</div>
 	</div></BaseLayout

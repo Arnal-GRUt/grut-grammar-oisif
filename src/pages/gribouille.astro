@@ -6,16 +6,14 @@ import { imageConfig } from "astro:assets";
 import { artCollection } from "../content.config";
 const pageTitle = "Gribouille";
 
-const images = import.meta.glob<{ default: ImageMetadata }>(
-	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
-);
+// const images = import.meta.glob<{ default: ImageMetadata }>(
+// 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
+// );
 
-const grutArt = await getCollection('artCollection');
+// const grutArt = await getCollection('artCollection');
 const arts = (await getCollection('artCollection')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
-
-
 ---
 
 <BaseLayout pageTitle={pageTitle}>
@@ -29,17 +27,16 @@ const arts = (await getCollection('artCollection')).sort(
 								<button
 								class="image-button"
 								popovertarget={art.img_path}
-								popovertargetaction="show"
-							>
-								<Image
-									format={art.format}
-									src={art.img_path}
-									alt={art.img_alt}							
-									loading={index < 20 ? "eager" : "lazy"}
-								/>
-								<div class="figcaption">
-									{art.img_path.slice(11, -4).toLowerCase()}
-								</div>
+								popovertargetaction="show" >
+									<Image
+										format={art.format}
+										src={art.img_path}
+										alt={art.img_alt}							
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+									<div class="figcaption">
+										{art.img_path.slice(11, -4).toLowerCase()}
+									</div>
 								</button>
 							</div>
 							<dialog popover class="image-lightbox" id={art.img_path}>

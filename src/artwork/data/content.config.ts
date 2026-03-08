@@ -1,25 +1,29 @@
+// date: z
+//     .date()
+//     .transform((str) => new Date(str))
+//     .optional(),
 // style: z.enum(['Numérique', 'Trad', 'Mix']),
 // import { image } from 'astro:content';
 import { defineCollection } from 'astro:content';
 import { file } from 'astro/loaders'; // Non disponible avec l'API héritée
 import { z } from 'astro/zod';
+import { number } from 'astro:schema';
 
-const artworks = defineCollection({
-    // `loader` peut accepter un tableau de plusieurs modèles ainsi que des modèles de chaîne de caractères
-    // Chargez tous les fichiers Markdown dans le répertoire space-probes, à l'exception de ceux qui commencent par « voyager- »
+const artwork = defineCollection({
     // loader: glob({ pattern: ['*.{jpg,jpeg,JPG,png,webp}'], base: 'src/artwork' }),
-    loader: file("src/data/grutArt.json"),
+    loader: file("grutArt.json"),
     // schema: z.object({
     schema: ({ image }) => z.object({
+        id: z.number(),
         image: z.object({
             img_path: z.string(),
             img_alt: z.string(),
             format: z.string()
         }),
-        date: z.date(),
+        date: z.string(),
         auteur: z.string(),
-        style: z.string(),       
+        style: z.string(),
     }),
 });
-  
-export const artCollection = { artworks };
+
+export const grutCollection = { grutW: artwork };

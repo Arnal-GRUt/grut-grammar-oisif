@@ -1,41 +1,42 @@
 ---
+import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import type { ImageMetadata } from "astro";
-import { map } from "astro:schema";
-import { propsToFilename } from "astro/assets/utils";
+import { artCollection } from "../artwork/data/content.config";
 
 interface Props {
-    imagePath: string;
-    altText: string;
-    description: string;
+    img_id: number;
+    img_path: string;
+    img_alt: string;
 }
-const { imagePath, altText, description } = Astro.props;
-
-const images = import.meta.glob<{ default: ImageMetadata }>(
-    "../artwork/*.{jpeg,jpg,png,JPEG,gif}",
-);
-if (!images[imagePath])
-    throw new Error(
-        `"${imagePath}" does not exist in glob: "../artwork/*.{jpeg,jpg,png,gif}"`,
-    );
+const { img_id, img_path, img_alt } = Astro.props;
 ---
 
-<div class="image">
-    <div class="figure">
+<div class="image cards">
+    <div class="figure flow">
         <button
             class="image-button"
-            popovertarget={imagePath}
+            popovertarget={img_path}
             popovertargetaction="show"
         >
-            <a target="_blank" href={imagePath}>
-                <Image src={images[imagePath]()} alt={altText} format="webp" />
-            </a>
-            <div class="figcaption">{description}</div>
+            <Image
+                format="webp"
+                src={img_path}
+                alt={img_alt}
+                loading={img_id < 20 ? "eager" : "lazy"}
+            />
+            <div class="figcaption">
+                {img_path.slice(11, -4).toLowerCase()}
+            </div>
         </button>
     </div>
-    <dialog popover="image-lightbox" id={imagePath}>
+    <dialog popover class="image-lightbox" id={img_path}>
         <div class="image-lightbox--img">
-            <Image src={images[imagePath]()} alt={altText} format="webp" />
+            <Image
+                format="webp"
+                src={img_path}
+                alt={img_alt}
+                loading={img_id < 20 ? "eager" : "lazy"}
+            />
         </div>
     </dialog>
 </div>

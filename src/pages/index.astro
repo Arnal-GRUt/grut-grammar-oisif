@@ -8,6 +8,7 @@ import { Debug } from "astro:components";
 import Navigation from "../components/Navigation.astro";
 import { imageConfig } from "astro:assets";
 import { imageMetadata } from "astro/assets/utils";
+import { getEntries } from "astro:content";
 
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",

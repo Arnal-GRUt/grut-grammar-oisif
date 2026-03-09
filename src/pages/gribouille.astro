@@ -2,70 +2,58 @@
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { Debug } from "astro/components";
-// import { collections } from "../artwork/data/content.config";
-// import ArtCard from "../components/ArtCard.astro";
-
 const pageTitle = "Gribouille";
 
-const allArts = await getCollection('grutArt');
-// const allArts = (await getCollection(artCollection)).sort(
-// 	(a, b) => Date.parse(b.date) - Date.parse(a.date),
-// );
+const images = import.meta.glob<{ default: ImageMetadata }>(
+	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
+);
+
+const arts = await getCollection('artwork');
 ---
+
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			<Debug {allArts}/>
 			{
-				allArts.map(art => (
-					<p>{`test affiche image ${art.data.id}`}</p>
-					<img src={`../artwork/data/${art.data.img_image.img_path}`}/>
-					// <ArtCard
-					// 	img_id={art.data.id}
-					// 	img_path={`../artwork/data/${art.data.img_image.img_path}`}
-					// 	img_alt={art.data.img_image.img_alt}
-					// />
-					// <div class="image cards">
-					// 	<div class="figure flow">
-					// 		<button								
-					// 			class="image-button"
-					// 			popovertarget={`../artwork/data/${art.data.img_image.img_path}`}
-					// 			popovertargetaction="show"
-					// 		>
-					// 			<Image
-					// 				format="webp"
-					// 				src={`../artwork/data/${art.data.img_image.img_path}`}
-					// 				alt={art.img_image.img_alt}
-					// 				loading={art.data.id < 20 ? "eager" : "lazy"}
-					// 			/>
-					// 			<div class="figcaption">
-					// 				{`../artwork/data/${art.data.img_image.img_path}`
-					// 					.slice(11, -4)
-					// 					.toLowerCase()}
-					// 			</div>
-					// 		</button>
-					// 	</div>
-					// 	<dialog
-					// 		popover
-					// 		class="image-lightbox"
-					// 		id={art.img_image.img_path}
-					// 	>
-					// 		<div class="image-lightbox--img">
-					// 			<Image
-					// 				format="webp"
-					// 				src={`../artwork/data/${art.data.img_image.img_path}`}
-					// 				alt={art.data.img_image.img_alt}
-					// 				loading={art.data.id < 20 ? "eager" : "lazy"}
-					// 			/>
-					// 		</div>
-					// 	</dialog>
-					// </div>
-				))
+				Object.entries(images).map(async ([_path, image], index) => {
+					const { default: imageData } = await image();
+					return (
+						<div class="image cards">
+							<div class="figure flow">
+								<button
+									class="image-button"
+									popovertarget={_path}
+									popovertargetaction="show"
+								>
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+									<div class="figcaption">
+										{/* Affiche le nom de l'image - le chemin (11) et - l'extension (-4) */}
+										{image.name.slice(11, -4).toLowerCase()}
+									</div>
+								</button>
+							</div>
+							<dialog popover class="image-lightbox" id={_path}>
+								<div class="image-lightbox--img">
+									<Image
+										format="webp"
+										src={imageData}
+										alt=""
+										loading={index < 20 ? "eager" : "lazy"}
+									/>
+								</div>
+							</dialog>
+						</div>
+					);
+				})
 			}
 		</div>
-	</div>
-</BaseLayout>
+	</div></BaseLayout
+>
 <style>
 	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {

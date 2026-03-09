@@ -8,17 +8,17 @@ import { Debug } from "astro/components";
 
 const pageTitle = "Gribouille";
 
-const arts = await getCollection('artwork');
-// const arts = (await getCollection(artCollection)).sort(
+const allArts = await getCollection('grutArt');
+// const allArts = (await getCollection(artCollection)).sort(
 // 	(a, b) => Date.parse(b.date) - Date.parse(a.date),
 // );
 ---
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			<Debug {arts}/>
+			<Debug {allArts}/>
 			{
-				arts.map((art) => (
+				allArts.map(art => (
 					<p>{`test affiche image ${art.data.id}`}</p>
 					<img src={`../artwork/data/${art.data.image.img_path}`}/>
 					// <ArtCard

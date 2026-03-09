@@ -1774,7 +1774,8 @@ html:not([id*="Grammar"]) body {
 			grid-template-columns: repeat(4, 1fr);	
 			gap: var(--gap-16);		
 			display: -ms-grid;		
-			display: grid;			
+			display: grid;
+			width: 100%;			
 			
 			& .image.cards:first-of-type {
 				-ms-grid-row: 1;

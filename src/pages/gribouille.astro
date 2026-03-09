@@ -9,7 +9,7 @@ import { collections } from "../artwork/data/content.config";
 
 const pageTitle = "Gribouille";
 
-const arts = await getCollection(collections.artwork);
+const arts = await getCollection('artwork');
 // const arts = (await getCollection(artCollection)).sort(
 // 	(a, b) => Date.parse(b.date) - Date.parse(a.date),
 // );
@@ -36,7 +36,7 @@ const arts = await getCollection(collections.artwork);
 									format="webp"
 									src={art.image.img_path}
 									alt={art.image.img_alt}
-									// loading={//art.data.id < 20 ? "eager" : "lazy"}
+									loading={art.data.id < 20 ? "eager" : "lazy"}
 								/>
 								<div class="figcaption">
 									{art.data.image.img_path
@@ -55,7 +55,7 @@ const arts = await getCollection(collections.artwork);
 									format="webp"
 									src={art.data.image.img_path}
 									alt={art.data.image.img_alt}
-									// loading={//art.data.id < 20 ? "eager" : "lazy"}
+									loading={art.data.id < 20 ? "eager" : "lazy"}
 								/>
 							</div>
 						</dialog>

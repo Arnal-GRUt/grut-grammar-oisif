@@ -10,11 +10,8 @@ import { z } from 'astro/zod';
 import { number } from 'astro:schema';
 
 const artwork = defineCollection({
-    // loader: glob({ pattern: ['*.{jpg,jpeg,JPG,png,webp}'], base: 'src/artwork' }),
     loader: file("grutArt.json"),
-    // schema: z.object({
     schema: ({ image }) => z.object({
-        id: z.number(),
         image: z.object({
             img_path: z.string(),
             img_alt: z.string(),
@@ -26,4 +23,4 @@ const artwork = defineCollection({
     }),
 });
 
-export const grutCollection = { grutW: artwork };
+export const collections = { grutW: artwork };

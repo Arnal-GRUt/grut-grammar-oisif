@@ -14,10 +14,10 @@ const arts = await getCollection('artwork');
 // 	(a, b) => Date.parse(b.date) - Date.parse(a.date),
 // );
 ---
-<Debug {arts}/>
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
+			<Debug {arts}/>
 			{
 				arts.map(art => (
 					// <ArtCard

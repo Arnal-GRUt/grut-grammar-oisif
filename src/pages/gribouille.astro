@@ -36,7 +36,7 @@ const arts = await getCollection(collections);
 									format="webp"
 									src={art.image.img_path}
 									alt={art.image.img_alt}
-									loading={art.data.id < 20 ? "eager" : "lazy"}
+									// loading={//art.data.id < 20 ? "eager" : "lazy"}
 								/>
 								<div class="figcaption">
 									{art.data.image.img_path
@@ -55,7 +55,7 @@ const arts = await getCollection(collections);
 									format="webp"
 									src={art.data.image.img_path}
 									alt={art.data.image.img_alt}
-									loading={art.data.id < 20 ? "eager" : "lazy"}
+									// loading={//art.data.id < 20 ? "eager" : "lazy"}
 								/>
 							</div>
 						</dialog>
@@ -63,8 +63,8 @@ const arts = await getCollection(collections);
 				))
 			}
 		</div>
-	</div></BaseLayout
->
+	</div>
+</BaseLayout>
 <style>
 	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {

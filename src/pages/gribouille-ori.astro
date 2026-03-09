@@ -15,9 +15,6 @@ const arts = await getCollection('artwork');
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{
-							arts.map((art) => (
-					<p>{`test affiche image ${art.data.id}`}</p>)
-					<img src={`../artwork/data/${art.data.image.img_path}`}/>)
 				Object.entries(images).map(async ([_path, image], index) => {
 					const { default: imageData } = await image();
 					return (

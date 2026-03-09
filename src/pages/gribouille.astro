@@ -27,19 +27,19 @@ const arts = await getCollection('artwork');
 					// />
 					<div class="image cards">
 						<div class="figure flow">
-							<button
+							<button								
 								class="image-button"
 								popovertarget={`../artwork/data/${art.data.image.img_path}`}
 								popovertargetaction="show"
 							>
 								<Image
 									format="webp"
-									src={art.image.img_path}
+									src={`../artwork/data/${art.data.image.img_path}`}
 									alt={art.image.img_alt}
 									loading={art.data.id < 20 ? "eager" : "lazy"}
 								/>
 								<div class="figcaption">
-									{art.data.image.img_path
+									{`../artwork/data/${art.data.image.img_path}`
 										.slice(11, -4)
 										.toLowerCase()}
 								</div>

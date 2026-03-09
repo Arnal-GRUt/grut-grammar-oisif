@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image": {
-            "img_path": "../-Homonde-Bob.jpg",
+            "img_path": "-Homonde-Bob.jpg",
             "img_alt": "Géant avec un bob portant une petite ville sur son dos",
             "format": "webp"
         },
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "image": {
-            "img_path": "../Saintes-doodle.png",
+            "img_path": "Saintes-doodle.png",
             "img_alt": "Croquis rapide de Saintes depuis les hauteurs de la ville",
             "format": "webp"
         },
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "image": {
-            "img_path": "../homme-reptile.JPG",
+            "img_path": "homme-reptile.JPG",
             "img_alt": "Croquis tête d'homme-lézard",
             "format": "webp"
         },
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "image": {
-            "img_path": "../Smart-Enclume.png",
+            "img_path": "Smart-Enclume.png",
             "img_alt": "Graffiti d'un dandy avec une tête d'enclume sur un mur de Saintes",
             "format": "webp"
         },

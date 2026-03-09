@@ -4,7 +4,7 @@ import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { imageConfig } from "astro:assets";
 import { Debug } from "astro/components";
-import { collections } from "../artwork/data/content.config";
+// import { collections } from "../artwork/data/content.config";
 // import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
@@ -22,14 +22,14 @@ const arts = await getCollection('artwork');
 				arts.map(art => (
 					// <ArtCard
 					// 	img_id={art.data.id}
-					// 	img_path={art.data.image.img_path}
+					// 	img_path={`../artwork/data/${art.data.image.img_path}`}
 					// 	img_alt={art.data.image.img_alt}
 					// />
 					<div class="image cards">
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.data.image.img_path}
+								popovertarget={`../artwork/data/${art.data.image.img_path}`}
 								popovertargetaction="show"
 							>
 								<Image
@@ -53,7 +53,7 @@ const arts = await getCollection('artwork');
 							<div class="image-lightbox--img">
 								<Image
 									format="webp"
-									src={art.data.image.img_path}
+									src={`../artwork/data/${art.data.image.img_path}`}
 									alt={art.data.image.img_alt}
 									loading={art.data.id < 20 ? "eager" : "lazy"}
 								/>

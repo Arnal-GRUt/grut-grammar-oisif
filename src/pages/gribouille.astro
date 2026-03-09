@@ -20,27 +20,27 @@ const allArts = await getCollection('grutArt');
 			{
 				allArts.map(art => (
 					<p>{`test affiche image ${art.data.id}`}</p>
-					<img src={`../artwork/data/${art.data.image.img_path}`}/>
+					<img src={`../artwork/data/${art.data.img_image.img_path}`}/>
 					// <ArtCard
 					// 	img_id={art.data.id}
-					// 	img_path={`../artwork/data/${art.data.image.img_path}`}
-					// 	img_alt={art.data.image.img_alt}
+					// 	img_path={`../artwork/data/${art.data.img_image.img_path}`}
+					// 	img_alt={art.data.img_image.img_alt}
 					// />
 					// <div class="image cards">
 					// 	<div class="figure flow">
 					// 		<button								
 					// 			class="image-button"
-					// 			popovertarget={`../artwork/data/${art.data.image.img_path}`}
+					// 			popovertarget={`../artwork/data/${art.data.img_image.img_path}`}
 					// 			popovertargetaction="show"
 					// 		>
 					// 			<Image
 					// 				format="webp"
-					// 				src={`../artwork/data/${art.data.image.img_path}`}
-					// 				alt={art.image.img_alt}
+					// 				src={`../artwork/data/${art.data.img_image.img_path}`}
+					// 				alt={art.img_image.img_alt}
 					// 				loading={art.data.id < 20 ? "eager" : "lazy"}
 					// 			/>
 					// 			<div class="figcaption">
-					// 				{`../artwork/data/${art.data.image.img_path}`
+					// 				{`../artwork/data/${art.data.img_image.img_path}`
 					// 					.slice(11, -4)
 					// 					.toLowerCase()}
 					// 			</div>
@@ -49,13 +49,13 @@ const allArts = await getCollection('grutArt');
 					// 	<dialog
 					// 		popover
 					// 		class="image-lightbox"
-					// 		id={art.image.img_path}
+					// 		id={art.img_image.img_path}
 					// 	>
 					// 		<div class="image-lightbox--img">
 					// 			<Image
 					// 				format="webp"
-					// 				src={`../artwork/data/${art.data.image.img_path}`}
-					// 				alt={art.data.image.img_alt}
+					// 				src={`../artwork/data/${art.data.img_image.img_path}`}
+					// 				alt={art.data.img_image.img_alt}
 					// 				loading={art.data.id < 20 ? "eager" : "lazy"}
 					// 			/>
 					// 		</div>

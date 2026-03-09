@@ -15,11 +15,11 @@ const artwork = defineCollection({
         image: z.object({
             img_path: z.string(),
             img_alt: z.string(),
-            format: z.string()
+            img_format: z.string()
         }),
-        date: z.string(),
-        auteur: z.string(),
-        style: z.string(),
+        img_date: z.string(),
+        img_auteur: z.string(),
+        img_style: z.string(),
     }),
 });
 

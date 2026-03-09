@@ -23,4 +23,4 @@ const artwork = defineCollection({
     }),
 });
 
-export const collections = { grutW: artwork };
+export const collections = { artwork };

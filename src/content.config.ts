@@ -4,7 +4,7 @@ import { z } from 'astro/zod';
 // import { number } from 'astro:schema';
 
 const artwork = defineCollection({
-    loader: file("src/data/grutArt.json"),
+    loader: file("src/artworks/data/grutArt.json"),
     schema: ({ image }) => z.object({
         img_image: z.object({
             img_path: z.string(),

@@ -3,18 +3,21 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import ArtCard from "../components/ArtCard.astro";
 
+
 const pageTitle = "Gribouille";
 
 const allArts = (await getCollection("grutArt")).sort(
 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
 );
+
+
 ---
 
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{			
-				allArts.map((art) => (										
+				allArts.map(async ([art.data.img_path ,art], art.id) => (										
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}

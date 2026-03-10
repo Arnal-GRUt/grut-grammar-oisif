@@ -26,7 +26,7 @@
     {
         "id": 4,
         "img_image": {
-            "img_path": "Smart-Enclume.png",
+            "img_path": "./Smart-Enclume.png",
             "img_alt": "Graffiti d'un dandy avec une tête d'enclume sur un mur de Saintes"
         },
         "img_date": "02-28-2026"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "img_image": {
-            "img_path": "Homonde-Doner.jpg",
+            "img_path": "./Homonde-Doner.jpg",
             "img_alt": "Homonde Doner Kebz zombie"
         },
         "img_date": "03-08-2026"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "img_image": {
-            "img_path": "Homonde Barrage.JPG",
+            "img_path": "./Homonde Barrage.JPG",
             "img_alt": "Homonde courant et portant un genre d'oeuf dans ses bras façon rugbyman"
         },
         "img_date": "03-08-2026"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Fork.png",
+            "img_path": "./Homonde Fork.png",
             "img_alt": "Homonde assis et de dos portant sur le dos 2 tours reliées par une passerelle"
         },
         "img_date": "03-09-2026"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Grimp.png",
+            "img_path": "src/artworks/Homonde Grimp.png",
             "img_alt": "Homonde marchant avec une canne"
         },
         "img_date": "03-08-2026"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Manoa-Mano.png",
+            "img_path": "src/artworks/Homonde Manoa-Mano.png",
             "img_alt": "Homonde sous forme de main qui marche comme une araignée"
         },
         "img_date": "03-08-2026"

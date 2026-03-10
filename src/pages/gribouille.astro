@@ -3,21 +3,17 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import ArtCard from "../components/ArtCard.astro";
 
-
 const pageTitle = "Gribouille";
-
 const allArts = (await getCollection("grutArt")).sort(
 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
 );
-
-
 ---
 
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			{			
-				allArts.map((art) => (										
+			{
+				allArts.map((art) => (
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}
@@ -27,7 +23,7 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.data.img_image.img_path}								
+								popovertarget={art.data.img_image.img_path}
 								popovertargetaction="show"
 							>
 								<img
@@ -35,13 +31,14 @@ const allArts = (await getCollection("grutArt")).sort(
 									alt={art.data.img_image.img_alt}
 								/>
 								<div class="figcaption">
-									{art.data.img_image.img_path.slice(16, -4)
+									{art.data.img_image.img_path
+										.slice(16, -4)
 										.toLowerCase()}
 								</div>
 							</button>
 						</div>
 						<dialog
-							popover 
+							popover={art.data.img_image.img_path}
 							class="image-lightbox"
 							id={art.data.img_image.img_path}
 						>

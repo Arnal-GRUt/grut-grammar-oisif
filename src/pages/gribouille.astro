@@ -27,7 +27,7 @@ const allArts = (await getCollection("grutArt")).sort(
 								popovertargetaction="show"
 							>
 								<img
-									src={`/src/artworks/${art.data.img_image.img_path}`}
+									src={`../artworks/${art.data.img_image.img_path}`}
 									alt={art.data.img_image.img_alt}
 								/>
 								<div class="figcaption">
@@ -38,7 +38,7 @@ const allArts = (await getCollection("grutArt")).sort(
 						<dialog popover class="image-lightbox" id={art.id}>
 							<div class="image-lightbox--img">
 								<img
-									src={`/src/artworks/${art.data.img_image.img_path}`}
+									src={`../artworks/${art.data.img_image.img_path}`}
 									alt={art.data.img_image.img_alt}
 								/>
 							</div>

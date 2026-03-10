@@ -35,7 +35,11 @@ const allArts = (await getCollection("grutArt")).sort(
 								</div>
 							</button>
 						</div>
-						<dialog popover class="image-lightbox">
+						<dialog
+							popover
+							class="image-lightbox"
+							id={art.data.img_image.img_path}
+						>
 							<div class="image-lightbox--img">
 								<img
 									src={art.data.img_image.img_path}

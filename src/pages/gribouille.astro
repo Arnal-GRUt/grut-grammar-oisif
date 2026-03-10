@@ -27,15 +27,15 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.data.image.img_path}								
+								popovertarget={art.data.img_image.img_path}								
 								popovertargetaction="show"
 							>
 								<img
-									src={art.data.image.img_path}
-									alt={art.data.image.img_alt}
+									src={art.data.img_image.img_path}
+									alt={art.data.img_image.img_alt}
 								/>
 								<div class="figcaption">
-									{art.data.img_path.slice(16, -4)
+									{art.data.img_image.img_path.slice(16, -4)
 										.toLowerCase()}
 								</div>
 							</button>
@@ -43,12 +43,12 @@ const allArts = (await getCollection("grutArt")).sort(
 						<dialog
 							popover 
 							class="image-lightbox"
-							id={art.data.image.img_path}
+							id={art.data.img_image.image.img_path}
 						>
 							<div class="image-lightbox--img">
 								<img
-									src={art.data.image.img_path}
-									alt={art.data.image.img_alt}
+									src={art.data.img_image.image.img_path}
+									alt={art.data.img_image.image.img_alt}
 								/>
 							</div>
 						</dialog>

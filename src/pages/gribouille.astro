@@ -13,9 +13,8 @@ const allArts = (await getCollection("grutArt")).sort(
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			{				
-				allArts.map((art) => (
-					const img_src = {art.data.img_image.image_path};
+			{			
+				allArts.map((art) => (										
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}
@@ -25,31 +24,27 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								// popovertarget={art.data.img_image.img_path}
-								popovertarget={img_src}
+								popovertarget={art.data.img_image.img_path}								
 								popovertargetaction="show"
 							>
 								<img
-									// src={art.data.img_image.img_path}
-									src={img_src}
+									src={art.data.img_image.img_path}
 									alt={art.data.img_image.img_alt}
 								/>
 								<div class="figcaption">
-									{/* {art.data.img_image.img_path.slice(16, -4) */}
-									{img_src.slice(16, -4).toLowerCase()}
+									{art.data.img_image.img_path.slice(16, -4)
+										.toLowerCase()}
 								</div>
 							</button>
 						</div>
 						<dialog
 							popover 
 							class="image-lightbox"
-							// id={art.data.img_image.img_path}
-							id={img_src}
+							id={art.data.img_image.img_path}
 						>
 							<div class="image-lightbox--img">
 								<img
-									// src={art.data.img_image.img_path}
-									src={img_src}
+									src={art.data.img_image.img_path}
 									alt={art.data.img_image.img_alt}
 								/>
 							</div>

@@ -5,9 +5,9 @@ import { z } from 'astro/zod';
 
 const artwork = defineCollection({
     loader: file("src/artworks/grutArt.json"),
-    schema: ({ image }) => z.object({
+    schema: z.object({
         img_image: z.object({
-            img_path: image(),
+            img_path: z.string();
             img_alt: z.string()
         }),
         img_date: z.string()

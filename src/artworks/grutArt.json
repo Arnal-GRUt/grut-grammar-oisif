@@ -2,7 +2,7 @@
     {
         "id": 1,
         "img_image": {
-            "img_path": "/src/artworks/Homonde-Bob.jpg",
+            "img_path": "./Homonde-Bob.jpg",
             "img_alt": "Géant avec un bob portant une petite ville sur son dos"
         },
         "img_date": "03-06-2026"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "img_image": {
-            "img_path": "/src/artworks/Homonde Gardien.png",
+            "img_path": "./Homonde Gardien.png",
             "img_alt": "Homonde dans l'ombre"
         },
         "img_date": "03-05-2026"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "img_image": {
-            "img_path": "/src/artworks/homme-reptile.JPG",
+            "img_path": "./homme-reptile.JPG",
             "img_alt": "Croquis tête d'homme-lézard"
         },
         "img_date": "03-04-2026"

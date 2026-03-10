@@ -17,7 +17,7 @@ const allArts = (await getCollection("grutArt")).sort(
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{			
-				allArts.map(async (art) => (										
+				allArts.map((art) => (										
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}
@@ -27,12 +27,12 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.data.img_path}								
+								popovertarget={art.data.image.img_path}								
 								popovertargetaction="show"
 							>
 								<img
-									src={art.data.img_path}
-									alt={art.data.img_alt}
+									src={art.data.image.img_path}
+									alt={art.data.image.img_alt}
 								/>
 								<div class="figcaption">
 									{art.data.img_path.slice(16, -4)
@@ -43,12 +43,12 @@ const allArts = (await getCollection("grutArt")).sort(
 						<dialog
 							popover 
 							class="image-lightbox"
-							id={art.data.img_path}
+							id={art.data.image.img_path}
 						>
 							<div class="image-lightbox--img">
 								<img
-									src={art.data.img_path}
-									alt={art.data.img_alt}
+									src={art.data.image.img_path}
+									alt={art.data.image.img_alt}
 								/>
 							</div>
 						</dialog>

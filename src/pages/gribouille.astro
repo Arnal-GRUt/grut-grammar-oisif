@@ -22,7 +22,7 @@ const allArts = (await getCollection("grutArt")).sort(
 
 					<ArtCard
 						img_id={art.id}
-						img_path={`../artworks/${art.data.img_image.img_path}`}
+						img_path={art.data.img_image.img_path}
 						img_alt={art.data.img_image.img_alt}
 					/>
 					// <div class="image cards">

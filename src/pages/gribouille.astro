@@ -17,7 +17,7 @@ const allArts = (await getCollection("grutArt")).sort(
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{			
-				allArts.map(async ([art.data.img_path ,art], art.id) => (										
+				allArts.map(async (art) => (										
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}

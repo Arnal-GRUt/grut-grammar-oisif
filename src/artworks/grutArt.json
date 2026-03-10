@@ -2,7 +2,7 @@
     {
         "id": 1,
         "img_image": {
-            "img_path": "../src/artworks/Homonde-Bob.jpg",
+            "img_path": "Homonde-Bob.jpg",
             "img_alt": "Géant avec un bob portant une petite ville sur son dos"
         },
         "img_date": "03-06-2026"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Gardien.png",
+            "img_path": "Homonde Gardien.png",
             "img_alt": "Homonde dans l'ombre"
         },
         "img_date": "03-05-2026"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "img_image": {
-            "img_path": "../src/artworks/homme-reptile.JPG",
+            "img_path": "homme-reptile.JPG",
             "img_alt": "Croquis tête d'homme-lézard"
         },
         "img_date": "03-04-2026"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "img_image": {
-            "img_path": "../src/artworks/Smart-Enclume.png",
+            "img_path": "Smart-Enclume.png",
             "img_alt": "Graffiti d'un dandy avec une tête d'enclume sur un mur de Saintes"
         },
         "img_date": "02-28-2026"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "img_image": {
-            "img_path": "../src/artworks/Homonde-Doner.jpg",
+            "img_path": "Homonde-Doner.jpg",
             "img_alt": "Homonde Doner Kebz zombie"
         },
         "img_date": "03-08-2026"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Barrage.JPG",
+            "img_path": "Homonde Barrage.JPG",
             "img_alt": "Homonde courant et portant un genre d'oeuf dans ses bras façon rugbyman"
         },
         "img_date": "03-08-2026"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Fork.png",
+            "img_path": "Homonde Fork.png",
             "img_alt": "Homonde assis et de dos portant sur le dos 2 tours reliées par une passerelle"
         },
         "img_date": "03-09-2026"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Grimp.png",
+            "img_path": "Homonde Grimp.png",
             "img_alt": "Homonde marchant avec une canne"
         },
         "img_date": "03-08-2026"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Manoa-Mano.png",
+            "img_path": "Homonde Manoa-Mano.png",
             "img_alt": "Homonde sous forme de main qui marche comme une araignée"
         },
         "img_date": "03-08-2026"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "img_image": {
-            "img_path": "../src/artworks/Homonde Square.jpg",
+            "img_path": "Homonde Square.jpg",
             "img_alt": "Homonde avec une grande tête plate qui marche le bras droit levé"
         },
         "img_date": "03-09-2026"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "img_image": {
-            "img_path": "../src/artworks/Gentleman tête d'enclume.png",
+            "img_path": "Gentleman tête d'enclume.png",
             "img_alt": "Tête d'enclume cylcope et smart tenant une canne avec un chapeau melon et dont le corps se termine en troubillon"
         },
         "img_date": "03-09-2026"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "img_image": {
-            "img_path": "../src/artworks/Alien et flingue.png",
+            "img_path": "Alien et flingue.png",
             "img_alt": "Alien cyclopéen de dos et manifestement pris par surprise tenant un flingue dans la main droite"
         },
         "img_date": "03-09-2026"

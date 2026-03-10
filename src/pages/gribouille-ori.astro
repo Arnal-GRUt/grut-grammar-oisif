@@ -8,7 +8,10 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
 );
 
-const arts = await getCollection('artwork');
+// // const arts = await getCollection('artwork');
+// const images = (await getCollection("grutArt")).sort(
+// 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
+// );
 ---
 
 <BaseLayout pageTitle={pageTitle}>

@@ -18,7 +18,7 @@ const allArts = (await getCollection("grutArt")).sort(
 			{
 				allArts.map((art) => (
 					<p>image : {art.data.img_image.img_alt}</p>
-					<img src={art.data.img_image.img_path} alt={art.data.img_image.img_alt}/>					
+					<img src={`../artworks/${art.data.img_image.img_path}`} alt={art.data.img_image.img_alt}/>					
 
 					// <ArtCard
 					// 	img_id={art.id}

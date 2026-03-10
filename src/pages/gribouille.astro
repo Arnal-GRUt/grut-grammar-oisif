@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import { Image } from "astro:assets";
-// import ArtCard from "../components/ArtCard.astro";
+import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
 
@@ -17,14 +17,14 @@ const allArts = (await getCollection("grutArt")).sort(
 		<div class="colonne-image">
 			{
 				allArts.map((art) => (
-					<p>image : {art.data.img_image.img_alt}</p>
-					<img src={`../artworks/${art.data.img_image.img_path}`} alt={art.data.img_image.img_alt}/>					
+					// <p>image : {art.data.img_image.img_alt}</p>
+					// <img src={`../artworks/${art.data.img_image.img_path}`} alt={art.data.img_image.img_alt}/>					
 
-					// <ArtCard
-					// 	img_id={art.id}
-					// 	img_path={`../artwork/${art.data.img_image.img_path}`}
-					// 	img_alt={art.data.img_image.img_alt}
-					// />
+					<ArtCard
+						img_id={art.id}
+						img_path={`../artworks/${art.data.img_image.img_path}`}
+						img_alt={art.data.img_image.img_alt}
+					/>
 					// <div class="image cards">
 					// 	<div class="figure flow">
 					// 		<button

@@ -34,7 +34,7 @@ const allArts = (await getCollection("grutArt")).sort(
 									alt={art.data.img_image.img_alt}
 								/>
 								<div class="figcaption">
-									{art.data.img_image.img_path
+									{`src/artwork/${art.data.img_image.img_path}`
 										.slice(16, -4)
 										.toLowerCase()}
 								</div>

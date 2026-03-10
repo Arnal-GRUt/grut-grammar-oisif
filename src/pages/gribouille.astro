@@ -1,13 +1,10 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { Picture } from 'astro:assets';
-import ArtCard from "../components/ArtCard.astro";
-import grumage from "../artworks/Homonde-Bob.jpg";
+// import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
 
-// const allArts = await getCollection("grutArt");
 const allArts = (await getCollection("grutArt")).sort(
 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
 );
@@ -16,48 +13,45 @@ const allArts = (await getCollection("grutArt")).sort(
 <BaseLayout pageTitle={pageTitle}>
 	<div class="galerie display-flex">
 		<div class="colonne-image">
-			{
+			{				
 				allArts.map((art) => (
-					<p>image : {art.data.img_image.img_alt}</p>
-					// <Picture src={`../artworks/${art.data.img_image.img_path}`} formats='webp' alt={art.data.img_image.img_alt}/>					
-					<Picture src={grumage} formats='webp' alt="test"/>					
-
+					<p>image : {art.data.img_image.img_alt}</p>											
 					// <ArtCard
 					// 	img_id={art.id}
 					// 	img_path={art.data.img_image.img_path}
 					// 	img_alt={art.data.img_image.img_alt}
 					// />
-					// <div class="image cards">
-					// 	<div class="figure flow">
-					// 		<button
-					// 			class="image-button"
-					// 			popovertarget={art.data.img_image.img_path}
-					// 			popovertargetaction="show"
-					// 		>
-					// 			<img
-					// 				src={art.data.img_image.img_path}
-					// 				alt={art.data.img_image.img_alt}
-					// 			/>
-					// 			<div class="figcaption">
-					// 				{art.data.img_image.img_path
-					// 					.slice(16, -4)
-					// 					.toLowerCase()}
-					// 			</div>
-					// 		</button>
-					// 	</div>
-					// 	<dialog
-					// 		popover
-					// 		class="image-lightbox"
-					// 		id={art.data.img_image.img_path}
-					// 	>
-					// 		<div class="image-lightbox--img">
-					// 			<img
-					// 				src={art.data.img_image.img_path}
-					// 				alt={art.data.img_image.img_alt}
-					// 			/>
-					// 		</div>
-					// 	</dialog>
-					// </div>
+					<div class="image cards">
+						<div class="figure flow">
+							<button
+								class="image-button"
+								popovertarget={art.data.img_image.img_path}
+								popovertargetaction="show"
+							>
+								<img
+									src={art.data.img_image.img_path}
+									alt={art.data.img_image.img_alt}
+								/>
+								<div class="figcaption">
+									{art.data.img_image.img_path
+										.slice(16, -4)
+										.toLowerCase()}
+								</div>
+							</button>
+						</div>
+						<dialog
+							popover
+							class="image-lightbox"
+							id={art.data.img_image.img_path}
+						>
+							<div class="image-lightbox--img">
+								<img
+									src={art.data.img_image.img_path}
+									alt={art.data.img_image.img_alt}
+								/>
+							</div>
+						</dialog>
+					</div>
 				))
 			}
 		</div>

@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { Image } from "astro:content";
 import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
@@ -21,9 +22,11 @@ const allArts = (await getCollection("grutArt")).sort(
 								popovertarget={art.data.image.source}
 								popovertargetaction="show"
 							>
-								<img
+								<Image
 									src={art.data.image.source}
 									alt={art.data.image.img_alt}
+									width="400px"
+									height="auto"
 								/>
 								<div class="figcaption">
 									{art.data.image.source}
@@ -32,9 +35,11 @@ const allArts = (await getCollection("grutArt")).sort(
 						</div>
 						<dialog popover class="image-lightbox" id={art.id}>
 							<div class="image-lightbox--img">
-								<img
+								<Image
 									src={art.data.image.source}
 									alt={art.data.image.img_alt}
+									width="400px"
+									height="auto"
 								/>
 							</div>
 						</dialog>

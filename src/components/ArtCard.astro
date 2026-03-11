@@ -16,11 +16,9 @@ const { img_id, img_path, img_alt } = Astro.props;
             popovertarget={img_path}
             popovertargetaction="show"
         >
-            <Image
-                format="webp"
+            <img                
                 src={img_path}
-                alt={img_alt}
-                loading={img_id < 20 ? "eager" : "lazy"}
+                alt={img_alt}                
             />
             <div class="figcaption">
                 {img_path.slice(11, -4).toLowerCase()}
@@ -29,11 +27,9 @@ const { img_id, img_path, img_alt } = Astro.props;
     </div>
     <dialog popover class="image-lightbox" id={img_path}>
         <div class="image-lightbox--img">
-            <Image
-                format="webp"
+            <img                
                 src={img_path}
-                alt={img_alt}
-                loading={img_id < 20 ? "eager" : "lazy"}
+                alt={img_alt}                
             />
         </div>
     </dialog>

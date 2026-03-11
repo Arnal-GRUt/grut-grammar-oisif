@@ -86,13 +86,13 @@ const allArts = (await getCollection("grutArt")).sort(
 				}
 
 				& img {
-					width: 100%;
+					width: 100%;					
 					object-fit: cover;
 					margin: auto;
 					border-radius: 0.2rem;
 					filter: grayscale(80%);
 					transition: all 0.2s ease;
-					max-height: 100%;
+					min-height: 100%;
 				}
 			}
 		}

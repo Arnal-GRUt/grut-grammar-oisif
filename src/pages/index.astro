@@ -3,12 +3,7 @@ import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
 import laGribDuJour from "../images/artworks/Homonde-Bob.jpg";
-// import { getEntry, getEntries } from 'astro:content';
 import { Debug } from "astro:components";
-// import Navigation from "../components/Navigation.astro";
-// import { imageConfig } from "astro:assets";
-// import { imageMetadata } from "astro/assets/utils";
-// import { getEntries } from "astro:content";
 
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../images/artwork/*.{jpg,jpeg,JPG,png,webp}",

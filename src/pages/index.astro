@@ -2,7 +2,7 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
-import laGribDuJour from "../artworks/images/Homonde-Bob.jpg";
+import laGribDuJour from "../images/artworks/Homonde-Bob.jpg";
 // import { getEntry, getEntries } from 'astro:content';
 import { Debug } from "astro:components";
 // import Navigation from "../components/Navigation.astro";
@@ -11,7 +11,7 @@ import { Debug } from "astro:components";
 // import { getEntries } from "astro:content";
 
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
-	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
+	"../images/artwork/*.{jpg,jpeg,JPG,png,webp}",
 );
 const pageTitle = "Grammar Oisif";
 ---

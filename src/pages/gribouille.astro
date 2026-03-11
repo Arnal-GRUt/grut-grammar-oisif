@@ -25,8 +25,8 @@ const allArts = (await getCollection("grutArt")).sort(
 								<Image
 									src={art.data.image.source}
 									alt={art.data.image.img_alt}
-									width="400px"
-									height="auto"
+									width="inherit"
+									height="400px"
 								/>
 								<div class="figcaption">
 									{art.data.image.source}
@@ -38,8 +38,8 @@ const allArts = (await getCollection("grutArt")).sort(
 								<Image
 									src={art.data.image.source}
 									alt={art.data.image.img_alt}
-									width="400px"
-									height="auto"
+									width="inherit"
+									height="400px"
 								/>
 							</div>
 						</dialog>

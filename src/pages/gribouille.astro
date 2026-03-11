@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-// import ArtCard from "../components/ArtCard.astro";
+import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
 const allArts = (await getCollection("grutArt")).sort(
@@ -13,38 +13,39 @@ const allArts = (await getCollection("grutArt")).sort(
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{
-				allArts.map((art) => (
-					// <ArtCard
-					// 	img_id={art.id}
-					// 	img_path={art.data.img_image.img_path}
-					// 	img_alt={art.data.img_image.img_alt}
-					// />
-					<div class="image cards">
-						<div class="figure flow">
-							<button
-								class="image-button"
-								popovertarget={art.data.image.source}
-								popovertargetaction="show"
-							>
-								<img
-									src={art.data.image.source}
-									alt={art.data.image.img_alt}
-								/>
-								<div class="figcaption">
-									{art.data.image.source}
-								</div>
-							</button>
-						</div>
-						<dialog popover class="image-lightbox" id={art.id}>
-							<div class="image-lightbox--img">
-								<img
-									src={art.data.image.source}
-									alt={art.data.image.img_alt}
-								/>
-							</div>
-						</dialog>
-					</div>
-				))
+				allArts.map((art) => 
+					<ArtCard
+						img_id={art.id}
+						img_path={art.data.image.source.img_path}
+						img_alt={art.data.image.source.img_alt}
+					/>
+				)
+				// 	<div class="image cards">
+				// 		<div class="figure flow">
+				// 			<button
+				// 				class="image-button"
+				// 				popovertarget={art.data.image.source}
+				// 				popovertargetaction="show"
+				// 			>
+				// 				<img
+				// 					src={art.data.image.source}
+				// 					alt={art.data.image.img_alt}
+				// 				/>
+				// 				<div class="figcaption">
+				// 					{art.data.image.source}
+				// 				</div>
+				// 			</button>
+				// 		</div>
+				// 		<dialog popover class="image-lightbox" id={art.id}>
+				// 			<div class="image-lightbox--img">
+				// 				<img
+				// 					src={art.data.image.source}
+				// 					alt={art.data.image.img_alt}
+				// 				/>
+				// 			</div>
+				// 		</dialog>
+				// 	</div>
+				// ))
 			}
 		</div>
 	</div>

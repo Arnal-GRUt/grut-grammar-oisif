@@ -19,7 +19,7 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.data.image.source}
+								popovertarget={art.id}
 								popovertargetaction="show"
 							>
 								<Image

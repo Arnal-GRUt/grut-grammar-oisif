@@ -33,7 +33,7 @@ const allArts = (await getCollection("grutArt")).sort(
 								</div>
 							</button>
 						</div>
-						<dialog popover class="image-lightbox" id={art.data.image.source}>
+						<dialog popover class="image-lightbox" id={art.id}>
 							<div class="image-lightbox--img">
 								<Image
 									src={art.data.image.source}

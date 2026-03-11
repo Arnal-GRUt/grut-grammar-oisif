@@ -33,7 +33,7 @@
             "img_alt": "Graffiti d'un dandy avec une tête d'enclume sur un mur de Saintes"
         },
         "img_name": "Lord Tête d'enclume",
-        "img_date": "02-28-2026"
+        "img_date": "03-10-2026"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
             "img_alt": "Homonde Doner Kebz zombie"
         },
         "img_name": "Homonde Doner Kebz - Roi Zombie",
-        "img_date": "03-08-2026"
+        "img_date": "03-10-2026"
     },
     {
         "id": 6,
@@ -96,7 +96,7 @@
             "img_alt": "Tête d'enclume cylcope et smart tenant une canne avec un chapeau melon et dont le corps se termine en troubillon"
         },
         "img_name": "Lord Tête d'enclume",
-        "img_date": "03-09-2026"
+        "img_date": "03-10-2026"
     },
     {
         "id": 12,
@@ -142,5 +142,14 @@
         },
         "img_name": "Kevin a un gros bras",
         "img_date": "03-09-2026"
+    },
+    {
+        "id": 16,
+        "image": {
+            "source": "./artworks/Le batteur et l'enclume.jpg",
+            "img_alt": "Lord tête d'enclume prêt à mettre un coup de batte"
+        },
+        "img_name": "Lord tête d'enclume est faché",
+        "img_date": "03-12-2026"
     }
 ]

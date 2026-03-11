@@ -2,13 +2,13 @@
 import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Background from "../images/grut-ville-2-1.png";
-import artSectionGrib from "../artworks/Homonde-Bob.jpg";
+import laGribDuJour from "../artworks/images/Homonde-Bob.jpg";
 // import { getEntry, getEntries } from 'astro:content';
 import { Debug } from "astro:components";
-import Navigation from "../components/Navigation.astro";
-import { imageConfig } from "astro:assets";
-import { imageMetadata } from "astro/assets/utils";
-import { getEntries } from "astro:content";
+// import Navigation from "../components/Navigation.astro";
+// import { imageConfig } from "astro:assets";
+// import { imageMetadata } from "astro/assets/utils";
+// import { getEntries } from "astro:content";
 
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../artwork/*.{jpg,jpeg,JPG,png,webp}",
@@ -75,7 +75,7 @@ const pageTitle = "Grammar Oisif";
 			<div class="redirection-card-gribouille">
 				<div class="display-flex direction-column">
 					<Image
-						src={artSectionGrib}
+						src={laGribDuJour}
 						class="art-du-jour"
 						alt="Géant zombie portant un temple sur la tête traverse un champ de ruines"
 					/>

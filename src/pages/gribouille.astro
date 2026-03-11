@@ -19,7 +19,7 @@ const allArts = (await getCollection("grutArt")).sort(
 						<div class="figure flow">
 							<button
 								class="image-button"
-								popovertarget={art.id}
+								popovertarget={art.data.image.source}
 								popovertargetaction="show"
 							>
 								<Image
@@ -33,7 +33,7 @@ const allArts = (await getCollection("grutArt")).sort(
 								</div>
 							</button>
 						</div>
-						<dialog popover class="image-lightbox" id={art.id}>
+						<dialog popover class="image-lightbox" id={art.data.image.source}>
 							<div class="image-lightbox--img">
 								<Image
 									src={art.data.image.source}

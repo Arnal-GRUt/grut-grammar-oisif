@@ -106,5 +106,41 @@
         },
         "img_name": "L'alien cyclopéen et son flingue",
         "img_date": "03-09-2026"
+    },
+    {
+        "id": 13,
+        "image": {
+            "source": "./artworks/homonde-abysse.png",
+            "img_alt": "Géant montagne au visage monstreux porte sur son dos un chateau"
+        },
+        "img_name": "Homonde Abysse",
+        "img_date": "03-09-2026"
+    },
+    {
+        "id": 14,
+        "image": {
+            "source": "./artworks/Tête de bête démoniaque.JPG",
+            "img_alt": "Tête d'une créature démoniaque portant des cornes"
+        },
+        "img_name": "Tête de bouc démoniaque",
+        "img_date": "03-09-2026"
+    },
+    {
+        "id": 15,
+        "image": {
+            "source": "./artworks/Tête de bol.png",
+            "img_alt": "Tête de bol avec crâne et main qui passe devant le visage portant une chemise et tient une oeil dans une main "
+        },
+        "img_name": "Tête de Bol blablate",
+        "img_date": "03-09-2026"
+    },
+    {
+        "id": 16,
+        "image": {
+            "source": "./artworks/Gros bras.png",
+            "img_alt": "Un jeune homme à polo à rayure et casquette est assis sur son énorme bras"
+        },
+        "img_name": "Kevin a un gros bras",
+        "img_date": "03-09-2026"
     }
 ]

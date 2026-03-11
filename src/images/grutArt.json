@@ -110,10 +110,10 @@
     {
         "id": 13,
         "image": {
-            "source": "./artworks/homonde-abysse.png",
-            "img_alt": "Géant montagne au visage monstreux porte sur son dos un chateau"
+            "source": "./artworks/La cité sombre.jpg",
+            "img_alt": "Ville sur une montagne"
         },
-        "img_name": "Homonde Abysse",
+        "img_name": "Une ville sombre",
         "img_date": "03-09-2026"
     },
     {

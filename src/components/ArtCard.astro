@@ -18,7 +18,8 @@ const { img_id, img_path, img_alt } = Astro.props;
         >
             <img                
                 src={img_path}
-                alt={img_alt}                
+                alt={img_alt}
+                loading={img_id < 20 ? "eager" : "lazy"}
             />
             <div class="figcaption">
                 {img_path.slice(11, -4).toLowerCase()}
@@ -29,7 +30,8 @@ const { img_id, img_path, img_alt } = Astro.props;
         <div class="image-lightbox--img">
             <img                
                 src={img_path}
-                alt={img_alt}                
+                alt={img_alt}
+                loading={img_id < 20 ? "eager" : "lazy"}
             />
         </div>
     </dialog>

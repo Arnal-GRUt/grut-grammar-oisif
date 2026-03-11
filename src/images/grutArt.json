@@ -14,7 +14,7 @@
             "img_alt": "Homonde dans l'ombre"
         },
         "img_date": "03-05-2026"
-     },
+    },
      {
         "id": 3,
         "image": {
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "image": {
-            "source": "./artworks/Homonde Barrage.JPG",
+            "source": "./artworks/Homonde Barrage.jpg",
             "img_alt": "Homonde courant et portant un genre d'oeuf dans ses bras façon rugbyman"
         },
         "img_date": "03-08-2026"

@@ -151,5 +151,14 @@
         },
         "img_name": "Lord tête d'enclume est faché",
         "img_date": "03-11-2026"
+    },
+    {
+        "id": 18,
+        "image": {
+            "source": "./artworks/Il a un couteau et un chapeau.png",
+            "img_alt": "Un homme aux cheveux longs dont on voit pas le visage de coté tient un couteau"
+        },
+        "img_name": "L'homme au couteau porte un pendentif",
+        "img_date": "03-12-2026"
     }
 ]

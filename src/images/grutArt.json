@@ -159,6 +159,15 @@
             "img_alt": "Un homme aux cheveux longs dont on voit pas le visage de coté tient un couteau"
         },
         "img_name": "L'homme au couteau porte un pendentif",
+        "img_date": "03-11-2026"
+    },
+    {
+        "id": 19,
+        "image": {
+            "source": "./artworks/Le loubouc.jpg",
+            "img_alt": "Un loup avec des cornes et une grappe d'yeux globuleux"
+        },
+        "img_name": "Le loubouc",
         "img_date": "03-12-2026"
     }
 ]

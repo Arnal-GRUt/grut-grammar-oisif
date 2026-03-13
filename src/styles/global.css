@@ -808,9 +808,9 @@ body .display-flex.direction-row.redirection-col {
 		color: var(--white);
 	}
 
-	& .style-h3 {
-		font-size: 2rem;
-	}
+	/* & .style-h3 {
+		font-size: 1.5rem;
+	} */
 }
 
 .redirection-card-ecritouille .dernier-texte.display-flex.direction-row {

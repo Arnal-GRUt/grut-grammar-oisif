@@ -169,5 +169,50 @@
         },
         "img_name": "Le loubouc",
         "img_date": "03-12-2026"
+    },
+    {
+        "id": 20,
+        "image": {
+            "source": "./artworks/Gentil.jpg",
+            "img_alt": "Un goblin torse nue et de profil avec une grosse tête crit gentil en tirant la langue"
+        },
+        "img_name": "Gentil dit le gob",
+        "img_date": "03-12-2026"
+    },
+    {
+        "id": 21,
+        "image": {
+            "source": "./artworks/Pantin de bois renaissance 3.png",
+            "img_alt": "Un pantin en bois habillé renaissance marche en tenant dans sa main gauche un sabre en bois décoré de multiples clefs"
+        },
+        "img_name": "Croquis pantin de bois avec un sabre clefs",
+        "img_date": "03-12-2026"
+    },
+    {
+        "id": 22,
+        "image": {
+            "source": "./artworks/Pantin de bois renaissance 2.png",
+            "img_alt": "Un pantin en bois habillé renaissance se tient debout et tient un sabre en bois à 2 mains"
+        },
+        "img_name": "Croquis de pantin de bois",
+        "img_date": "03-12-2026"
+    },
+    {
+        "id": 23,
+        "image": {
+            "source": "./artworks/Pantin de bois renaissance 4.png",
+            "img_alt": "Un jeune pantin en bois habillé renaissance marche en tenant dans sa main gauche un sabre en bois décoré de multiples décoration et d'un drapeau"
+        },
+        "img_name": "Croquis de pantin de bois",
+        "img_date": "03-12-2026"
+    },
+    {
+        "id": 24,
+        "image": {
+            "source": "./artworks/Pantin de bois renaissance 5.png",
+            "img_alt": "Un pantin en bois habillé renaissance marche en tenant dans sa main gauche un sabre en bois décoré de multiples décoration et d'un drapeau"
+        },
+        "img_name": "Pantin de bois ancré au brou de noix",
+        "img_date": "03-13-2026"
     }
 ]

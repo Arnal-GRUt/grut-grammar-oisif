@@ -4,10 +4,24 @@ title: 'La bourde'
 pubDate: "03-16-2026"
 description: "Roland Lehoucq et les extra-terrestres - partie 1/3"
 author: "GRUt·"
-contexte : "Nouvelle assez longue écrite à partir de la fin de 2014 de retour de nos premières Utopiales à Nantes en 2014. Quelques maladresses, lourdeurs, un peu trop références gratuites. Aujourd'hui il y a des passages (surtout au début) que j'écrirais autrement. Ça reste la première longue nouvelle que j'ai terminée. Rien que pour ça j'en suis content."
+contexte : "Nouvelle assez longue écrite à partir de la fin de 2014 de retour de nos premières Utopiales à Nantes en 2014."
 enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise des prix aux Utopiales 2014"
 tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 ---
+
+## Préambule  
+Ce texte contient quelques maladresses, lourdeurs et un peu trop références gratuites à mon goût. Il y a, par ailleurs, des passages (surtout au début) que j'écrirais autrement aujourd'hui. Ceci-dit ce texte reste la première longue nouvelle que j'ai terminée. Rien que pour ça je suis un peu fier. 
+
+> *Anecdote* : je suis allé avoir Roland Lehoucq pendant les Utopiales 2015 pour lui remettre le texte en mains propres. Il a été touché visiblement et on a pu discuter 5 min entre 2 tables rondes. Cependant, il n'a pas pris le texte et m'a dit que ce serait plus simple pour lui de le recevoir via mail. De retour des Utos 2015 je lui ai donc envoyé - je ne me suis pas dégonflé étrangement. Assez vite il m'a répondu en demandant ce qu'il devait en faire. Je lui ai répondu, "rien de spécial, c'est pour vous". J'imagine qu'il aurait pu la transmettre à des éditeurs après l'avoir lue. On ne le saura jamais. Après quelques mois, comme je n'avais toujours pas de retour, je l'ai relancé. Il m'a répondu de suite en présentant ses excuses, car malheureusement il n'avait pas encore eu le temps de la lire. Je n'ai pas insisté.
+
+Je n'ai pas eu de retour depuis. J'imagine que le mail s'est perdu avec le reste du texte dans les méandres de sa boite pro. Au final, qu'il l'ait lu, qu'il l'ait lu ou non, voire qu'il ait trouvé ça mauvais et qu'il n'ait pas trop sû comment faire passer le message sans être blesssant, je ne lui en veux évidemment pas. Il suffit d'aller voir sur sa page [wikipedia](https://fr.wikipedia.org/wiki/Roland_Lehoucq) pour comprendre que le bonhomme est déjà très occupé.  
+
+Quelques points notable pour cette version blog : 
+
+- le texte a été écrit en intégralité entre la fin 2014 et 2015.  
+- c'est la première fois que je mets de coté dans un fichier à part les bouts de textes non gardés pour la version finale. Peut-être reviendrais-je sur le rôle de cette vieille technique sournoise plus tard dans le blog.  
+- je n'ai pas vraiment réécris les débuts de chaque partie pour ça colle mieux à la *feuilletonnisation* du texte. Du coup les débuts de texte pourront vous paraitre débuter un peu abruptement.   
+- Un découpage en 2 parties auraient peut-être suffit d'ailleurs, mais le découpage en 3 était moins artificiel. À celles et ceux qui me liront, dites-moi ce que vous en pensez.  
 
 ## La bourde - partie 1/3
 
@@ -36,144 +50,5 @@ Pour autant, de minute en minute, le vrombissement parasite devenait insupportab
 Pétri de sang-froid, Roland se décida à agir. Il se leva, s’empara virilement de la télécommande, s’avança au centre de la pièce, se positionna en posture de combat Clint Eastwood, et actionna l’ouverture du toit en pointant l’objet, tel un phaser, sur les panneaux. À peine eut-il le temps de voir les rayons de clair de lune passer à travers l’interstice créé par le déverrouillage de l’ouverture, qu’ils disparurent. Dans le même mouvement, le grondement et les rafales de vents s’arrêtèrent subitement. Puis, au terme d’une grosse minute, le temps au toit de s’ouvrir complètement, Roland put enfin observer le ciel. Où les étoiles se cachaient-elles ? Et la lune ? Il avait beau scruter l’espace, il ne voyait rien. Les astres n’avaient pourtant pas disparu, et il ne pouvait s’agir d’un effet d’optique. Rationnel, discipliné, il prit enfin sur lui d’arrêter de gober comme une viande bovine, et s’en retourna à son bureau trouver une réponse. Le café avait fini de couler. Sa mousse était parfaite.  
 
 « *VEEEEEUUUUUZZZZZ !!!!!* »  
-
-> À suivre...
-
-Roland sursauta sur son siège. Ce qu’il entendit évoqua chez lui le son produit par un téléporteur standard. Il se leva brusquement. L’adrénaline était montée en flèche et provoqua un gros pshit sous son polo. Dans la précipitation, il manqua de tomber à la renverse et seule une agilité hors du commun lui permit d’éviter la catastrophe. Dans un même mouvement il avait posé son mug rempli à ras bord de café brûlant, sans en perdre une goutte, agrippé le dossier de son fauteuil avec sa main ainsi libérée, et posé l’autre contre le mur. Une bien belle cascade qui fit perler sur son front lisse trois petites gouttelettes de sueur.  
-
-Remis de son émotion, il leva les yeux. Une créature humanoïde d’environ trois bons mètres se dressait au centre de la pièce. Les deux pieds posés sur le pif du Rolandoléon Imperator, elle portait un genre d’uniforme relativement sobre d’un bleu profond, et sur sa tête, on pouvait l’affirmer sans trop se tromper, trônait un genre de képi. Derrière lui, qui faisait de l’ombre à la noirceur de la nuit, une énorme soucoupe volante attendait immobile en vol stationnaire. Un engin plein de lumières partout, utiles à n’en pas douter, dignes des productions de science-fiction du cinéma de quartier d’après guerre.  
-
-La créature prit la parole :   
-— Jean-Patrick Palourde ? Boucher-charcutier à Melun ? Son visage affichait un sourire béat, mais son intonation sévère invitait plutôt à la prudence. Les deux ensemble lui donnaient un air de clown psychotique venu d’ailleurs, que renforçait une voix étrangement fluette et enraillée.  
-— Je vous demande pardon ? s’étonna Roland.  
-— Laurent Mermouch, Lénifiant des ufo-tiales ? … Rhaaa… Apparemment agacée, la créature appuyait frénétiquement sur une touche d’un petit clavier à sa ceinture, tout en marmonnant des phrases dans une langue incompréhensible. Gaspard Loulou – président des Utopiales… Y'a du mieux, je garde la fin… Pierre Bordage, président des Utopiales, arf… Non… Information obsolète.  
-— Je peux vous aider peut-être ?  
-En guise de réponse, la créature se contenta de lever l’index à hauteur de visage de Roland, et, tout en grommelant, reprit son clavardage hystérique. Après quelques secondes, se tournant à nouveau vers son interlocuteur, elle poursuivit :  
-— Roland Lehoucq, président des Utopiales ?  
-— Lui-même.  
-— Habitant de la planète Terre, né en 1965 à Issy-les-Moulineaux, astrophysicien, vous travaillez au Commissariat à l’Énergie Atomique de Saclay sur la topologie cosmique, vous êtes agrégé de Physique et ancien élève de l’École Normale Supérieure de la rue d’Ulm. Vous donnez des travaux dirigés à l’École polytechnique dans le cours de relativité restreinte et dans celui de physique nucléaire, vous êtes également conférencier, écrivain et amateur de science-fiction au sens large, avec une préférence pour les récits de type prospectiviste, accessoirement showman et apprenti maître du monde ?  
-— En gros… Très gros, répondit Roland inquiet. Aussi absurde que cela puisse paraître, il s’attendait à prendre un PV pour excès de vitesse.  
-La créature baissa les yeux vers le sol, puis en fixant à nouveau son vis-à-vis, ajouta finalement : « et vous êtes manifestement doté d’un énorme boulard. »  
-— J’ai peut-être un énorme boulard, mais je ne vais pas récupérer mes informations people sur wikipédia, répliqua Roland un poil vexé. Et qui êtes-vous d’abord ? On se présente quand on est poli. Et avant, on passe un coup de fil. Le minimum syndical quoi.  
-— Mon nom importerait peu si j’en avais un, et par ailleurs, je suis officiellement mandaté par la Brigade sur le secteur de la Voie Lactée. Enfin, disons qu’elle pourrait se nommer ainsi, s’il s’avérait utile de lui donner un nom.  
-— Ok, fit Roland ses petits yeux à demi-fermés. Donc, you came from outer-space, si j’ai bien compris ?  
-— N’est-ce pas assez clair ?  
-— C’est ç’ui qui dit qui y'est…  
-— Pardon ?  
-— « Clair ! » Roland afficha un grand sourire. Parce qu’on la lui faisait pas au boss des Utopiales. Roland, c’est le genre de bonhomme qui va au cinéma voir les productions SF avec une loupiote frontale et un bloc note, et qui, de retour chez lui, trouve une myriade d’hypothèses scientifiques viables à toutes les charmantes absurdités qui l’ont amusé pendant la séance. Aussi, il se mit à tourner autour du « brigadier de l’espace », et débuta une recherche minutieuse de quelconques indices qui lui permettraient de confondre l’imposteur présumé.  
-— Vous parlez ma langue, vous êtes parfaitement humanoïde, vous êtes sapé comme une pervenche, et, le détail qui tue, vous mesurez plus de trois mètres de haut, et ce, sans talonnettes. Ce qui a été scientifiquement démontré comme « impossible » par tous les spécialistes en exobiologie un tant soit peu sérieux, ajouta-t-il en se grattant le menton, la tête légèrement penchée en arrière.  
-— Certes…  
-— Je n’ai pas terminé. Quant à votre flying saucer, au-dessus de vous, il est identique aux soucoupes volantes de Tim Burton qu’on a pu voir dans Mars Attack. Les gyrophares et la boule à facettes en plus. Ce qui est clair, mon gars, c’est que tu me prends pour une endive. Voilà ce qui est clair. Lumineux même.  
-— Vous devriez réviser vos classiques monsieur Lehoucq. Le style de mon vaisseau s’inspire plutôt du Plan 9 d’Ed Wood.  
-— Quelle différence et quand bien même ? Qui êtes-vous en réalité ?  
-— Celui que je vous dis être. Ni plus, ni moins.  
-— Bien sûr. Et dans quelle mesure suis-je censé croire à cette affabulation, à partir du moment, où, étrangement, votre présence n’évoque chez moi que souvenirs et autres références de la pop culture ? Références que, vous-même, à l’instant, vous venez de revendiquer ? Je m’attendrais presque à voir débarquer Maître Yoda costumé en Villeret dans la Soupe aux choux.  
-— La Soupe aux choux ? Le sourcil gauche du « Brigadier de l’espace » se leva et fissura en un instant le masque hideusement jovial arboré jusqu’alors.  
-— Oui. Le Glaude. Manifestement vous êtes bien de chez nous. Vous devez avoir une trentaine d’années, vous êtes probablement né à Nantes, vous possédez une fiat Panda blanche de 1991 pour passer inaperçu. Vous avez certainement tout lu de moi, vous ne loupez jamais mes conférences, sur le net ou en live. Pour entrer chez moi, vous vous êtes garé incognito dans la ruelle devant la maison – alors là oui, j’admets, c’est la part arbitraire de mon raisonnement, cela pourrait être une rue plus loin, le but étant, bien entendu, que cette ruelle permette de cacher une petite urbaine blanche – vous avez passé le mur en passant par le côté couvert de tuiles et grimpé la tour par le côté balcon, duquel, en mode Ninja, avez attendu planqué que je me concentre sur mon ordi pour actionner votre appareillage de David Copperfield au rabais, censé imiter le son d’un téléporteur de Next Gen’. Lequel a très certainement été téléchargé sur le web dans une banque de données quelconque. Bien joué l’ami. Mais non, je ne suis pas tombé dans le panneau. Alors ?  
-
-Un long silence s’ensuivit. Roland qui venait de marquer un nouveau point tout en puissance dans ce combat rhétorique, attendait maintenant les poings posés sur les hanches de recevoir les aveux en bonne et due forme de la part de celui qui ne semblait être, manifestement, qu’un simple charlatan, voire une groupie romantique. Cette dernière hypothèse avait d’ailleurs ses faveurs. Selon toute vraisemblance, il s’agissait, à première vue, d’un riche admirateur capable de mettre tout en branle, son argent, sa volonté, sa dignité, pour accéder au Graal : une griffe de Roro. C’était rassurant dans une certaine mesure. Quelle autre explication pouvait-on donner à cette effraction poétique, cette touchante tentative d’accéder à l’intimité du génie. Tant d’opiniâtreté ne devait pas rester sans récompense. « Ne jamais perdre contact avec son public », se répétait Roland à l’envi. Une règle fondamentale, qui, selon lui, était malheureusement snobée par nombre de ses pairs à leurs dépens.  
-
-Roland finit par tourner le dos au « brigadier » et partit fouiller dans le placard américain, situé derrière le bureau, où s’entassaient des cartons de produits dérivés à son effigie. Le plus remarquable, celui qui était le plus digne de son standing, était un jeu d’échecs. L’ensemble était constitué d’un magnifique set de figurines d’environ vingt centimètres en céramique de Limoges, et d’un plateau en bois précieux d’une troublante finesse. Le Rolandoléon Imperator Battlechess édition limitée à 42 exemplaires – 15 000 € pièce – tarif défiant toute concurrence. Pour autant, bien que l’intrus fût méritant, parmi les produits dérivés, n’y avait-il pas la possibilité de dégoter une broutille plus adaptée ? En fouinant un peu plus à fond, après avoir écarté les mugs et autres serviettes de bain, il trouva le cadeau idoine : un beau portrait en plan américain sur lequel Roland posait les deux pouces levés.  
-
-De retour dans le laboratoire, l’ambiance avait changé. Un froid humide et soudain s’était installé, les lumières de la soucoupe avaient disparu d’un coup, le ciel était réapparu, et les étoiles et la lune brillaient comme jamais Roland n’avait pu en profiter. Au centre de la pièce, l’intrus s’était éclipsé. Troublé, Roland s’avança, le portrait dans une main, un marqueur à dédicace doré dans l’autre. Quand à son tour il mit les pieds sur le nez du Rolandoléon, de tous petits nuages blancs commencèrent à apparaître. Ils semblaient sortir du plancher et se multipliaient à une vitesse prodigieuse. Petit à petit, ils s’agglomérèrent pour créer six petits tas gluants, translucides, d’une teinte émeraude, puis se disposèrent de manière à dessiner un hexagone régulier. Roland fit deux pas en arrière et lâcha tout ce qu’il tenait dans les mains. À nouveau, dans la soirée, il restait sans voix. Une fois de trop, à ses yeux, car il ne pouvait décemment se faire surprendre plus d’une fois dans la même journée. C’était certainement l’indice le plus flagrant, que les événements avaient pris une tournure extraordinaire. À la fin de la transformation, devant les yeux ébahis de Roland, se tenaient six golems de jelly à la menthe nains, cul-de-jatte, en forme de poire, qui le fixaient de leur unique gros œil rouge sang. Chacun portait dans sa paire de bras maigrelets un objet, tel un crayon à papier, un boulier, un calepin ou encore une calculatrice, pour le plus audacieux.  
-
-> À suivre...
-
-Ce dernier prit la parole :  
-— Comment vous faire entendre raison M. Lehoucq ? Nous concevons votre ardeur louable à tout déconstruire ce qui semble, à vos yeux, n’être qu’une mascarade. Nous comprenons que vous cherchiez à comprendre et non à croire. Mais rappelez-vous le doute, ce doute si cher à Pierre Abélard1. Doutez, Roland Lehoucq, et à l’examen vous arriverez à la seule conclusion qui relève de la logique : aucune technologie terrienne ne permet de tels tours de passe-passe en si peu de temps. Aucun motif ne justifierait un tel comportement. Et enfin, par extension, quel intérêt aurait un de vos semblables à se déguiser pour s’introduire chez vous ? Bref, nous sommes ce que nous disons être.  
-— Absurde… Absurde. Roland bafouillait. C’est trop débile. Pourquoi les références ? Pourquoi les clins d’œil ?  
-— Pour vous mettre à l’aise. Pour autant que cela ait un sens. Nous adaptons notre communication aux interlocuteurs.  
-— Non. C’est absurde. Tout ceci est absurde, répétait-il tel un disque rayé. Dans la quasi-infinitude de l’univers, vous nous auriez trouvé un intérêt quelconque ? En quoi est-ce censé me rassurer. Alien c’est rassurant ? Les profanateurs de sépultures c’est rassurant ? Les p'tits martiens qui viennent tout péter sur terre, c’est rassurant ? D’autant qu’en fonction des époques, ils représentent, soit l’ennemi intérieur, soit l’envahisseur. Parfois, oui, il y a des gentils martiens. E. T. ? Miracle sur la huitième rue ? Sillage ? Star Wars ? Star Trek ? Mais c’est loin d’être une généralité. Très loin même. Le cinéma 'ricain, par exemple, est le premier pourvoyeur en vilaines bestioles qui vous rendent le péquin lambda complètement paranoïaque.  
-— Votre propension à la boulimie de science-fiction s’est révélée bien pratique quand il a été question de rappliquer sur votre planète. Toutes ces références incrustées dans vos têtes, par des auteurs rêveurs, ambitieux pour l’humanité, utopistes, dystopistes, tels des lanceurs d’alertes, sont autant de protections contre une certaine forme de précipitation mortifère.  
-— Vous êtes pénible. Roland perdait patience, une certaine mauvaise foi s’était emparée de lui. Mais en quoi cela pourrait être une garantie de quoi que ce soit ?  
-— Hé bien à défaut de vous rassurer, ces images vous sont familières. Et, sans vouloir vous vexer, vous autres Terriens, êtes rarement de bonne composition face aux choses que vous ne comprenez pas… C’est peu de le dire. Entre réactions de panique dictées par votre cerveau reptilien, et votre prédisposition à tout prendre de traviole… C’est une technique qui a été maintes et maintes fois éprouvée sans jamais décevoir in fine.  
-— Soit, soit… On va dire qu’on a comme un tropisme pour la bêtise crasse sur Terre, surtout quand il s’agit ne nous confronter à l’inconnu et d’autant plus quand il a une gueule différente de la nôtre. Je suis par ailleurs ravi et paradoxalement peu rassuré, de savoir que nous ne sommes pas les seuls dans ce cas-là. Pour autant, la conversation que nous tenons en ce moment me semble… trop… « humaine » voyez-vous. De la prise de tronche existentielle en somme, c’est quand même une marque de fabrique bien d’chez nous. On peut en être fier d’ailleurs… Enfin je crois… Roland leva les yeux au ciel puis reprit. Enfin bref, c’est louche. En plus je parle à un slimy ooze. Si ça, ce n’est pas ridicule…  
-— Certes. Je conçois que vous puissiez être déconcerté. Mais cette mise en scène est pourtant indispensable. Nous n’avons guère le choix. Quelques-unes de nos expériences passées témoignent des dégâts que peut engendrer la prise à la légère de ces considérations.  
-— C’est cela oui. Je parle à un Slimy ooze… Continua Roland en se frottant les yeux, comme pour quitter cette séance d’hallucinations qui, décidément, ne voulait pas s’arrêter. Précisez ?  
-— Déjà, des guerres multi-millénaires si l’on se réfère à votre référentiel temporel. Des planètes détruites aussi. Des galaxies entières rendues inhabitables pour des durées à faire pâlir l’infini… Et j’en passe. Non, vraiment, négliger c’est mourir. C’est mal en somme. Quant à notre conversation proprement dite, pour faire court, notre échange n’est intelligible pour vous que parce que nous le rendons intelligible. Notre conversation, mon apparition, notre premier salut, tout ce dont nous avons parlé n’est, en somme, qu’un avatar, quasiment une allégorie, du mix que constitue votre langage, votre fonctionnement humain, et vos spécificités culturelles. De vous à nous, et inversement. Tout ça, bien sûr, simultanément. Quand bien même ce concept de simultanéité n’a de sens que dans votre réalité.  
-— Être clair comme du jus de boudin c’est une tradition chez vous ?  
-	
-Après quelques secondes, le « brigadier » ajouta d’une voix mielleuse :  
-« Nous avons des super machines pour effectuer ces interprétations évoluées… Des genres d’interpréteurs super-améliorés… La classe intersidérale notre matos. On en est très content. C’est le dernier cri. Vous souhaiteriez en examiner un exemplaire je présume ? »  
-
-Roland, qui avait cessé de regarder le « brigadier » depuis un moment comme pour retrouver un semblant de point d’appui dans la réalité, leva les yeux vers lui. Son regard était maintenant celui d’un petit garçon curieux des étoiles, à qui l’on venait de promettre une lunette astronomique dernière génération pour Noël. Il avait le sourire jusqu’aux oreilles, son crâne dégarni luisait de plaisir. Pendant ce temps, le « brigadier » avait repris un aspect humanoïde, comme au moment de leur rencontre. Grand avec un képi et un sourire idiot. Cela allait de soi, cette forme était la plus appropriée.  
-
-— Attendez… Je peux vraiment ? Roland était excité comme un amateur de comics à une séance de dédicaces d’Alan Moore. Ça marche comment ? Quelle source d’énergie ? La vitesse de calcul ? Quels algorithmes ?  
-— Je vous le montre. Mais une fois encore, rien de ce que je pourrais vous dire ne vous semblera pertinent.  
-— Vous êtes un poil sadique quand même… C’est quasiment de la torture psychologique votre mode opératoire…  
-
-Le « brigadier » fit peu de cas de la dernière saillie de Roland et sortit un petit objet de sa poche. Il avait la forme d’une montre à gousset. Très steampunk dans l’esprit. Pas d’aiguille pour montrer l’heure, juste des caractères étranges en guise de chiffres. Certainement une vision terrienne de l’instrument. Un poil décevant donc, c’était le moins qu’on puisse dire. Il le lança à Roland qui lui redonna presque aussi-tôt, tant le design de l’objet puait le kitch d’un jouet bas de gamme. L’air blasé il regagna le balcon. Il avait besoin de faire passer l’air frais dans ses esgourdes, histoire de s’aérer l’esprit. Après un temps mort, il reprit la conversation. Son ton était désabusé, sa voix sans enthousiasme, son regard scrutait l’horizon.  
-
-— Je résume : votre arrivée en fanfare, les bruits de tondeuse, les problèmes de traduction rencontrés, tout ça… C’était de la flûte donc, un principe de précaution en somme, pour que j’évite de sortir la sulfateuse comme ça au débotté ?  
-— En gros. Très gros. Chez nous on appelle ça : « mollo polo ».  
-— Dommage. J’aurais bien aimé une issue à la Star Trek… Des humanoïdes bizarres aux quatre coins de l’univers, ça pète le feu quand même. Quitte à ce que l’humanité ne soit pas le point de départ mais une des multiples évolutions, ou déclinaisons possibles, de l’espèce originelle… Remarquez ça reste un gros lieu commun. C’est ontologiquement décevant un lieu commun.  
-— Navré de vous décevoir. Mais je n’imaginais pas une seconde que vous vous attendiez à ce que des galaxies situées à des milliers d’années lumières de la Voie Lactée soient peuplées de mondes très semblables au vôtre. Quant à l’humanité, je vous le confirme, elle n’a pas éparpillé ses gènes à travers les étoiles et n’est pas autre chose que le résultat d’un énorme coup de bol.  
-— Soit. Mais pourquoi « moi », l’astrophysicien, potentiellement ravi de vous rencontrer ? Pourquoi en faire des caisses ? Je veux dire… Pourquoi ne pas vous montrer simplement. Dans votre état naturel. Je ne suis ni Poutine, ni Dark Vador, encore moins « le Mulet », ni je ne sais quel autre bourrin de service…  
-— Vos sens ne sont pas forcément très adaptés à la réception des signaux que nous envoyons. Et auriez-vous seulement compris qu’il était question d’un contact extra-terrestre ? Et bon… « apprenti maître du monde »… On est jamais trop prudent.  
-— C’est tout de même un peu vexant, bien qu’un chouïa flatteur, mais je peux comprendre. Seriez-vous en mesure de me faire une petite description de votre véritable apparence ? À quoi ressemblez-vous réellement ? Pas de tentacules je présume… C’est possible une petite explication, quand bien même cela n’aurait pas grand sens ? Que je me fasse une idée du monde dans lequel vous vivez.  
-Roland retrouvait petit à petit le sourire et tandis que son amertume et sa méfiance s’évanouissaient progressivement, il recouvrait peu à peu ses réflexes de scientifique tatillon.
-— Clairement non. Cela ne vous serait d’aucune utilité, répondit le « brigadier ».  
-Roland fronça les sourcils et jeta un coup d’œil agacé à la grande saucisse galactique qui lui servait d’interlocuteur.  
-— Est-ce vraiment à vous d’en juger ? Donnez-moi quelque chose quoi ! Un élément ! Une donnée intelligible et évocatrice… Ne me laissez pas planté comme un lemming au fond d’un trou !  
-
-Sur le moment, Roland n’eut droit à aucune réponse. Pas même une expression de visage implicite. Rien de nouveau. Toujours ce sourire idiot. Inapproprié. Flippant. Après quelques secondes de réflexion, le « brigadier » répondit :  
-— « grut ».  
-— « grut », reprit Roland comme une évidence. Je vais faire avec, finit-il par ajouter en souriant.  
-
-— Pouvons-nous, maintenant, en venir à l’objet de ma visite chez vous M. Lehoucq ? »  
-
-Un blanc d’une demi-seconde. À peine le temps d’entendre une mouche s’époumoner. Et pourtant, un blanc tel un trou noir d’une densité phénoménale, absorbant tous les sons, quels qu’ils soient, d’où qu’ils viennent. Un blanc, engeance tordue, fruit de la sidération et de la jouissance. Un blanc, comme un prélude à l’apparition de la vie. Un blanc que brisa Roland sans vergogne :
-— L’objet de votre visite ?  
-— Vous vous doutez bien que s’il s’était agi d’une simple prise de contact, nous aurions plutôt approché l’ONU, ou une tout autre organisation globalement représentative de votre droit international… Et de préférence non belliqueuse. Pas une personne isolée aussi géniale soit-elle.  
-	
-Un peu à la manière d’une claque dans la gueule, cette dernière réplique produisit une réaction chimique inattendue dans le cerveau de Roland. Une forme d’accablement joyeux s’était emparé du bonhomme. La venue d’un habitant de l’autre bout de l’univers avait déjà en soi quelque chose de révolutionnaire, mais que de surcroît, cette venue ne fut pas uniquement motivée par le simple fait de prendre contact, dépassait l’entendement. De notre point de vue prosaïquement humain bien entendu, et si l’on soustrayait au concept général la potentialité d’un asservissement de l’humanité et son corollaire envisageable, c’est-à-dire, l’extermination planifiée plus ou moins gratuite de toute forme de vie carbonée à la surface de la planète. On passait tout simplement d’un paradigme à un autre. Il n’était plus question d’accueillir, avec la plus indigne flagornerie, les nouveaux dieux qui mettraient tout le monde d’accord, mais plutôt d’ouvrir la porte à un voisin de palier gentil mais encombrant, venu emprunter votre barbeuk pour l’anniversaire du fiston.  
-
-— Bon. Faisons vite, balança Roland avec aplomb. C’est que je n’ai pas que ça à faire. De plus je me lève tout à l’heure. J’ai des ados' à épater et un festival à boucler…  
-— Donc, après mon passage, vous reprendrez votre petite vie pépère ?  
-— Z'êtes vexé ou je me trompe ? C’est assez cocasse, ajouta Roland le sourire en coin. Évidemment que je vais continuer. Et de plus belle par dessus le marché ! Rendez-vous compte, après Einstein ! Après Hawkins ! Here it comes ! Roland Lehoucq ! Dit-il en écarquillant les yeux.  
-— OK. Malheureusement je crois que vous vous méprenez quant au motif de ma visite. Au moment d’en prendre connaissance, j’ai bien peur que vous déchantiez.  
-
-Roland se mit à fixer son vis-à-vis droit dans les yeux en restant impassible autant que faire se peut. Un courant d’air glacial passa dans la pièce et fit s’envoler la documentation étalée sur le bureau, comme les virevoltants qui traversent les rues poussiéreuses des villes de western hollywoodiens. En gros le temps qu’il fallut à Roland pour assimiler l’information. Des stigmates d’une tension des plus prégnantes apparurent sur son crâne puis, une goutte perla sur sa tempe gauche ainsi qu’une autre sur sa tempe droite. L’équilibre était précaire.  
-
-Quand le « brigadier » fut assuré d’avoir toute l’attention de Roland, il reprit le dialogue :  
-— Pouvez-vous me confirmer que vous avez bien prononcé cette phrase, hier soir, durant la cérémonie de clôture de votre festival ?  
-
-« La plus grande librairie de Science-Fiction francophone de France, ça va sans dire, d’Europe, c’est presque évident, et donc du monde. Et je serais même tenté de dire, de la galaxie ! »  
-
-— Euh… Oui. C’était drôle, non ?  
-— Vous confirmez donc ?  
-— Oui, bien sûr.  
-
-Le « brigadier » prit alors un air blasé pour sortir de sa veste une étrange boîte lumineuse. Un petit écran holographique apparut juste devant lui en suspension dans l’air. Dessus, des caractères étranges sans cohérence aucune, du moins en apparence, ainsi que des chiffres, s’affichaient rapidement. Le brigadier se tourna vers le bureau de Roland, juste le temps d’y jeter un œil rapide afin de s’assurer qu’il visait bien, et une plaque blanche, format calepin à première vue, se matérialisa à sa demande sur la pile de papiers en bazar. On pouvait y distinguer des phrases, un logo et une signature. Pendant qu’il rangeait ses affaires, le « brigadier » invita Roland à prendre connaissance du document. Ce dernier s’exécuta sans perdre un seul instant l’extra-terrestre de vue.  
-
-— Euh… Non mais vous déconnez ? C’est quoi ce délire ?  
-— C’est écrit. Vous vous êtes vanté d’accueillir dans votre festival la plus grande librairie de la galaxie. Factuellement c’est faux. Rien que sur la planète Alpha Centauri Bc, on en a une plus grosse. À côté de l’astroport, entre le khebab et la blanchisserie… Enfin bref… C’est de la publicité mensongère donc. C’est interdit et sanctionné. Une petite contravention, ça remet les idées en place.  
-— Mais… Mais… En vertu de quoi ?  
-— De la loi contre la publicité mensongère.  
-— Mais c’est absurde ! Encore faudrait-il que l’humanité ait signé quoi que ce soit ! Roland hurlait.  
-— Vous avez accepté cette loi.  
-— Et quand ça je vous prie ? Il hurlait toujours.  
-— Précisément, si je me réfère à votre calendrier grégorien, en 1972. Votre plaquette Pioneer. Nous l’avons réceptionnée en 2010 si je me souviens bien. Seulement après décryptage, et ce ne fut pas simple, nous en avons déduit qu’il s’agissait d’une requête pour rejoindre notre coalition intergalactique. Nous avons accepté de suite. Rendez-vous compte, un monde globalement pacifique, ça ne court pas l’hyper-espace. Enfin bref, vous avez de facto accepté les lois qui régissent cette grande alliance.  
-— Pioneer ? Vous avez compris tout ça dans cette pauvre plaque ?  
-— Quand vous envoyez un message à l’autre bout de l’univers dans l’espoir qu’il soit intercepté et compris, ne vous étonnez pas quand quelqu’un vient vous annoncer qu’il a été intercepté et compris.  
-— Hmmm. Pas faux. Roland se sentait un peu couillon. Mais en aucun cas nous envisagions de nous engager contractuellement avec une quelconque civilisation galactique. Juste un p'tit bonjour, « venez prendre le café », « faisons un échange de techno : prenez le minitel, filez-nous le voyage en hyper-espace », « ça vous dit un scrabble ? ». Voyez, rien d’autre.  
-— La grande majorité des experts en langage exo-galactique de notre coalition est pourtant formelle.  
-— Bah tiens. Vous avez compris ce qui vous arrangeait en réalité. Et pourquoi pas une autorisation à venir nous coloniser, brûler nos maisons, manger nos enfants ?  
-— Les discussions furent longues et âpres.  
-— C’est cela oui…  
-— Disons qu’il a fallu fortement insister.  
-— Ah ouais ?  
-— 50,04 % des votes en faveur de la motion qui affirmait que vous souhaitiez nous rejoindre, contre 49,96 % des votes en faveur de la motion qui affirmait que vous nous vouliez du mal. Ça s’est joué à pas grand-chose. Plusieurs votes, des recomptages de votes, des irrégularités à tous les niveaux. Un représentant illustre de notre grande coalition y a laissé son poste.  
-
-Pâle comme un yaourt au bifidus actif, Roland ne produisit plus aucun son à partir de ce moment, laissant implicitement l’opportunité au brigadier de reprendre la parole :  
-
-— Vous pouvez toujours contester ce vote. Cette possibilité existe dans les textes. Nous revoterons sans soucis. Qu’en pensez-vous ?  
-— Pas grand-chose. Comme dirait l’autre : la terreur annihile toutes mes facultés conceptuelles.  
-— C’est vous qui voyez. Ça peut se faire très rapidement.  
-— C’est-à-dire ? Dans le million d’années qui vient ?  
-— Non. À peu de chose près dans une heure terrestre. Le temps d’activer la rétro-implémentation historique. Il y a toujours ce petit temps de latence désagréable.  
-— Soit, soit. Non mais tout cela demande réflexion. Je vous avoue que je ne me sens pas exactement légitime à prendre ce type de décision pour l’humanité tout entière. Déjà que d’une personne à l’autre dans une famille nous n’arrivons pas toujours à nous mettre d’accord… Imaginez à l’échelle de l’humanité. Et puis il faudrait qu’on en discute entre nous, à l’ONU en réunion exceptionnelle, voyez. C’est tout un bazar à chaque fois. Barack qui ne peut pas venir parce qu’il a déjà un truc de prévu avec ses potes de guilde à Warcraft, Angela qui ne sait jamais si elle doit venir en Audi ou en Wolkswagen, Vlad' qui chasse l’ours à mains nues en Crimée est souvent injoignable… Bref compliqué, compliqué…  
-— Alors ?  
-— Alors, alors… Déjà, est-il possible d’échelonner les paiements ?  
 
 ***

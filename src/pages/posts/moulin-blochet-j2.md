@@ -21,45 +21,45 @@ tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires"
 - Liste des mots sélectionnés (mot utilisés en gras) :
 - programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
 
-L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur Est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.  
+L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.  
 
 De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur de sa vie, celui de douleur de Daron à la réception et le mien étouffé par la surprise, il ne restait que peu de place au débat.
 
-À l’hôpital, la jambe dans le plâtre et tenue à l’horizontale, Daron riait des inquiétudes et des reproches de Daronne. Daronne soufflait agacées. Quant à moi, le fiston flippé de tout et de rien je réglais les chaînes de TV sur l’écran de la chambre afin que Daron puisse regarder tranquillement ses mondiaux d’escalade.
+À l’hôpital, la jambe dans le plâtre et tenue à l’horizontale, Daron riait des inquiétudes et des reproches de Daronne. Daronne soufflait agacée. Quant à moi, le fiston flippé de tout et de rien, je réglais les chaînes de TV sur l’écran de la chambre afin que Daron puisse regarder tranquillement ses mondiaux d’escalade.
 
 ### Texte 2 au PRÉSENT
 
 - Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"  
 - liste des mots sélectionnés (mot à utiliser en gras) : triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
-« Il faut que tu sautes là. Soupire J. P.  
--- J’ai plus trop envie. Répond Alfred.  
--- Oui mais maintenant que t’es là, il faut que tu sautes. Insiste J. P.  
--- C’est trop loin. Tu le vois autant que moi. S’insurge Alfred.  
+« Il faut que tu sautes là, soupire J. P.  
+-- J’ai plus trop envie, répond Alfred.  
+-- Oui mais maintenant que t’es là, il faut que tu sautes, insiste J. P.  
+-- C’est trop loin. Tu le vois autant que moi, s’insurge Alfred.  
 -- J’ai demandé, t’as dit oui, t’as payé. Maintenant tu te débines pas.  
--- Bon OK. Je saute. »  
+-- Bon OK, je saute. »  
 
 Alfred prend son élan. Quatre bons mètres et il saute comme jamais. L’arrivée en bas est rude. L’avantage c’est qu’il ne ressent plus rien. L’idée même de ressentir n’existe plus. Alfred d’ailleurs n’existe plus.  
 
 J. P. fait avancer un nouveau candidat.
 
-« Allez, tu me déçois pas hein. Fais pas comme Alfred ce nulos et ça va bien se passer.  
--- C’est trop loin. Clairement. Y a au moins quatorze mètres. Répond Roberto effrayé.  
--- Ça va… Les triples-sauteurs en longueur sont capables de le faire. C’est donc que c’est possible. C’est pas des surhommes ces gars-là non ?  
+« Allez, tu me déçois pas hein, fais pas comme Alfred ce nulos et ça va bien se passer.  
+-- C’est trop loin. Clairement. Y a au moins quatorze mètres, répond Roberto effrayé.  
+-- Ça va… Les triples-sauteurs en longueur sont capables de le faire, c’est donc que c’est possible. C’est pas des surhommes ces gars-là non ?  
 -- Oué enfin je suis pas triple-sauteur moi.  
--- Tu peux le faire. Ais confiance.  
--- OK. J’y vais. »  
+-- Tu peux le faire, aie confiance.  
+-- OK, j’y vais. »  
 
 Roberto prend son élan. Un bel élan de triple-sauteur olympique et saute ! Loin ! Très loin !
-À mi-chemin cependant il se rend bien compte qu’il lui manque un bon mètre environ. Relativement déçu, il décide donc d’en finir avec les honneurs. Il transforme sa chute en triple saut périlleux avant, puis enchaîne avec une double vrille carpée et termine en écartant les bras façon saut de l’ange comme à la gym. 10/10 propre. Rien a dire. Il a le temps d’entendre quelques applaudissements et plus rien. Comme Alfred.  
+À mi-chemin cependant, il se rend bien compte qu’il lui manque un bon mètre environ. Relativement déçu, il décide donc d’en finir avec les honneurs. Il transforme sa chute en triple saut périlleux avant, puis enchaîne avec une double vrille carpée et termine en écartant les bras façon saut de l’ange, comme à la gym. 10/10 propre. Rien a dire. Il a le temps d’entendre quelques applaudissements et plus rien. Comme Alfred.  
 
 J. P. Fait les grands pas. Il commence à s’agacer :
 
-« Mais enfin, personne ne le veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là. Au pif, il désigne un jeune homme à lunettes dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
+« Mais enfin, personne ne le veut ce myoonnn dollars ? Quand on veut ! On peut hein ! Allez au suivant. Toi là, au pif ! Il désigne un jeune homme à lunettes dans la foule des candidats. Il est vêtu d’une chemise à carreaux et d’un petit gilet de laine sans manche tricoté par tatie. Comment t’appelles-tu donc ?  
 -- Peter.  
--- Bonjour Péteur. Péteur comment ?  T'es le Cousin péteur c'est ça ? Héhé. La foule est hilare.  
+-- Bonjour Péteur, Péteur comment ?  T'es le Cousin péteur c'est ça ? Héhé. La foule est hilare.  
 -- Non. Parker. Peter Parker. Et je veux le double si j'arrive de l'autre coté.  
--- Lol ! T'es un comique toi. Allez marché conclu et bon courage le binoclard.  
+-- Lol ! T'es un comique toi. Allez, marché conclu et bon courage le binoclard.  
 
 ### Texte 3 au FUTUR
 
@@ -93,7 +93,7 @@ Il m’a mordu il y a 4 jours ce con de clébard. C’était un très gros chie
 
 À l’hôpital ils m’ont bien soigné. Ils m’ont fait une piqûre anti-rabique aussi. Ils avaient l’air confiant. Plus que moi. Pas à cause de la piquouse anti-rabique, mais la blessure avait vraiment une sale tête avec mes poils dégueux qui se mélangeaient au sang de la blessure ouverte. Ils ont souhaité me garder pour la nuit. C’était vraiment bizarre comme contexte. Ils ont fermé la porte de ma chambre à clef et fait venir des flics qui sont restés toute la nuit à faire le planton devant comme si j’étais en cavale. Moyen l’admission. Heureusement que je note pas les services publics comme le plus mesquin des droitards parce qu’ils auraient pris cher. J’ai eu beau protester, ça n’a servi à rien. J’ai voulu appeler avec mon portable. Je captais que dalle. Finalement, la fatigue aidant je me suis résigné à passer la nuit en prison.  
 
-Le plus flippant fut le déroulement de la nuit en elle-même. Déjà j’ai fait un drôle de rêve. Je me voyais tomber de très très haut, à la verticale. En dessous de moi je distinguais comme une sorte de canopée de chênes et de hêtres se rapprocher à très grande vitesse. J’essayais de voler, de nager la brasse comme pour amortir une chute inéluctable et au moment de toucher la cime des arbres, je me suis réveillé. J’étais en sueur. Je sentais le fauve à 15 bornes et j’avais une faim de loup. Mais le plus perturbant dans l’histoire, c’est que j’avais été attaché au lit avec de très épaisses lanières de cuir. J’étais incapable de bouger. Est-ce que j’étais en semi-sommeil ? En paralysie de sommeil ? Vraiment réveiller ? Va savoir avec le recul. Puis je crois que je me suis rendormi, voire je suis simplement re-passé en sommeil profond.  
+Le plus flippant fut le déroulement de la nuit en elle-même. Déjà j’ai fait un drôle de rêve. Je me voyais tomber de très très haut, à la verticale. En dessous de moi je distinguais comme une sorte de canopée de chênes et de hêtres se rapprocher à très grande vitesse. J’essayais de voler, de nager la brasse comme pour amortir une chute inéluctable et au moment de toucher la cime des arbres, je me suis réveillé. J’étais en sueur. Je sentais le fauve à 15 bornes et j’avais une faim de loup. Mais le plus perturbant dans l’histoire, c’est que j’avais été attaché au lit avec de très épaisses lanières de cuir. J’étais incapable de bouger. Est-ce que j’étais en semi-sommeil ? En paralysie de sommeil ? Vraiment réveillé ? Va savoir avec le recul. Puis je crois que je me suis rendormi, voire je suis simplement re-passé en sommeil profond.  
 
 Le lendemain matin je n’étais plus attaché. La porte était ouverte et j’ai cru voir les flics serrer les mains des infirmières puis partir. Devant moi un médecin me regardait, une chemise jaune sous le bras, les mains dans les poches. Il attendait manifestement que j’émerge complètement. Un peu mieux réveillé j’ai tenté de protester. Il m’a sorti des explications jargonneuses que je n’ai pas saisies. Mon regard avait dû le laisser croire que j’étais en situation de comprendre. Puis il s’est assuré que j’avais compris le principal et m’a laissé sans médoc, sans ordonnances, juste avec un rendez-vous à l’hôpital dans 27 jours.  
 

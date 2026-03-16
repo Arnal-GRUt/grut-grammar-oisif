@@ -42,12 +42,17 @@ const { frontmatter } = Astro.props;
   </div>
   <style>
     .main.page-texte .corps-texte.display-flex.direction-column {
-      blockquote {
+      > blockquote {
         background: color-mix(in srgb, var(--white), transparent);
         padding: 2ch;
         border-radius: 4px;
         border: 2px solid var(--black);
         transform: rotate(-1deg) translate(5rem);
+
+        & p {
+          font-size: 1rem;
+          padding-bottom: 1rem;
+        }
         &:after {
           position: absolute;
           content: "";
@@ -99,7 +104,7 @@ const { frontmatter } = Astro.props;
         color: var(--black);
 
         & li {
-          margin-bottom: 1.5ch;          
+          margin-bottom: 1.5ch;
         }
 
         & a::after {

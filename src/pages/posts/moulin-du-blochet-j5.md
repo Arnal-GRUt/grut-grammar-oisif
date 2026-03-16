@@ -17,13 +17,13 @@ La liste de mots (mots sélectionnés en gras) : tuer / déménager / occasion 
 
 -----
 
-La soude ronge les chairs et les os. Dès lors, s’allonger dans la soude semble être une mauvaise idée. Des idées comme ça, Trudolf en a un bon gros stock. Faut dire Trudolf c’est un original. Il n’est pas magicien. Ça pourrait expliquer son goût pour les expériences bizarres mais non. C’est pas tellement son style de s’exhiber dans des cabarets à faire des tours de passe-passe avec des lapins, ou a faire semblant de couper Mireille en deux avec une scie. Il est plutôt discret comme garçon. Il n’est pas non plus chimiste. Ça aurait pu aussi, mais il n’a pas le bagage scientifique et de toute manière, ça ne l’intéresse pas. Non, le truc de Trudolf c’est dormir. Il dort beaucoup. Beaucoup trop manifestement mais c’est comme ça qu’il a des idées faut dire. Hier il a trop dormi, ça la fait rater une idée. Le problème c’est que ceux qui aiment et qui attendent ses idées tous les jours n’étaient pas très contents. Ils l’ont laissé dormir. Dans la soude.
+La soude ronge les chairs et les os. Dès lors, s’allonger dans la soude semble être une mauvaise idée. Des idées comme ça, Trudolf en a un bon gros stock. Faut dire Trudolf c’est un original. Il n’est pas magicien. Ça pourrait expliquer son goût pour les expériences bizarres mais non. C’est pas tellement son style de s’exhiber dans des cabarets à faire des tours de passe-passe avec des lapins, ou a faire semblant de couper Mireille en deux avec une scie. Il est plutôt discret comme garçon. Il n’est pas non plus chimiste. Ça aurait pu aussi, mais il n’a pas le bagage scientifique et de toute manière, ça ne l’intéresse pas. Non, le truc de Trudolf c’est dormir. Il dort beaucoup. Beaucoup trop manifestement mais c’est comme ça qu’il a des idées faut dire. Hier il a trop dormi, ça l'a fait rater une idée. Le problème c’est que ceux qui aiment et qui attendent ses idées tous les jours n’étaient pas très contents. Ils l’ont laissé dormir. Dans la soude.
 
 ### Texte n°2 - sale/livide  
 
 -----
 « Il est livide Rodrigo en ce moment. On dirait un zombi »
-— Parce que c’est un zombi.  
+— Parce que c’est un zombie.  
 — Comment ça…  
 — Il a rencontré un gars l’autre jour pendant sa promenade. Le mec était par terre dans la boue. Tout sale. Dégueulasse. Rodrigo a voulu l’aider, tu le connais le poto.  
 — Ah bah oui, c’est bien son style d’aider les gens au Rodrigo.  
@@ -61,27 +61,29 @@ Thème : [Ketty Stewart](https://linktr.ee/k_tastrof)
 
 -----
 
-Dans le petit salon les produits avaient été disposés en pyramide sur la petite table de présentation vintage. Les 3 rangées de chaises étaient encore vides et attendaient les journalistes et photographes qui pour le moment s’entassaient derrière les doubles-portes d’entrée. Le professeur Octave Moule-Smith et sa consœur la docteure Simona Flonflon répétaient une dernière fois leur dialogue de présentation des produits cosmétiques « Étoile de Miel » :  
+Dans le petit salon les produits avaient été disposés en pyramide sur la petite table de présentation vintage. Les 3 rangées de chaises étaient encore vides et attendaient les journalistes et photographes qui, pour le moment, s’entassaient derrière les doubles-portes d’entrée. Le professeur Octave Moule-Smith et sa consœur la docteure Simona Flonflon répétaient une dernière fois leur dialogue de présentation des produits cosmétiques « Étoile de Miel » :  
 
 « na na na… sans conteste… »  
 — Je prends la main : tout à fait cher collègue… blablabla… nous sommes donc ravis de vous présenter la nouvelle gamme… Et tu conclus, c’est mieux je pense »  
 Par une petite porte coté cheminée, un homme en costard trop grand entra dans la pièce.  
 « Faut annuler.  
-— Quoi ? Hors de question. Répondit sèchement Simona.  
+— Quoi !? Hors de question. Répondit sèchement Simona.  
 — On a un très gros souci.  
 — C’est-à-dire ? lancèrent les deux savants en cœur.  
 — La reine abeille. Elle veut son pourcentage pour la Ruche.  
-— Comment ça ? Hors de question ! S’esclaffa Octave furieux. Mais de quel droit ?  
+— Comment ça ? Hors de question ! s’esclaffa Octave furieux. Mais de quel droit ?  
 — Depuis que vous avez décidé de les booster, elles ont commencé à vouloir leur part. »  
-Pour Octave et Simona l’objectif étaient de les faire travailler plus vite avec une certaine autonomie. Pas de leur permettre de se syndiquer.  
-« Et donc, c’est quoi les revendications ? Elles ont des droits les abeilles ? C’est nouveau. S’offusqua Octave.  
-— Elles sont défendues par un collectif là. Un genre de groupe écolo.  
-— Et alors ! Répondit dans sa barbe Octave avec un air mesquin.  
-— Elles menacent de faire grève. Illimité. Finito le miel. Finito les fleurs. Finito le pognon. »  
 
-L’homme en costard trop grand était gêné devant Simona et Octave muets comme des poissons clowns. L’homme en costard trop grand fit une moue, désigna la porte du doigt. Il invita les 2 chercheurs à préparer sur un coin de table une déclaration qui stipulait que la mise en vente prendrait du retard et qu’une nouvelle conférence de presse sera programmée sous peu.  
+Pour Octave et Simona l’objectif étaient de les faire travailler plus vite avec une certaine autonomie, pas de leur permettre de se syndiquer.  
 
-« Passons en mode damage control. Plus le temps à perdre. Des gars vont venir débarrasser les produits » conclut l’homme en costard trop grand.  
+« Et donc, c’est quoi les revendications ? Elles ont des droits les abeilles ? C’est nouveau. s’offusqua Octave.  
+— Elles sont défendues par un collectif là, un genre de groupe écolo.  
+— Et alors ! répondit dans sa barbe Octave avec un air mesquin.  
+— Elles menacent de faire grève. Illimitée la grève. Finito le miel. Finito les fleurs. Finito le pognon. »  
+
+L’homme en costard trop grand était gêné devant Simona et Octave muets comme des poissons clowns. Il fit une moue, désigna la porte du doigt et invita les 2 chercheurs à préparer sur un coin de table, une déclaration qui stipulait que la mise en vente prendrait du retard et qu’une nouvelle conférence de presse serait programmée sous peu.  
+
+« Passons en mode damage control. Plus de temps à perdre. Des gars vont venir débarrasser les produits » conclut l’homme en costard trop grand.  
 
 5 années plus tard, le 10 septembre 2150, la CGT Abeille remporta son procès contre la société « Étoile de Miel ». Celle-ci fut condamnée à verser 3000000 € d’arriérés de paiements, ainsi que la même somme de dommages et intérêts au collectif « La Ruche » et à leurs membres. Octave et Simona ne firent pas de vague et acceptèrent le jugement par une simple déclaration dans le Figaro « Ok. Finito la cosmétique ». Il faut dire qu’ils avaient bien anticipé le désastre en replaçant une partie de leurs économies dans une autre société « Dar Dar Frelon », qui faisait depuis longtemps dans la recherche et la vente d’armes chimiques.  
 

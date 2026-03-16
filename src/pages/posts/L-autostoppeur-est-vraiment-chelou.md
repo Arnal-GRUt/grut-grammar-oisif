@@ -203,7 +203,7 @@ Enfin bref, pour répondre à votre question, oui, je crois que je serais capabl
 
 *J’ai de plus en plus mal au crâne. Ça tourne. J’ai du mal à me concentrer.*  
 
-— Comment ça ? Qu’est-ce que tu racontes ?
+— Comment ça ? Qu’est-ce que tu racontes ?  
 — Elle est partie chez la frangine ?
 
 *C’est quoi ce regard ahuri ? Pourquoi j’ai la tête qui tourne de plus en plus. Je tiens plus debout. L’envie de gerber.*  

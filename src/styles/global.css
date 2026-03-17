@@ -1856,12 +1856,12 @@ html:not([id*="Grammar"]) body {
 
 @media (width < 768px) {
     body .contenu-page.direction-row .main a.lien-post {
-        max-width: none;
+        max-width: calc(640px - 2rem);
         width: 100%;
         height: auto;
 
 		& .display-flex.direction-column.presentation {			
-			height: fit-content;
+			height: fit-content;			
 		}
     }
 }

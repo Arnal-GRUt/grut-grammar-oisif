@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'La bourde'
+title: 'La bourde - 2/3'
 pubDate: "03-17-2026"
 description: "Roland Lehoucq et les extra-terrestres - partie 2/3"
 author: "GRUt·"
-contexte : "Nouvelle assez longue écrite à partir de la fin de 2014 de retour de nos premières Utopiales à Nantes en 2014."
+contexte : "Nouvelle assez longue écrite à partir de la fin de 2014, de retour de nos premières Utopiales à Nantes en 2014."
 enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise des prix aux Utopiales 2014."
 tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 ---
@@ -17,7 +17,7 @@ Roland sursauta sur son siège. Ce qu’il entendit évoqua chez lui le son prod
 
 Remis de son émotion, il leva les yeux. Une créature humanoïde d’environ trois bons mètres se dressait au centre de la pièce. Les deux pieds posés sur le pif du Rolandoléon Imperator, elle portait un genre d’uniforme relativement sobre d’un bleu profond, et sur sa tête, on pouvait l’affirmer sans trop se tromper, trônait un genre de képi. Derrière lui, qui faisait de l’ombre à la noirceur de la nuit, une énorme soucoupe volante attendait immobile en vol stationnaire. Un engin plein de lumières partout, utiles à n’en pas douter, dignes des productions de science-fiction du cinéma de quartier d’après guerre.  
 
-La créature prit la parole :   
+La créature prit la parole :  
 — Jean-Patrick Palourde ? Boucher-charcutier à Melun ? Son visage affichait un sourire béat, mais son intonation sévère invitait plutôt à la prudence. Les deux ensemble lui donnaient un air de clown psychotique venu d’ailleurs, que renforçait une voix étrangement fluette et enraillée.  
 — Je vous demande pardon ? s’étonna Roland.  
 — Laurent Mermouch, Lénifiant des ufo-tiales ? … Rhaaa… Apparemment agacée, la créature appuyait frénétiquement sur une touche d’un petit clavier à sa ceinture, tout en marmonnant des phrases dans une langue incompréhensible. Gaspard Loulou – président des Utopiales… Y'a du mieux, je garde la fin… Pierre Bordage, président des Utopiales, arf… Non… Information obsolète.  
@@ -47,6 +47,10 @@ La créature baissa les yeux vers le sol, puis en fixant à nouveau son vis-à-v
 
 Un long silence s’ensuivit. Roland qui venait de marquer un nouveau point tout en puissance dans ce combat rhétorique, attendait maintenant les poings posés sur les hanches de recevoir les aveux en bonne et due forme de la part de celui qui ne semblait être, manifestement, qu’un simple charlatan, voire une groupie romantique. Cette dernière hypothèse avait d’ailleurs ses faveurs. Selon toute vraisemblance, il s’agissait, à première vue, d’un riche admirateur capable de mettre tout en branle, son argent, sa volonté, sa dignité, pour accéder au Graal : une griffe de Roro. C’était rassurant dans une certaine mesure. Quelle autre explication pouvait-on donner à cette effraction poétique, cette touchante tentative d’accéder à l’intimité du génie. Tant d’opiniâtreté ne devait pas rester sans récompense. « Ne jamais perdre contact avec son public », se répétait Roland à l’envi. Une règle fondamentale, qui, selon lui, était malheureusement snobée par nombre de ses pairs à leurs dépens.  
 
-Roland finit par tourner le dos au « brigadier » et partit fouiller dans le placard américain, situé derrière le bureau, où s’entassaient des cartons de produits dérivés à son effigie. Le plus remarquable, celui qui était le plus digne de son standing, était un jeu d’échecs. L’ensemble était constitué d’un magnifique set de figurines d’environ vingt centimètres en céramique de Limoges, et d’un plateau en bois précieux d’une troublante finesse. Le Rolandoléon Imperator Battlechess édition limitée à 42 exemplaires – 15 000 € pièce – tarif défiant toute concurrence. Pour autant, bien que l’intrus fût méritant, parmi les produits dérivés, n’y avait-il pas la possibilité de dégoter une broutille plus adaptée ? En fouinant un peu plus à fond, après avoir écarté les mugs et autres serviettes de bain, il trouva le cadeau idoine : un beau portrait en plan américain sur lequel Roland posait les deux pouces levés.  
+Roland finit par tourner le dos au « brigadier » et partit fouiller dans le placard américain, situé derrière le bureau, où s’entassaient des cartons de produits dérivés à son effigie. Le plus remarquable, celui qui était le plus digne de son standing, était un jeu d’échecs. L’ensemble était constitué d’un magnifique set de figurines d’environ vingt centimètres en céramique de Limoges, et d’un plateau en bois précieux d’une troublante finesse. *Le Rolandoléon Imperator Battlechess édition limitée à 42 exemplaires – 15 000 € pièce – tarif défiant toute concurrence*. Pour autant, bien que l’intrus fût méritant, parmi les produits dérivés, n’y avait-il pas la possibilité de dégoter une broutille plus adaptée ? En fouinant un peu plus à fond, après avoir écarté les mugs et autres serviettes de bain, il trouva le cadeau idoine : un beau portrait en plan américain sur lequel Roland posait les deux pouces levés.  
 
 De retour dans le laboratoire, l’ambiance avait changé. Un froid humide et soudain s’était installé, les lumières de la soucoupe avaient disparu d’un coup, le ciel était réapparu, et les étoiles et la lune brillaient comme jamais Roland n’avait pu en profiter. Au centre de la pièce, l’intrus s’était éclipsé. Troublé, Roland s’avança, le portrait dans une main, un marqueur à dédicace doré dans l’autre. Quand à son tour il mit les pieds sur le nez du Rolandoléon, de tous petits nuages blancs commencèrent à apparaître. Ils semblaient sortir du plancher et se multipliaient à une vitesse prodigieuse. Petit à petit, ils s’agglomérèrent pour créer six petits tas gluants, translucides, d’une teinte émeraude, puis se disposèrent de manière à dessiner un hexagone régulier. Roland fit deux pas en arrière et lâcha tout ce qu’il tenait dans les mains. À nouveau, dans la soirée, il restait sans voix. Une fois de trop, à ses yeux, car il ne pouvait décemment se faire surprendre plus d’une fois dans la même journée. C’était certainement l’indice le plus flagrant, que les événements avaient pris une tournure extraordinaire. À la fin de la transformation, devant les yeux ébahis de Roland, se tenaient six golems de jelly à la menthe nains, cul-de-jatte, en forme de poire, qui le fixaient de leur unique gros œil rouge sang. Chacun portait dans sa paire de bras maigrelets un objet, tel un crayon à papier, un boulier, un calepin ou encore une calculatrice, pour le plus audacieux.  
+
+****
+
+> Suite et fin au prochain épisode...

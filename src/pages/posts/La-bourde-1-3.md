@@ -4,7 +4,7 @@ title: 'La bourde - 1/3'
 pubDate: "03-16-2026"
 description: "Roland Lehoucq et les extra-terrestres - partie 1/3"
 author: "GRUt·"
-contexte : "Nouvelle assez longue écrite à partir de la fin de 2014 de retour de nos premières Utopiales à Nantes."
+contexte : "Nouvelle assez longue écrite à partir de la fin de 2014, de retour de nos premières Utopiales à Nantes."
 enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise des prix aux Utopiales 2014, j'ai commencé à écrire cette histoire de premier contact"
 tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 ---

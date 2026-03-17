@@ -523,11 +523,12 @@ body .main {
 
 		view-timeline-name: --to-opacity-0;
 		view-timeline-axis: block;
-		animation: linear to-opacity-0 both;
+		/* animation: linear to-opacity-0 both; */
 		/* animation-timeline: view(); */
 		animation-timeline: scroll();
 		animation-range-start: 130vh;
-		animation-range-end: 250vh;	
+		/* animation-range-end: 250vh;	 */
+		animation-range-end: 400vh;	
 		top: 20vh;	
 
 		&:before {

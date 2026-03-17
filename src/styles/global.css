@@ -523,7 +523,7 @@ body .main {
 
 		view-timeline-name: --to-opacity-0;
 		view-timeline-axis: block;
-		/* animation: linear to-opacity-0 both; */
+		animation: linear to-opacity-0 both;
 		/* animation-timeline: view(); */
 		animation-timeline: scroll();
 		animation-range-start: 130vh;
@@ -2104,8 +2104,8 @@ html:not([id*="Grammar"]) body {
 		top: 13vh;
 		width: 50%;
 		animation-range-start: 100vh;
-		/* animation-range-end: 120vh; */
-		animation-range-end: 200vh;
+		animation-range-end: 120vh;
+		/* animation-range-end: 200vh; */
 		padding: 24px 0;
 		left: 10vw;
 		z-index: 2;

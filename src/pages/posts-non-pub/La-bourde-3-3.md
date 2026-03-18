@@ -11,7 +11,7 @@ tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 
 ## La bourde - partie 2/3
 
-> Previously : Roland n'a aucun doute, le visiteur est un fan hardcore. Mais au moment de lui faire un cadeau afin de récompenser son abnégation, le visiteur prend une autre forme qui laisse peu de doutes quant à sa véritable nature : il n'est pas humain...
+> Previously : Roland n'a aucun doute, le visiteur est un fan hardcore. Mais au moment de lui faire un cadeau afin de récompenser son abnégation, le visiteur prend une autre forme qui laisse peu de doutes quant à sa véritable nature : il n'est pas humain...  
 
 Le premier des gollems de *jelly* prit la parole :  
 — Comment vous faire entendre raison M. Lehoucq ? Nous concevons votre ardeur louable à tout déconstruire ce qui semble, à vos yeux, n’être qu’une mascarade. Nous comprenons que vous cherchiez à comprendre et non à croire. Mais rappelez-vous le doute, ce doute si cher à Pierre Abélard1. Doutez, Roland Lehoucq, et à l’examen vous arriverez à la seule conclusion qui relève de la logique : aucune technologie terrienne ne permet de tels tours de passe-passe en si peu de temps. Aucun motif ne justifierait un tel comportement. Et enfin, par extension, quel intérêt aurait un de vos semblables à se déguiser pour s’introduire chez vous ? Bref, nous sommes ce que nous disons être.  
@@ -45,6 +45,7 @@ Le « brigadier » fit peu de cas de la dernière saillie de Roland et sortit 
 — Soit. Mais pourquoi « moi », l’astrophysicien, potentiellement ravi de vous rencontrer ? Pourquoi en faire des caisses ? Je veux dire… Pourquoi ne pas vous montrer simplement. Dans votre état naturel. Je ne suis ni Poutine, ni Dark Vador, encore moins « le Mulet », ni je ne sais quel autre bourrin de service…  
 — Vos sens ne sont pas forcément très adaptés à la réception des signaux que nous envoyons. Et auriez-vous seulement compris qu’il était question d’un contact extra-terrestre ? Et bon… « apprenti maître du monde »… On est jamais trop prudent.  
 — C’est tout de même un peu vexant, bien qu’un chouïa flatteur, mais je peux comprendre. Seriez-vous en mesure de me faire une petite description de votre véritable apparence ? À quoi ressemblez-vous réellement ? Pas de tentacules je présume… C’est possible une petite explication, quand bien même cela n’aurait pas grand sens ? Que je me fasse une idée du monde dans lequel vous vivez.  
+
 Roland retrouvait petit à petit le sourire et tandis que son amertume et sa méfiance s’évanouissaient progressivement, il recouvrait peu à peu ses réflexes de scientifique tatillon.
 — Clairement non. Cela ne vous serait d’aucune utilité, répondit le « brigadier ».  
 Roland fronça les sourcils et jeta un coup d’œil agacé à la grande saucisse galactique qui lui servait d’interlocuteur.  
@@ -56,7 +57,7 @@ Sur le moment, Roland n’eut droit à aucune réponse. Pas même une expression
 
 — Pouvons-nous, maintenant, en venir à l’objet de ma visite chez vous M. Lehoucq ? »  
 
-Un blanc d’une demi-seconde. À peine le temps d’entendre une mouche s’époumoner. Et pourtant, un blanc tel un trou noir d’une densité phénoménale, absorbant tous les sons, quels qu’ils soient, d’où qu’ils viennent. Un blanc, engeance tordue, fruit de la sidération et de la jouissance. Un blanc, comme un prélude à l’apparition de la vie. Un blanc que brisa Roland sans vergogne :
+Un blanc d’une demi-seconde. À peine le temps d’entendre une mouche s’époumoner. Et pourtant, un blanc tel un trou noir d’une densité phénoménale, absorbant tous les sons, quels qu’ils soient, d’où qu’ils viennent. Un blanc, engeance tordue, fruit de la sidération et de la jouissance. Un blanc, comme un prélude à l’apparition de la vie. Un blanc que brisa Roland sans vergogne :  
 — L’objet de votre visite ?  
 — Vous vous doutez bien que s’il s’était agi d’une simple prise de contact, nous aurions plutôt approché l’ONU, ou une tout autre organisation globalement représentative de votre droit international… Et de préférence non belliqueuse. Pas une personne isolée aussi géniale soit-elle.  
 	

@@ -1,20 +1,20 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'La bourde'
+title: 'La bourde - 3/3'
 pubDate: "03-18-2026"
 description: "Roland Lehoucq et les extra-terrestres - partie 3/3"
 author: "GRUt·"
-contexte : "Nouvelle assez longue écrite à partir de la fin de 2014 de retour de nos premières Utopiales à Nantes en 2014."
-enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise des prix aux Utopiales 2014"
+contexte : "Nouvelle assez longue écrite à partir de la fin de 2014, de retour de nos premières Utopiales à Nantes en 2014."
+enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise des prix aux Utopiales 2014, j'ai commencé à écrire cette histoire de premier contact"
 tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 ---
 
-## La bourde - partie 2/3
+## La bourde - partie 3/3
 
-> Previously : Roland n'a aucun doute, le visiteur est un fan hardcore. Mais au moment de lui faire un cadeau afin de récompenser son abnégation, le visiteur prend une autre forme qui laisse peu de doutes quant à sa véritable nature : il n'est pas humain...  
+> *Previously* : Roland n'a aucun doute, le visiteur est un *fan hardcore*. Mais au moment de lui faire un cadeau afin de récompenser son abnégation, le visiteur prend une autre forme qui laisse peu de doutes quant à sa véritable nature...
 
 Le premier des gollems de *jelly* prit la parole :  
-— Comment vous faire entendre raison M. Lehoucq ? Nous concevons votre ardeur louable à tout déconstruire ce qui semble, à vos yeux, n’être qu’une mascarade. Nous comprenons que vous cherchiez à comprendre et non à croire. Mais rappelez-vous le doute, ce doute si cher à Pierre Abélard1. Doutez, Roland Lehoucq, et à l’examen vous arriverez à la seule conclusion qui relève de la logique : aucune technologie terrienne ne permet de tels tours de passe-passe en si peu de temps. Aucun motif ne justifierait un tel comportement. Et enfin, par extension, quel intérêt aurait un de vos semblables à se déguiser pour s’introduire chez vous ? Bref, nous sommes ce que nous disons être.  
+— Comment vous faire entendre raison M. Lehoucq ? Nous concevons votre ardeur louable à tout déconstruire ce qui semble, à vos yeux, n’être qu’une mascarade. Nous comprenons que vous cherchiez à comprendre et non à croire. Mais rappelez-vous le doute, ce doute si cher à Pierre Abélard. Doutez, Roland Lehoucq, et à l’examen vous arriverez à la seule conclusion qui relève de la logique : aucune technologie terrienne ne permet de tels tours de passe-passe en si peu de temps. Aucun motif ne justifierait un tel comportement. Et enfin, par extension, quel intérêt aurait un de vos semblables à se déguiser pour s’introduire chez vous ? Bref, nous sommes ce que nous disons être.  
 — Absurde… Absurde. Roland bafouillait. C’est trop débile. Pourquoi les références ? Pourquoi les clins d’œil ?  
 — Pour vous mettre à l’aise. Pour autant que cela ait un sens. Nous adaptons notre communication aux interlocuteurs.  
 — Non. C’est absurde. Tout ceci est absurde, répétait-il tel un disque rayé. Dans la quasi-infinitude de l’univers, vous nous auriez trouvé un intérêt quelconque ? En quoi est-ce censé me rassurer. Alien c’est rassurant ? Les profanateurs de sépultures c’est rassurant ? Les p'tits martiens qui viennent tout péter sur terre, c’est rassurant ? D’autant qu’en fonction des époques, ils représentent, soit l’ennemi intérieur, soit l’envahisseur. Parfois, oui, il y a des gentils martiens. E. T. ? Miracle sur la huitième rue ? Sillage ? Star Wars ? Star Trek ? Mais c’est loin d’être une généralité. Très loin même. Le cinéma 'ricain, par exemple, est le premier pourvoyeur en vilaines bestioles qui vous rendent le péquin lambda complètement paranoïaque.  
@@ -26,7 +26,7 @@ Le premier des gollems de *jelly* prit la parole :
 — C’est cela oui. Je parle à un Slimy ooze… Continua Roland en se frottant les yeux, comme pour quitter cette séance d’hallucinations qui, décidément, ne voulait pas s’arrêter. Précisez ?  
 — Déjà, des guerres multi-millénaires si l’on se réfère à votre référentiel temporel. Des planètes détruites aussi. Des galaxies entières rendues inhabitables pour des durées à faire pâlir l’infini… Et j’en passe. Non, vraiment, négliger c’est mourir. C’est mal en somme. Quant à notre conversation proprement dite, pour faire court, notre échange n’est intelligible pour vous que parce que nous le rendons intelligible. Notre conversation, mon apparition, notre premier salut, tout ce dont nous avons parlé n’est, en somme, qu’un avatar, quasiment une allégorie, du mix que constitue votre langage, votre fonctionnement humain, et vos spécificités culturelles. De vous à nous, et inversement. Tout ça, bien sûr, simultanément. Quand bien même ce concept de simultanéité n’a de sens que dans votre réalité.  
 — Être clair comme du jus de boudin c’est une tradition chez vous ?  
-	
+
 Après quelques secondes, le « brigadier » ajouta d’une voix mielleuse :  
 « Nous avons des super machines pour effectuer ces interprétations évoluées… Des genres d’interpréteurs super-améliorés… La classe intersidérale notre matos. On en est très content. C’est le dernier cri. Vous souhaiteriez en examiner un exemplaire je présume ? »  
 
@@ -46,7 +46,7 @@ Le « brigadier » fit peu de cas de la dernière saillie de Roland et sortit 
 — Vos sens ne sont pas forcément très adaptés à la réception des signaux que nous envoyons. Et auriez-vous seulement compris qu’il était question d’un contact extra-terrestre ? Et bon… « apprenti maître du monde »… On est jamais trop prudent.  
 — C’est tout de même un peu vexant, bien qu’un chouïa flatteur, mais je peux comprendre. Seriez-vous en mesure de me faire une petite description de votre véritable apparence ? À quoi ressemblez-vous réellement ? Pas de tentacules je présume… C’est possible une petite explication, quand bien même cela n’aurait pas grand sens ? Que je me fasse une idée du monde dans lequel vous vivez.  
 
-Roland retrouvait petit à petit le sourire et tandis que son amertume et sa méfiance s’évanouissaient progressivement, il recouvrait peu à peu ses réflexes de scientifique tatillon.
+Roland retrouvait petit à petit le sourire et tandis que son amertume et sa méfiance s’évanouissaient progressivement, il recouvrait peu à peu ses réflexes de scientifique tatillon.  
 — Clairement non. Cela ne vous serait d’aucune utilité, répondit le « brigadier ».  
 Roland fronça les sourcils et jeta un coup d’œil agacé à la grande saucisse galactique qui lui servait d’interlocuteur.  
 — Est-ce vraiment à vous d’en juger ? Donnez-moi quelque chose quoi ! Un élément ! Une donnée intelligible et évocatrice… Ne me laissez pas planté comme un lemming au fond d’un trou !  
@@ -55,12 +55,12 @@ Sur le moment, Roland n’eut droit à aucune réponse. Pas même une expression
 — « grut ».  
 — « grut », reprit Roland comme une évidence. Je vais faire avec, finit-il par ajouter en souriant.  
 
-— Pouvons-nous, maintenant, en venir à l’objet de ma visite chez vous M. Lehoucq ? »  
+« Pouvons-nous, maintenant, en venir à l’objet de ma visite chez vous M. Lehoucq ? »  
 
 Un blanc d’une demi-seconde. À peine le temps d’entendre une mouche s’époumoner. Et pourtant, un blanc tel un trou noir d’une densité phénoménale, absorbant tous les sons, quels qu’ils soient, d’où qu’ils viennent. Un blanc, engeance tordue, fruit de la sidération et de la jouissance. Un blanc, comme un prélude à l’apparition de la vie. Un blanc que brisa Roland sans vergogne :  
 — L’objet de votre visite ?  
 — Vous vous doutez bien que s’il s’était agi d’une simple prise de contact, nous aurions plutôt approché l’ONU, ou une tout autre organisation globalement représentative de votre droit international… Et de préférence non belliqueuse. Pas une personne isolée aussi géniale soit-elle.  
-	
+
 Un peu à la manière d’une claque dans la gueule, cette dernière réplique produisit une réaction chimique inattendue dans le cerveau de Roland. Une forme d’accablement joyeux s’était emparé du bonhomme. La venue d’un habitant de l’autre bout de l’univers avait déjà en soi quelque chose de révolutionnaire, mais que de surcroît, cette venue ne fut pas uniquement motivée par le simple fait de prendre contact, dépassait l’entendement. De notre point de vue prosaïquement humain bien entendu, et si l’on soustrayait au concept général la potentialité d’un asservissement de l’humanité et son corollaire envisageable, c’est-à-dire, l’extermination planifiée plus ou moins gratuite de toute forme de vie carbonée à la surface de la planète. On passait tout simplement d’un paradigme à un autre. Il n’était plus question d’accueillir, avec la plus indigne flagornerie, les nouveaux dieux qui mettraient tout le monde d’accord, mais plutôt d’ouvrir la porte à un voisin de palier gentil mais encombrant, venu emprunter votre barbeuk pour l’anniversaire du fiston.  
 
 — Bon. Faisons vite, balança Roland avec aplomb. C’est que je n’ai pas que ça à faire. De plus je me lève tout à l’heure. J’ai des ados' à épater et un festival à boucler…  

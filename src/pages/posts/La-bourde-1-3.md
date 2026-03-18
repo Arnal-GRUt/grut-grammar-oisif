@@ -19,7 +19,7 @@ Ce texte contient quelques maladresses, lourdeurs et un peu trop références gr
 > > > *Dernière petite précision* : je ne recents aucune rancoeur. Déjà parce que le mec s'est souvenu de moi et a été très correct malgré mon insistance. Et ça, en soi, c'est déjà très sympa. Ensuite, très honnêtement, je pense que le mail a fini par se perdre dans les méandres de sa boite pro et que de toute manière, il a d'autres chats à fouéter.  
 > > > > Au passage, je vous invite à suivre son travail de vulgarisation, c'est vraiment très cool. Il suffit d'aller faire un tour sur sa page [wikipedia](https://fr.wikipedia.org/wiki/Roland_Lehoucq) ou de taper son nom dans youtube et vous comprendrez que le bonhomme est très occupé.  
 
-- ###Venez aux [Utopiales](https://www.utopiales.org/). C'est la vie.###
+- ### Venez aux [Utopiales](https://www.utopiales.org/). C'est la vie. ###
 
 Pour en revenir au texte en lui-même, voici quelques points notables au sujet de cette version blog :  
 

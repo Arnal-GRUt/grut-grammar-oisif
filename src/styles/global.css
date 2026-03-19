@@ -2564,7 +2564,6 @@ html[id*="about"] {
 		height: fit-content;
 	}
 
-	/* nav.to-top *.to-small-menu { */
 	header nav.to-top *.to-small-menu {
 		animation-range-start: 0vh;
 		animation-range-end: 0vh;
@@ -2702,9 +2701,6 @@ html[id*="about"] {
         padding-top: 14vh;
     }
 }
-
-
-
 
 html:not([id*="Grammar"]) {
     background-color: var(--background);

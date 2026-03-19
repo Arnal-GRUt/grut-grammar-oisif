@@ -1862,6 +1862,7 @@ html:not([id*="Grammar"]) body {
 	}	
 }
 
+/* Page Gribouille */
 	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {
 			content: "";
@@ -1955,13 +1956,112 @@ html:not([id*="Grammar"]) body {
 		}
 	}
 
-/* FIN COL STICKY */
+/* Page about */
+
+html[id*="about"] {
+      & body {
+        padding-bottom: 0;
+      }
+}
+
+   .contenu-page.display-flex.direction-row:has(.main-potos) {
+      min-height: 100vh;
+      padding: 5vh 1rem 5vh 1rem;
+      gap: 24px;
+      align-items: self-start;
+      position: relative;
+      flex-wrap: wrap;
+      background: var(--yellow) url(../images/walking-moi.png);
+      background-position: 5vw 66%;
+      background-size: 25vw;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+
+      &:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        opacity: 1;
+        z-index: -1;
+      }
+
+      & h1.soustitre-page {
+        text-align: left;
+      }
+
+      & .main-potos {
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: flex-start;
+        height: 100%;
+        position: relative;
+        flex-direction: column;
+        gap: 2rem;
+        border-radius: 4px;
+        width: 100%;
+
+        & h2 {
+          width: fit-content;
+          background: var(--white);
+          left: 2vw;
+          padding: 0 1rem;
+          font-size: 1.8rem;
+          top: 10vh;
+          border-radius: 4px;
+          transform: rotate(-2deg);
+        }
+
+        & .presentation {
+          flex-wrap: wrap;
+          gap: 1rem;
+        }
+
+        & div:has(h3:is([class*="les-potos"], [class*="les-cadors"])) {
+          border-radius: 4px;
+          transition: background-image 0.2s ease;
+          width: fit-content;
+          & a {
+            background: var(--background);
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+    span.icon-arrow {
+      position: relative;
+      z-index: 0;
+      display: flex;
+      align-items: center;
+      padding-left: 2rem;
+
+      a {
+        color: var(--black);
+      }
+    }
+    .contenu-page.display-flex.direction-row:has(.main-potos) section {
+      display: flex;
+      max-width: 640px;
+      flex-wrap: wrap;
+      gap: 24px;
+      transform: translateX(5vw);
+    }
 
 /******************************************/
 /*************** Responsive ***************/
 /******************************************/
+@media (width < 601px) {
+	/* Page about */
+    .contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 2vw calc(64px + 1vh);
+        background-size: 10vh;
+        padding-top: 14vh;
+    }
+}
 
-@media (width < 768px) {
+@media (width < 769px) {
     body .contenu-page.direction-row .main a.lien-post {
         max-width: calc(640px - 2rem);
         width: 100%;
@@ -1970,6 +2070,11 @@ html:not([id*="Grammar"]) body {
 		& .display-flex.direction-column.presentation {			
 			height: fit-content;			
 		}
+    }
+	/* Page about */
+	.contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 3vw calc(64px + 2vh);
+        background-size: 14vh;
     }
 }
 
@@ -2513,7 +2618,32 @@ html:not([id*="Grammar"]) body {
 				width: 70%;
 			}
 		}
-	}	
+	}
+	/* page about */
+	.contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 3vw calc(64px + 2vh);
+        background-size: 16vh;
+        & section {
+          transform: initial;
+          background: var(--yellow);
+          padding: 5vh 0;
+        }
+    }	
+}
+
+@media (width < 1025px) {
+	/* Page about */
+    .contenu-page.display-flex.direction-row:has(.main-potos) {
+        background-position: 18vw calc(64px + 2vh);
+        background-size: 14vh;
+        padding-top: 18vh;
+
+        & section {
+          background: var(--yellow);
+          padding-bottom: 5vh;
+          padding-top: 0;
+        }
+     }
 }
 
 @media (width < 1441px) {
@@ -2585,7 +2715,7 @@ html:not([id*="Grammar"]) {
           background-color: var(--background);		  
 		  border-bottom: 2px dashed var(--black);
         }
-      }
+    }
 }
 
 html[id*="about"] {
@@ -2601,7 +2731,7 @@ html[id*="about"] {
         	/* background-color: transparent; */
 			border-bottom: none;		  
         }
-      }
     }
+}
 
 	

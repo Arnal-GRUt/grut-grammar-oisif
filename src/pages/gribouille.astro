@@ -14,7 +14,7 @@ const allArts = (await getCollection("grutArt")).sort(
 	<div class="galerie display-flex">
 		<div class="colonne-image">
 			{
-				allArts.map((art) => 
+				allArts.map((art) => (
 					<div class="image cards">
 						<div class="figure flow">
 							<button
@@ -33,7 +33,11 @@ const allArts = (await getCollection("grutArt")).sort(
 								</div>
 							</button>
 						</div>
-						<dialog popover class="image-lightbox" id={`grib-${art.id}`}>
+						<dialog
+							popover
+							class="image-lightbox"
+							id={`grib-${art.id}`}
+						>
 							<div class="image-lightbox--img">
 								<Image
 									src={art.data.image.source}
@@ -44,13 +48,13 @@ const allArts = (await getCollection("grutArt")).sort(
 							</div>
 						</dialog>
 					</div>
-				)
+				))
 			}
 		</div>
 	</div>
 </BaseLayout>
 <style>
-	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
+	/* html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {
 			content: "";
 			position: absolute;
@@ -141,15 +145,15 @@ const allArts = (await getCollection("grutArt")).sort(
 				}
 			}
 		}
-	}
+	} */
 
 	@media (width < 835px) {
-		html#Gribouille
+		/* html#Gribouille
 			.colonne-image
 			.image.cards
 			.image-lightbox
 			.image-lightbox--img {
 			max-width: none;
-		}
+		} */
 	}
 </style>

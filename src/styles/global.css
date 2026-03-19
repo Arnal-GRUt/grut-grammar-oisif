@@ -1575,13 +1575,6 @@ body *.to-small-titre:before {
 	transition: transform 0.2s ease, -webkit-transform 0.2s ease;
 }
 
-/******************************************/
-/************* Autres pages ***************/
-/******************************************/
-
-/* body:is(#gribouille, #ecritouille, #about) { */
-/* html:is(#Gribouille, #Ecritouille, #About, #text-tags) body { */
-
 @supports (view-timeline-axis: block) {
 	html[id*="Grammar"] .nav-secondaire.nav-links {
 		/* position: fixed; */
@@ -1598,6 +1591,11 @@ body *.to-small-titre:before {
 	}
 }
 
+/******************************************/
+/************* Autres pages ***************/
+/******************************************/
+
+
 html:not([id*="Grammar"]) body {
 	position: relative;	
 
@@ -1611,11 +1609,9 @@ html:not([id*="Grammar"]) body {
 	}
 
 	ul:not(.tags, .nav-links, .navigation) {
-    padding: 0px 24px;
-    border-left: 2px dashed var(--black);
-}
-
-
+		padding: 0px 24px;
+		border-left: 2px dashed var(--black);
+	}
 
 	& h1.soustitre-page {
 		max-width: calc(640px - 2rem);
@@ -1865,6 +1861,99 @@ html:not([id*="Grammar"]) body {
 
 	}	
 }
+
+	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
+		&:after {
+			content: "";
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: var(--black);
+			opacity: 0.8;
+		}
+	}
+	.image.cards {
+		& .figure.flow {
+			width: inherit;
+			border-radius: 8px;
+			overflow: hidden;
+			position: relative;
+			max-height: fit-content;
+			height: 400px;
+			display: flex;
+			align-items: center;
+
+			& button.image-button {
+				border-radius: 0.25rem;
+				border: none;
+				cursor: pointer;
+				width: 100%;
+				padding: 0;
+				height: inherit;
+
+				&:hover img {
+					filter: none;
+					transform: scale(1.005);
+					overflow: visible;
+				}
+
+				& img {
+					width: 100%;					
+					object-fit: cover;
+					margin: auto;
+					border-radius: 0.2rem;
+					filter: grayscale(80%);
+					transition: all 0.2s ease;
+					min-height: 100%;
+				}
+			}
+		}
+		& .image-lightbox {
+			display: none;
+			opacity: 0;
+			pointer-events: all;
+			position: fixed;
+			min-width: 80vw;
+			max-width: 90vw;
+			height: fit-content;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			margin: 0;
+			padding: 0;
+			border: 0;
+			background: transparent;
+			overflow: visible;
+			transition: all 0.2s ease;
+
+			&:popover-open {
+				display: grid;
+				align-content: center;
+				gap: 0.5rem;
+				opacity: 1;
+				color: var(--white);
+			}
+
+			& .image-lightbox--img {
+				display: flex;
+				overflow: auto;
+				width: 100%;
+				height: fit-content;
+				max-height: 90vh;
+				max-width: 40vw;
+				justify-self: center;
+
+				& img {
+					width: 100%;
+					height: auto;
+					margin: auto;
+					border-radius: 0.2rem;
+					background-color: transparent;
+					object-fit: contain;
+				}
+			}
+		}
+	}
 
 /* FIN COL STICKY */
 
@@ -2237,9 +2326,7 @@ html:not([id*="Grammar"]) body {
 			        transform: translateY(-100vh);
 			opacity: 0;
 		}
-	}
-	
-	
+	}	
 	html#Gribouille {
 		& body .galerie.display-flex {
 			-webkit-box-orient: vertical;
@@ -2260,7 +2347,14 @@ html:not([id*="Grammar"]) body {
             -ms-transform: initial;
                 transform: initial;
       }
-    }    
+    } 
+	html#Gribouille
+			.colonne-image
+			.image.cards
+			.image-lightbox
+			.image-lightbox--img {
+			max-width: none;
+	}   
 }
 
 

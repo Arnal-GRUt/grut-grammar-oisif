@@ -17,7 +17,7 @@ Il s'agit d'une nouvelle que j'ai originellement écrite pour un concours. Elle 
 
 Je ne sais pas encore pourquoi, mais j'ai fait quelques expérimentations pour ce texte. Elles auraient certainement mérité autre chose qu'une rédaction à la va-vite, mais je me suis mis à écrire au dernier moment, le jour même où il fallait la transmettre à l'organisation du concours. Je peux donc difficilement m'en plaindre de fait, c'est un peu comme inviter 30 potos à diner, et se mettre à la cuisine 2h avant le repas en voulant révolutionner les arts culinaires. C'est rarement cloncluant.  
 
-Ceci-dit, le résultat en soit est acceptable pour un premier jet, même si l'ensemble a beaucoup trop de défauts structurels, de problèmes de caractérisation du narrateur et manque un peu de cohérence.  
+Ceci-dit, le résultat en soi est acceptable pour un premier jet, même si l'ensemble a beaucoup trop de défauts structurels, de problèmes de caractérisation du narrateur et manque un peu de cohérence.  
 
 Du coup j'ai ajouté pas mal de mots.  
 

@@ -1582,6 +1582,21 @@ body *.to-small-titre:before {
 /* body:is(#gribouille, #ecritouille, #about) { */
 /* html:is(#Gribouille, #Ecritouille, #About, #text-tags) body { */
 
+@supports (view-timeline-axis: block) {
+	html[id*="Grammar"] .nav-secondaire.nav-links {
+		/* position: fixed; */
+		width: 100%;
+		position: absolute;
+		display: flex;
+		gap: 2ch;
+		font-size: clamp(1rem, 1.2rem, 1.5rem);
+		text-align: center;
+		align-items: center;
+		justify-content: center;
+		top: 2.8ch;
+		z-index: 3;
+	}
+}
 
 html:not([id*="Grammar"]) body {
 	position: relative;	
@@ -1884,6 +1899,10 @@ html:not([id*="Grammar"]) body {
 			        clip-path: inset(0% 0% 0% 0%);
 		}
 	}
+	html[id*="Grammar"] body .nav-secondaire.nav-links {
+			display: none;
+	}
+
 	.redirection-card-gribouille {
 
 		&::after {			

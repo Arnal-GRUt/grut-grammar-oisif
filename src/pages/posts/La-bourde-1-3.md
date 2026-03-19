@@ -11,7 +11,7 @@ tags: ["Ecritouille", "narratif", "complet", "feuilleton"]
 
 ## Préambule
 
-Ce texte contient quelques maladresses, lourdeurs et un peu trop références gratuites à mon goût. Il y a, par ailleurs, des passages (surtout au début) que j'écrirais autrement aujourd'hui. Ceci-dit ce texte reste la première longue nouvelle que j'ai terminée et rien que pour ça je suis un peu fier.  
+Ce texte contient quelques maladresses, lourdeurs et un peu trop références gratuites à mon goût. Il y a, par ailleurs, des passages (surtout au début) que j'écrirais autrement aujourd'hui. Ceci-dit ce texte reste la première longue nouvelle que j'ai terminée, et rien que pour ça je suis un peu fier.  
 
 > *Anecdote* :  
 > je suis allé avoir Roland Lehoucq pendant les Utopiales 2016 afin lui remettre le texte en mains propres. Il a été touché visiblement et on a pu discuter deux min entre deux tables rondes. Cependant, il m'a dit qu'il la lirait de retour chez lui, vu qu'il était trop occupé pendant les Utos. Il a quand même pris le temps de me demander s'il devait en faire quelque chose une fois lue. Je lui ai répondu : "rien de spécial, c'est pour vous" et il m'a laissé son mail. J'imagine qu'il aurait pu la transmettre à des éditeurs, on ne le saura jamais.  

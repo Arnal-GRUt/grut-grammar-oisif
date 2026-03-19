@@ -115,26 +115,3 @@ const pageTitle = "Grammar Oisif";
 		</div>
 	</div>
 </BaseLayout>
-<!-- Nav supplémentaire sous le texte de présentation -->
-<style>
-	@supports (view-timeline-axis: block) {
-		html[id*="Grammar"] .nav-secondaire.nav-links {
-			width: 100%;
-			/* position: fixed; */
-			position: absolute;
-			display: flex;
-			gap: 2ch;
-			font-size: clamp(1rem, 1.2rem, 1.5rem);
-			text-align: center;
-			align-items: center;
-			justify-content: center;
-			top: 2.8ch;
-			z-index: 3;
-		}
-	}
-	@media (width < 835px) {
-		html[id*="Grammar"] body .nav-secondaire.nav-links {
-			display: none;
-		}
-	}
-</style>

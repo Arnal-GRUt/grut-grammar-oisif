@@ -1267,7 +1267,8 @@ html:is([id*="Grammar"], [id*="about"]) {
 
 	header nav.to-top *.to-small-titre {
 		position: relative;
-		left: 5vw;
+		/* left: 5vw; */
+		left: calc(5vw + 32px);
 		-webkit-transform: translateX(-50%);
 		    -ms-transform: translateX(-50%);
 		        transform: translateX(-50%);
@@ -1892,6 +1893,7 @@ html:not([id*="Grammar"]) body {
 	}	
 	body header nav.to-top {
 		z-index: 4;
+		background-color: var(--yellow);
 	}
 
 	body ul.to-small-menu {
@@ -1959,6 +1961,7 @@ html:not([id*="Grammar"]) body {
 			opacity: 0;
 			display: block;
 		}
+		
 	}
 
 	body .burger-box:has(input)+.to-small-menu {
@@ -2038,6 +2041,7 @@ html:not([id*="Grammar"]) body {
 
 	header nav.to-top *.to-small-titre {
 			left: 0;
+			/* left: calc(5vw + 2rem); */
 			-webkit-transform: translate(0%);
 			    -ms-transform: translate(0%);
 			        transform: translate(0%);

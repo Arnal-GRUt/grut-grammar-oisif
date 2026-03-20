@@ -31,11 +31,11 @@ Du coup j'ai ajouté pas mal de mots.
 3. un long dialogue cadré par les pensées du narrateur
 4. les pensées du narrateur servent de fil narratif à l'histoire (discription, état d'esprit) en plus du rôle classique d'incise (genre "pensa-t-il", etc.).  
 
-Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, j'ai trouvé l'ensemble moins évident et l'enchaînement trop raide.  
+Dans le texte original je n'ai pas donné de forme particulière à ces pensées. Elles me semblaient évidentes du fait de la rupture de ton qu'elles marquaient avec les phrases prononcées à haute voix. À la relecture, je trouve l'ensemble moins évident et l'enchaînement trop raide.  
 
-L'autre soucis venait à mes yeux de la chair du texte en elle-même. Sur le fond la version concours manque d'incises et de remise en question du narrateur et de répondant de la part de l'autre personnage.  
+L'autre soucis vient à mes yeux de la chair du texte en elle-même. Sur le fond la version concours manque d'incises et de remise en question du narrateur, et de répondant de la part de l'autre personnage.  
 
-Cette première version manquait donc de liant et était mal équilibrée, au point de rendre le texte un peu concon.  
+Cette première version mal équilibrée, peu fluide, au point de rendre le texte un peu concon.  
 
 ### Les modifications apportées
 

@@ -16,6 +16,10 @@ export async function getStaticPaths() {
     ];
 
     return uniqueTags.map((tag) => {
+        // const filteredPosts = allPosts.filter((post: any) =>
+        //     post.frontmatter.tags.includes(tag),
+        // );     
+        allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));   
         const filteredPosts = allPosts.filter((post: any) =>
             post.frontmatter.tags.includes(tag),
         );

@@ -6,7 +6,7 @@ description: "4ème jour au Moulin du Blochet"
 author: "GRUt·"
 contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "Chaque phrase doit débuter par un mot ou une expression tirée au sort dans une liste établie d’après lecture d’un texte à haute voix. Dans cette liste : 3 mots/expressions sont tirées au sort. Au moins 3 phrases du texte doivent commencer par les mots/expressions sélectionnées."
-tags: ["Ecritouille", "narratif", "exercice", "premier jet", "mots obligatoires", "complet", "avec corrections", "temps max"]
+tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires", "Complet", "Avec corrections", "Temps imparti"]
 ---
 ## Exercice 1 du matin 
 

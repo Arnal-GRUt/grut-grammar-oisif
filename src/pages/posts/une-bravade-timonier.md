@@ -6,7 +6,7 @@ description: "Micro nouvelle écrite entre 2016 et 2017"
 author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre."
 enonce : 'Thème aléatoire micro-nouvelle Poule de Cristal - « Une harde saisit une pirate, sous la pluie battante.»'
-tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "Poule de Cristal"]
+tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Poule de Cristal"]
 ---
 
 « Celui qui ne s’est jamais confronté à une pluie de météores, ne peut pas revendiquer ses galons de pilotes ».  

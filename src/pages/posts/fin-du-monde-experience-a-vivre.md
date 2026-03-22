@@ -6,10 +6,10 @@ description: "Extrait du journal de bord d'une femme qui part pour un voyage san
 author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"
-tags: ["Ecritouille", "narratif", "exercice", "complet", "avec corrections", "article", "Poule de Cristal"]
+tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Article", "Poule de Cristal"]
 ---
 
-## Encore un peu de contexte : ##
+## Encore un peu de contexte :
 
 En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà rédigé quelques nouvelles - la plupart inachevées - mais je ne m'étais pas encore imposé, à proprement parler, une discipline de travail. Ce que je cherchais à l'époque, c'était un moyen de réguler l'acte d'écriture, de créer une sorte de rendez-vous régulier avec celui-ci, quitte à ce que le résultat ne soit pas toujours probant. J'étais convaincu et je le suis encore, que la pratique régulière est le meilleur moyen de progresser, quel que soit le domaine.  
 

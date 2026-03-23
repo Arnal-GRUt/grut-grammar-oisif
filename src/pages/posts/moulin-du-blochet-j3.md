@@ -142,7 +142,7 @@ Thierry Dumergue-Boulemanche était le patron d’une grosse entreprise familial
 
 Aujourd’hui M. Terrier travaille comme éboueur à la mairie du 19ème arrondissement de Paris. Il dit lui-même : « c’est moins payé certes, mais c’est pas un job de chacal et je sers à quelque chose ».  
 
-Maître Jean-Jean n’est plus un jeune avocat. Il est celui qui parvint à faire tomber le système de contrôle illégale de la société *WebTDB* ainsi que son propriétaire TDB, qui avait finit par démissionner. Ce dernier est parti restaurer son château dans le Loiret grâce à son parachute doré gagné à la sueur du front de ses anciens employés.  
+Maître Jean-Jean n’est plus un jeune avocat. Il est celui qui parvint à faire tomber le système de contrôle illégale de la société *WebTDB* ainsi que son propriétaire TDB, qui avait été contraint à démissionner. Ce dernier est parti restaurer son château dans le Loiret grâce à son parachute doré gagné à la sueur du front de ses anciens employés.  
 
 Nabil travaille toujours dans les locaux de l'ex-*WebTDB* devenue WebSol, une scoop du web design spécialisée dans la fabrication, la formation et la maintenance de site web pour les associations et organismes sans pognon.
 

@@ -35,7 +35,7 @@ Dans le texte original je n'ai pas donné de forme particulière à ces pensées
 
 L'autre soucis vient à mes yeux de la chair du texte en elle-même. Sur le fond la version concours manque d'incises reflétant les remises en question du narrateur, et de répondant de la part de l'autre personnage.  
 
-Cette première version mal équilibrée, peu fluide, au point de rendre le texte un peu concon.  
+Cette première version est mal équilibrée et peu fluide, au point de rendre le texte un peu concon.  
 
 ### Les modifications apportées
 

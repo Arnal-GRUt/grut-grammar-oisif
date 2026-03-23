@@ -20,7 +20,7 @@ const blueskyLink = `https://bsky.app/profile/${uri.split("/")[2]}/post/${postId
         > et participez à la causerie.
     </p>
 
-    <div class="comments-loader">Loading comments...</div>
+    <div class="comments-loader">Chargement des commentaires...</div>
     <div class="comments-error" style="display: none;"></div>
     <div class="comments-list" style="display: none;"></div>
 
@@ -118,7 +118,7 @@ const blueskyLink = `https://bsky.app/profile/${uri.split("/")[2]}/post/${postId
                 const errorMessage =
                     error instanceof Error
                         ? error.message
-                        : "An unknown error occurred";
+                        : "Oupsy, ça a foiré...";
 
                 this.errorDiv.textContent = `Error loading comments: ${errorMessage}`;
             }
@@ -127,7 +127,7 @@ const blueskyLink = `https://bsky.app/profile/${uri.split("/")[2]}/post/${postId
         private renderComments(comments: BlueskyPost[]) {
             if (comments.length === 0) {
                 this.commentsList.innerHTML =
-                    '<p class="no-comments">No comments yet. Be the first to comment!</p>';
+                    '<p class="no-comments">Pas encore de commentaire, sois le premier et gagne mon respect éternel !</p>';
                 return;
             }
 

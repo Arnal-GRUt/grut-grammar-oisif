@@ -99,6 +99,12 @@ Les premières colonies s’installèrent 10 ans plus tard. Il s’agissait esse
 
 ## Exercice 4 de l'après-midi
 
+**Préambule** :  
+
+Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais reste tout de même assez proche de premier jet. C'est assez évident à mes yeux à la lecture des 2 derniers textes (*droit* et *sifflet*) qui sont beaucoup plus court et moins travaillé. Créer un lien entre ces 4 courts textes m'amusa à l'époque, dès lors je partage quand même (mais j'ai beaucoup hésité).
+
+--
+
 - 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
 - Écrire 4 textes courts en 30min maximum (moyenne 7min 30 chacun)  
 - Utiliser 1 mot par texte court (tiré au sort dans la liste)  

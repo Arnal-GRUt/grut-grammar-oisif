@@ -101,7 +101,7 @@ Les premières colonies s’installèrent 10 ans plus tard. Il s’agissait esse
 
 **Préambule** :  
 
-Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais reste tout de même assez proche de premier jet. C'est assez évident à mes yeux à la lecture des 2 derniers textes (*droit* et *sifflet*) qui sont beaucoup plus courts et moins travaillés. Créer un lien entre ces 4 courts textes m'amusa à l'époque, donc même si j'ai beaucoup hésité, je partage.
+Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais reste tout de même assez proche de premier jet. C'est assez évident à mes yeux à la lecture des 2 derniers textes (*droit* et *sifflet*) qui sont beaucoup plus courts et moins travaillés. Créer un lien entre ces 4 courts textes m'amusa à l'époque, donc, même si j'ai beaucoup hésité, je partage.
 
 --
 

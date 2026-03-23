@@ -1,5 +1,6 @@
 {
   "extends": "astro/tsconfigs/strict",
+  "blueskyUri": "z.string().optional()",
   "include": [
     ".astro/types.d.ts",
     "**/*"

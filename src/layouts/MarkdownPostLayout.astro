@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import CommentSection from "../components/commentSection.astro";
 const { frontmatter } = Astro.props;
 ---
 
@@ -37,6 +38,11 @@ const { frontmatter } = Astro.props;
         <span class="icon-arrow"
           ><a href="/Ecritouille">Retour aux textes</a></span
         >
+        {
+          frontmatter.blueskyUri && (
+            <CommentSection uri={frontmatter.blueskyUri} />
+          )
+        }
       </div>
     </div>
   </div>

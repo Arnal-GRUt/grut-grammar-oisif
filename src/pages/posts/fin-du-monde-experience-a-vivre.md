@@ -7,6 +7,7 @@ author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"
 tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Article", "Poule de Cristal"]
+blueskyUri: 'at://did=did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post'
 ---
 
 ## Encore un peu de contexte :

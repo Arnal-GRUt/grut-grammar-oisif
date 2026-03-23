@@ -101,7 +101,7 @@ Les premières colonies s’installèrent 10 ans plus tard. Il s’agissait esse
 
 **Préambule** :  
 
-Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais reste tout de même assez proche de premier jet. C'est assez évident à mes yeux à la lecture des 2 derniers textes (*droit* et *sifflet*) qui sont beaucoup plus court et moins travaillé. Créer un lien entre ces 4 courts textes m'amusa à l'époque, dès lors je partage quand même (mais j'ai beaucoup hésité).
+Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais reste tout de même assez proche de premier jet. C'est assez évident à mes yeux à la lecture des 2 derniers textes (*droit* et *sifflet*) qui sont beaucoup plus courts et moins travaillés. Créer un lien entre ces 4 courts textes m'amusa à l'époque, donc même si j'ai beaucoup hésité, je partage.
 
 --
 
@@ -150,6 +150,6 @@ Aujourd’hui M. Terrier travaille comme éboueur à la mairie du 19ème arrondi
 
 Maître Jean-Jean n’est plus un jeune avocat. Il est celui qui parvint à faire tomber le système de contrôle illégale de la société *WebTDB* ainsi que son propriétaire TDB, qui avait été contraint à démissionner. Ce dernier est parti restaurer son château dans le Loiret grâce à son parachute doré gagné à la sueur du front de ses anciens employés.  
 
-Nabil travaille toujours dans les locaux de l'ex-*WebTDB* devenue WebSol, une scoop du web design spécialisée dans la fabrication, la formation et la maintenance de site web pour les associations et organismes sans pognon.
+Nabil travaille toujours dans les locaux de l'ex-*WebTDB* devenue WebSol, une scoop de web design spécialisée dans la fabrication, la formation et la maintenance de sites web pour les associations et organismes sans pognon.
 
 ***

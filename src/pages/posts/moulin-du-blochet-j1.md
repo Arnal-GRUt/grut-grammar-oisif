@@ -4,7 +4,7 @@ title: 'Moulin du Blochet - jour 1'
 pubDate: 02-25-2026
 description: "1er jour au Moulin du Blochet."
 author: "GRUt·"
-contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."
+contexte : "Du 07 au 12 septembre 2024. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "Lecture d'un paragraphe dans un texte publié - on en tire autant de mots/expressions que l'on souhaite - on tire au hasard X mots de la liste - on écrit un texte ayant pour thème un tiré au hasard de la liste créée par Ketty Steward"
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti"]
 ---

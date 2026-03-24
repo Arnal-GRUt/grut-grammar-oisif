@@ -4,7 +4,7 @@ title: 'Moulin du Blochet - jour 3'
 pubDate: 03-22-2026
 description: "3ème jour au Moulin du Blochet."
 author: "GRUt·"
-contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."
+contexte : "Du 07 au 12 septembre 2024. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "Plusieurs exercices sur du texte court voire très court"
 tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires", "Complet", "Avec corrections", "Temps imparti"]
 ---

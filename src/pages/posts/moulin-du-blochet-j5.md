@@ -4,7 +4,7 @@ title: 'Moulin du Blochet - jour 5'
 pubDate: 02-01-2026
 description: "5ème jour au Moulin du Blochet"
 author: "GRUt·"
-contexte : "Du 07 au 12 septembre 2023. Une semaine à écrire dans une chambre d'hôtes."
+contexte : "Du 07 au 12 septembre 2024. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "Rédaction de micro-textes : 1) 3 x 5-7 minutes chacun. Thème imposé + un mot à intégrer / 2) 2 à 5 mots à placer dans un texte – 25min max / travail sur les mots"
 tags: ["Écritouille", "Narratif", "Exercice", "Mots obligatoires", "Complet", "Temps imparti"]
 ---

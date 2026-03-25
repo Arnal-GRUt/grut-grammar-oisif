@@ -1095,7 +1095,7 @@ footer .mentions-legales {
 body header nav.to-top {
 	padding: 8px 2vw;
 	position: fixed;
-	z-index: 2;
+	z-index: 3;
 	width: 100%;
 	max-width: inherit;
 	height: -webkit-fit-content;

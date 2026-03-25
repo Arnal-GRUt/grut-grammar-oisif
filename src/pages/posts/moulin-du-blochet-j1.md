@@ -7,6 +7,7 @@ author: "GRUt·"
 contexte : "Du 07 au 12 septembre 2024. Une semaine à écrire dans une chambre d'hôtes."
 enonce : "Lecture d'un paragraphe dans un texte publié - on en tire autant de mots/expressions que l'on souhaite - on tire au hasard X mots de la liste - on écrit un texte ayant pour thème un tiré au hasard de la liste créée par Ketty Steward"
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti"]
+blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhvt52vpbk23
 ---
 ## Exercice 1 du matin  
 
@@ -22,13 +23,15 @@ tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoi
 
 ### Le texte
 
-C’est dans la chambre d’amis qu’une femme de ménage trouva le cadavre. Le mort était arrivé la veille. Il n’avait pas semblé malade, ni inquiet ou prêt à en finir d’une quelconque manière. Monsieur Pouliche c’était son nom, était une connaissance du baron. Il venait une fois l’an au château pour faire la fête aux frais de la princesse. Le baron et lui-même se racontaient des histoires de vieux combattant. Au sens propre du terme. Ils avaient tous les deux combattu le Neptunien à la bataille de *Terra Sanitatis*[^1] pendant les guerres solaires. Une énorme défaite ponctuelle pour une victoire finale qui la fit passer pour une réussite stratégique a posteriori. Entre deux vieux amis de la haute, ils se racontaient des histoires de scaphandre percés et de tripes à l’air, tout ça sur fond d’OST de films de Dany Boon - passion commune des deux hommes.
+C’est dans la chambre d’amis qu’une femme de ménage trouva le cadavre. Le mort était arrivé la veille. Il n’avait pas semblé malade, ni inquiet ou prêt à en finir d’une quelconque manière. Monsieur Pouliche c’était son nom, était une connaissance du baron, il venait une fois l’an au château pour faire la fête aux frais de la princesse. Le baron et lui-même se racontaient des histoires de vieux combattant, au sens propre du terme, ils avaient tous les deux combattu le Neptunien à la bataille de *Terra Sanitatis*[^1] pendant les guerres solaires. Une énorme défaite ponctuelle, pour une victoire finale qui la fit passer pour une réussite stratégique *a posteriori*. Entre deux vieux amis de la haute, ils se racontaient des histoires de scaphandre percés et de tripes à l’air, le tout sur fond d’OST de films de Dany Boon - passion commune des deux hommes.
 
-La carcasse de monsieur Pouliche avait été retrouvée correctement assise sur son lit, complètement nue, la peau encore rosâtre témoignant du décès ressent. Ses bras étaient croisés sur les genoux avec les mains ouvertes vers le ciel. À l’intérieur de la paume droite, un œil droit tout propre et brillant, le regard tourné vers la porte d’entrée de la chambre, y avait été déposé. Comme en attestait l’orbite vide et nettoyé coté droit du visage, il s’agissait bien de celui de monsieur Pouliche. À ce stade la police aurait pu rapidement conclure à un homicide, seulement voilà, la réalité est parfois plus complexe.
+La carcasse de monsieur Pouliche avait été retrouvée correctement assise sur son lit, complètement nue, la peau encore rosâtre témoignant du décès ressent. Ses bras étaient croisés sur les genoux avec les mains ouvertes vers le ciel. À l’intérieur de la paume droite, un œil droit tout propre et brillant, le regard tourné vers la porte d’entrée de la chambre, y avait été déposé. Comme en attestait l’orbite vide et nettoyé coté droit du visage, il s’agissait bien de celui de monsieur Pouliche.  
 
-Aucune des 300 caméras du château n’avait constaté une intrusion dans la chambre. Le baron lui-même s’était absenté cette nuit-là. Aucune trace de lutte n’était visible au petit matin. Le lit n’avait pas été défait et les affaires de Monsieur Pouliche étaient restées dans la valise.
+À ce stade la police aurait pu rapidement conclure à un homicide, seulement voilà, la réalité est parfois plus complexe.
 
-Le tout jeune inspecteur Mojette entra seul dans la pièce. Les agents qui l’accompagnaient étaient restés au premier étage pour recueillir les témoignages d’éventuels témoins et commencer les interrogatoires. Il commença à fouiller les affaires de monsieur Pouliche. Dans la valise rien d’étrange si ce n’est plusieurs listes manuscrites de divers contenus et écrites dans une langue inconnue pour la plupart. L’une d’elle cependant était lisible pour le jeune inspecteur, car écrite dans un terrien technique français mais assez simple. Quelqu’un d’autre que monsieur Pouliche l’avait rédigée :
+Aucune des 300 caméras du château n’avait constaté une intrusion dans la chambre, le baron lui-même s’était absenté cette nuit-là. Aucune trace de lutte n’était visible au petit matin, le lit n’avait pas été défait et les affaires de Monsieur Pouliche étaient restées dans la valise.
+
+Le tout jeune inspecteur Mojette entra seul dans la pièce. Les agents qui l’accompagnaient étaient restés au premier étage pour recueillir les témoignages d’éventuels témoins et s'occuper des interrogatoires. Il commença à fouiller les affaires de monsieur Pouliche. Dans la valise rien d’étrange si ce n’est plusieurs listes manuscrites de divers contenus et écrites dans une langue inconnue pour la plupart. L’une d’elle cependant, était lisible pour le jeune inspecteur, car écrite dans un terrien technique français mais assez simple. Quelqu’un d’autre que monsieur Pouliche l’avait rédigée :
 
 *« Programme de la cure alchimico-chimérique jour 1 :*
 
@@ -43,7 +46,7 @@ Le tout jeune inspecteur Mojette entra seul dans la pièce. Les agents qui l’a
 9. *quittez votre corps*
 10. *laissez au temps le soin d’agir »*
 
-Circonspect, l’inspecteur n’en crut pas ses yeux. Cette histoire prenait un tournant plus qu’étrange. Il se tâta le menton puis plongea la main dans la poche gauche du veston de Monsieur Pouliche. Quand bien même tout cela lui paraissait absurde, il espérait y trouver un indice important. Quelque chose qui pourrait donner du sens à cette mise-en-scène. Il y trouva une cuillère en argent. Interloqué, il regarda une nouvelle fois les documents retrouvés dans la valise. Parmi tous les documents manuscrits illisibles il en trouva un manifestement organisé en 4 strophes. L’inspecteur ne put s’empêcher d’arborer un sourire étonné. Il parvenait de mieux en mieux à saisir le déroulement de la soirée, même s'il ne comprenait pas encore l'enchaînement des événements, ni même combien de personnes étaient impliquées. Il se redressa alors et appela ses collègues. Personne ne lui répondit. Il sentit alors comme une présence dans son dos.  
+Circonspect, l’inspecteur n’en crut pas ses yeux, cette histoire prenait d'un coup un tournant plus qu’étrange. Il se tâta le menton puis plongea la main dans la poche gauche du veston de Monsieur Pouliche. Quand bien même tout cela lui paraissait absurde, il espérait y trouver un indice important, quelque chose qui pourrait donner du sens à cette mise-en-scène. Il y trouva une cuillère en argent. Interloqué, il regarda une nouvelle fois les documents retrouvés dans la valise et parmi tous les papiers manuscrits illisibles, il trouva un genre de poèmes en quatre strophes. L’inspecteur ne put s’empêcher d’arborer un sourire étonné. Il parvenait de mieux en mieux à saisir le déroulement de la soirée, même s'il ne comprenait pas encore l'enchaînement des événements, ni même combien de personnes étaient impliquées dans cette affaire. Il se redressa alors et appela ses collègues en continuant de scruter méticuleusement le cadavre de Monsieur Pouliche. Personne ne lui répondit mais il sentit alors comme une présence dans son dos.  
 
 « Regardez ce que j’ai trouvé » dit-il en se redressant.  
 
@@ -51,9 +54,9 @@ Devant lui, à peine à quelques centimètres de son visage, une silhouette blan
 
 Puis plus rien. Le noir complet.  
 
-Après quelques minutes cependant, reprenant ses esprits mais incapables de bouger, il se vit lui-même en train de parler avec un agent qui regardait l’air horrifié dans sa direction. Il n’entendait pas la discussion mais il voyait bien qu’on parlait du cadavre en le pointant du doigt. En jetant un rapide coup d’oeil vers la droite sur la glace de l’armoire en face du lit, il eut à peine le temps de se voir dans le corps rosâtre et éborgné de monsieur Pouliche. Face à lui, l’agent passa une main pudique sur ce qui était maintenant son visage et lui ferma l’oeil.  
+Après quelques minutes cependant, reprenant ses esprits mais incapables de bouger, il se vit lui-même en train de parler avec un agent qui regardait l’air horrifié dans sa direction. Il n’entendait pas la discussion mais il voyait bien qu’on parlait du cadavre en le pointant du doigt. En jetant un rapide coup d’oeil vers la droite sur la glace de l’armoire en face du lit, il eut à peine le temps de se voir dans le corps rosâtre et éborgné de monsieur Pouliche. Face à lui, l’agent maintenant seul dans la pièce, venait de se tourner vers lui et avec air appitoyé passa une main pudique sur le visage pour lui fermer l’oeil.  
 
-Dans la nuit pour l'éternité et La panique pour unique compagne, il hurla aussi fort qu'il le pu.  
+Dans la nuit pour l'éternité et La panique pour unique compagne, il hurla aussi fort qu'il le pût.  
 
 Dans le vide pour l'éternité où le son n'existe pas, personne ne l'entendit[^2].  
 
@@ -73,17 +76,17 @@ Dans le vide pour l'éternité où le son n'existe pas, personne ne l'entendit[^
 
 ### Texte non-modifié (ou très peu) ###
 
-C’est le mur le plus haut. Dans les champs de murs il y en a de toutes tailles. Des petits d’à peine quelques centimètres, des moyens qu’on peut escalader uniquement en sautant voire à plusieurs en se faisant la courte échelle. Enfin il y a les très hauts. Et parmi les très haut il y le **MUR**. Celui que peu de grimpeurs ont escaladé[^3]. Celui qui a à son actif un bon million d’échecs, parfois mortels, horribles.  
+C’est le mur le plus haut. Dans les champs de murs il y en a de toutes tailles. Des petits d’à peine quelques centimètres, des moyens qu’on peut escalader uniquement en sautant voire à plusieurs en se faisant la courte échelle. Enfin il y a les très hauts. Et parmi les très haut il y le **MUR**. Celui que peu de grimpeurs ont escaladé[^3], celui qui a à son actif un bon million d’échecs, parfois mortels, horribles.  
 
-C’est donc ce mur qu’il faut escalader ; ce mur sur lequel s’asseoir à son sommet ; ce mur qu’on vient défier de tous les coins de la galaxie. D’aucuns disent qu’il faut 100 jours pour atteindre son sommet, d’autres disent qu’il n’on ne peut le escalader et que c’est un piège à cons eugéniste. Une sorte de test darwinien pour quidam en manque de célébrité. Pourtant il a bien été escaladé ce mur et mesuré même, quoi qu’en disent les agents du soupçon permanent. Il mesure exactement 6892 mètres et 24 centimètres. Il a été vaincu la première fois par un certain Tibald Saturnus dit le « singe ». De nombreuses vidéos et photos 3D l’attestent. Son portrait est partout à l’entrée du champ de murs.
+C’est donc ce mur qu’il faut escalader, ce mur sur lequel s’asseoir à son sommet, ce mur qu’on vient défier de tous les coins de la galaxie. D’aucuns disent qu’il faut 100 jours pour atteindre son sommet, d’autres disent qu’il n’on ne peut être escalader et que c’est un piège à cons eugéniste. Il serait Une sorte de test darwinien pour quidam en manque de célébrité. Pourtant il a bien été escaladé ce mur, et mesuré même, quoi qu’en disent les agents du soupçon permanent. Il mesure exactement 6892 mètres et 24 centimètres. Il a été vaincu la première fois par un certain Tibald Saturnus dit le « singe » que de nombreuses vidéos et photos 3D peuvent attester. Son portrait est partout à l’entrée du champ de murs.
 
 Et pourquoi ces murs ? Qui les a mis là ? Ils sont des milliers plantés en terre de ce qui jadis était la Camargue et qui aujourd’hui n’est plus qu’un désert sec, constellé de squelettes de chevaux.
 
-C’est donc le **MUR** que Paul grimpe. Il en est à la moitié. Il hésite encore. Redescendre ? Continuer ? Aura-t-il le droit à une demi-ovation ? À la demi-célébrité ? Sera-t-il un demi-champion ou n’y a-t-il rien d’autre que la gloire ou l’oubli ?
+C’est donc ce **MUR** que Paul grimpe. Il en est à la moitié. Il hésite encore. Redescendre ? Continuer ? Aura-t-il le droit à une demi-ovation ? À la demi-célébrité ? Sera-t-il un demi-champion ou n’y a-t-il rien d’autre que la gloire ou l’oubli ?
 
 Paul est fatigué.  
 
-Il n’a pas prévu assez de nourriture, ni assez d’eau. Il a mis 1 semaine pour arriver à mi-chemin. C’est un record. Le vent souffle. Il fait froid. De plus en plus froid. Il souffle bizarrement ce vent d’ailleurs. De bas en haut ? De haut en bas ? Et le ciel qui s’éloigne. Et les nuages qui s’éloignent[^4].
+Il n’a pas prévu assez de nourriture, ni assez d’eau. Il a mis une semaine pour arriver à mi-chemin, c’est un record. Le vent souffle. Il fait froid. De plus en plus froid. Il souffle bizarrement ce vent d’ailleurs, de bas en haut ? De haut en bas ? Et le ciel qui s’éloigne. Et les nuages qui s’éloignent[^4].
 
 -----
 

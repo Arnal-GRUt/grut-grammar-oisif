@@ -1860,6 +1860,7 @@ html:not([id*="Grammar"]) body {
 		}
 
 	}	
+	/* Page écritouille */
 	a.lien-post {
         transition: background 0.2s ease;
         max-width: calc(50% - 1rem);
@@ -1977,7 +1978,6 @@ html:not([id*="Grammar"]) body {
         }
     }
 }
-
 /* Page Gribouille */
 	html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		&:after {

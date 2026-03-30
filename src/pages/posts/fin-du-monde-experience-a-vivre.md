@@ -6,7 +6,7 @@ description: "Extrait du journal de bord d'une femme qui part pour un voyage san
 author: "GRUt·"
 contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
 enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"
-tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Article", "Poule de Cristal"]
+tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Article", "Poule de Cristal", "Commentaires"]
 blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhqttoblk22w'
 ---
 

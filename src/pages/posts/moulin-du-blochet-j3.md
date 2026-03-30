@@ -62,13 +62,13 @@ Les mots : **mort** / **ritournelle** / cerisier / gel / **floraison** / rire /
 
 Le thème : BULLE  
 
-Au printemps, Miroslav Dumoulin sort ses compagnons les nains de jardin. Il n’a pas un très grand terrain, juste quelques mètres carrés devant et derrière sa maisonnette sur les hauteurs de la ville. Il ne sort ses nains qu’au printemps, parce qu’il estime qu’il n’y a pas de raison valable de les laisser subir les fortes pluies de l’automne, le ruissellement des eaux, les feuilles tombantes du platane sur leur bonnet ou la neige des périodes de grands froids. Depuis qu’il est seul, les nains de jardin sont ses seuls amis. Miroslav s’est réfugié dans une petite bulle.  
+Au printemps, Miroslav Dumoulin sort ses compagnons les nains de jardin. Il n’a pas un très grand terrain, juste quelques mètres carrés devant et derrière sa maisonnette sur les hauteurs de la ville. Il ne sort ses nains qu’au printemps parce qu’il estime qu’il n’y a pas de raison valable de les laisser subir les fortes pluies de l’automne, le ruissellement des eaux, les feuilles tombantes du platane sur leur bonnet ou la neige des périodes de grands froids. Depuis qu’il est seul, les nains de jardin sont ses seuls amis. Miroslav s’est réfugié dans une petite bulle.  
 
 Son univers à lui est fait de lecture au coin du feu pendant les longues saisons humides. Il passe ses journées à lire à voix haute des histoires aux nains de jardin bien rangés devant la cheminée. Ils sont des auditeurs concentrés et respectueux. Quand le printemps revient, au moment des premières floraisons, Miroslav fait de même mais cette fois dans le jardin. Les nains sont toujours là, dispersés un peu partout sur le petit terrain. Il y en a quelques-uns sous le platane, d’autres près du portail qui mène à la rue et les derniers à côté du puits, derrière la maison.  
 
 Ce jour pourtant il a décidé de faire autrement. Plutôt que simplement raconter des histoires, il va chanter quelques ritournelles sur la vie, la mort et le reste. Après quelques vocalises, Miroslav sort donc dans le jardin comme chaque jour. Il fait *grand soleil* comme on dit, la température est idéale, l’herbe est verte comme sortie d’un tube de peinture et de mignonnettes pâquerettes constellent le terrain. Devant lui, les nains de jardins sont installés en rang d’oignon et tout sourire, ils attendent. Qui a bien pu les regrouper ainsi ?  
 
-Miroslav s’en moque, il est ravi et commence à chanter. Derrière le portail, dans la rue un petit groupe de badauds souriants s’est rassemblé.  
+Miroslav s’en moque, il est ravi et commence à chanter. Derrière le portail, dans la rue, un petit groupe de badauds souriants s’est rassemblé.  
 
 ## Exercice 3 du matin : texte à thème (cf. Ketty Stewart)
 

@@ -8,7 +8,7 @@ contexte : "Du 07 au 12 septembre 2024. Une semaine à écrire dans une chambre 
 enonce : "Rédaction de micro-textes : 1) 3 x 5-7 minutes chacun. Thème imposé + un mot à intégrer / 2) 2 à 5 mots à placer dans un texte – 25min max / travail sur les mots"
 tags: ["Écritouille", "Narratif", "Exercice", "Mots obligatoires", "Complet", "Temps imparti"]
 ---
-## Exercice n°1 
+## Exercice n°1  
 
 Texte source : « Utopiales 2022 » Morgan Caussarieu – La maman de Martin – p.153
 La liste de mots (mots sélectionnés en gras) : tuer / déménager / occasion / fils / sang / môme / **dormir** / **livide** / zombie / elle / chialer / **limite** / bruyant / enfer  

@@ -46,170 +46,169 @@ const { frontmatter } = Astro.props;
       </div>
     </div>
   </div>
-  <style>
-    .main.page-texte .corps-texte.display-flex.direction-column {
-      > blockquote {
-        background: color-mix(in srgb, var(--white), transparent);
-        padding: 2ch;
-        border-radius: 4px;
-        border: 2px solid var(--black);
-        transform: rotate(-1deg) translate(5rem);
-
-        & p {
-          font-size: 1rem;
-          padding-bottom: 1rem;
-        }
-        &:after {
-          position: absolute;
-          content: "";
-          width: 4rem;
-          height: 4rem;
-          background: var(--yellow);
-          top: 2ch;
-          left: -5rem;
-          border-radius: 100%;
-          background-image: url(../images/walking-moi.png);
-          background-position: center;
-          background-repeat: no-repeat;
-          background-size: 80%;
-        }
-      }
-    }
-    span.icon-arrow {
-      position: relative;
-      z-index: 0;
-      display: flex;
-      align-items: center;
-      padding-left: 2rem;
-
-      a {
-        color: var(--black);
-      }
-    }
-    span.icon-arrow::before {
-      content: "";
-      position: absolute;
-      background: transparent url(../images/arrow-bottom-right.png);
-      z-index: 5;
-      width: 1.2rem;
-      height: 1.2rem;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: contain;
-      left: 0;
-      transform: rotate(160deg);
-    }
-    * {
-      gap: 1.6rem;
-    }
-    .boite-contrainte h3,
-    .corps-texte {
-      sup,
-      section.footnotes * {
-        font-size: medium;
-        color: var(--black);
-
-        & li {
-          margin-bottom: 1.5ch;
-        }
-
-        & a::after {
-          font-size: 1.5ch;
-        }
-      }
-      & p img {
-        height: auto;
-        width: 50%;
-      }
-      & h3 {
-        font-size: 1.8rem;
-      }
-
-      & ul {
-        padding: 0 1rem;
-        display: flex;
-        flex-direction: column;
-        /* gap: 1rem; */
-
-        & li {
-          padding-bottom: 1ch;
-        }
-      }
-    }
-
-    ul:not(.tags) {
-      padding: 0 0 0 24px;
-      border-left: 2px dashed var(--black);
-    }
-
-    .main.page-texte .presentation {
-      padding: 1rem 0;
-      border-bottom: 2px dashed var(--black);
+</BaseLayout>
+<style>
+  .main.page-texte .corps-texte.display-flex.direction-column {
+    > blockquote {
+      background: color-mix(in srgb, var(--white), transparent);
+      padding: 2ch;
       border-radius: 4px;
+      border: 2px solid var(--black);
+      transform: rotate(-1deg) translate(5rem);
 
-      & .display-flex.direction-column.introduction {
-        gap: 1ch;
+      & p {
+        font-size: 1rem;
+        padding-bottom: 1rem;
+      }
+      &:after {
+        position: absolute;
+        content: "";
+        width: 4rem;
+        height: 4rem;
+        background: var(--yellow);
+        top: 2ch;
+        left: -5rem;
+        border-radius: 100%;
+        background-image: url(../images/walking-moi.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 80%;
       }
     }
+  }
+  span.icon-arrow {
+    position: relative;
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
 
-    & .carton-presentation {
-      & p.date-et-auteur {
-        padding-bottom: 4rem;
-        border-bottom: 2px dashed var(--black);
-        margin-bottom: 1rem;
-        font-size: 1rem;
-        position: relative;
-        display: flex;
-        justify-content: flex-start;
-        gap: 0.5rem;
+    a {
+      color: var(--black);
+    }
+  }
+  span.icon-arrow::before {
+    content: "";
+    position: absolute;
+    background: transparent url(../images/arrow-bottom-right.png);
+    z-index: 5;
+    width: 1.2rem;
+    height: 1.2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    left: 0;
+    transform: rotate(160deg);
+  }
+  * {
+    gap: 1.6rem;
+  }
+  .boite-contrainte h3,
+  .corps-texte {
+    sup,
+    section.footnotes * {
+      font-size: medium;
+      color: var(--black);
+
+      & li {
+        margin-bottom: 1.5ch;
       }
 
-      & h1.soustitre-page {
-        width: 100%;
-        max-width: 100%;
+      & a::after {
+        font-size: 1.5ch;
       }
+    }
+    & p img {
+      height: auto;
+      width: 50%;
+    }
+    & h3 {
+      font-size: 1.8rem;
+    }
+
+    & ul {
+      padding: 0 1rem;
+      display: flex;
+      flex-direction: column;
+
+      & li {
+        padding-bottom: 1ch;
+      }
+    }
+  }
+
+  ul:not(.tags) {
+    padding: 0 0 0 24px;
+    border-left: 2px dashed var(--black);
+  }
+
+  .main.page-texte .presentation {
+    padding: 1rem 0;
+    border-bottom: 2px dashed var(--black);
+    border-radius: 4px;
+
+    & .display-flex.direction-column.introduction {
+      gap: 1ch;
+    }
+  }
+
+  & .carton-presentation {
+    & p.date-et-auteur {
+      padding-bottom: 4rem;
+      border-bottom: 2px dashed var(--black);
+      margin-bottom: 1rem;
+      font-size: 1rem;
+      position: relative;
+      display: flex;
+      justify-content: flex-start;
+      gap: 0.5rem;
     }
 
     & h1.soustitre-page {
-      position: relative;
       width: 100%;
-      font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
-      text-align: left;
-      padding: 0;
-      line-height: 2ch;
-      max-width: none;
+      max-width: 100%;
     }
+  }
 
-    & .boite-contrainte {
+  & h1.soustitre-page {
+    position: relative;
+    width: 100%;
+    font-size: clamp(2.3rem, 2.32rem + 1.4vw, 3.8rem);
+    text-align: left;
+    padding: 0;
+    line-height: 2ch;
+    max-width: none;
+  }
+
+  & .boite-contrainte {
+    flex-wrap: wrap;
+    gap: 1.5ch;
+    & ul.tags {
+      display: flex;
+      gap: 8px;
       flex-wrap: wrap;
-      gap: 1.5ch;
-      & ul.tags {
-        display: flex;
-        gap: 8px;
-        flex-wrap: wrap;
-        font-size: 0.8rem;
-        line-height: 2ch;
-        padding-bottom: 1ch;
-        display: flex;
-        margin-left: 0;
-        padding-left: 0;
-      }
-
-      & ul.tags li.tag {
-        font-size: 0.8rem;
-        font-weight: 400;
-        font-family: "Source Serif 4", serif;
-        background: var(--white);
-        padding: 1ch;
-        border-radius: 4px;
-        display: flex;
-        align-self: center;
-      }
-
-      & div:not(:has(ul)) {
-        width: 100%;
-        max-width: calc(33% - 0.34rem - 48px);
-      }
+      font-size: 0.8rem;
+      line-height: 2ch;
+      padding-bottom: 1ch;
+      display: flex;
+      margin-left: 0;
+      padding-left: 0;
     }
-  </style>
-</BaseLayout>
+
+    & ul.tags li.tag {
+      font-size: 0.8rem;
+      font-weight: 400;
+      font-family: "Source Serif 4", serif;
+      background: var(--white);
+      padding: 1ch;
+      border-radius: 4px;
+      display: flex;
+      align-self: center;
+    }
+
+    & div:not(:has(ul)) {
+      width: 100%;
+      max-width: calc(33% - 0.34rem - 48px);
+    }
+  }
+</style>

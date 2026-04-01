@@ -1022,7 +1022,7 @@ footer *.navigation {
 	        align-items: center;
 	-ms-flex-wrap: wrap;
 	    flex-wrap: wrap;
-	width: 100%;
+	width: 80%;
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
@@ -1056,11 +1056,16 @@ footer *.navigation {
 		& .icon-fbook {
 			-webkit-mask: url(../images/icon-fbook.svg);
 			        mask: url(../images/icon-fbook.svg);
-		}
+		} 
 
 		& .icon-insta {
 			-webkit-mask: url(../images/icon-insta.svg);
 			        mask: url(../images/icon-insta.svg);
+		}
+
+		& .icon-bsky {
+			-webkit-mask: url(../images/icon-bsky.svg);
+					mask: url(../images/icon-bsky.svg);
 		}
 
 		&:hover {

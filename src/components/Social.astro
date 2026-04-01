@@ -1,12 +1,11 @@
 ---
-const { platform, username, icon_rs } = Astro.props;
+const { platform, username, btn_text, icon_rs } = Astro.props;
 ---
 
-<!-- <a href={`https://www.${platform}.com/${username}`}>{platform}</a> -->
 <li>
   <div class="cta">
-    <a href={`https://www.${platform}.com/${username}`}>
-      <div class={`${icon_rs}`}></div>{username}
+    <a href={`https://${platform}/${username}`} target="_blank">
+      <div class={`${icon_rs}`}></div>{btn_text}
     </a>
   </div>
 </li>

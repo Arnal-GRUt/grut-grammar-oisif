@@ -2571,8 +2571,8 @@ html[id*="about"] {
 		height: 100vh;
 
 		& *.image-reveal {
-			-o-object-position: 73% bottom;
-			   object-position: 73% bottom;
+			-o-object-position: 85% bottom;
+			   object-position: 85% bottom;
 
 			view-timeline-axis: block;
 			-webkit-animation: clip-reveal 1s both;

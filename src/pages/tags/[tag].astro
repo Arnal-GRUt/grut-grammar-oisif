@@ -26,6 +26,7 @@ export async function getStaticPaths() {
     });
 }
 
+posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
 const { tag } = Astro.params;
 ---
 <BaseLayout pageTitle={tag}>

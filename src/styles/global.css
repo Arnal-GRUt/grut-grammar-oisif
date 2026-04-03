@@ -1665,6 +1665,8 @@ html:not([id*="Grammar"]) body {
 			-webkit-box-pack: start;
 			    -ms-flex-pack: start;
 			        justify-content: flex-start;
+			-ms-flex-line-pack: start;
+				align-content: flex-start;
 		}
 
 		& .main.page-texte {

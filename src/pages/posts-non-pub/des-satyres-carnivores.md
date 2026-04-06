@@ -57,7 +57,7 @@ Le mec – parce qu’un jour ce moisi a été un mec – venait d’être dépo
 — Personne ne panique, juste c’est maigre.  
 — 24 litres de mélange à *dézat*, du moisi tout frais. C’est déjà ça, viens pas saouler.  
 — On va faire avec oui, mais on a besoin de capsules, sans ça c’est trop risqué de partir en fouinage. Le dernier qui a voulu se la jouer sans masque, a vomi son quatre-heures, s’est fait niaquer par les zombards avant de finir butiner par des Satyres.  
-— On a gagné une belle amorce, utilisée in situ qui plus est et grâce à laquelle on a pu s’enfuir d’ailleurs. »  
+— On a gagné un bel appât, utilisé *in situ* qui plus est et grâce à auquel on a pu s’enfuir d’ailleurs. »  
 
 Un silence lourd, suivit du croassement d’un corbeau.  
 
@@ -74,19 +74,19 @@ Meringue se tourna les bras ballants et l’air accablé vers le reste du groupe
 
 Enveloppé dans une toile imperméable, préservé de tous stimulus sensoriels, le moisi était posé au fond du *pick-up* prêt à partir. En face de lui, *Cola* avait enlevé son masque et s’était calé entre deux bidons d’essences avec son flingue armé dans la main droite. Il scrutait la bâche, son regard plongeait dans le noir du textile qui l’attirait inexorablement dans un fiel profond. Il ruminait sa énième dispute avec Meringue « le noob », il s’en voulait un peu, et peut-être regrettait-il du bout de son seum quelques-uns des mots échangés. Dans ses moments de tension, il admettait manquer parfois de tact, voire d’humanité, mais ce n’était par manque de respect ou par *j’menfoutisme*, c’était surtout une manière de se mettre à distance des événements. De fait, il encaissait difficilement les niaiseries moralisatrices du gamin. Car oui, c’était un gamin - il avait au moins 5 ans de moins que lui.  
 
-C’est ainsi que, perdu dans ses pensées, *Cola* ne vit pas le satyre de la taille d’un poing se poser délicatement sur la bâche au niveau de la tête de l’amorce. Quand il leva les yeux et qu’il vit l’insecte tenter frénétiquement de percer la toile renforcée, *Cola* eut une montée d’adrénaline qui le fit sortir de sa capsule dépressive. Quand un satyre se posait non loin de vous, vous pouviez être certain que l’essaim était tout près, tout au plus dans un périmètre de cent mètres. C’était clairement insuffisant pour se sentir à l’abri.  
+C’est ainsi que, perdu dans ses pensées, *Cola* ne vit pas le satyre de la taille d’un poing se poser délicatement sur la bâche au niveau de la tête de l’appât. Quand il leva les yeux et qu’il vit l’insecte tenter frénétiquement de percer la toile renforcée, *Cola* eut une montée d’adrénaline qui le fit sortir de sa capsule dépressive. Quand un satyre se posait non loin de vous, vous pouviez être certain que l’essaim était tout près, tout au plus dans un périmètre de cent mètres. C’était clairement insuffisant pour se sentir à l’abri.  
 
 ***
 
 *Cola* n’était pas le moins expérimenté de l’équipe, mais c’était le genre de situation qui l’angoissait comme au premier jour. Dans sa tête, il commençait à envisager la suite du programme version plan foireux : la bestiole bâterait des ailes de plus en plus vite, jusqu’à créer une vibration dont l’onde à peine perceptible par l’oreille humaine, signalerait à ses congénères que le repas était servi. Le groupe de *fouineurs* serait dès lors pris d’assauts par l’essaim, dont la production d’ondes basses fréquences perturberait le fonctionnement de leur oreille interne. Enfin, incapables de se tenir debout, occupés à gerber tout ce qu’ils ont dans l’estomac, les *fouineurs* seraient piquer, ronger, acidifier, et se feraient digérer la viande par un millier de papillons carnivores. *Finito* les dramas, *finito* la vie. 
 
-*Cola* se redressa donc tout doucement en gardant un œil sur le zombard, dont les premiers gémissements sourds annonçaient un réveil imminent. Puis il débuta son approche lentement - un geste trop brusque et le papillon alerterait son essaim. L’insecte était aux aguets, ses yeux globuleux et ses longues antennes avaient capté les mouvements du *fouineur*. Il puait la mort, presqu’autant qu’un moisi de deux semaines - « Ces saloperies ne sont jamais rassasiées », pensa *Cola* entre deux respirations lentes sensées contenir des haut-le-cœur. Peu à peu, le *fouineur* parvenait à s’approcher du papillon qui feignait de l’ignorer. Il était maintenant tout prêt de lui, ses deux mains tremblantes encerclaient le satyre et s’apprêtait à l’écrabouiller façon BRAV-M, malgré les nausées qui devenaient insuportables. C’est à ce moment, bien trop tard, qu’il prit conscience qu'il avait laissé son masque et son dézat derrière lui. Le coup de stress de trop, « Et merde », pensa-t-il en vomissant tout ce qu’il avait dans le bide.  
+*Cola* se redressa donc tout doucement en gardant un œil sur le zombard, dont les premiers gémissements sourds annonçaient un réveil imminent. Puis il débuta son approche lentement - un geste trop brusque et le papillon alerterait son essaim. L’insecte était aux aguets, ses yeux globuleux et ses longues antennes avaient capté les mouvements du *fouineur*. Il puait la mort, presqu’autant qu’un moisi de deux semaines - « Ces saloperies ne sont jamais rassasiées », pensa *Cola* entre deux respirations lentes sensées contenir des haut-le-cœur. Peu à peu, le *fouineur* parvenait à s’approcher du papillon qui feignait de l’ignorer. Il était maintenant tout prêt de lui, ses deux mains tremblantes encerclaient le satyre et s’apprêtait à l’écrabouiller façon BRAV-M, malgré les nausées qui devenaient insuportables. C’est à ce moment, bien trop tard, qu’il prit conscience qu'il avait laissé son masque et son dézat derrière lui. Le coup de stress de trop, « Et merde », pensa-t-il, juste avant de vomir tout ce qu’il avait dans le bide.  
 
 ***
 
-Affaibli, chancelant, dégoulinant de sueur froide, *Cola* perdit l’équilibre et posa un genou sur le moisi, afin ne pas basculer par-dessus le *pick-up* qui venait de démarrer. D’un geste maladroit, il tenta de chopper le papillon par les ailes, mais l’insecte, beaucoup plus vif, s’écarta aisément de lui en se plaçant en vol stationnaire au-dessus du *pick-up*, « et merde » pensa-t-il à nouveau fier de son vocabulaire contextuel. Tâchant de reprendre quelque peu ses esprits, le *fouineur* essayait de garder à l’esprit le protocole : ouvrir le sac mortuaire, agripper le zombard pour le jeter par-dessus bord. L’instant était pénible, pas loin de la basculer dans l’horreur, un deuxième épisode gerbotron était inenvisageable, ni pour lui, ni pour ses camarades.  
+Affaibli, chancelant, dégoulinant de sueur froide, *Cola* perdit l’équilibre et posa un genou sur le moisi, afin ne pas basculer par-dessus le *pick-up* qui venait de démarrer. D’un geste maladroit, il tenta de chopper le papillon par les ailes, mais l’insecte, beaucoup plus vif, s’écarta aisément de lui en se plaçant en vol stationnaire au-dessus du *pick-up*, « et merde » pensa-t-il à nouveau, fier de son vocabulaire varié. Tâchant de reprendre quelque peu ses esprits, le *fouineur* essayait de garder à l’esprit le protocole : ouvrir le sac mortuaire, agripper le zombard aka « l’appat » pour le jeter par-dessus bord. On était dans le *momemtum*, cet instant où tout peut basculer dans l’horreur, et un nouvel épisode gerbotron était de fait inenvisageable, ni pour lui, ni pour ses camarades.  
 
-« Reste concentrer, te laisse pas bouffer par la peur » se répétait-il comme un mantra, pendant qu’avec son unique bras de libre - l’autre monté au niveau du nez lui servait à se protéger des miasmes émanant du corps décomposé - il choppait le cadavre par les cordes qui le saucissonnaient et dans le même temps, fit basculer les portes arrières du *pick-up* d’un puissant coup de pied. De son côté le moisi, en train de se réveiller, reprenait de la vigueur et n’avait pas du tout validé le projet. Démonté façon puzzle, il n’était pas tellement en état de se défendre, mais était suffisamment réveillé pour faire chier la direction en pousser des gémissements en se tordant dans tous les sens comme une grosse chenille qu’on ébouillantait.  
+« Reste concentrer, te laisse pas bouffer par la peur » se répétait-il comme un mantra, pendant qu’avec son bras de libre - l’autre monté au niveau du nez lui servait à se protéger des miasmes émanant du corps décomposé - il choppa le cadavre par les cordes qui le saucissonnaient, et dans le même temps, fit basculer les portes arrières du *pick-up* d’un puissant coup de pied. De son côté le moisi, en train de se réveiller, reprenait de la vigueur et n’avait pas du tout validé le projet. Démonté façon puzzle, il n’était pas tellement en état de se défendre, mais était suffisamment réveillé pour pousser des gémissements en se tordant dans tous les sens comme une grosse chenille qu’on ébouillantait.  
 
 « Mais laisse-toi faire gros tas de meeeeerde ! » finit par hurler *Cola* dans un moment de rage incontrôlé.  
 
@@ -94,3 +94,15 @@ Affaibli, chancelant, dégoulinant de sueur froide, *Cola* perdit l’équilibre
 
 [^1]: grenade fumigène.  
 [^2]: *désintégrateur de satyres* : lance-flammes.  
+
+Satyre Perlé => espèce de papillon qui se nourrit des liquides provenant d’excrément d’oiseaux, de sève des plantes, d’excréments, de carcasses et matière en décomposition. Essaim de satyres pullulent. Ils sont devenus ultra-agressifs.  
+
+Après l’éradication des zombies, les satyres ont rapidement évolué pour survivre au manque de cher en décomposition. Maintenant ils chassent l’homme en essaim.  
+
+Noms réels des persos :  
+Pétra (cheffe) – RAS  
+Hasna (blindée 1) – Fraise  
+Sven (blindé 2) – Framboise  
+Simona (fouineuse) – Granny  
+Rizvan (fouineur) – Tarte au Citron Meringuée (aka Meringue) (le casse-…)  
+Barry (ingénieur) – Cola  

@@ -55,7 +55,7 @@ Le mec – parce qu’un jour ce moisi a été un mec – venait d’être dépo
 — chié…  
 — Il nous reste quelques doses ; au moins pour deux sorties. Pas de quoi paniquer, on partira moins nombreux la prochaine fois.  
 — Personne ne panique, juste c’est maigre.  
-— 24 litres de mélange à *dézat*, du moisi tout frais. C’est déjà ça, viens pas saouler.  
+— 24 litres de mélange à *dézat*[^2], du moisi tout frais. C’est déjà ça, viens pas saouler.  
 — On va faire avec oui, mais on a besoin de capsules, sans ça c’est trop risqué de partir en fouinage. Le dernier qui a voulu se la jouer sans masque, a vomi son quatre-heures, s’est fait niaquer par les zombards avant de finir butiner par des Satyres.  
 — On a gagné un bel appât, utilisé *in situ* qui plus est et grâce à auquel on a pu s’enfuir d’ailleurs. »  
 

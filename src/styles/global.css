@@ -398,7 +398,8 @@ body .main {
 		text-decoration: none;
 		text-align: center;
 		color: var(--black);
-		font-size: clamp(1.5rem, 1rem + 1.2vw, 3rem);
+		/* font-size: clamp(1.5rem, 1rem + 1.2vw, 3rem); */
+		font-size: clamp(1.2rem, 1rem + 1vw, 2.5rem);
 
 	}
 

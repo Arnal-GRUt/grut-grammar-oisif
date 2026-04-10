@@ -4,7 +4,16 @@ import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import Background from "../images/grut-ville-2-1.png";
 import Background from "../images/grut-ville-5.png";
+import BlogPost from "../components/BlogPost.astro";
+
 // import { Debug } from "astro:components";
+const allPosts = Object.values(
+	import.meta.glob("./posts/*.md", { eager: true }),
+);
+allPosts.sort(
+	(a, b) =>
+		Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate),
+);
 
 const gribArt = import.meta.glob<{ default: ImageMetadata }>(
 	"../images/artwork/*.{jpg,jpeg,JPG,png,webp}",
@@ -55,23 +64,46 @@ const pageTitle = "Grammar Oisif";
 								création du blog. La plupart sont courts, voire
 								très courts, et il est possible que, parfois,
 								certains auront l’élégance de ne pas se
-								terminer.
-							</p>
-							<p>
+								terminer.<br/>
 								Avant chaque publication je détaille parfois le
 								mood et le cadre technique de la rédaction.
 								Comme il s'agit souvent d'exercices, je donne le
 								durée d'écriture, le mode de génération
-								aléatoire des thèmes etc.<br /><br />Enfin
+								aléatoire des thèmes, etc.<br /><br />Enfin
 								bref, parce que j'ai envie de partager, <span
 									class="style-h3"
 									>je publie des textes ici.</span
 								>
 							</p>
 							<p>
-							<div class="cta" style="align-items: flex-end;">
-								<a href="/Ecritouille/">Clique et lis</a>
-							</div>
+								<p>Le dernier texte</p>
+								{
+									allPosts
+										.slice(0, 1)
+										.map((post: any) => (
+											<BlogPost
+												url={post.url}
+												title={post.frontmatter.title}
+												pubDate={
+													post.frontmatter.pubDate
+												}
+												author={post.frontmatter.author}
+												title={post.frontmatter.title}
+												contexte={
+													post.frontmatter.contexte
+												}
+												description={
+													post.frontmatter.description
+												}
+												enonce={post.frontmatter.enonce}
+												tags={post.frontmatter.tags}
+											/>
+										))
+								}
+								<div class="cta" style="align-items: flex-end;">
+									<a href="/Ecritouille/">Clique et lis</a>
+								</div>
+							</p>
 						</div>
 					</div>
 				</div>

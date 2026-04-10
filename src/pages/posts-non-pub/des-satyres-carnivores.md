@@ -86,15 +86,13 @@ C’est ainsi que, perdu dans ses pensées, *Cola* ne vit pas le satyre de la ta
 
 ***
 
-Chancelant, dégoulinant de sueur froide, se sentant perdre l’équilibre, il posa un genou sur la gueule du moisi à travers le sac, pour éviter de basculer par-dessus le *pick-up* qui venait de démarrer. Bavant le reste de bile qui coulait de ses lèvres, il tenta d’un geste maladroit de chopper le papillon par les ailes, mais l’insecte, beaucoup plus vif, s’écarta aisément de lui en se plaçant en vol stationnaire au-dessus du *pick-up*. « Et merde » pensa-t-il à nouveau. Tâchant de reprendre quelque peu ses esprits, il essayait de rester concentrer sur le protocole : ouvrir le sac mortuaire, agripper l’appât pour le jeter par-dessus bord. Un nouvel épisode gerbotron était inenvisageable, ni pour lui, ni pour ses camarades.  
+Chancelant, dégoulinant de sueur froide, se sentant perdre l’équilibre, il posa un genou sur le sac au niveau de la gueule du moisi pour éviter de basculer par-dessus le *pick-up* qui venait de démarrer. Bavant le reste de bile qui coulait de ses lèvres, il tenta d’un geste maladroit de chopper le papillon par les ailes, mais l’insecte, beaucoup plus vif, s’écarta aisément de lui en se plaçant en vol stationnaire hors d’atteinte du *fouineur*. « Et merde » pensa-t-il à nouveau. Tâchant de reprendre quelque peu ses esprits, il essaya de rester concentrer sur le protocole : ouvrir le sac mortuaire et agripper l’appât pour le jeter par-dessus bord. Un nouvel épisode gerbotron était inenvisageable, ni pour lui, ni pour ses camarades.  
 
-« Reste focus, respire, te laisse pas bouffer par la peur » se répétait-il comme un mantra, pendant qu’avec son bras libre – l’autre monté au niveau du nez lui servait à se protéger des miasmes putrides – il tentait d’agripper le cadavre par les cordes qui le saucissonnaient, et dans le même temps, fit basculer les portes arrières du *pick-up* d’un violent coup de pied. De son côté le moisi, en train de se réveiller, reprenait de la vigueur et n’avait pas du tout validé le projet. Démonté façon puzzle, s’il n’était pas vraiment en état de se défendre, il était en revanche suffisamment réveillé pour pousser des gémissements en se tordant dans tous les sens comme une grosse chenille qu’on ébouillantait. « Mais laisse-toi faire gros tas de meeeeerde ! » hurla *Cola*, « laisse-TOI PUTAIN DE FAIRE !! ». Il n’avait pas de bonne prise, les cordes brûlaient ses doigts, le zombard roulait de droite à gauche, la rage faisait monter les larmes, la haine le bouffait, le zombard ne basculait pas.  
+« Reste focus, respire » se répétait-il comme un mantra, pendant qu’avec son bras libre – l’autre monté au niveau du nez lui servait à se protéger des miasmes putrides – il tentait d’agripper le cadavre par les cordes qui le saucissonnaient, et dans le même temps, fit basculer les portes arrières du *pick-up* d’un violent coup de pied. De son côté le moisi, en train de se réveiller, reprenait de la vigueur et n’avait pas du tout validé le projet. Démonté façon puzzle, s’il n’était pas vraiment en état de se défendre, il était en revanche suffisamment réveillé pour pousser des gémissements en se tordant dans tous les sens comme une grosse chenille qu’on ébouillantait. « Mais laisse-toi faire gros tas de meeeeerde ! » hurla *Cola*, « laisse-TOI PUTAIN DE FAIRE !! ». Il n’avait pas de bonne prise, les cordes brûlaient ses doigts, le zombard roulait de droite à gauche, la rage faisait monter les larmes, la haine le bouffait, le zombard ne basculait pas.  
 
-*Cola* sentit alors la première vague d’ondes taper, violer ses oreilles, « BASCULE PUTAIN ! BASCULE ! », l’appât avait le haut du corps dans le vide, on était pas si loin.  
+*Cola* sentit alors la première vague d’ondes taper, violer ses oreilles, « BASCULE PUTAIN ! BASCULE ! », l’appât avait le haut du corps dans le vide, on n’était pas si loin. L’essaim s’approchait, s’approchait encore, vrombissait, vrombissait de plus en plus fort.  
 
-L’essaim s’approchait, s’approchait encore, vrombissait, vrombissait de plus en plus fort.  
-
-Épuisé, ne sentant plus son bras, le *fouineur* finit pas lâcher le corps du zombard, tomba sur les fesses et recula pour s’adosser à la cabine.  
+Ne sentant plus son bras, le *fouineur* finit pas lâcher le corps du zombard, tomba sur les fesses et recula pour s’adosser à la cabine.  
 
 « on était pas si loin » marmonna-t-il.  
 
@@ -117,4 +115,4 @@ Hasna (blindée 1) – Fraise
 Sven (blindé 2) – Framboise
 Simona (fouineuse) – Granny
 Rizvan (fouineur) – Tarte au Citron Meringuée (aka Meringue) (le casse-…)
-Barry (ingénieur) – Cola  
+Barry (ingénieur) – Cola

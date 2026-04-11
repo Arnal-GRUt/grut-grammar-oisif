@@ -93,7 +93,8 @@ h6 {
 	--yellow: #f3bd22;
 	--black: #000000;	
 	--white: #ffffff;
-	--background: #eeeadb;
+	--background: #f4f2e8;
+	/* --background: #eeeadb; */
 	--animStart: 150vh;
 	--animEnd: 150vh;
 	--weight: 400;

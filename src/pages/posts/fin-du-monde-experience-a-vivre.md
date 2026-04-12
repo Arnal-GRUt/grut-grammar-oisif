@@ -1,87 +1,118 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'La fin du monde, une expérience à vivre au moins une fois dans sa vie'
-pubDate: 02-07-2026
-description: "Extrait du journal de bord d'une femme qui part pour un voyage sans retour + un peu de contexte."
+title: "Une bonne chasse ?"
+pubDate: "04-12-2026"
+description: "Dans un monde post-apo une bande de survivants fait ses courses"
 author: "GRUt·"
-contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture. Quelques textes, dont celui que vous allez lire ici, entrent dans ce cadre." 
-enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée « Poule de Cristal. »"
-tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Article", "Poule de Cristal", "Commentaires"]
-blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhqttoblk22w'
+contexte : "En 2016, je me suis imposé une proto-méthode de travail homemade pour créer un rdv d'écriture."
+enonce : "Écrire une micro-nouvelle d'après un thème tiré au hasard avec le générateur d'idée Poule de Cristal. Début de rédaction courant 2019. Le thème : « Des satyres carnivores »"
+tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "Poule de Cristal", "Commentaires"]
 ---
 
-## Encore un peu de contexte :
+## titre 1
 
-En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà rédigé quelques nouvelles - la plupart inachevées - mais je ne m'étais pas encore imposé, à proprement parler, une discipline de travail. Ce que je cherchais à l'époque, c'était un moyen de réguler l'acte d'écriture, de créer une sorte de rendez-vous régulier avec celui-ci, quitte à ce que le résultat ne soit pas toujours probant. J'étais convaincu et je le suis encore, que la pratique régulière est le meilleur moyen de progresser, quel que soit le domaine.  
+Il régnait dans ce bunker une ambiance à la *Rec*, une ambiance de morts qui marchent et qui vous agrippent la cheville pour vous bouffer les mollets. Ce n’était pas seulement lié au fait que la pénombre squattait les lieux non, les torches solidement scotchées au bout des *kalachs* repoussaient les ombres dans les coins. Ce qui créait cette ambiance, c’était avant tout cette pénible odeur de cadavre qui montait par l’escalier en spirale. Un mélange de soufre, de gaz putride et d’envie de gerber tenace. Plus le petit groupe de *fouineurs* descendait, plus cette odeur devenait oppressante, plus elle forçait les naseaux, plus elle crispait les zygomatiques, plus elle comprimait les estomacs.  
 
-Alors oui, je ne vous apprends rien. C'est de la pure eau tiède pressée à froid. Celà dit, être convaincu d'une chose c'est bien, mais ne rien en faire derrière c'est comme se dire qu'on a faim et attendre que le repas se fasse tout seul les panards posés sur la table basse. *Spoiler alert !* Il ne se passe rien et on meurt d'inanition (avec quelques étapes entre les 2 je l'admets volontiers, et si l'on pose la fin du patriarcat comme condition *sine qua non* à la réalisation de l'hypothèse. Cette parenthèse est beaucoup trop longue).  
+« On arrive les ami·e·s, préparez-vous », lança Pétra la cheffe du groupe.  
 
-Enfin bref, j'ai commencé à fouiller l'internet dans le but de trouver la méthode ultime qui me permettrait de devenir le nouveau Franck Herbert (faut de l'ambition dans la vie). La première question que je me suis posée - mon cerveau de rôliste est toujours aux commandes quand il s'agit de fabriquer de la gamification (ce mot est moche) - c'est "comment pourrais-je générer du thème aléatoire pour le fun ?", un peu à la manière du générateur de scénarios qu'avait publié dans ses colonnes le magazine Casus Belli[^1] au milieu des années 1990. En somme, je voulais rendre l'expérience ludique, et assez vite une solution s'est imposée à moi : "Poule de Cristal".  
+L’escalier donnait sur la pièce principale de l’abri, elle était de la taille d’un petit entrepôt, visiblement sa fonction originelle. Des étagères en aluminium, couvertes de poussière, couvraient ses quatre murs, et une cinquième, très longue, la traversait d’un bout à l’autre. Il n’y avait plus grand-chose à récupérer, mise à part quelques outils rouillés et boites de conserve au contenu incertain. Le groupe touchait au but, la présence de légions de mouches à bidoche en attestait. Elles avaient conquis le territoire, elles occupaient tout l’espace, et par-dessus le bourdonnement produit par leurs ailes, on distinguait clairement des grognements zombiques qui sortaient de la pénombre. Il était temps de lever les masques sur le nez et de brancher les filtres *rotèneproufes*.  
 
-C'est quoi donc ce truc ? Malheureusement la bête à clamsé en 2024, mais depuis les années 2010, c'était un super outil d'aide à la création graphique. Il avait été mis à disposition des professionnels francophones des métiers d'artistes sur le hub/forum coopératif [Café Salé](https://fr.wikipedia.org/wiki/Caf%C3%A9_sal%C3%A9). Il permettait de générer (bien avant ChatGPT) des thèmes aléatoires variés et originaux.  
+« Là-bas. » Pétra pointait l’ouverture au fond de la pièce, « *Fraise* tu prends à gauche, *Framboise* tu prends à droite ». Ces deux-là partaient toujours devant. D’une part parce qu’eux-mêmes aimaient se trimbaler avec tout l’attirail du soldat blindé (armure lourde en pseudo-kevlar, lance-flammes de sagouin, et tutti quanti), et d’autre part parce que les *fouineurs* n’avaient pas mieux en stock dans le genre Vasquez & Drake. Depuis deux ans qu’ils avaient rejoint le groupe, ils n’avaient jamais raté l’occasion de jouer les tanks en têtes de gondole.  
 
-J'ai rapidement adopté l'outil. Il faut dire que je l'utilisais déjà pas mal avec le poto [Stefan](https://stefan-rooy-artworks.multiscreensite.com/) quand on arrivait à se caler des après-midi dessins chez lui. Le fonctionnement de l'outil était simple : on cliquait sur générer un thème et il générait un thème à partir d'une base de données d'adjectifs, des verbes d'action etc. Il proposait 3 types de génération : 1 mot, une idée ou 1 phrase.  
+La discrétion était de mise, *Fraise* et *Framboise* longeaient les murs en prenant garde de ne rien faire tomber des étagères. Plus ils s’approchaient de la cible, plus les gémissements se précisaient. A priori un seul moisi hantait les lieux - comme un début de bonne nouvelle.  
 
-Je me suis donc créé un tableau avec un tableur dans lequel je mettais, pour chaque session 3 thèmes générés (1 de chaque type). Ensuite j'en choisissais 1 parmi ces 3, et je commençais à écrire. L'objectif que je me suis fixé à l'époque était de rédiger des micro-nouvelles, des textes courts donc - pas plus de 2 pages idéalement - sans me poser de limite de temps (dans un premier temps tout le moins).  
+« Il est bien seul avec ses mouches, chuchota *Framboise*.  
+— Tu le vois de ton côté ?  
+— Je vois un truc bouger…  
+— Allez, balance une *Gèfe*[^1], qu’on en finisse - durée max. »  
 
-J'ai bien rempli le tableau. Il y a eu quelques abandons en rase campagne, des réussites inattendues, d'autres attendues, et soyons honnêtes, quelques petites entorses aux règles quand les thèmes générés ne m'inspiraient rien du tout.
+La grenade roula jusqu’au milieu de la pièce et s’enclencha ; une explosion de lumière lança l’assaut. *Fraise* et *Framboise* déboulèrent tous sourcils baissés, prêts à encaisser les premières attaques. Juste derrière suivit Pétra, flingues tendus au bout de ses bras durs comme des tonfas. Elle était entourée de sa garde rapprochée, à sa gauche, *Granny* et à sa droite, *Meringue*. *Cola*, aka Barry l’ingénieur de fortune, fermait la marche, de dos à la bagarre, son P. M. était prêt à lâcher la purée sur le moindre moisi planqué dans l’ombre derrière l’embrasure de ce qui jadis fut une porte. Les quinze secondes de la Gèfe suffirent pour cadrer la zone. L’espace était rempli de bidons, de caisses, de cartons, soigneusement rangés les uns sur les autres et de quelques armoires de stockage militaires. Dans un coin de la pièce, au bout du viseur de *Framboise*, trônait un moisi assis sur une chaise en métal qui bavait des borborygmes au ralenti.  
 
-Pour conclure, je dirais que j'ai tiré 3 axes de cette proto-méthode :  
+La lumière de la grenade baissa d’un coup et laissa apparaître une lueur qui descendait d’une petite ouverture sur le mur côté rue. Elle continuait à éclairer la scène tant bien que mal, et s’imposa aux nuages de poussières que la charge avait soulevés. Discrète, elle se révéla malgré tout suffisante pour repérer le générateur autonome d’électricité que *Cola* remit en route sans attendre.  
 
-> 1. écrire régulièrement pour prendre et garder le rythme,  
-> 2. varier les thèmes pour stimuler l'imagination,  
-> 3. et le plus difficile (pas forcément le + important) à titre perso : terminer ses histoires.  
+Coté salon dorénavant sous les sunlights, le spectacle était autant étrange que répugnant : le mec – ce moisi avait un jour été un mec – portait un calbut blanc, des claquettes-chaussettes blanches, et un marcel blanc de bricolo dominical. À en juger par sa dégaine et l’état de ses bourrelés, ça ne faisait pas si longtemps qu’il végétait le cul vissé sur sa chaise. Sa peau avait la couleur d’un lendemain de cuite, ses yeux vitreux fixaient le vide en direction des *fouineurs* et si ce malpoli ne s’était toujours pas levé pour accueillir ses hôtes, c’est qu’il avait été attaché sur la chaise avec une grosse dose de gaffer. Seul son bras gauche semblait complètement libre de tout mouvement. Il le tendait tout raide, façon salut moisi, pendant qu’en prime, il claquait la mesure à sept temps avec ses chicots. Quant à son bras droit, il avait été tranché net au niveau du coude, puis bandé à l’arrache avec une écharpe. Cerise sur le gâteau, il s’était fait grignoter par des rongeurs, des mollets aux chevilles, avant que des mouches ne prennent ses plaies pour une crèche municipale.  
 
-Le texte qui suit a été commencé en novembre 2018 et a été terminé assez vite. Cette version a cependant bénéficié de beaucoup de petites retouches et de coupures *a posteriori*.  
+En s’approchant prudemment, *Fraise* tapa dans un objet au sol qui s’avéra être un flingue. Il traînait dans la poussière, à quelques centimètres de la chaise. *Framboise* le ramassa et le donna à *Cola* pour une inspection rapide. Il était apparemment fonctionnel, mais n’était chargé que d’une seule balle dans le barillet. La fouineuse sortit alors sa machette et s’avança, pendant que son compère, s’équipant de sa pince de capture, se plaça un bon mètre derrière la chaise. Facile, il agrippa d’un geste précis et rapide le moisi au niveau du cou, comme s’il avait affaire à un toutou crasseux au fond d’une ruelle sordide. Aussi sec, la fouineuse enchaîna : choppe du bras tendu par le poignet, violent coup de lame au niveau du coude. Propre. Net. Pas de torrent de sang, juste un liquide rougeâtre, sombre, putride, qui suintait de la plaie. Le moisi qui s’excitait et grognait sur sa chaise eut à peine le temps de réaliser qu’il n’aurait plus à se soucier d’un éventuel problème d’équilibre brachiale, qu’il se ramassa une torgnole par sa propre main gauche. Le numéro de circassiens horrifique, quasi-cronenbergien, avait tenu toutes ses promesses.  
 
-Pour info je vous mets les 3 thèmes tirés ce jour là :  
+« Un jour tu te feras mordre ou baver dessus *Fraise*, et ce sera terminado » commenta Pétra un brin désabusée.  
 
-- "une grenouille"
-- "des faunes ivres"
-- "des machins ivres se retranchent dans une frégate, pendant la fin du monde".  
+La fouineuse ne répondit pas et se contenta de faire un pas en arrière pour mieux apprécier le projet, puis, après quelques secondes, s’accroupit à quelques centimètres de l’haleine de rat crevé du moisi. *Framboise* assura un peu plus sa prise et osa une remarque : « magne-toi, il est plutôt frais c’ui-ci… ».  
 
-Bonne lecture à vous.  
+*Fraise* agaçait parfois ses compagnons quand elle prenait ses postures, mais en réalité tout avait un sens. De la moindre brise qu’elle engendrait par la discrétion de ses mouvements, jusqu’au moment de respiration qui bravait la tension d’une capture, tout était le fruit d’une digestion longue. *Framboise* le savait, Pétra le comprenait et d’une manière générale, le groupe n’avait jamais eu à s’en plaindre.  
 
------
+Vint enfin le moment d’enclencher la dernière phase de la capture. De loin celle-ci avait l’apparence d’une séance d’hypnose plus ou moins assumée, dont le but était de ramener la cible à un état quasi végétatif. Doucement, *Fraise* plaça la pointe souillée de sa machette dans la bouche du moisi qui se mit à la mordiller avec entrain. Petit à petit, il déchaussait ses dents du haut, une par une, les ratiches tombaient et du pus pissait par les gencives. *Fraise* commença alors les va-et-vient hypnotiques et, tranquillement, le rythme des mâchouillages baissa jusqu’à ce que subsistent de très légers tremblements nerveux. Plus aucun bruit n’occupait la pièce, pas le moindre grincement de chaise, le moindre chuchotement putride, le moindre son pesteux. Quant au reste du groupe, il s’était calé, et lentement mais sûrement, la fouineuse avait embarqué tout le monde.  
 
-## La nouvelle ##
+*Fraise* s’écarta alors pour laisser s’avancer *Cola* armé de son fer à « cautériser »,  que ce dernier avait préalablement branché sur le générateur autonome. L’ingénieur approcha doucement le fer brûlant de l’avant-bras du moisi qui commençait à suppurer dangereusement et le grilla jusqu’à l’os, puis termina le travail en faisant de même avec la mâchoire.  
 
-**Jour 0 – Journal de Lara Voelkner**  
+Le mec – parce qu’un jour ce moisi a été un mec – venait d’être dépouillé de son principal avantage évolutif, la morsure zombiogène, ce qui restait de son humanité avait disparu avec ses dents du bas et le tout avait été emballé comme un rôti chez le boucher du coin.  
 
-C’est la fin. Après nous, plus grand monde, mis à part quelques irréductibles qui n’auront pas été assez convaincants voire convaincus. Et puis il restera des animaux, des plantes, des champignons. Nous sommes du dernier convoi ma famille et moi-même. Une frégate va relâcher un bon gros millier d’hyper-bourges on ne sait où, sur une des vingt planètes native-habitables ou terraformées répertoriées, à une centaine d’années-lumière de notre système, dans la constellation des Poissons. Dans quelques jours, il ne restera plus rien de notre maison commune. Un train d’énormes sphères métalliques de la taille de petites lunes, turbo-blindées de nos déchets radioactifs en tous genres, entrera en collision avec la Terre. Autant vous dire qu’après ça, on aura du mal à trouver un coin tranquille pour buller.
+***
 
-Demain, nous serons en route pour six mois et demi de transfert jusqu’à la première station orbitale qui tourne autour de Centaury B. C’est de là-bas que nous partirons vers notre nouveau monde.  
+24 litres de carburant pour les lance-flammes, de quoi cramer trois ou quatre essaims de Satyres suivant la taille, en prime environ 80 kg de viande avariée assez vive pour détourner l’attention des satyres, sur le papier, d’après *Cola*, une expédition de *fouineurs* pouvait espérer quelques minutes de tranquillité en cas d’attaque de papillons carnivores. C’était donc de son point de vue, une bonne « chasse »,  Meringue quant à lui, semblait déçu voire inquiet.  
 
-L’installation dans nos quartiers s’est bien passée. Les enfants et Al ont préparé les chambres. Pendant ce temps, je suis partie en apprendre un peu plus auprès du capitaine. Le personnage m’a semblé plutôt sympathique, du genre poli tendance soporifique au premier coup d’œil. Grand, cheveux blonds, coupe Ken-de-Barbie, yeux bleus, dents blanches parfaitement alignées. Un clone de steward lambda livré avec le bouzin. Finalement, je crois que c’est son nom qui dénote le plus chez le bonhomme. Fletcher Mac Bisson.  
+« — Pas de capsules pour nos masques ?  
+— Nope.  
+— chié…  
+— Il nous reste quelques doses ; au moins pour deux sorties. Pas de quoi paniquer, on partira moins nombreux la prochaine fois.  
+— Personne ne panique, juste c’est maigre.  
+— 24 litres de mélange à *dézat*[^2], du moisi tout frais. C’est déjà ça, viens pas saouler.  
+— On va faire avec oui, mais on a besoin de capsules, sans ça c’est trop risqué de partir en fouinage. Le dernier qui a voulu se la jouer sans masque, a vomi son quatre-heures, s’est fait niaquer par les zombards avant de finir butiner par des Satyres.  
+— On a gagné un bel appât, utilisé *in situ* qui plus est et grâce à auquel on a pu s’enfuir d’ailleurs. »  
 
-Le couloir qui mène à son bureau était gorgé d’âmes en peine. Ça pleurait pas mal. Ça remerciait. Ça posait trois-cents questions à la seconde aux pauvres membres d’équipage qui faisaient ce qu’ils pouvaient pour botter en touche à la discrète. Et parfois tout ça en même temps. En termes de dignité, la marge était commac. Évidemment, on avait payé le maximum pour partir en classe « Grand Privilège » et par extension accepter de décoller avec les derniers convois d’une société spécialisée dans le voyage Grand Luxe (à la fin des fins, vous trouverez toujours un enfoiré pour vous vendre des trucs.). Du coup, certains se sont arrogé le droit de se comporter de manière abjecte. Ce qui s’entend dans une certaine mesure. Une toute petite mesure. Car accepter de partir en dernier, c’était surtout risquer de ne pas partir du tout. Un risque infime et calculé que certains ont manifestement regretté d’avoir pris. Faut-il en déduire que tout le monde n’est pas taillé pour survivre sereinement à la fin du monde ?  
+Un silence lourd, suivit du croassement d’un corbeau.  
 
-Le capitaine était bien occupé. Je me suis faufilée jusqu’à lui, tant bien que mal, pour lui toucher deux mots à propos de notre destination définitive. Il se tenait devant sa porte, pris en pleine discussion avec un voyageur. Quand je suis arrivée à son niveau, l’homme tentait subtilement de lui soutirer les informations. Il procédait à grands coups de « fils de pute » et d’ « enculé » parmi une daube d’autres compliments du même terroir. L’homme le plus classe du monde depuis Georges Abitbol. Il va de soi que cela fonctionna parfaitement. Sans ironie aucune. Mac Bisson semble être un médiateur dans l’âme. Capitaine « oui-oui » en somme. Quant à moi, quitte à passer six mois et demi dans ce vaisseau, j’ai préféré éviter d’insulter l’avenir.  
+« — C’était un ami bordel.  
+— Oué… un « collègue » on va dire, qui au passage nous a bien mis dans la merde juste pour montrer son gros courage bien viril. On a failli tous y passer.  
+— Il a fait le con, mais il ne méritait pas de crever pour autant.  
+— Personne ne mérite, mais y’en a qui cherchent, répondit sèchement *Cola* en guise de conclusion avant de reprendre le rangement des caisses. »  
 
-La conversation ne mérite pas une retranscription complète. Il s’est d’abord inquiété de savoir si notre installation s’était déroulée au mieux vu les conditions. Il a été prévenant. Sans ambiguïté. Je lui ai donc répondu que nous n’aurions pas été contre quelque chose de plus grand. Il m’a dit qu’il étudierait les demandes dès que l’état-des-lieux de l’embarcation aura été produit par son équipage. Manifestement, le vaisseau n’étant pas complet de chez complet, il y aura peut-être des possibilités dans quelques jours. Ensuite, à la question où va-t-on ? Il m’a répondu qu’il ne savait pas lui-même, que tout dépendait de l’espace disponible dans les différentes colonies, mais il a bien confirmé que notre standing nous garantissait des places de choix. En gros pas un tas de cailloux terra-formé à la zob en 20 ans. Pour autant, parmi toutes les banalités qui ont enrobé notre entretien, il a balancé une ou deux « vérités » déprimantes.  
+Meringue se tourna les bras ballants et l’air accablé vers le reste du groupe pour chercher un soutient qu’il n’obtint pas. Ne pas répondre était une solution mais devant le désintérêt affiché par les autres, il ne voulait pas en rester là. Quand il tenta de retourner *Cola* en l’agrippant par l’épaule, Petra vit le moment où la situation pouvait dégénérer et s’interposa :  
 
-À la question, « comment faites-vous pour garder votre sang-froid devant tant d’agressivité ? » Il m’a d’abord répondu de manière logique et banale, autant que ma question l’était : « c’est mon métier Madame ». Ensuite, parce qu’il a bien senti que mon interrogation portait plus sur le moment tragique que nous vivions, il a ajouté ceci :
-« Il y a 150 ans terrestres j’ai quitté la Terre. Pendant 50 ans, chaque année j’ai tout fait pour y revenir, mais mon travail me l’interdisait. Je l’ai vécu aussi bien que possible. Puis, j’ai commencé à observer sa lente dégradation à vitesse accélérée – entre chaque voyage long courrier je prenais 10 ans terrestres, pour 1 an vaisseau – au point de ne plus vouloir y remettre les pieds. J’étais simplement écœuré, blasé, déphasé. L’ironie, madame, c’est que je n’ai jamais été volontaire pour cette mission de secours. Je ne pense pas être le seul dans ce cas-là d’ailleurs. Je n’ai donc aucun mérite particulier ».  
+« Fermez-la tous les deux, sa voix sonna comme une cloche de fin de round, j’en ai ras la couenne de vos dramas de collégiens. On finit de remplir la remorque et on se taille. Je le sens mal ce coin. Très mal. *Cola*, tu ranges les 2 dernières caisses et tu vas te foutre à l’arrière, je crois que t’as besoin de prendre le frais un peu. Meringue, quant à toi, tu prends le volant et je veux plus t’entendre ; les débats c’est pas pendant les chasses. Je veux qu’on soit parti dans 2 minutes max. Au trot ! »  
 
-Peut-être aurais-je dû le renvoyer chier au final ?  
+***
 
-**Jour 1 – Journal de Lara Voelkner**  
+Enveloppé dans une toile imperméable, préservé de tous stimulus sensoriels, le moisi était posé au fond du *pick-up* prêt à partir. En face de lui, *Cola* avait enlevé son masque et s’était calé entre deux bidons d’essences avec son flingue armé dans la main droite. Il scrutait la bâche, son regard plongeait dans le noir du textile qui l’attirait inexorablement dans un fiel profond. Il ruminait sa énième dispute avec Meringue « le noob », il s’en voulait un peu, et peut-être regrettait-il du bout de son seum quelques-uns des mots échangés. Dans ses moments de tension, il admettait manquer parfois de tact, voire d’humanité, mais ce n’était par manque de respect ou par *j’menfoutisme*, c’était surtout une manière de se mettre à distance des événements. De fait, il encaissait difficilement les niaiseries moralisatrices du gamin. Car oui, c’était un gamin - il avait au moins 5 ans de moins que lui.  
 
-La frégate a décollé au petit matin. Nous avons fait le tour de la Terre deux fois, pour bien prendre notre élan. Pas le droit à l’erreur, pas le droit de se rater. Sur le moment, pas plus émue que ça. Al non plus d’ailleurs. Les gosses, quant à eux, n’ont pas vraiment connecté malgré les explications que nous avons tenté de leur trouver. Ils n’ont que quatre et cinq ans, leur quotidien est rempli d’images représentant des mondes lointains où habiter. Ils sont nés avec l’idée que la Terre n’était qu’une planète parmi tant d’autres. Et si tout se passe pour le mieux, elle représentera, au pire, 2 % de leur existence. Ils l’auront vite oubliée. Espérons.  
+Perdu dans ses pensées, *Cola* ne vit pas le satyre de la taille d’un poing se poser délicatement sur la bâche au niveau de la tête de l’appât. Quand il leva les yeux et il vit l’insecte tenter frénétiquement de percer la toile renforcée. *Cola* eut une montée d’adrénaline qui le fit sortir de sa capsule dépressive. Quand un satyre se posait non loin de vous, vous pouviez être certain que l’essaim était tout près, tout au plus dans un périmètre de cent mètres. C’était clairement insuffisant pour se sentir à l’abri.  
 
-Quand bien même. Ce départ sonne faux. De la dissonance cognitive à l’échelle de ce qui reste du monde. Pas de désespoir, pas de folie, pas de haine (ou si peu), pas de panique, pas de chaos. C’est la fin des temps pourtant. Le « grand bullshit Éternel » envoie tout valdinguer un soir de cuite sévère et pourtant, cet exode définitif a la saveur d’un banal déménagement.  
+***
 
-En fin de journée nous avons reçu une annonce vidéo du capitaine :  
+L’ingénieur n’était pas le moins expérimenté de l’équipe, mais c’était le genre de situation qui l’angoissait comme au premier jour. Dans sa tête, il commençait à envisager la suite du programme version plan foireux : la bestiole bâterait des ailes de plus en plus vite, jusqu’à créer une vibration dont l’onde à peine perceptible par l’oreille humaine, signalerait à ses congénères que le repas était servi. Le groupe de *fouineurs* serait dès lors pris d’assauts par l’essaim, dont la production d’ondes basses fréquences perturberait le fonctionnement de leur oreille interne. Enfin, incapables de se tenir debout, occupés à gerber tout ce qu’ils ont dans l’estomac, les *fouineurs* seraient piquer, ronger, acidifier, et se feraient digérer la viande par un millier de papillons carnivores. *Finito* les dramas, *finito* la vie.  
 
-*« Ce message s’adresse à tous les passagers. Nous allons bientôt entrer en phase de super-accélération pour atteindre notre vitesse de croisière. D’ici une heure à compter de maintenant, il vous sera alors impossible d’observer la Terre depuis notre frégate. Nous vous invitons donc à vous rendre sur les différentes passerelles afin d’observer le spectacle offert par la planète une dernière fois. Soyez dignes. Soyons dignes. Le Capitaine & son équipage ».*
+*Cola* se redressa donc tout doucement en gardant un œil sur le zombard, dont les premiers gémissements sourds annonçaient un réveil imminent. Puis il débuta lentement son approche - un geste trop brusque et le papillon alerterait son essaim. La bête était aux aguets, ses yeux globuleux et ses longues antennes avaient capté les mouvements du *fouineur*. Il puait la mort, presqu’autant qu’un moisi de deux semaines - « Ces saloperies ne sont jamais rassasiées », pensa-t-il entre deux respirations lentes sensées contenir des haut-le-cœur. Peu à peu, le *fouineur* parvenait à s’approcher du papillon qui feignait de l’ignorer. Il était maintenant tout prêt de lui, ses deux mains tremblantes encerclaient le satyre et s’apprêtait à l’écrabouiller façon BRAV-M, malgré les nausées qui devenaient insupportables.  
 
-Aurait-il pu faire plus trivial encore ? Était-ce le but ? Non, évidemment. Au fond est-il vraiment possible de façonner un algorithme politique, médiatique, social, capable de soustraire l’humanité à la panique engendrée par cette prophétie auto-réalisée ? Peu probable.
+À ce moment, bien trop tard, il prit conscience qu'il avait laissé son masque et son *dézat* derrière lui. Une connerie de trop. La montée de stress de trop. « Et merde », pensa-t-il, juste avant de vomir.  
 
-Le moment venu, la moitié des passagers avait décidé de rester dans les quartiers. Par indifférence, par snobisme, mais aussi pour s’isoler et préserver l’intimité de cette expérience. Une façon simple de garder un bout de la Terre avec soi. Après concertation, Al et moi avions décidé de faire ainsi. Je me suis installée à côté de lui, dans notre cabine, devant la grande baie vitrée. Les enfants jouaient derrière et se foutaient du spectacle. Nous les avons un peu forcés à nous rejoindre. Ils ont grogné au début, puis se sont posés à nos côtés et finalement, se sont laissés happer quelques minutes par l’événement. Puis ils sont repartis jouer. Mine de rien, nous ressentions une forme de soulagement très égoïste. Entendre des reproches dans quelques années n’est pas envisageable. En tous cas pas à ce sujet. Puis Al a fini par les rejoindre, et je suis restée toute seule à contempler notre monde s’effondrer. C’est à ce moment-là que j’ai ressenti de la culpabilité. Je me suis tournée, incapable d’assumer. Dans le bar, j’ai cherché de quoi me mettre minable, puis je me suis effondrée sur le sol et j’ai commencé à boire. Après une demi-bouteille, je n’étais plus au top rayon amour-propre. Déglinguée. Anesthésiée. Un machin ivre. Je suis restée dans cette position pendant un moment. Suffisamment longtemps pour permettre à Al de me rejoindre. Il s’est assis à mes côtés. Il a bu ce qui restait de la bouteille de *Glendronach* et m’a prise dans ses bras.  
+***
 
-Nous avons quitté le système solaire, à cette distance, la Terre n’était plus qu’un point blanc parmi les autres.  
+Chancelant, dégoulinant de sueur froide, se sentant perdre l’équilibre, il posa alors un genou sur le sac au niveau de la gueule du moisi pour éviter de basculer par-dessus le *pick-up* qui venait de démarrer. Bavant le reste de bile qui coulait de ses lèvres, il tenta d’un geste maladroit de chopper le papillon par les ailes, mais l’insecte, beaucoup plus vif, s’écarta aisément de lui en se plaçant en vol stationnaire hors d’atteinte du *fouineur*. « Et merde » pensa-t-il à nouveau. Tâchant de reprendre quelque peu ses esprits, il essaya de rester concentrer sur le protocole : ouvrir le sac mortuaire et agripper l’appât pour le jeter par-dessus bord. Un nouvel épisode gerbotron était inenvisageable, ni pour lui, ni pour ses camarades.  
 
-Je n’ai même pas pris de photo.  
+« Reste focus, respire », les mots se concaténaient mécaniquement dans la tête de *Cola*. La phrase se répétait en boucle comme un mantra, elle agissait comme un métronome. Avec son bras libre – l’autre monté au niveau du nez lui servait à se protéger des miasmes putrides – il agrippa le cadavre par les cordes qui le saucissonnaient, et dans le même temps, fit basculer les portes arrières du *pick-up* d’un violent coup de pied. De son côté le moisi n’avait pas du tout validé le projet. Réveillé, il reprenait petit à petit de la vigueur, et s’il n’était pas vraiment en état de se défendre, il était en revanche suffisamment alerte pour pousser des gémissements en se tortillant dans tous les sens. « Mais laisse-toi faire gros tas de meeeeerde ! » hurla *Cola*, « laisse-TOI DE FAIRE PUTAIN ! ». La prise n’était pas bonne, la corde brûlait ses doigts, le zombard roulait de droite à gauche, la rage faisait monter les larmes, un seul bras ne suffisait pas, la haine le bouffait, le zombard ne basculait pas.  
 
------
-[^1]:[Article wikipedia sur Casus Belli](https://fr.wikipedia.org/wiki/Casus_Belli) : "Casus Belli est un magazine francophone créé en 1980 traitant du jeu de rôle, du wargame (à ses débuts), du jeu de rôle grandeur nature, du jeu sur internet et de la « culture de l'imaginaire »."
+*Cola* sentit alors la première vague d’ondes taper, violer ses oreilles, « BASCULE PUTAIN ! BASCULE ! », l’appât avait le haut du corps dans le vide, il n’était pas si loin de la chute, mais l’essaim s’approchait, s’approchait encore, vrombissait, vrombissait de plus en plus fort.  
+
+*Cola* commençait à voir trouble, sa tête tournait. Ne sentant plus son bras, le *fouineur* finit pas lâcher le corps du zombard, tomba sur les fesses et recula pour s’adosser à la cabine.  
+
+« on était pas si loin » marmonna-t-il.  
+
+***
+
+Dans l’action *Cola*, concentré sur sa tâche, n’avait rien compris de se qui passait à l’avant du camion. Alors qu’il cherchait eu à peine le temps de voir Pétra, se tenant à la  
+
+Satyre Perlé => espèce de papillon qui se nourrit des liquides provenant d’excrément d’oiseaux, de sève des plantes, d’excréments, de carcasses et matière en décomposition. Essaim de satyres pullulent. Ils sont devenus ultra-agressifs.
+
+Après l’éradication des zombies, les satyres ont rapidement évolué pour survivre au manque de cher en décomposition. Maintenant ils chassent l’homme en essaim.
+
+Noms réels des persos :
+Pétra (cheffe) – RAS
+Hasna (blindée 1) – Fraise
+Sven (blindé 2) – Framboise
+Simona (fouineuse) – Granny
+Rizvan (fouineur) – Tarte au Citron Meringuée (aka Meringue) (le "noob")
+Barry (ingénieur) – Cola
+
+***
+
+[^1]: grenade fumigène.  
+[^2]: *désintégrateur de satyres* : lance-flammes.  

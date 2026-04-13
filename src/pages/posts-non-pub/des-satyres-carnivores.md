@@ -100,10 +100,6 @@ Chancelant, dégoulinant de sueur froide, se sentant perdre l’équilibre, il p
 
 Dans l’action *Cola*, concentré sur sa tâche, n’avait rien compris de se qui passait à l’avant du camion. Alors qu’il cherchait eu à peine le temps de voir Pétra, se tenant à la  
 
-Satyre Perlé => espèce de papillon qui se nourrit des liquides provenant d’excrément d’oiseaux, de sève des plantes, d’excréments, de carcasses et matière en décomposition. Essaim de satyres pullulent. Ils sont devenus ultra-agressifs.
-
-Après l’éradication des zombies, les satyres ont rapidement évolué pour survivre au manque de cher en décomposition. Maintenant ils chassent l’homme en essaim.
-
 Noms réels des persos :
 Pétra (cheffe) – RAS
 Hasna (blindée 1) – Fraise

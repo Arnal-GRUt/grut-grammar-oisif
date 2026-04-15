@@ -41,7 +41,7 @@ Le calme est maintenant revenu. Allongé sur un lit de camp, une autre musique s
 
 Il m’en faudra peu encore, pour que je batte le record de passages au bloc de la section. J’en ai marre. Je deviens fou. Mes bras et mes jambes brisés un nombre de fois improbable. Et je ne parle pas de mon crâne, ni de mon visage, tous les deux mâchouillés, broyés, perforés. Tout cela confine au gag. Je n'ai plus d'humanité, on me l'a volée.  
 
-Que suis d'autre que le produit d’une science pervertie ? Combien de fois m'a-t-on déjà réparé ? Une bonne centaine de fois, je le sais, je le sens, à grands coups de bistouri et de bains dans les cuves d’Hyper-Soin. Qui dois-je remercier ? Qui m'a doté d’une puce anti-suicide greffée bien au fond du bulbe ?  
+Que suis-je d'autre que le produit d’une science pervertie ? Combien de fois m'a-t-on déjà réparé ? Une bonne centaine de fois, je le sais, je le sens, à grands coups de bistouri et de bains dans les cuves d’Hyper-Soin. Qui dois-je remercier ? Qui m'a doté d’une puce anti-suicide greffée bien au fond du bulbe ?  
 
 C’est un honneur, on me l'a dit.  
 

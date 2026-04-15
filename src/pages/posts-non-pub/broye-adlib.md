@@ -11,7 +11,7 @@ tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
 
 ## Préambule  
 
-Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de pc en pc, depuis plus de 10 ans. Honnêtement je l'avais complètement oubliée cette très courte nouvelle.  
+Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de pc en pc depuis plus de 10 ans. Honnêtement je l'avais complètement oubliée cette très courte nouvelle.  
 
 Je n'ai pas modifié grand chose par rapport à la version orginale, si ce n'est quelques lourdeurs qui me gênaient à la relecture.  
 
@@ -19,19 +19,21 @@ Reste que c'est un très vieux texte et que ça se sent quand même un peu.
 
 ## Le texte
 
-J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes me privent de son regard et derrière les bleus qui gonflent ses pommettes, je distingue un visage vaguement humain, doux, froissé. Sa chevelure blonde planquée sous ce qui reste d’un casque bosselé par endroits et que je devine grâce aux mèches échouées près de son nez, a pris une teinte brunâtre pareille à la boue glacée qui nous sert de paillasse. Sur ses joues coulent en lignes parallèles des rigoles cramoisies. L’eau, la terre, le sang. Elles marquent ce temps : celui qui vient sournoisement après la chute.  
+J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes me privent de son regard et derrière les bleus qui gonflent ses pommettes, je distingue un visage vaguement humain, doux, froissé. Sa chevelure blonde planquée sous ce qui reste d’un casque bosselé par endroits et que je devine grâce aux mèches échouées près de son nez, a pris une teinte brunâtre pareille à la boue glacée qui nous sert de paillasse. Sur ses joues coulent en lignes parallèles des rigoles cramoisies. L’eau, la terre, le sang. Elles marquent ce temps, celui qui vient sournoisement après la chute.  
 
 Mon regard plonge. Je vois mes jambes ; des appendices noueux comme de vieilles branches pliées à maints endroits, inertes mais pleines de sève. Pourtant, pas le moindre fourmillement. Aucune douleur, je ne sens rien.  
 
-Tout autour de nous, une musique bruyante et grasse nous met en boîte. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Pour couronner le tout il y a ces lumières sadiques, flashs morbides, qui profitent du moindre instant pour mettre en scène le massacre. Ils jubilent, nous narguent, vocifèrent, nous hurlent dessus :  
+Tout autour de nous, une musique bruyante et grasse nous met en boîte. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Pour couronner le tout il y a ces lumières sadiques, flashs morbides, qui à chaque instant mettent en scène le massacre. Ce tout jubile ! Nargue ! Vocifère ! Hurlent !
 
-« Tas de bidoche ! De la boue là-bas ! Des rats partout ! Ta mort partout ! Meurs ! Fais-le ! Souffre ! Meurs meurs ! Fais-le ! Meurs meurs ! »
+« Tas de bidoche ! Tas de boue ! Des rats partout ! Ta mort partout ! Ton sang partout ! Meurs ! Fais-le ! Souffre ! Meurs meurs ! Fais-le ! Meurs meurs ! »
 
 Je ferme les yeux.
 
 Je n’espère rien.
 
 J’attends.
+
+Je n’entends plus rien.
 
 J’ouvre les yeux.  
 

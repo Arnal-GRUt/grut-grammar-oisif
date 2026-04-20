@@ -797,6 +797,19 @@ body .display-flex.direction-row.redirection-col {
 		    -ms-flex-align: center;
 		        align-items: center;
 	}
+
+	.ambiance div:not(.cta) {
+        max-width: 640px;
+        gap: 40px;
+        display: flex;
+        flex-direction: column;
+        padding: 10vh 16px;		
+    }
+	.col-last-pub {
+		background: var(--yellow);
+		height: 100vh;
+
+	}
 }
 
 .redirection-card-ecritouille .presentation.display-flex.direction-column {

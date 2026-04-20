@@ -29,11 +29,11 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
 </a>
 <style>
     .lien-post-last .display-flex.direction-column.presentation {
-        min-width: 360px;
+        min-width: 460px;
         & p {
             transform: unset;
         }
-        border: 4px solid var(--white);
+        /* border: 4px solid var(--white); */
         /* background: var(--yellow); */
     }
     .lien-post div p {
@@ -47,9 +47,14 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     }
     .lien-post-last .sub-title {
         font-size: 1.2rem;
-        color: var(--yellow);
+        /* color: var(--yellow); */
     }
     .lien-post-last p[class*="last-pub"] {
         font-size: 1rem;
+    }
+    .lien-post-last
+        .redirection-card-ecritouille
+        .presentation.display-flex.direction-column {
+        padding: 0;
     }
 </style>

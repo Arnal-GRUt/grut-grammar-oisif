@@ -1,0 +1,55 @@
+---
+// import Tag from "../pages/tags/[tag].astro";
+// import PostTags from "../components/postTags.astro";
+const { title, url, pubDate, author, contexte, description, blueskyUri } =
+    Astro.props;
+---
+
+<a class="lien-post-last" href={url}>
+    <div class="display-flex direction-column presentation">
+        <div class="display-flex carton-presentation direction-column">
+            <p class="date-et-auteur">
+                <time datetime={pubDate}
+                    >{
+                        new Date(pubDate).toLocaleDateString("fr-FR", {
+                            year: "numeric",
+                            month: "short",
+                            day: "numeric",
+                        })
+                    }</time
+                >
+                <span>|</span><span class="auteur">{author}</span>
+            </p>
+            <p class="sub-title">Titre</p>
+            <p class="last-pub">{title}</p>
+            <p class="sub-title">Description</p>
+            <p class="last-pub-desc">{description}</p>
+        </div>
+    </div>
+</a>
+<style>
+    .lien-post-last .display-flex.direction-column.presentation {
+        min-width: 360px;
+        & p {
+            transform: unset;
+        }
+        border: 4px solid var(--white);
+        /* background: var(--yellow); */
+    }
+    .lien-post div p {
+        color: var(--black);
+    }
+    .lien-post-last .presentation .carton-presentation {
+        background: transparent;
+    }
+    .lien-post-last .date-et-auteur {
+        font-size: 0.8rem;
+    }
+    .lien-post-last .sub-title {
+        font-size: 1.2rem;
+        color: var(--yellow);
+    }
+    .lien-post-last p[class*="last-pub"] {
+        font-size: 1rem;
+    }
+</style>

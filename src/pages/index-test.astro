@@ -4,7 +4,7 @@ import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import Background from "../images/grut-ville-2-1.png";
 import Background from "../images/grut-ville-5.png";
-import BlogPost from "../components/BlogPost.astro";
+import LastOne from "../components/LastPost.astro";
 
 // import { Debug } from "astro:components";
 const allPosts = Object.values(
@@ -15,9 +15,9 @@ allPosts.sort(
 		Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate),
 );
 
-const gribArt = import.meta.glob<{ default: ImageMetadata }>(
-	"../images/artwork/*.{jpg,jpeg,JPG,png,webp}",
-);
+// const gribArt = import.meta.glob<{ default: ImageMetadata }>(
+// 	"../images/artwork/*.{jpg,jpeg,JPG,png,webp}",
+// );
 
 const allArts = (await getCollection("grutArt")).sort(
 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
@@ -83,7 +83,7 @@ const pageTitle = "Grammar Oisif";
 									allPosts
 										.slice(0, 1)
 										.map((post: any) => (
-											<BlogPost
+											<LastOne
 												url={post.url}
 												title={post.frontmatter.title}
 												pubDate={

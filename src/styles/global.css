@@ -187,7 +187,7 @@ p a {
 	transition: text-decoration 0.2s ease, -webkit-text-decoration 0.2s ease;
 	position: relative;
 
-	&:not(.lien-post)::before {
+	&:not(.lien-post, .lien-post-last)::before {
 		content: "";
 		position: absolute;
 		background: var(--black);
@@ -1874,7 +1874,7 @@ html:not([id*="Grammar"]) body {
 
 	}	
 	/* Page écritouille */
-	a.lien-post {
+	a[class*="lien-post"] {	
         transition: background 0.2s ease;
         max-width: calc(50% - 1rem);
         /* max-width: calc(512px - 1rem); */
@@ -2806,7 +2806,7 @@ html[id*="about"] {
 }
 
 @media (width < 769px) {
-    body .contenu-page.direction-row .main a.lien-post {
+    body .contenu-page.direction-row .main a[class*="lien-post"] {
         max-width: calc(640px - 2rem);
         width: 100%;
         height: auto;

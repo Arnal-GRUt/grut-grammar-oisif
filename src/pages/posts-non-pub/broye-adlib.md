@@ -23,7 +23,7 @@ J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes 
 
 Mon regard plonge. Je vois mes jambes ; des appendices noueux comme de vieilles branches pliées à maints endroits, inertes mais pleines de sève. Pourtant, pas le moindre fourmillement. Aucune douleur, je ne sens rien.  
 
-Tout autour de nous, une musique bruyante et grasse nous met en boîte. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Pour couronner le tout il y a ces lumières sadiques, flashs morbides, qui à chaque instant mettent en scène le massacre. Ce tout jubile ! Nargue ! Vocifère ! Hurlent !
+Tout autour de nous, une musique bruyante et grasse nous met en boîte. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Pour couronner le tout il y a ces lumières sadiques, flashs morbides, qui à chaque instant mettent en scène le massacre. Ce grand tout jubile ! Il nargue ! Vocifère ! Hurle !
 
 « Tas de bidoche ! Tas de boue ! Des rats partout ! Ta mort partout ! Ton sang partout ! Meurs ! Fais-le ! Souffre ! Meurs meurs ! Fais-le ! Meurs meurs ! »
 
@@ -41,7 +41,7 @@ Le calme est maintenant revenu. Allongé sur un lit de camp, une autre musique s
 
 Il m’en faudra peu encore, pour que je batte le record de passages au bloc de la section. J’en ai marre. Je deviens fou. Mes bras et mes jambes brisés un nombre de fois improbable. Et je ne parle pas de mon crâne, ni de mon visage, tous les deux mâchouillés, broyés, perforés. Tout cela confine au gag. Je n'ai plus d'humanité, on me l'a volée.  
 
-Que suis-je d'autre que le produit d’une science pervertie ? Combien de fois m'a-t-on déjà réparé ? Une bonne centaine de fois, je le sais, je le sens, à grands coups de bistouri et de bains dans les cuves d’Hyper-Soin. Qui dois-je remercier ? Qui m'a doté d’une puce anti-suicide greffée bien au fond du bulbe ?  
+Combien de fois m'a-t-on déjà réparé ? Une bonne centaine de fois, je le sais, je le sens, à grands coups de bistouri et de bains dans les cuves d’Hyper-Soin. Qui dois-je remercier ? Qui m'a doté d’une puce *anti-suicide* greffée bien au fond du bulbe ? Que suis-je d'autre que le produit d’une science pervertie ? 
 
 C’est un honneur, on me l'a dit.  
 
@@ -58,8 +58,10 @@ Ma bouche pâteuse déconne à bloc. Délicatement, elle pose sa main sur mon é
 
 Ce n’est pas mon avis évidemment, « Lâchez-moi » pensais-je si fort, mon regard en guise de ton péremptoire. Je n’ai que ça à donner, la gorge ne produit pas de son.  
 
-A-t-elle capté le message ?  
+A-t-elle reçu le message ?  
 
 Imperturbable, elle force un peu sur mon épaule et me sourit la tête légèrement penchée sur le coté, juste assez me signifier qu'un refus d’obtempérer est vain.  
 
-Finalement elle n’a pas tort je crois. Une petite sieste encore, cinq, dix, 30 min ? J’ai besoin de dormir, j’ai besoin d’être bien, même quelques minutes…  
+Finalement elle n’a pas tort je crois. Une petite sieste encore, cinq, dix, trente min ? J’ai besoin de dormir, j’ai besoin d’être bien.
+
+Donnez-moi des heures.

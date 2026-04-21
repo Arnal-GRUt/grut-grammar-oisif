@@ -938,11 +938,13 @@ div.col-pres-publication {
 }
 
 .col-last-pub {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-	background: url(../images/brosse-trace-jaune-v1.png);	
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background: url(/_astro/brosse-trace-jaune-v1.Bae-11Uu.png);
+	background-position: center;
+	background-size: 20% 200%;
 }
 
 .redirection-card-webouille {

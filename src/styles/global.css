@@ -893,12 +893,6 @@ html#ecritouille body .tous-les-textes .box article {
 			line-height: 1.3rem;
 		}
 	}
-
-	div.col-pres-publication {
-		display: flex;
-		flex-direction: column;
-		gap: 24px;
-	}
 }
 
 html body .contenu-page .page-texte .corps-texte {
@@ -937,6 +931,11 @@ html body .contenu-page .page-texte .corps-texte {
 	        transform: none;
 }
 
+div.col-pres-publication {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
 
 .redirection-card-webouille {
 	-webkit-box-align: start;
@@ -963,6 +962,7 @@ html body .contenu-page .page-texte .corps-texte {
 		position: relative;
 	}
 }
+
 
 .redirection-card-webouille .display-flex.direction-column {
 	max-width: 400px;

@@ -941,8 +941,8 @@ div.col-pres-publication {
     align-items: center;
     display: flex;
     flex-direction: column;
-    justify-content: center;        
-	/* background: var(--yellow); */
+    justify-content: center;
+	background: url(../images/brosse-trace-jaune-v1.png);	
 }
 
 .redirection-card-webouille {

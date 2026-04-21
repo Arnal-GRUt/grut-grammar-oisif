@@ -801,9 +801,8 @@ body .display-flex.direction-row.redirection-col {
 
 .col-last-pub {
    	background: url(../images/brosse-jaune.png);
-   	background-size: 21% 50%;
+	background-size: 70%;
    	background-repeat: no-repeat;
-   	background-position-x: 71%;
    	background-position-y: center;
    	background-attachment: scroll;
 }

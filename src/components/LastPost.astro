@@ -30,6 +30,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
 </a>
 <style>
     .lien-post-last .display-flex.direction-column.presentation {
+        background: transparent;
         min-width: 460px;
         & p {
             transform: unset;
@@ -39,9 +40,6 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     }
     .lien-post div p {
         color: var(--black);
-    }
-    .lien-post-last .presentation .carton-presentation {
-        background: transparent;
     }
     .lien-post-last .date-et-auteur {
         font-size: 0.8rem;
@@ -58,12 +56,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         .presentation.display-flex.direction-column {
         padding: 0;
     }
-    .lien-post-last .col-last-pub {
-        background: url(../images/brosse-jaune.png);
-        background-size: 21% 50%;
-        background-repeat: no-repeat;
-        background-position-x: 71%;
-        background-position-y: center;
-        background-attachment: scroll;
+    .lien-post-last .presentation .carton-presentation {        
+        transform: translateX(70px);
     }
 </style>

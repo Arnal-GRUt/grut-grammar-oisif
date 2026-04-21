@@ -937,6 +937,14 @@ div.col-pres-publication {
 	gap: 32px;
 }
 
+.col-last-pub {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;        
+	/* background: var(--yellow); */
+}
+
 .redirection-card-webouille {
 	-webkit-box-align: start;
 	    -ms-flex-align: start;

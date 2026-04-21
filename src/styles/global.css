@@ -799,14 +799,22 @@ body .display-flex.direction-row.redirection-col {
 	}
 }
 
-.redirection-card-ecritouille {
+.col-last-pub {
+   	background: url(../images/brosse-jaune.png);
+   	background-size: 21% 50%;
+   	background-repeat: no-repeat;
+   	background-position-x: 71%;
+   	background-position-y: center;
+   	background-attachment: scroll;
+}
+/* .redirection-card-ecritouille {
 		background: url(../images/brosse-jaune.png);
 		background-size: 21% 50%;
 		background-repeat: no-repeat;
 		background-position-x: 71%;
 		background-position-y: center;
 		background-attachment: scroll;
-}
+} */
 .redirection-card-ecritouille .presentation.display-flex.direction-column {
 	max-width: 1280px;
 	gap: var(--gap-24);

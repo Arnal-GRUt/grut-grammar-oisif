@@ -942,9 +942,6 @@ div.col-pres-publication {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background: url(/_astro/brosse-trace-jaune-v1.Bae-11Uu.png);
-	background-position: center;
-	background-size: 20% 200%;
 }
 
 .redirection-card-webouille {
@@ -955,11 +952,16 @@ div.col-pres-publication {
 	    -ms-flex-pack: center;
 	        justify-content: center;
 	background: var(--white) url(../images/fond-webd.png);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: top;
-	background-attachment: scroll;
+	/* background-size: cover; */
+	/* background-repeat: no-repeat; */
+	/* background-position: top; */
 	width: 40%;
+	background: url(/_astro/brosse-trace-jaune-v1.Bae-11Uu.png);
+	background-size: 21% 50%;
+	background-repeat: no-repeat;
+	background-position-x: 71%;
+	background-position-y: center;
+	background-attachment: scroll;
 
 	& .cta {
 		display: -webkit-box;

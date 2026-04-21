@@ -952,17 +952,10 @@ div.col-pres-publication {
 	    -ms-flex-pack: center;
 	        justify-content: center;
 	background: var(--white) url(../images/fond-webd.png);
-	/* background-size: cover; */
-	/* background-repeat: no-repeat; */
-	/* background-position: top; */
-	width: 40%;
-	background: url(/_astro/brosse-trace-jaune-v1.Bae-11Uu.png);
-	background-size: 21% 50%;
+	background-size: cover;
 	background-repeat: no-repeat;
-	background-position-x: 71%;
-	background-position-y: center;
-	background-attachment: scroll;
-
+	background-position: top;
+	width: 40%;
 	& .cta {
 		display: -webkit-box;
 		display: -ms-flexbox;

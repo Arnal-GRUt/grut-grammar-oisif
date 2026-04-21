@@ -934,7 +934,7 @@ html body .contenu-page .page-texte .corps-texte {
 div.col-pres-publication {
 	display: flex;
 	flex-direction: column;
-	gap: 24px;
+	gap: 32px;
 }
 
 .redirection-card-webouille {

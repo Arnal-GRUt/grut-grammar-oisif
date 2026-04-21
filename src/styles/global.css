@@ -187,7 +187,7 @@ p a {
 	transition: text-decoration 0.2s ease, -webkit-text-decoration 0.2s ease;
 	position: relative;
 
-	&:not(.lien-post)::before {
+	&:not(.lien-post, .lien-post-last)::before {
 		content: "";
 		position: absolute;
 		background: var(--black);
@@ -800,11 +800,11 @@ body .display-flex.direction-row.redirection-col {
 }
 
 .col-last-pub {
-   	background: url(../images/brosse-jaune.png);
-	background-size: 70%;
+   	/* background: url(../images/brosse-jaune.png); */
+	/* background-size: 70%;
    	background-repeat: no-repeat;
    	background-position-y: center;
-   	background-attachment: scroll;
+   	background-attachment: scroll; */	
 }
 /* .redirection-card-ecritouille {
 		background: url(../images/brosse-jaune.png);
@@ -953,10 +953,10 @@ div.col-pres-publication {
 }
 
 .col-last-pub {
-	align-items: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	padding-left: 24px;
 }
 
 .redirection-card-webouille {
@@ -2830,6 +2830,20 @@ html[id*="about"] {
 			max-width: none;
 	}   
 }
+
+@media (width < 769px) {
+
+    div.col-pres-publication {
+        width: 100%;
+    }
+    *:is(.col-pres-publication, .col-last-pub) {
+        padding-left: 0;
+    }
+	.ambiance {
+		padding-left: 0;
+	}
+}
+
 
 @media (width < 769px) {
     body .contenu-page.direction-row .main a.lien-post {

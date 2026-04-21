@@ -10,10 +10,9 @@ import arrow from "../images/arrow-bottom-right.png";
 <a class="lien-post-last" href={url}>
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
-            <p class="sous-titre">Le dernier texte</p>
             <p class="date-et-auteur">
                 <time datetime={pubDate}
-                    >{
+                >{
                         new Date(pubDate).toLocaleDateString("fr-FR", {
                             year: "numeric",
                             month: "short",
@@ -23,6 +22,7 @@ import arrow from "../images/arrow-bottom-right.png";
                 >
                 <span>|</span><span class="auteur">{author}</span>
             </p>
+            <p class="sous-titre">Le dernier texte</p>
             <p class="sub-title">Titre</p>
             <p class="last-pub">{title}</p>
             <p class="sub-title">Description</p>
@@ -42,20 +42,24 @@ import arrow from "../images/arrow-bottom-right.png";
         padding: 16px;
         & .carton-presentation.direction-column {
             width: 65%;
+            transition: 0.2s;
+            &:hover {
+                transform: rotate(0deg);                
+                /* box-shadow: 0px 0px 4rem rgba(243,189,34, 0.8); */
+            }
             & p {
                 color: var(--black);
             }
         }
         & .date-et-auteur {
-            font-size: 0.8rem;
+            font-size: 1rem;
         }
         & p:is(.sous-titre, .sub-title) {
             font-family: chelsea market;
+            text-decoration: underline;
+            padding: 0.5rem 0;            
         }
-        & .sub-title {
-            font-size: 1.4rem;
-        }
-        & p[class*="last-pub"] {
+        & .sub-title, p[class*="last-pub"] {
             font-size: 1.2rem;
         }
         & .presentation.display-flex.direction-column {
@@ -73,7 +77,12 @@ import arrow from "../images/arrow-bottom-right.png";
         & .carton-presentation.direction-column {
             width: calc(100% - 32px);
             transform: rotate(-3deg);
-            position: relative;            
+            position: relative; 
+            transition: 0.2s;
+            &:hover {
+                transform: rotate(0deg);
+                opacity: 0.8;
+            }
             &::before {
                 content: "";
                 position: absolute;

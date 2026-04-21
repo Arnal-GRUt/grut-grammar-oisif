@@ -8,7 +8,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
 <a class="lien-post-last" href={url}>
     <div class="display-flex direction-column presentation">
         <div class="display-flex carton-presentation direction-column">
-            <p>Le dernier texte : </p>
+            <p>Le dernier texte :</p>
             <p class="date-et-auteur">
                 <time datetime={pubDate}
                     >{
@@ -58,5 +58,12 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         .presentation.display-flex.direction-column {
         padding: 0;
     }
-
+    .lien-post-last p.last-pub {
+        background: url(../images/brosse-jaune.png);
+        background-size: 21% 50%;
+        background-repeat: no-repeat;
+        background-position-x: 71%;
+        background-position-y: center;
+        background-attachment: scroll;
+    }
 </style>

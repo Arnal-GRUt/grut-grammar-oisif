@@ -799,8 +799,8 @@ body .display-flex.direction-row.redirection-col {
 	}
 }
 
-.redirection-card-ecritouille:has(.col-pres-publication) {
-		background: url(/_astro/brosse-trace-jaune-v1.Bae-11Uu.png);
+.redirection-card-ecritouille {
+		background: url(../images/brosse-jaune.png);
 		background-size: 21% 50%;
 		background-repeat: no-repeat;
 		background-position-x: 71%;

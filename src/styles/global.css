@@ -893,6 +893,12 @@ html#ecritouille body .tous-les-textes .box article {
 			line-height: 1.3rem;
 		}
 	}
+
+	div.col-pres-publication {
+		display: flex;
+		flex-direction: column;
+		gap: 24px;
+	}
 }
 
 html body .contenu-page .page-texte .corps-texte {

@@ -38,25 +38,42 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         /* border: 4px solid var(--white); */
         /* background: var(--yellow); */
     }
-    .lien-post-last div p {
-        color: var(--black);
+    .col-last-pub .lien-post-last {
+        & div p {
+            color: var(--black);
+        }
+        & .date-et-auteur {
+            font-size: 0.8rem;
+        }
+        & .sub-title {
+            font-size: 1.2rem;        
+        }
+        & p[class*="last-pub"] {
+            font-size: 1rem;
+        }
+        &  .redirection-card-ecritouille .presentation.display-flex.direction-column {
+            padding: 0;
+
+            & .carton-presentation {
+                background: transparent;
+            }
+        }
     }
-    .lien-post-last .date-et-auteur {
+    /* .lien-post-last .date-et-auteur {
         font-size: 0.8rem;
-    }
-    .lien-post-last .sub-title {
-        font-size: 1.2rem;
-        /* color: var(--yellow); */
-    }
-    .lien-post-last p[class*="last-pub"] {
+    } */
+    /* .lien-post-last .sub-title {
+        font-size: 1.2rem;        
+    } */
+    /* .lien-post-last p[class*="last-pub"] {
         font-size: 1rem;
-    }
-    .lien-post-last
+    } */
+    /* .lien-post-last
         .redirection-card-ecritouille
         .presentation.display-flex.direction-column {
         padding: 0;
-    }
-    .lien-post-last .presentation .carton-presentation {        
+    } */
+    /* .lien-post-last .presentation .carton-presentation {
         background: transparent;
-    }
+    } */
 </style>

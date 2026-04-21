@@ -3,7 +3,7 @@
 // import PostTags from "../components/postTags.astro";
 const { title, url, pubDate, author, contexte, description, blueskyUri } =
     Astro.props;
-import arrow from "../images/arrow-bottom-right.png";
+// import arrow from "../images/arrow-right-svg.svg";
 
 ---
 
@@ -80,19 +80,19 @@ import arrow from "../images/arrow-bottom-right.png";
             position: relative; 
             transition: 0.2s;
             &:hover {
-                transform: rotate(0deg);
-                opacity: 0.8;
+                transform: rotate(0deg);                
             }
             &::before {
                 content: "";
                 position: absolute;
                 width: 4rem;
                 height: 4rem;
-                mask-image: url(../images/arrow-right-svg.svg);                                                                
-                mask-size: contain;
+                /* mask: image(url("../images/arrow-bottom-right.png"), var(--black));                                                                 */
+                /* mask-image: url({arrow});                                                                 */
                 mask-repeat: no-repeat;
                 mask-position: center;
-                background: var(--black);
+                mask-size: contain;
+                /* background: var(--black); */
                 z-index: 1;
                 top: -30%;
             }

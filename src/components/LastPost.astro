@@ -4,7 +4,6 @@
 const { title, url, pubDate, author, contexte, description, blueskyUri } =
     Astro.props;
 // import arrow from "../images/arrow-right-svg.svg";
-
 ---
 
 <a class="lien-post-last" href={url}>
@@ -12,7 +11,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         <div class="display-flex carton-presentation direction-column">
             <p class="date-et-auteur">
                 <time datetime={pubDate}
-                >{
+                    >{
                         new Date(pubDate).toLocaleDateString("fr-FR", {
                             year: "numeric",
                             month: "short",
@@ -44,8 +43,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
             width: 65%;
             transition: 0.2s;
             &:hover {
-                transform: rotate(0deg);                
-                /* box-shadow: 0px 0px 4rem rgba(243,189,34, 0.8); */
+                transform: rotate(0deg);
             }
             & p {
                 color: var(--black);
@@ -57,9 +55,10 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         & p:is(.sous-titre, .sub-title) {
             font-family: chelsea market;
             text-decoration: underline;
-            padding: 0.5rem 0;            
+            padding: 0.5rem 0;
         }
-        & .sub-title, p[class*="last-pub"] {
+        & .sub-title,
+        p[class*="last-pub"] {
             font-size: 1.2rem;
         }
         & .presentation.display-flex.direction-column {
@@ -68,35 +67,59 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
             & .carton-presentation.direction-column {
                 background: var(--yellow);
             }
-        }x
+        }
     }
 
-@media (width < 769px) {
-    .lien-post-last {
-        padding-left: 0;
-        & .carton-presentation.direction-column {
-            width: calc(100% - 32px);
-            transform: rotate(-3deg);
-            position: relative; 
-            transition: 0.2s;
-            &:hover {
-                transform: rotate(0deg);                
-            }
-            &::before {
-                content: "";
-                position: absolute;
-                width: 4rem;
-                height: 4rem;
-                /* mask: image(url("../images/arrow-bottom-right.png"), var(--black));                                                                 */
-                /* mask-image: url({arrow});                                                                 */
-                mask-repeat: no-repeat;
-                mask-position: center;
-                mask-size: contain;
-                /* background: var(--black); */
-                z-index: 1;
-                top: -30%;
+    .lien-post-last .carton-presentation.direction-column {
+        width: calc(100% - 32px);
+        transform: rotate(-3deg);
+        position: relative;
+        transition: 0.2s;
+        &:hover {
+            transform: rotate(0deg);
+        }
+        &::before {
+            content: "";
+            position: absolute;
+            width: 4rem;
+            height: 4rem;
+            /* mask: image(url("../images/arrow-bottom-right.png"), var(--black));                                                                 */
+            /* mask-image: url({arrow});                                                                 */
+            mask-repeat: no-repeat;
+            mask-position: center;
+            mask-size: contain;
+            /* background: var(--black); */
+            z-index: 1;
+            top: -30%;
+        }
+    }
+
+    @media (width < 769px) {
+        .lien-post-last {
+            padding-left: 0;
+            & .carton-presentation.direction-column {
+                width: calc(100% - 32px);
+                transform: rotate(-3deg);
+                position: relative;
+                transition: 0.2s;
+                &:hover {
+                    transform: rotate(0deg);
+                }
+                &::before {
+                    content: "";
+                    position: absolute;
+                    width: 4rem;
+                    height: 4rem;
+                    /* mask: image(url("../images/arrow-bottom-right.png"), var(--black));                                                                 */
+                    /* mask-image: url({arrow});                                                                 */
+                    mask-repeat: no-repeat;
+                    mask-position: center;
+                    mask-size: contain;
+                    /* background: var(--black); */
+                    z-index: 1;
+                    top: -30%;
+                }
             }
         }
     }
-}
 </style>

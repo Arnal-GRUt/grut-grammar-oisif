@@ -64,18 +64,28 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         }
         & .presentation.display-flex.direction-column {
             padding: 0;
-            
+
             & .carton-presentation.direction-column {
                 background: var(--yellow);
             }
         }
         & p.sous-titre {
-            font-family: chelsea market;            
-            padding: 0.5rem 0;
-            font-size: 2rem;
         }
     }
-
+    .col-last-pub
+        .lien-post-last
+        .presentation
+        .carton-presentation
+        p.sous-titre {
+        background: var(--white);
+        margin-left: -16px;
+        position: absolute;
+        top: -2rem;
+        padding: 0;
+        font-size: 2rem;
+        width: 50%;
+        right: -1rem;
+    }
     .lien-post-last .carton-presentation.direction-column {
         width: calc(100% - 32px);
         transform: rotate(-3deg);
@@ -105,12 +115,12 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
                 position: absolute;
                 width: 8rem;
                 height: 8rem;
-                background: var(--white) url(../images/arrow-right-svg.svg);
+                background: transparent url(../images/arrow-right-svg.svg);
                 background-size: contain;
                 background-position: center;
                 background-repeat: no-repeat;
                 z-index: 1;
-                left: 0;
+                left: -2rem;
                 transition: 0.2s;
             }
         }

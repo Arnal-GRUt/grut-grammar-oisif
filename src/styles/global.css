@@ -954,16 +954,18 @@ div.col-pres-publication {
 	justify-content: center;
 	padding-left: 24px; 
 	
-	& .lien-post-last .presentation .carton-presentation p.sous-titre {
-		background: var(--white);
+	& a.lien-post-last .presentation.direction-column .carton-presentation.display-flex p.sous-titre {
+		background: var(--yellow);
 		margin-left: -16px;
 		position: absolute;
 		top: -2rem;
 		padding: 0;
 		font-size: 2rem;
-		width: 50%;
-		right: -1rem;
-	}		
+		width: fit-content;
+		left: -1rem;
+		transform: rotate(-5deg);
+		font-family: chelsea market;
+	}
 }
 
 	    /* .lien-post-last .presentation .carton-presentation p.sous-titre {

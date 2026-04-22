@@ -58,6 +58,9 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
             text-decoration: underline;
             padding: 0.5rem 0;
         }
+        /* & p[class*="last-pub"] {
+            
+        } */
         & .sub-title,
         p[class*="last-pub"] {
             font-size: 1.2rem;
@@ -66,10 +69,8 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
             padding: 0;
 
             & .carton-presentation.direction-column {
-                background: var(--yellow);
+                /* background: var(--yellow); */
             }
-        }
-        & p.sous-titre {
         }
     }
     .lien-post-last .carton-presentation.direction-column {
@@ -106,7 +107,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
                 background-position: center;
                 background-repeat: no-repeat;
                 z-index: 1;
-                left: -2rem;
+                left: 4rem;
                 transition: 0.2s;
             }
         }

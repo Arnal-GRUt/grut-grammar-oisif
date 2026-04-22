@@ -53,10 +53,15 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
             font-size: 1rem;
             padding-top: 9rem;
         }
-        & p:is(.sous-titre, .sub-title) {
+        & p.sub-title {
             font-family: chelsea market;
             text-decoration: underline;
             padding: 0.5rem 0;
+        }
+        & p.sous-titre {
+            font-family: chelsea market;            
+            padding: 0.5rem 0;          
+            font: 2rem;  
         }
         & .sub-title,
         p[class*="last-pub"] {

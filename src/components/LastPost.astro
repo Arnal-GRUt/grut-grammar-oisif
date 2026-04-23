@@ -21,7 +21,7 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
                 >
                 <span>|</span><span class="auteur">{author}</span>
             </p>
-            <p class="sous-titre">Le dernier texte</p>
+            <p class="sous-titre">La dernière publication</p>
             <p class="sub-title">Titre</p>
             <p class="last-pub">{title}</p>
             <p class="sub-title">Description</p>
@@ -67,10 +67,6 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         }
         & .presentation.display-flex.direction-column {
             padding: 0;
-
-            & .carton-presentation.direction-column {
-                /* background: var(--yellow); */
-            }
         }
     }
     .lien-post-last .carton-presentation.direction-column {
@@ -113,9 +109,19 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         }
     }
 
+    @media (width < 835px) {
+        body
+            .redirection-card-ecritouille
+            .presentation.display-flex.direction-column
+            .ambiance
+            div.col-pres-publication {
+            width: 85vw;
+        }
+    }
     @media (width < 769px) {
         .lien-post-last {
             padding-left: 0;
+            width: 85vw;
         }
     }
 </style>

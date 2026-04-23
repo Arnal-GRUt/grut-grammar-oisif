@@ -365,7 +365,7 @@ body .main {
 }
 
 .cta {
-	padding: 0 16px;
+	padding: 0 24px;
 	background: var(--yellow);
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -394,6 +394,18 @@ body .main {
 	min-width: -moz-max-content;
 	min-width: max-content;
 	z-index: 2;
+	min-height: 3.5rem;
+
+	&:hover {
+		background-color: var(--black);
+	
+		& a {
+			color: var(--yellow);
+			& div[class*="icon"] {
+				background: var(--yellow);			
+			}		
+		}
+	}
 
 	& a {
 		text-decoration: none;
@@ -403,14 +415,6 @@ body .main {
 		/* font-size: clamp(1.2rem, 1rem + 1vw, 2.5rem); */
 		font-size: clamp(1.2rem, 1rem + 0.5vw, 2rem);
 
-	}
-
-	&:hover {
-		background-color: var(--black);
-
-		& a {
-			color: var(--yellow);
-		}
 	}
 }
 
@@ -546,31 +550,6 @@ body .main {
 	}
 }
 
-/* .carton-texte {
-	content: "";
-	position: absolute;
-	top: 20vh;
-	width: 100%;
-	min-width: auto;
-	height: auto;
-	padding: 32px 0;
-	display: flex;
-	justify-content: center;
-	z-index: 2;
-
-	view-timeline-name: --to-opacity-0;
-	view-timeline-axis: block;
-	animation: linear to-opacity-0 both;
-	animation-timeline: scroll();
-	animation-range-start: 130vh;
-	animation-range-end: 250vh;
-
-	& p {
-        font-size: 4rem;
-        padding: 32px 0;        
-	}
-} */
-
 .nav-box {
 	position: relative;
 	width: 100%;
@@ -628,7 +607,7 @@ body .display-flex.direction-row.redirection-col {
     min-height: 100vh;
 
 	& .direction-column {
-		background-color: var(--white);
+		/* background-color: var(--white); */
 		padding: 16px;
 
 		& h2 {
@@ -779,8 +758,13 @@ body .display-flex.direction-row.redirection-col {
     /* padding: 10vh 0; */
     height: -webkit-fit-content;
     height: -moz-fit-content;
-    height: fit-content;
-	background: var(--black);
+    height: fit-content;	
+	background: url(../images/abysse-noiretblanc.png);    
+    background-size: auto;
+  	background-size: contain;
+  	background-repeat: no-repeat;
+	background-position: 98%;
+	background-attachment: fixed;
 
 	&>.display-flex.direction-row {
 		min-height: 100vh;
@@ -798,28 +782,22 @@ body .display-flex.direction-row.redirection-col {
 		    -ms-flex-align: center;
 		        align-items: center;
 	}
+
+	&::before {
+		position: absolute;
+		z-index: 0;
+		content: "";
+		width: 100%;
+		height: 100%;
+		background-image: linear-gradient(var(--black),rgba(0,0,0,0.90),rgba(0,0,0,0.85),rgba(0,0,0,0.90),var(--black));
+	}
 }
 
-/* .col-last-pub {
-   	background: url(../images/brosse-jaune.png);
-	background-size: 70%;
-   	background-repeat: no-repeat;
-   	background-position-y: center;
-   	background-attachment: scroll;	
-} */
-/* .redirection-card-ecritouille {
-		background: url(../images/brosse-jaune.png);
-		background-size: 21% 50%;
-		background-repeat: no-repeat;
-		background-position-x: 71%;
-		background-position-y: center;
-		background-attachment: scroll;
-} */
 .redirection-card-ecritouille .presentation.display-flex.direction-column {
 	max-width: 1280px;
 	gap: var(--gap-24);
 	padding-bottom: 48px;
-	background: var(--black);
+	/* background: var(--black); */
 	z-index: 2;
 	height: -webkit-fit-content;
 	height: -moz-fit-content;
@@ -852,7 +830,7 @@ body .display-flex.direction-row.redirection-col {
 }
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
-	max-width: 90%;
+	max-width: 60%;
 }
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n+1) {
@@ -882,6 +860,11 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 		line-height: 2;	
 		
 	}
+}
+
+.col-last-pub .presentation .carton-presentation {
+	/* background-color: var(--white); */
+	background-color: var(--yellow);
 }
 
 .redirection-card-ecritouille .dernier-texte .box {
@@ -958,7 +941,7 @@ html body .contenu-page .page-texte .corps-texte {
 		transition: transform 0.1s ease;
 		transition: transform 0.1s ease, -webkit-transform 0.1s ease;
 	}
-	& *:nth-child(odd) {
+	& p:nth-child(odd) {
 		-webkit-transform: rotate(-2deg);
 		    -ms-transform: rotate(-2deg);
 		        transform: rotate(-2deg);
@@ -989,7 +972,7 @@ div.col-pres-publication {
 	padding-left: 24px; 
 	
 	& a.lien-post-last .presentation.direction-column .carton-presentation.display-flex p.sous-titre {
-		background: var(--yellow);
+		background: var(--white);
 		margin-left: -16px;
 		position: absolute;
 		top: -2rem;
@@ -2507,7 +2490,7 @@ html[id*="about"] {
 		}
 	}
 	html[id*="Grammar"] body .nav-secondaire.nav-links {
-			display: none;
+		display: none;
 	}
 
 	.redirection-card-gribouille {
@@ -2516,7 +2499,14 @@ html[id*="about"] {
 			content:none;			
 			/* display: none; */
 		}	
-	}	
+	}
+	.redirection-card-ecritouille {		
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
 	body header nav.to-top {
 		z-index: 4;
 		background-color: var(--yellow);
@@ -2629,7 +2619,7 @@ html[id*="about"] {
 	body .redirection-card-ecritouille {
 		min-height: -webkit-fit-content;
 		min-height: -moz-fit-content;
-		min-height: fit-content;		
+		min-height: fit-content;				
 
 		& .display-flex.direction-row {
 			-ms-flex-wrap: wrap;
@@ -2640,13 +2630,24 @@ html[id*="about"] {
 			        flex-direction: row;
 
 			& .presentation.display-flex.direction-column {
-				min-width: 90vw;
+				width: 100%;
+
+				& .ambiance .col-pres-publication p.home-ecritouille-4 {					
+					margin-left: 0;
+					transform: rotate(0);										
+					align-self: flex-start;
+				}
 			}
 
 			& .dernier-texte {
 				min-width: 90vw;
 			}
 		}
+	}
+
+	.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
+		max-width: unset;
+		min-width: 100%;
 	}
 
 	.image-container {
@@ -2874,7 +2875,7 @@ html[id*="about"] {
 	}   
 }
 
-@media (width < 769px) {
+/* @media (width < 769px) {
 
     div.col-pres-publication {
         width: 100%;
@@ -2885,7 +2886,7 @@ html[id*="about"] {
 	.ambiance {
 		padding-left: 0;
 	}
-}
+} */
 
 
 @media (width < 769px) {
@@ -2903,6 +2904,16 @@ html[id*="about"] {
         background-position: 3vw calc(64px + 2vh);
         background-size: 14vh;
     }
+
+	div.col-pres-publication {
+        width: 100%;
+    }
+    *:is(.col-pres-publication, .col-last-pub) {
+        padding-left: 0;
+    }
+	.ambiance {
+		padding-left: 0;
+	}
 }
 
 @media (width < 601px) {
@@ -2939,6 +2950,4 @@ html[id*="about"] {
 			border-bottom: none;		  
         }
     }
-}
-
-	
+}	

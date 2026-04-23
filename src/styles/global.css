@@ -780,6 +780,7 @@ body .display-flex.direction-row.redirection-col {
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
+	background: var(--black);
 
 	&>.display-flex.direction-row {
 		min-height: 100vh;
@@ -799,13 +800,13 @@ body .display-flex.direction-row.redirection-col {
 	}
 }
 
-.col-last-pub {
-   	/* background: url(../images/brosse-jaune.png); */
-	/* background-size: 70%;
+/* .col-last-pub {
+   	background: url(../images/brosse-jaune.png);
+	background-size: 70%;
    	background-repeat: no-repeat;
    	background-position-y: center;
-   	background-attachment: scroll; */	
-}
+   	background-attachment: scroll;	
+} */
 /* .redirection-card-ecritouille {
 		background: url(../images/brosse-jaune.png);
 		background-size: 21% 50%;
@@ -847,6 +848,39 @@ body .display-flex.direction-row.redirection-col {
 	}
 	p:nth-child(2) {
 		padding-top: 3rem;
+	}
+}
+
+.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
+	max-width: 90%;
+}
+
+.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n+1) {
+	font-size: 1.5rem;  
+	margin-left: 3rem;
+}
+.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n) {
+	font-size: 2rem;  
+	line-height: 1;
+	background: var(--white);
+	color: var(--black);	
+}
+body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {	
+	transform: rotate(0);
+	max-width: 70%;
+}
+.redirection-card-ecritouille .presentation .ambiance .col-pres-publication p.home-ecritouille-4 {
+	max-width: fit-content;
+	margin-left: 5rem;
+	transform: rotate(-5deg);
+	background: var(--white);
+	display: flex;
+  	align-self: flex-end;
+	
+	& span.style-h3 {
+		color: var(--black);
+		line-height: 2;	
+		
 	}
 }
 

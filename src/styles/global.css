@@ -1465,10 +1465,11 @@ header nav .to-small-menu {
 }
 
 /* @layer animations { */
+/* clip-path: inset(9% 36% 15% 36%); */
 @-webkit-keyframes clip-reveal {
 	0% {
 		-webkit-clip-path: inset(26% 36% 10% 36%);
-		clip-path: inset(9% 36% 15% 36%);
+		clip-path: inset(26% 36% 10% 36%);
 	}
 
 	30% {
@@ -1486,7 +1487,7 @@ header nav .to-small-menu {
 @keyframes clip-reveal {
 	0% {
 		-webkit-clip-path: inset(26% 36% 10% 36%);
-		clip-path: inset(9% 36% 15% 36%);
+		clip-path: inset(26% 36% 10% 36%);
 	}
 
 	30% {

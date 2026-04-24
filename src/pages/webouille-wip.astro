@@ -7,34 +7,48 @@ const pageTitle = "Webouille";
 
 <BaseLayout pageTitle={pageTitle}>
   <div class="contenu-page display-flex">
-    <section style="background-color: var(--black);">
+    <section class="webouille-todo display-flex" style="background-color: var(--black);">
       <h1 class="soustitre-page">{pageTitle}</h1>
-      <div class="webouille display-flex">
+      <div class="display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
-        
+
         <h2 class="soustitre-page">Et sinon la vie</h2>
-      </div>      
-      <div class="webouille display-flex">        
       </div>
+      <div class="display-flex"></div>
     </section>
-    <section style="background-color: var(--yellow);">
+    <section class="webouille-done display-flex" style="background-color: var(--yellow);">
       <h1 class="soustitre-page">{pageTitle}</h1>
-      <div class="webouille display-flex">
+      <div class="display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
-        
+
         <h2 class="soustitre-page">Et sinon la vie</h2>
-      </div>      
-      <div class="webouille display-flex">        
       </div>
+      <div class="display-flex"></div>
     </section>
-    
   </div>
 </BaseLayout>
 <style>
-section {
-  width: 100%;
-  .contenu-page {
-    
+  section {
+    width: 100%;
   }
-}
+
+  section[class*="webouille"] {
+
+  }
+
+  .webouille-todo {
+    width: 20%;
+  }
+  .webouille-done {
+    width: auto;
+    flex-grow: 1;
+  }
+
+  .contenu-page {
+    flex-direction: row;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+    padding-top: 48px;
+  }
 </style>

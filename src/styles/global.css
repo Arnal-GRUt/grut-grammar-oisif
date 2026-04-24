@@ -3124,7 +3124,7 @@ html:not([id*="Grammar"]) {
 	}
 }
 
-html:is([id*="about"], #webouille) {
+html:is([id*="about"], #Webouille) {
 	background-color: var(--yellow);
 	/* background-color: transparent; */
 

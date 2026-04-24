@@ -2,13 +2,13 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 // import BlogPost from "../components/BlogPost.astro";
 
-const pageTitle = "about La vie, les potos et le reste";
+const pageTitle = "Webouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <div class="contenu-page display-flex direction-row">
     <section style="background-color: var(--black);">
-      <h1 class="soustitre-page">{pageTitle.slice(6)}</h1>
+      <h1 class="soustitre-page">{pageTitle}</h1>
       <div class="webouille display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
         
@@ -19,3 +19,8 @@ const pageTitle = "about La vie, les potos et le reste";
     </section>
   </div>
 </BaseLayout>
+<style>
+section {
+  width: 100%;
+}
+</style>

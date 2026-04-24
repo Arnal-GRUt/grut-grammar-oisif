@@ -30,10 +30,16 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     </div>
 </a>
 <style>
+    /*
+* Prefixed by https://autoprefixer.github.io
+*/
+
     .lien-post-last .display-flex.direction-column.presentation {
         background: transparent;
         min-width: 460px;
         & p {
+            -webkit-transform: unset;
+            -ms-transform: unset;
             transform: unset;
         }
     }
@@ -41,8 +47,12 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         padding: 16px;
         & .carton-presentation.direction-column {
             width: 65%;
+            -webkit-transition: 0.2s;
+            -o-transition: 0.2s;
             transition: 0.2s;
             &:hover {
+                -webkit-transform: rotate(0deg);
+                -ms-transform: rotate(0deg);
                 transform: rotate(0deg);
             }
             & p {
@@ -71,11 +81,17 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     }
     .lien-post-last .carton-presentation.direction-column {
         width: calc(100% - 32px);
+        -webkit-transform: rotate(-3deg);
+        -ms-transform: rotate(-3deg);
         transform: rotate(-3deg);
         position: relative;
+        -webkit-transition: 0.2s;
+        -o-transition: 0.2s;
         transition: 0.2s;
 
         &:hover {
+            -webkit-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
             transform: rotate(0deg);
         }
     }
@@ -83,13 +99,21 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         padding-left: 0;
         & .carton-presentation.direction-column {
             width: calc(100% - 32px);
+            -webkit-transform: rotate(-3deg);
+            -ms-transform: rotate(-3deg);
             transform: rotate(-3deg);
             position: relative;
+            -webkit-transition: 0.2s;
+            -o-transition: 0.2s;
             transition: 0.2s;
             &:hover {
+                -webkit-transform: rotate(0deg);
+                -ms-transform: rotate(0deg);
                 transform: rotate(0deg);
 
                 &:before {
+                    -webkit-transform: rotate(5deg);
+                    -ms-transform: rotate(5deg);
                     transform: rotate(5deg);
                 }
             }
@@ -104,6 +128,8 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
                 background-repeat: no-repeat;
                 z-index: 1;
                 left: 4rem;
+                -webkit-transition: 0.2s;
+                -o-transition: 0.2s;
                 transition: 0.2s;
             }
         }

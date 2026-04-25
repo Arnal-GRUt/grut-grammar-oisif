@@ -415,7 +415,7 @@ body .main {
 		color: var(--black);
 		/* font-size: clamp(1.5rem, 1rem + 1.2vw, 3rem); */
 		/* font-size: clamp(1.2rem, 1rem + 1vw, 2.5rem); */
-		font-size: clamp(1.2rem, 1rem + 0.5vw, 2rem);
+		font-size: clamp(1.2rem, 1.2rem + 0.5vw, 2rem);
 
 	}
 }
@@ -1128,7 +1128,7 @@ footer *.navigation {
 
 	& *:is(button, a) {
 		/* font-size: clamp(1.5rem, 1rem + 1.2vw, 3rem); */
-		font-size: clamp(1.2rem, 1rem + 0.5vw, 2rem);
+		font-size: clamp(1.2rem, 1.2rem + 0.5vw, 2rem);
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -1140,8 +1140,8 @@ footer *.navigation {
 		& :is(div, span)[class*="icon-"] {
 			/* height: clamp(1.5rem, 1rem + 1.2vw, 3rem);
 			width: clamp(1.5rem, 1rem + 1.2vw, 3rem);			 */
-			height: clamp(1.2rem, 1rem + 0.5vw, 2rem);
-			width: clamp(1.2rem, 1rem + 0.5vw, 2rem);
+			height: clamp(1.2rem, 1.2rem + 0.5vw, 2rem);
+			width: clamp(1.2rem, 1.2rem + 0.5vw, 2rem);
 			position: relative;
 			-webkit-mask-repeat: no-repeat;
 			mask-repeat: no-repeat;

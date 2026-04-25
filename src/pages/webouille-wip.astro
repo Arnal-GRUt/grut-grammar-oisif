@@ -6,55 +6,84 @@ const pageTitle = "Webouille";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <div class="contenu-page display-flex">
-    <section class="webouille-todo display-flex" style="background-color: var(--black);">
-      <h1 class="soustitre-page">{pageTitle}</h1>
+  <div class="webouille-main display-flex">
+    <h1>{pageTitle}</h1>
+    <section
+      class="webouille-todo display-flex"
+      style="background-color: var(--black);"
+    >
       <div class="display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
-        <ul>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-          <li>lorem ipsum - task 1</li>
-        </ul>
-      </div>    
+        <div>
+          <li>
+            <input type="checkbox" id="task 1" checked />lorem ipsum - task 1
+          </li>
+          <li>
+            <input type="checkbox" /><label for="task2"
+              >lorem ipsum - task 2</label
+            >
+          </li>
+          <li><input type="checkbox" />lorem ipsum - task 3</li>
+          <li><input type="checkbox" />lorem ipsum - task 4</li>
+          <li><input type="checkbox" />lorem ipsum - task 5</li>
+          <li><input type="checkbox" />lorem ipsum - task 6</li>
+        </div>
+      </div>
     </section>
-    <section class="webouille-done display-flex" style="background-color: var(--yellow);">
-      <h1 class="soustitre-page">{pageTitle}</h1>
-      <div class="display-flex">  
+    <section
+      class="webouille-done display-flex"
+      style="background-color: var(--yellow);"
+    >
+      <div class="display-flex direction-column">
         <h2 class="soustitre-page">Et sinon la vie</h2>
         <p class="soustitre-page">Et sinon la vie</p>
-      </div>      
+      </div>
     </section>
   </div>
 </BaseLayout>
 <style>
-  section {
-    width: 100%;
-    z-index: 1;
-  }
-  
-  .webouille-todo {
-    width: 20%;
-    height: 100vh;
-    position: fixed;
-  }
-  .webouille-done {
-    height: 100vh;
-    width: auto;
-    flex-grow: 1;
-  }
-  
-  .contenu-page {
+  .webouille-main {
     position: relative;
     flex-direction: row;
     width: 100%;
-    padding-top: 80px;
+
+    & h1 {
+      width: 100%;
+      position: absolute;
+    }
+  }
+  section {
+    z-index: 1;
+    padding-top: 10vh;
+  }
+
+  .webouille-todo {
+    max-width: 20%;
+    height: 100vh;
+    /* position: fixed; */
+    & * {
+      color: var(--white);
+    }
+    & > div {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: flex-start;
+      padding: 0 32px 32px 32px;
+    }
+    & ul {
+      color: var(--white);
+      width: inherit;
+      padding: 0;
+
+      & li input[checkbox] {
+        display: flex;
+      }
+    }
+  }
+  .webouille-done {
+    height: 100vh;
+    flex-grow: 1;
+    background: red;
   }
 </style>

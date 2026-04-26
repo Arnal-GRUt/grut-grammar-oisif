@@ -24,9 +24,9 @@ Reste que c’est un très vieux texte dont la première version est lisible [ic
 
 J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes me privent de son regard et derrière les bleus qui gonflent ses pommettes, je distingue un visage vaguement humain, doux, froissé. Sa chevelure blonde planquée sous ce qui reste d’un casque bosselé par endroits et que je devine grâce aux mèches échouées près de son nez, a pris une teinte brunâtre pareille à la boue glacée qui nous sert de paillasse. Sur ses joues coulent en lignes parallèles des rigoles cramoisies. L’eau, la terre, le sang. Elles marquent ce temps, celui qui vient sournoisement après la chute.  
 
-Mon regard plonge, je vois mes jambes - des appendices noueux comme de vieilles branches pliées à maints endroits - inertes mais pleines de sève. je ne sens rien, pas le moindre fourmillement, la moindre douleur, je ne sens rien.  
+Mon regard plonge. Je vois mes jambes, des appendices noueux comme de vieilles branches pliées à maints endroits, inertes mais pleines de sève. Je ne sens rien, pas le moindre fourmillement, la moindre douleur, je ne sens rien.  
 
-Tout autour de nous, une musique bruyante et grasse nous écrase. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Viennent ensuite, ensemble, avant, après, des lumières sadiques, des flashs morbides, qui à chaque instant mettent en scène et révèlent le massacre et nous narguent ! Vocifèrent ! « *Meurs ! Meurs !* » Hurlent ! « *Meurs ! Meurs !* »  
+Tout autour de nous, une musique bruyante et grasse nous écrase. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Viennent ensuite, ensemble, avant, après, des lumières sadiques, des flashs morbides, qui à chaque instant révèlent le massacre et crient : « *La mort ! La boue ! Les rats !* » Hurlent encore et encore ! « *La gloire dans le sang !* »  
 
 Je ferme les yeux.
 
@@ -50,11 +50,11 @@ Que suis-je d'autre que la création indigne d’une science pervertie ?
 
 Je n'ai plus d'humanité, on me l'a volée.  
 
-Les minutes passent, mes engoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante et morte ou presque. J’ai vu ses jambes arrachées et sa tripaille à l’air.
+Les minutes passent, mes engoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.
 
 Je cherche alors à me lever. Sur le bord du lit, engourdis mais fonctionnels, mes membres inférieurs pendouillent dans le vide.  
 
-« — Que faites-vous soldat ? l’infirmière m’interpelle, vous êtes en convalescence. Sa voix est ferme mais n'est pas dénuée de compassion.  
+« — Que faites-vous soldat ? l’infirmière m’interpelle, vous êtes en convalescence. Sa voix est ferme mais non dénuée de compassion.  
 — Ça va, ça va, il faut juste que je me redresse... J’ai la gerbe. »  
 
 Ma bouche pâteuse déconne à bloc. Délicatement, elle pose sa main sur mon épaule et tente de me recoucher. Combien de fois a-t-elle fait ses gestes aujourd'hui ? Combien de fois a-t-elle fait semblant de sourire ? Comment fait-elle ?  

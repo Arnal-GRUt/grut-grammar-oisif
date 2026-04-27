@@ -50,7 +50,7 @@ Que suis-je d'autre que la création indigne d’une science pervertie ?
 
 Je n'ai plus d'humanité, on me l'a volée.  
 
-Les minutes passent, mes engoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.
+Les minutes passent, mes engoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
 
 Je cherche alors à me lever. Sur le bord du lit, engourdis mais fonctionnels, mes membres inférieurs pendouillent dans le vide.  
 

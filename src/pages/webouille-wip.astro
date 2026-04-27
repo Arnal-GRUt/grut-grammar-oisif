@@ -199,10 +199,10 @@ const pageTitle = "Webouille";
         color: var(--black);
         width: fit-content;
 
-        & *:is(h2, h3):nth-child(even) {
+        &:nth-child(even) {
           transform: rotate(2deg);
         }
-        & *:is(h2, h3):nth-child(odd) {
+        &:nth-child(odd) {
           transform: rotate(-2deg);
         }
       }

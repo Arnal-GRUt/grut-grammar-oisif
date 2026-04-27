@@ -194,19 +194,20 @@ const pageTitle = "Webouille";
         padding: 8px 16px 8px 0;
         color: var(--black);
         width: fit-content;
-
-        &:nth-child(even) {
-          transform: rotate(2deg);
-        }
-        &:nth-child(odd) {
-          transform: rotate(-2deg);
-        }
       }
       & *:is(h3, p) {
         font-size: 1rem;
       }
       & p {
         color: color-mix(in srgb, var(--white) 90%, var(--black));
+      }
+      &:not(p) {
+        &:nth-child(even) {
+          transform: rotate(2deg);
+        }
+        &:nth-child(odd) {
+          transform: rotate(-2deg);
+        }
       }
     }
   }

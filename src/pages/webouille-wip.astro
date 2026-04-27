@@ -36,9 +36,9 @@ const pageTitle = "Webouille";
             et du Melfor ? Yo dû, espèce de Knäckes, ch'ai dit un picon !
           </p>
           <Image
-          class="webouille-img"
-          src={test_img}
-          alt="image test article test"
+            class="webouille-img"
+            src={test_img}
+            alt="image test article test"
           />
           <h3>Ok ok mais c'est reparti de plus belle</h3>
           <p>
@@ -192,13 +192,19 @@ const pageTitle = "Webouille";
       & *:is(h2, h3, p) {
         max-width: 640px;
       }
-      
+
       & *:is(h2, h3) {
         background: var(--white);
         padding: 8px 16px 8px 0;
         color: var(--black);
-        transform: rotate(-2deg);
         width: fit-content;
+
+        & *:is(h2, h3):nth-child(even) {
+          transform: rotate(2deg);
+        }
+        & *:is(h2, h3):nth-child(odd) {
+          transform: rotate(-2deg);
+        }
       }
       & *:is(h3, p) {
         font-size: 1rem;

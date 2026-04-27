@@ -812,8 +812,12 @@ body .display-flex.direction-row.redirection-col {
 	height: -moz-fit-content;
 	height: fit-content;
 
-	& :is(h2, h3, .style-h3, p) {
-		color: var(--white);
+	& :is(h2, h3, .style-h3) {
+		color: var(--white);		
+	}
+
+	& p {
+		color: color-mix(in srgb, var(--white) 90%, var(--black));
 	}
 }
 

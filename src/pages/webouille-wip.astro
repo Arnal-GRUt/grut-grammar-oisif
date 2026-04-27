@@ -131,7 +131,7 @@ const pageTitle = "Webouille";
   .webouille-todo {
     max-width: 20%;
     height: 100vh;
-    /* position: fixed; */
+    width: 100%;
     & * {
       color: var(--white);
     }
@@ -155,6 +155,18 @@ const pageTitle = "Webouille";
   .webouille-done {
     height: 100vh;
     flex-grow: 1;
-    background: red;
+    overflow: scroll;
+    scrollbar-color: transparent transparent;
+    padding-left: 2vw;
+    width: 100%;
+
+    & > div {
+      max-width: 1024px;
+      gap: 24px;
+
+      & *:is(h2, h3, p) {
+        max-width: 640px;
+      }
+    }
   }
 </style>

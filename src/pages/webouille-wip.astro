@@ -12,10 +12,7 @@ const pageTitle = "Webouille";
 <BaseLayout pageTitle={pageTitle}>
   <div class="webouille-main display-flex">
     <h1>{pageTitle}</h1>
-    <section
-      class="webouille-todo display-flex"
-      style="background-color: var(--black);"
-    >
+    <section class="webouille-todo display-flex">
       <div class="display-flex">
         <h2 class="soustitre-page">Todo list</h2>
         <ul>
@@ -27,7 +24,7 @@ const pageTitle = "Webouille";
       </div>
     </section>
     <section class="webouille-done display-flex">
-      <div class="display-flex direction-column">
+      <div class="display-flex direction-column main-done">
         <h2 class="soustitre-page">Un peu de passif...</h2>
         <p>
           Lorem Salu bissame ! Wie geht's les samis ? Hans apporte moi une
@@ -102,6 +99,7 @@ const pageTitle = "Webouille";
         </p>
       </div>
     </section>
+    <div class="overlay-done"></div>
   </div>
 </BaseLayout>
 <style>
@@ -109,11 +107,22 @@ const pageTitle = "Webouille";
     position: relative;
     flex-direction: row;
     width: 100%;
-    background: var(--white) url(../images/fond-webd.png);
+    background: var(--black) url(../images/fond-webd.png);
     z-index: 1;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+
+    & div.overlay-done {
+      content: "";
+      position: absolute;
+      width: 80%;
+      height: 20%;
+      background-image: linear-gradient(transparent 20%, var(--black));
+      bottom: 0;
+      right: 0;
+      z-index: 1;
+    }
 
     &:after {
       content: "";
@@ -143,6 +152,7 @@ const pageTitle = "Webouille";
     max-width: 20%;
     height: 100vh;
     width: 100%;
+    background: var(--black);
     & * {
       color: var(--white);
     }
@@ -166,29 +176,27 @@ const pageTitle = "Webouille";
   .webouille-done {
     height: 100vh;
     flex-grow: 1;
-    overflow: scroll;
-    scrollbar-color: transparent transparent;
     padding-bottom: 4vh;
     width: 100%;
+    position: relative;
+    /* scrollbar-color: transparent transparent; */
+    /* overflow-y: scroll; */
+    /* overflow-x: hidden; */
 
-    &::after {
-      content: "";
-      position: absolute;
-      width: 100%;
-      height: 100vh;
-      bottom: 0;
-      background-image: linear-gradient(transparent 85%, var(--black));
-    }
-
-    & > div {
+    & > div.main-done {
       max-width: 1024px;
       padding-left: 2vw;
+      padding-right: 2vw;
+      scrollbar-color: transparent transparent;
+      overflow-y: scroll;
+      display: flex;
+      flex-direction: column;
       gap: 24px;
 
       & *:is(h2, h3, p) {
         max-width: 640px;
+        height: auto;
       }
-
       & *:is(h2, h3) {
         background: var(--white);
         padding: 8px 16px 8px 0;

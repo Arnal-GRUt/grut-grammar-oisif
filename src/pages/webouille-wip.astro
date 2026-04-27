@@ -18,20 +18,12 @@ const pageTitle = "Webouille";
     >
       <div class="display-flex">
         <h2 class="soustitre-page">Un peu de passif</h2>
-        <div>
-          <li>
-            <input type="checkbox" id="task 1" checked />lorem ipsum - task 1
-          </li>
-          <li>
-            <input type="checkbox" /><label for="task2"
-              >lorem ipsum - task 2</label
-            >
-          </li>
+        <ul>
           <li><input type="checkbox" />lorem ipsum - task 3</li>
           <li><input type="checkbox" />lorem ipsum - task 4</li>
           <li><input type="checkbox" />lorem ipsum - task 5</li>
           <li><input type="checkbox" />lorem ipsum - task 6</li>
-        </div>
+        </ul>
       </div>
     </section>
     <section
@@ -167,6 +159,10 @@ const pageTitle = "Webouille";
       & *:is(h2, h3, p) {
         max-width: 640px;
       }
+
+      & p {
+        font-size: 1rem;        
+      }      
     }
   }
 </style>

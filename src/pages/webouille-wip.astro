@@ -168,7 +168,6 @@ const pageTitle = "Webouille";
     flex-grow: 1;
     overflow: scroll;
     scrollbar-color: transparent transparent;
-    padding-left: 2vw;
     padding-bottom: 4vh;
     width: 100%;
 
@@ -183,6 +182,7 @@ const pageTitle = "Webouille";
 
     & > div {
       max-width: 1024px;
+      padding-left: 2vw;
       gap: 24px;
 
       & *:is(h2, h3, p) {
@@ -207,7 +207,7 @@ const pageTitle = "Webouille";
         }
         &:nth-child(odd) {
           transform: rotate(-2deg);
-        }        
+        }
       }
       & h3 {
         &:nth-child(even) {
@@ -215,7 +215,7 @@ const pageTitle = "Webouille";
         }
         &:nth-child(odd) {
           transform: rotate(2deg);
-        }        
+        }
       }
     }
   }

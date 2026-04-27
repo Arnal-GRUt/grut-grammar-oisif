@@ -166,7 +166,17 @@ const pageTitle = "Webouille";
     overflow: scroll;
     scrollbar-color: transparent transparent;
     padding-left: 2vw;
+    padding-bottom: 2vw;
     width: 100%;
+    
+    :after {
+      position: absolute;
+      width: 100%;
+      height: 100vh;
+      bottom: 0;
+      content: "";
+      background-image: linear-gradient(transparent 80%, var(--black));
+    }
 
     & > div {
       max-width: 1024px;
@@ -178,7 +188,7 @@ const pageTitle = "Webouille";
 
       & h2 {
         background: var(--white);
-        padding: 0 32px 32px 32px;
+        padding: 8px 16px 8px 0;
         color: var(--black);
         transform: rotate(-2deg);
         width: fit-content;

@@ -112,6 +112,15 @@ const pageTitle = "Webouille";
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    & h1 {
+      width: 100%;
+      position: absolute;
+      top: 64px;
+      left: 32px;
+      color: var(--white);
+      z-index: 2;
+      font-size: 3rem;
+    }
 
     & div.overlay-done {
       content: "";
@@ -133,15 +142,10 @@ const pageTitle = "Webouille";
       background: var(--black);
       opacity: 0.85;
     }
-
-    & h1 {
-      width: 100%;
-      position: absolute;
-    }
   }
   section {
     z-index: 1;
-    padding-top: 10vh;
+    padding-top: 15vh;
 
     & h2 {
       font-size: 1.4rem;

@@ -201,14 +201,14 @@ const pageTitle = "Webouille";
       & p {
         color: color-mix(in srgb, var(--white) 90%, var(--black));
       }
-      /* & *:not(p) {
+      & *:not(p, img) {
         &:nth-child(even) {
           transform: rotate(2deg);
         }
         &:nth-child(odd) {
           transform: rotate(-2deg);
         }
-      } */
+      }
     }
   }
 </style>

@@ -117,7 +117,7 @@ const pageTitle = "Webouille";
       content: "";
       position: absolute;
       width: 80%;
-      height: 20%;
+      height: 20vh;
       background-image: linear-gradient(transparent 20%, var(--black));
       bottom: 0;
       right: 0;
@@ -161,7 +161,7 @@ const pageTitle = "Webouille";
       flex-direction: column;
       justify-content: space-between;
       align-items: flex-start;
-      padding: 0 32px 32px 32px;
+      padding: 0 32px 8vh 32px;
     }
     & ul {
       color: var(--white);
@@ -176,17 +176,12 @@ const pageTitle = "Webouille";
   .webouille-done {
     height: 100vh;
     flex-grow: 1;
-    padding-bottom: 4vh;
+    /* padding-bottom: 4vh; */
     width: 100%;
     position: relative;
-    /* scrollbar-color: transparent transparent; */
-    /* overflow-y: scroll; */
-    /* overflow-x: hidden; */
-
     & > div.main-done {
       max-width: 1024px;
-      padding-left: 2vw;
-      padding-right: 2vw;
+      padding: 0 2vw 8vh 2vw;
       scrollbar-color: transparent transparent;
       overflow-y: scroll;
       display: flex;

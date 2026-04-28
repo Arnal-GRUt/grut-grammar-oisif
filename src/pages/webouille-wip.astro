@@ -188,7 +188,7 @@ const pageTitle = "Webouille";
       overflow-y: scroll;
       display: flex;
       flex-direction: column;
-      gap: 2.5rem;      
+      gap: 2.5rem;
 
       & *:is(h2, h3, p) {
         max-width: 640px;
@@ -221,6 +221,23 @@ const pageTitle = "Webouille";
         &:nth-child(odd) {
           transform: rotate(2deg);
         }
+      }
+    }
+  }
+  @media (width < 1024px) {
+    .webouille-main {
+      position: relative;
+      flex-direction: column;
+      width: 100%;
+      z-index: 1;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      flex-wrap: wrap;
+
+      & section {
+        min-width: 100%;
+        height: fit-content;        
       }
     }
   }

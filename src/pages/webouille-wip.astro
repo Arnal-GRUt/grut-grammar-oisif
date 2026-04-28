@@ -119,13 +119,13 @@ const pageTitle = "Webouille";
       left: 32px;
       color: var(--white);
       z-index: 2;
-      font-size: 3rem;
+      font-size: 4rem;
     }
 
     & div.overlay-done {
       content: "";
       position: absolute;
-      width: 80%;
+      width: 75%;
       height: 20vh;
       background-image: linear-gradient(transparent 20%, var(--black));
       bottom: 0;
@@ -146,14 +146,10 @@ const pageTitle = "Webouille";
   section {
     z-index: 1;
     padding-top: 15vh;
-
-    & h2 {
-      font-size: 1.4rem;
-    }
   }
 
   .webouille-todo {
-    max-width: 20%;
+    max-width: 25%;
     height: 100vh;
     width: 100%;
     background: var(--black);
@@ -165,7 +161,7 @@ const pageTitle = "Webouille";
       flex-direction: column;
       justify-content: space-between;
       align-items: flex-start;
-      padding: 0 32px 8vh 32px;
+      padding: 2vh 32px 8vh 32px;
     }
     & ul {
       color: var(--white);
@@ -185,7 +181,7 @@ const pageTitle = "Webouille";
     position: relative;
     & > div.main-done {
       max-width: 1024px;
-      padding: 0 2vw 8vh 2vw;
+      padding: 2vh 2vw 8vh 2vw;
       scrollbar-color: transparent transparent;
       overflow-y: scroll;
       display: flex;
@@ -203,7 +199,7 @@ const pageTitle = "Webouille";
         width: fit-content;
       }
       & *:is(h3, p) {
-        font-size: 1rem;
+        font-size: 1.3rem;
       }
       & p {
         color: color-mix(in srgb, var(--white) 90%, var(--black));

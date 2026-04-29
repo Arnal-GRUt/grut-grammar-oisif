@@ -767,11 +767,11 @@ body .display-flex.direction-row.redirection-col {
 	height: -moz-fit-content;
 	height: fit-content;
 	background: url(../images/abysse-noiretblanc.png);
-	background-size: auto;
-	background-size: contain;
+	background-size: 46% auto;	
 	background-repeat: no-repeat;
 	background-position: 98%;
 	background-attachment: fixed;
+	transition: auto;
 
 	&>.display-flex.direction-row {
 		min-height: 100vh;
@@ -799,6 +799,7 @@ body .display-flex.direction-row.redirection-col {
 		background-image: -webkit-gradient(linear, left top, left bottom, from(var(--black)), color-stop(rgba(0, 0, 0, 0.90)), color-stop(rgba(0, 0, 0, 0.85)), color-stop(rgba(0, 0, 0, 0.90)), to(var(--black)));
 		background-image: -o-linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
 		background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
+		transition: auto;		
 	}
 }
 

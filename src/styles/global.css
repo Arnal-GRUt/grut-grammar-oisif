@@ -994,6 +994,10 @@ html body .contenu-page .page-texte .corps-texte {
 	transform: none;
 }
 
+.presentation .ambiance .col-pres-publication:has(.cta:hover) p.home-ecritouille-2 {
+	transform: translateX(6vw);
+}
+
 /* .ambiance:has(.cta:hover) p {
 	-webkit-transform: none;
 	-ms-transform: none;

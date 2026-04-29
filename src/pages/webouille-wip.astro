@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import test_img from "../images/visuels-webouille/test-screen-de-texts.png";
+import proto_projet_1 from "../images/visuels-webouille/fig-2.png";
 
 // import BlogPost from "../components/BlogPost.astro";
 
@@ -27,18 +27,27 @@ const pageTitle = "Webouille";
       <div class="display-flex direction-column main-done">
         <h2 class="soustitre-page">Un peu de passif...</h2>
         <p>
-          Ça a commencé en 2024, avec les copains du taf, des doutes et une envie collective de se faire un portfolio webdesigner. On s'est retrouvé chez le code keeper, au chateau de la chatelaîne, pour travailler ensemble sur nos projets perso. Rien de mieux que le travail en groupe pour se motiver.
+          Ça a commencé en 2024, avec les copains du taf, des doutes et une envie collective de se faire un <strong>portfolio webdesigner</strong>. On s'est retrouvé au chateau, chez la Chatelaîne et le CodeKeeper, pour travailler ensemble sur nos projets perso. Rien de mieux que le taf en groupe pour se motiver et avancer.
         </P>
         <p>
-          On était parti pour se voir régulièrement pour faire les points sur nos portfolios respectifs. 
-          On va pas se mentir, pour raisons diverses, ce premier projet a laissé de coté pas mal de monde - changement de travail, autres priorité, etc.  
+          On était parti pour se retrouver régulièrement, afin de ne pas se laisser porter par la procrastination. Les quelques week-end où on s'est vu furent vraiment cool. Nos réunions avaient l'air de <em>fab lab</em> pépouze agrémentée de junk food et de vannes foireuses.        </p>
+        <p>
+          Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/" >HUGO</a> - un générateur de site statique libre, basé sur le langage Go. Vu qu'on était tous à peu près noob en création de site <em>from scratch</em>, l'idée de passer par ce type d'outil parut à tout le monde une bonne idée. D'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/tutoriel">tutoriel</a>assez complet et précis pour débuter avec l'outil. 
         </p>
-        <Image
-          class="webouille-img"
-          src={test_img}
-          alt="image test article test"
-        />
-        <h3>Ok ok mais c'est reparti de plus belle</h3>
+        <div class="img">
+          <Image
+            class="proto-img"
+            src={proto_projet_1}
+            alt="double page du projet 1 sur papier"
+          />
+        </div>
+        <p>
+          Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde. 
+        </p>
+        <h3>Mais c'est reparti de plus belle</h3>
+        <p>
+          Le CodeKeeper, le A comme on l'appelle en privée, c'est pas le genre à se taner la couane au soleil quand il quelque chose en tête, je vous invite à jeter un oeil sur son <a href="https://antoinemoreau.contact/">blog</a>
+        </p>
         <p>
           Lorem Salu bissame ! Wie geht's les samis ? Hans apporte moi une
           Wurschtsalad avec un picon bitte, s'il te plaît. Voss ? Une Carola et
@@ -50,22 +59,7 @@ const pageTitle = "Webouille";
           Richard Schirmeck (celui qui a un blottkopf), le mari de Chulia
           Roberstau, qui lui trempait sa Nüdle dans sa Schneck ! Yo dû,
           Pfourtz ! Ch'espère qu'ils avaient du Kabinetpapier, Gal !
-        </p>
-        <p>
-          Yoo ch'ai lu dans les DNA que le Racing a encore perdu contre
-          Oberschaeffolsheim. Verdammi et moi ch'avais donc parié deux knacks et
-          une flammekueche. Ah so ? T'inquiète, ch'ai ramené du schpeck, du
-          chambon, un kuglopf et du schnaps dans mon rucksack. Allez, s'guelt !
-          Wotch a kofee avec ton bibalaekaess et ta wurscht ? Yeuh non che suis
-          au réchime, je ne mange plus que des Grumbeere light et che fais de la
-          chym avec Chulien. Tiens, un rottznoz sur le comptoir.
-        </p>
-        <p>
-          Tu restes pour le lotto-owe ce soir, y'a baeckeoffe ? Yeuh non, merci
-          vielmols mais che dois partir à la Coopé de Truchtersheim acheter des
-          mänele et des rossbolla pour les gamins. Hopla tchao bissame !
-          Consectetur adipiscing elit
-        </p>
+        </p>        
         <p>
           Lorem Salu bissame ! Wie geht's les samis ? Hans apporte moi une
           Wurschtsalad avec un picon bitte, s'il te plaît. Voss ? Une Carola et
@@ -81,7 +75,7 @@ const pageTitle = "Webouille";
         </p>
         <Image
           class="webouille-img"
-          src={test_img}
+          src={proto_projet_1}
           alt="image test article test"
         />
         <p>
@@ -105,6 +99,26 @@ const pageTitle = "Webouille";
   </div>
 </BaseLayout>
 <style>
+
+  div.img {
+    position: relative;
+    z-index: 0;      
+    display: flex;
+    align-items: center;
+    
+    & img {      
+      object-fit: contain;         
+    }
+    &:after {
+      content:"double page du projet 1 sur papier";
+      position: absolute;      
+      bottom: 5%;
+      left: 5%;
+      background-color: var(--white);
+      z-index: 1 ;
+      padding: 0 1ch;      
+    }
+  }
   .webouille-main {
     position: relative;
     flex-direction: row;
@@ -138,6 +152,7 @@ const pageTitle = "Webouille";
       bottom: 0;
       right: 0;
       z-index: 1;
+
     }
 
     &:after {
@@ -187,7 +202,11 @@ const pageTitle = "Webouille";
     flex-grow: 1;
     width: auto;
     position: relative;
-    max-width: 75%;
+    max-width: 75%;   
+    & a {
+      background-color: var(--yellow);      
+    }
+    
     & > div.main-done {
       max-width: 1280px;
       padding: 2vh 4vw 8vh 10vw;

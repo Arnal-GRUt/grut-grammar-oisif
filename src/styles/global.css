@@ -771,10 +771,10 @@ body .display-flex.direction-row.redirection-col {
 	background-repeat: no-repeat;
 	background-position: 98%;
 	background-attachment: fixed;
-	transition: 0.3s;
+	transition: 0.5s;
 
 	&:has(.cta:hover) {
-		background-size: 50% auto;
+		background-size: 48% auto;
 
 		&::before {
 			background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.90), var(--black));
@@ -807,7 +807,7 @@ body .display-flex.direction-row.redirection-col {
 		background-image: -webkit-gradient(linear, left top, left bottom, from(var(--black)), color-stop(rgba(0, 0, 0, 0.90)), color-stop(rgba(0, 0, 0, 0.85)), color-stop(rgba(0, 0, 0, 0.90)), to(var(--black)));
 		background-image: -o-linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
 		background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
-		transition: 0.4s;		
+		transition: 1s;		
 	}
 }
 

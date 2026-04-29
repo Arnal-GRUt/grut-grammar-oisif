@@ -784,7 +784,7 @@ body .display-flex.direction-row.redirection-col {
 		width: 100%;
 		inset: 0;
 		margin: auto;
-		max-width: 75vw;
+		max-width: 85vw;
 		-webkit-box-align: center;
 		-ms-flex-align: center;
 		align-items: center;
@@ -813,7 +813,7 @@ body .display-flex.direction-row.redirection-col {
 	height: fit-content;
 
 	& :is(h2, h3, .style-h3) {
-		color: var(--white);		
+		color: var(--white);
 	}
 
 	& p {
@@ -845,11 +845,13 @@ body .display-flex.direction-row.redirection-col {
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
 	max-width: 60%;
+	transition: 0.2s;
 }
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n+1) {
 	font-size: 1.5rem;
 	margin-left: 3rem;
+	padding-right: 3rem;
 }
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n) {
@@ -859,11 +861,17 @@ body .display-flex.direction-row.redirection-col {
 	color: var(--black);
 }
 
+body .presentation .ambiance .col-pres-publication p.home-ecritouille-2 {
+	transform: rotate(2deg) translateX(10vw);
+	max-width: 100%;
+}
+
 body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	-webkit-transform: rotate(0);
 	-ms-transform: rotate(0);
 	transform: rotate(0);
-	max-width: 70%;
+	/* max-width: 70%; */
+	max-width: 100%;
 }
 
 .redirection-card-ecritouille .presentation .ambiance .col-pres-publication p.home-ecritouille-4 {
@@ -981,11 +989,17 @@ html body .contenu-page .page-texte .corps-texte {
 	}
 }
 
-.ambiance:has(.cta:hover) p {
+.presentation .ambiance .col-pres-publication:has(.cta:hover) *:is(p, h3) {
 	-webkit-transform: none;
 	-ms-transform: none;
 	transform: none;
 }
+
+/* .ambiance:has(.cta:hover) p {
+	-webkit-transform: none;
+	-ms-transform: none;
+	transform: none;
+} */
 
 div.col-pres-publication {
 	display: -webkit-box;
@@ -3140,6 +3154,20 @@ html:is([id*="about"], #Webouille) {
 			background-color: var(--yellow);
 			/* background-color: transparent; */
 			border-bottom: none;
+		}
+	}
+}
+
+@media (width < 601px) {
+	body .redirection-card-ecritouille {
+		& .display-flex.direction-row {
+			.presentation.display-flex.direction-column {
+				width: 90vw;
+
+				& .ambiance.display-flex.direction-row {
+					gap: 80px;
+				}
+			}
 		}
 	}
 }

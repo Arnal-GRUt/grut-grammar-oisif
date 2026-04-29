@@ -772,7 +772,8 @@ body .display-flex.direction-row.redirection-col {
 	background-attachment: fixed;
 	transition: 1s;
 
-	&:has(.cta:hover) {
+	/* &:has(.cta:hover) { */
+	&:has(.carton-presentation:hover) {
 		background-size: 60%;
 		background-position-x: 124%;
 
@@ -881,6 +882,7 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	padding-right: 3rem;
 	max-width: 100%;
 }
+
 
 .redirection-card-ecritouille .presentation .ambiance .col-pres-publication p.home-ecritouille-4 {
 	max-width: -webkit-fit-content;

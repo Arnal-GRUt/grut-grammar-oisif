@@ -2840,7 +2840,7 @@ span.icon-arrow {
 		max-width: unset;
 		min-width: 100%;
 
-		&::nth-child(odd) {
+		&:nth-child(odd) {
 			margin-left: 0;
 		}
 	}

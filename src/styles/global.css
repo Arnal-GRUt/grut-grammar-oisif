@@ -2836,9 +2836,13 @@ span.icon-arrow {
 		}
 	}
 
-	.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
+	div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
 		max-width: unset;
 		min-width: 100%;
+
+		&::nth-child(odd) {
+			margin-left: 0;
+		}
 	}
 
 	.image-container {

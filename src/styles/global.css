@@ -845,13 +845,12 @@ body .display-flex.direction-row.redirection-col {
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
 	max-width: 60%;
-	transition: 0.2s;
-	padding-right: 3rem;
+	transition: 0.2s;	
 }
 
 div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n+1) {
 	font-size: 1.5rem;
-	margin-left: 3rem;	
+	margin-left: 3rem;		
 }
 
 div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n) {
@@ -862,15 +861,15 @@ div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nt
 }
 
 body .presentation .ambiance .col-pres-publication p.home-ecritouille-2 {
-	transform: rotate(2deg) translateX(10vw);
-	max-width: 100%;
+	transform: rotate(2deg) translate(8vw);
+	max-width: 80%;
 }
 
 body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	-webkit-transform: rotate(0);
 	-ms-transform: rotate(0);
 	transform: rotate(0);
-	/* max-width: 70%; */
+	padding-right: 3rem;
 	max-width: 100%;
 }
 

@@ -1069,6 +1069,11 @@ div.col-pres-publication {
 	background-position: top;
 	width: 40%;
 
+	& h2 {
+		background-color: var(--white);
+		transform: rotate(6deg) translate(3rem, -1.5rem);}
+	}
+
 	& .cta {
 		display: -webkit-box;
 		display: -ms-flexbox;
@@ -1086,11 +1091,11 @@ div.col-pres-publication {
 	max-width: 400px;
 	width: 80%;
 	margin-left: 15%;
-	/* border-radius: 4px; */
 	gap: var(--gap-24);
 	padding: 24px;
-	background: var(--white);
+	background: var(--yellow);
 	z-index: 1;
+	transform: rotate(-4deg);
 }
 
 /******************************************/

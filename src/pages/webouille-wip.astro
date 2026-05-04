@@ -20,10 +20,11 @@ const pageTitle = "Webouille";
         <p style="font-size: 1rem;">Maj : 04 mai 2026</p>
         </div>
         <ul>
-          <li><input type="checkbox" />Retravailler la version firefox de la home</li>
-          <li><input type="checkbox" />Corriger/alléger le css</li>
-          <li><input type="checkbox" />Corriger la galerie de gribouilles</li>
-          <li><input type="checkbox" />Utiliser collection d'images pour "Webouille"</li>
+          <li>&rsaquo;_</li>
+          <li>Retravailler la version firefox de la home</li>
+          <li>Corriger/alléger le css</li>
+          <li>Corriger la galerie de gribouilles</li>
+          <li>Utiliser collection d'images pour "Webouille"</li>
         </ul>
       </div>
     </section>
@@ -52,15 +53,15 @@ const pageTitle = "Webouille";
           Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet, moi le premier j'ai raté quelques rendez-vous. Ça a toujours été de super moments, nos réunions ressemblaient à des sortes de <em>fab lab</em> sans prétention et dans la bonne humeur, où le niveau de motivation était plus ou moins élevé suivant les personnes, le tout sous perfusion de junk food et de vannes foireuses. En ligne de mire on s'était programmé une dernière réunion de présentation des pf terminés.
         </p>
         <p>
-          Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/">HUGO</a> - un générateur de site statique libre, basé sur le langage Go. Vu qu'on était tous à peu près noob en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/">tutoriel</a>assez complet et précis pour débuter avec l'outil.
+          Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/">HUGO</a> - un générateur de site statique libre, basé sur le langage Go / <a href="https://www.netlify.com/">Netlify</a> comme solution d'hébergement. Vu qu'on était tous à peu près noob en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/">tutoriel</a>assez complet et précis pour débuter avec ces outils (principalement HUGO).
         </p>
         <p>
-          Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde. Pour ce qui me concerne, je n'ai pas été très à l'aise avec HUGO que j'ai laissé de coté par pur flemme procrastinatoire. Le projet quant à lui ne s'est pas perdu pour autant et s'est calé dans un coin de ma tête. 
+          Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde. Pour ce qui me concerne, je n'ai pas été très à l'aise avec HUGO que j'ai laissé de coté par pure flemme procrastinatoire mais aussi parce que je me voyais apprendre un nouveau langage. Le projet quant à lui ne s'est pas perdu pour autant et s'est calé dans un coin de ma tête en attendant des jours meilleurs. 
         </p>          
       
         <h3>2025, année du reboot</h3>
         <p>
-          Le A, comme on l'appelle dans la Silicon Valley du 16, c'est pas le genre à se tanner la couenne au soleil quand il quelque chose en tête, je vous invite à jeter un œil à <a href="https://antoinemoreau.contact/">blog</a>. Une fois encore, c'est donc lui qui, continuant à fouiller le web à la recherche des meilleurs outils possibles pour sortir un site assez simplement, propre et à peu de frais, nous a dégoté un solution alternative à HUGO. 
+          Le A, comme on l'appelle dans la Silicon Valley du 16, c'est pas le genre à se tanner la couenne au soleil quand il quelque chose en tête, je vous invite à jeter un œil à <a href="https://antoinemoreau.contact/">blog</a>. Une fois encore, c'est lui qui, continuant à fouiller le web à la recherche des meilleurs outils possibles pour sortir un site assez simplement, propre et à peu de frais, nous a dégoté un solution alternative à HUGO.          
         </p>
         <div class="img">
           <Image
@@ -88,8 +89,8 @@ const pageTitle = "Webouille";
     &:after {
       content:"NA";
       position: absolute;      
-      bottom: 5%;
-      left: 5%;
+      bottom: 0%;
+      right: 0%;
       background-color: var(--white);
       z-index: 1 ;
       padding: 0 1ch;      
@@ -155,7 +156,7 @@ const pageTitle = "Webouille";
     padding-bottom: 15vh;
   }
 
-  .webouille-todo {
+  html#Webouille body .webouille-todo {
     /* height: 100vh; */
     width: auto;
     max-width: 25%;
@@ -174,10 +175,25 @@ const pageTitle = "Webouille";
       color: var(--white);
       width: inherit;
       padding: 0;
+      line-height: 1.2rem;
 
-      & li input[checkbox] {
-        display: flex;
+      & li:first-of-type {
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+        animation: blink-todo 3.5s ease 0s infinite normal forwards;
       }
+    }    
+  }
+  @keyframes blink-todo {
+    0%,
+    50%,
+    100% {
+      opacity: 1;
+    }
+
+    25%,
+    75% {
+      opacity: 0;
     }
   }
 

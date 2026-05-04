@@ -1069,9 +1069,9 @@ div.col-pres-publication {
 	background-position: top;
 	width: 40%;
 
-	& .display-flex.direction-column h2 {
+	& h2 {
 		background-color: var(--white);
-		transform: rotate(6deg) translate(3rem, -1.5rem);}
+		transform: rotate(6deg) translate(3rem, -1.5rem);
 	}
 
 	& .cta {

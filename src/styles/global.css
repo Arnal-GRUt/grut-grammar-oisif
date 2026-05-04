@@ -765,9 +765,9 @@ body .display-flex.direction-row.redirection-col {
 	height: -webkit-fit-content;
 	height: -moz-fit-content;
 	height: fit-content;
-	background: url(../images/abysse-noiretblanc.png);	
-	background-size: 46% auto;	
-	background-repeat: no-repeat;	
+	background: url(../images/abysse-noiretblanc.png);
+	background-size: 46% auto;
+	background-repeat: no-repeat;
 	background-position: 98%;
 	background-attachment: fixed;
 	transition: 1s;
@@ -807,7 +807,7 @@ body .display-flex.direction-row.redirection-col {
 		background-image: -webkit-gradient(linear, left top, left bottom, from(var(--black)), color-stop(rgba(0, 0, 0, 0.90)), color-stop(rgba(0, 0, 0, 0.85)), color-stop(rgba(0, 0, 0, 0.90)), to(var(--black)));
 		background-image: -o-linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
 		background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
-		transition: 1s;		
+		transition: 1s;
 	}
 }
 
@@ -854,12 +854,12 @@ body .display-flex.direction-row.redirection-col {
 
 .presentation .ambiance .col-pres-publication p[class*="home-ecritouille"] {
 	max-width: 60%;
-	transition: 0.2s;	
+	transition: 0.2s;
 }
 
 div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n+1) {
 	font-size: 1.5rem;
-	margin-left: 3rem;		
+	margin-left: 3rem;
 }
 
 div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n) {
@@ -1096,6 +1096,15 @@ div.col-pres-publication {
 	background: var(--yellow);
 	z-index: 1;
 	transform: rotate(-4deg);
+
+	& p span {
+		font-size: 1.3rem;
+		transform: rotate(2deg);
+		font-family: 'Chelsea Market';
+		background: var(--black);
+		color: var(--yellow);
+		margin-left: -2rem;
+	}
 }
 
 /******************************************/

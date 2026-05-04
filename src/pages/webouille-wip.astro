@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import proto_projet_1 from "../images/visuels-webouille/proto-depart-projet-pf.png";
+import proto_projet_2 from "../images/visuels-webouille/Charte-graphique-v1.png";
 
 // import BlogPost from "../components/BlogPost.astro";
 
@@ -14,18 +15,29 @@ const pageTitle = "Webouille";
     <h1>{pageTitle}</h1>
     <section class="webouille-todo display-flex">
       <div class="display-flex">
-        <h2 class="soustitre-page">Todo list</h2>
+        <div>
+        <h2 class="soustitre-page">Todo list</h2>        
+        <p style="font-size: 1rem;">Maj : 04 mai 2026</p>
+        </div>
         <ul>
-          <li><input type="checkbox" />lorem ipsum - task 3</li>
-          <li><input type="checkbox" />lorem ipsum - task 4</li>
-          <li><input type="checkbox" />lorem ipsum - task 5</li>
-          <li><input type="checkbox" />lorem ipsum - task 6</li>
+          <li><input type="checkbox" />Retravailler la version firefox de la home</li>
+          <li><input type="checkbox" />Corriger/alléger le css</li>
+          <li><input type="checkbox" />Corriger la galerie de gribouilles</li>
+          <li><input type="checkbox" />Utiliser collection d'images pour "Webouille"</li>
         </ul>
       </div>
     </section>
     <section class="webouille-done display-flex">
       <div class="display-flex direction-column main-done">
         <h2 class="soustitre-page">Un peu de passif...</h2>
+        <p>
+          J'aime bien écrire. Si ce n'est pas votre première fois sur ce site, vous ne saurez pas surpris·e de ce que vous trouverez ici. Les autres, la majorité j'imagine, je vous préviens dès maintenant, ça risque d'être assez verbeux. Il y aura aussi des photos et un peu de technique, mais je ne vais pas vous raconter d'histoire... enfin oui en fait, c'est plutôt ça l'idée, j'aime raconter des histoire et les origines de ce site constituant en soi une histoire, je vais la raconter. Enfin bref... 
+        </p>
+        <p>
+          <span>TRIGGER VARNING</span>
+        </br>« Aux allergiques de la virgule, aux angoissés du blabla et aux phobiques du mot de trop, je vous dis simplement : « Fuyez! Pauvres fous ! »          
+        </p>
+        <h3>Un portfolio en ligne de mire</h3>
         <p>
           Ça a commencé en 2024, avec les copains du taf, des doutes et une envie collective de se faire un <strong>portfolio webdesigner</strong>. La première fois on s'est donné rendez-vous un samedi après-midi au chateau de la Chatelaîne et du CodeKeeper, pour travailler ensemble sur nos projets perso. L'idée était de miser sur l'émulation de groupe et ne pas se laisser bouffer par la procrastination.
         </P>
@@ -37,20 +49,26 @@ const pageTitle = "Webouille";
           />
         </div>
         <p>
-          Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet, moi le premier j'ai raté quelques rendez-vous. Ça a toujours été de super moments, nos réunions ressemblaient à des sortes de <em>fab lab</em> sans prétention et dans la bonne humeur où le niveau de motivation était plus ou moins élevé suivant les personnes, le tout sous perfusion de junk food et de vannes foireuses. En ligne de mire on s'était programmé une dernière réunion de présentation des pf terminés.
+          Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet, moi le premier j'ai raté quelques rendez-vous. Ça a toujours été de super moments, nos réunions ressemblaient à des sortes de <em>fab lab</em> sans prétention et dans la bonne humeur, où le niveau de motivation était plus ou moins élevé suivant les personnes, le tout sous perfusion de junk food et de vannes foireuses. En ligne de mire on s'était programmé une dernière réunion de présentation des pf terminés.
         </p>
         <p>
-          Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/">HUGO</a> - un générateur de site statique libre, basé sur le langage Go. Vu qu'on était tous à peu près noob en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outil était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/">tutoriel</a>assez complet et précis pour débuter avec l'outil.
+          Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/">HUGO</a> - un générateur de site statique libre, basé sur le langage Go. Vu qu'on était tous à peu près noob en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/">tutoriel</a>assez complet et précis pour débuter avec l'outil.
         </p>
         <p>
-          Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde.         
-        </p>
-        <p>
-          Pour ce qui me concerne, je n'ai pas été très à l'aise avec Hug j'ai laissé de coté le projet dans un coin de ma tête. 
-
-          Le CodeKeeper, le A comme on l'appelle dans la Silicon Valley, c'est pas le genre à se tanner la couenne au soleil quand il quelque chose en tête, je vous invite à jeter un œil à <a href="https://antoinemoreau.contact/">blog</a>
-        </p>
+          Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde. Pour ce qui me concerne, je n'ai pas été très à l'aise avec HUGO que j'ai laissé de coté par pur flemme procrastinatoire. Le projet quant à lui ne s'est pas perdu pour autant et s'est calé dans un coin de ma tête. 
+        </p>          
+      
         <h3>2025, année du reboot</h3>
+        <p>
+          Le A, comme on l'appelle dans la Silicon Valley du 16, c'est pas le genre à se tanner la couenne au soleil quand il quelque chose en tête, je vous invite à jeter un œil à <a href="https://antoinemoreau.contact/">blog</a>. Une fois encore, c'est donc lui qui, continuant à fouiller le web à la recherche des meilleurs outils possibles pour sortir un site assez simplement, propre et à peu de frais, nous a dégoté un solution alternative à HUGO. 
+        </p>
+        <div class="img">
+          <Image
+            class="Charte-graphique"
+            src={proto_projet_2}
+            alt="Charte graphique"
+          />
+        </div>
       </div>
     </section>
     <div class="overlay-done"></div>
@@ -68,7 +86,7 @@ const pageTitle = "Webouille";
       object-fit: contain;         
     }
     &:after {
-      content:"Double page du projet 1 sur papier + personnage bd";
+      content:"NA";
       position: absolute;      
       bottom: 5%;
       left: 5%;
@@ -76,6 +94,14 @@ const pageTitle = "Webouille";
       z-index: 1 ;
       padding: 0 1ch;      
     }
+    &:has(.proto-img):after {
+      content:"Double page du projet 1 sur papier + personnage bd";
+    }
+    &:has(.Charte-graphique):after {
+      content:"Charte graphique";
+      background-color: var(--black);
+      color: var(--yellow);
+    }    
   }
   .webouille-main {
     position: relative;

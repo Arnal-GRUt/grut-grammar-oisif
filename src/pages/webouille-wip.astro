@@ -4,6 +4,7 @@ import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import proto_projet_1 from "../images/visuels-webouille/proto-depart-projet-pf.png";
 import proto_projet_2 from "../images/visuels-webouille/Charte-graphique-v1.png";
+import proto_projet_3 from "../images/visuels-webouille/Old-proto-avant-2020-2.png";
 
 // import BlogPost from "../components/BlogPost.astro";
 
@@ -38,15 +39,26 @@ const pageTitle = "Webouille";
           <span>TRIGGER VARNING</span>
         </br>« Aux allergiques de la virgule, aux angoissés du blabla et aux phobiques du mot de trop, c'est le moment : « Fuyez ! Pauvres fous ! »          
         </p>
+        <p>
+          L'idée d'un site perso me trottait dans la tête depuis quelques années déjà. À l'époque, plus qu'un portfolio webdesign, j'étais parti sur un site sur lequel je partagerais mes textes essentiellement. J'ai commis pas mal de prototypes sur papier et sur figma dont certains animés (cf. ci-dessous). La flemme, encore, et des problèmes de compétences évidemment, ont toujours renvoyé à plus tard la production de ces sites et il faut bien l'admettre un manque criant de contenu donnait à ces projets des airs de coquilles un chuya vide.
+        </p>
+        <div class="img">
+          <Image
+            class="oldies-v1"
+            src={proto_projet_3}
+            alt="Écran figma d'un prototype de site sur mobil orienté contenu texte"
+            href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1"
+          />
+        </div>
         <h3>Un portfolio en ligne de mire</h3>
         <p>
           Ça a commencé en 2024, avec les copains du taf, des doutes et une envie collective de se faire un <strong>portfolio webdesigner</strong>. La première fois on s'est donné rendez-vous un samedi après-midi au chateau de la Chatelaîne et du CodeKeeper, pour travailler ensemble sur nos projets perso. L'idée était de miser sur l'émulation de groupe et ne pas se laisser bouffer par la procrastination.
-        </P>
+        </p>
         <div class="img">
           <Image
             class="proto-img"
             src={proto_projet_1}
-            alt="double page du projet 1 sur papier + personnage bd"
+            alt="Double page du projet 1 sur papier + personnage bd"
           />
         </div>
         <p>
@@ -56,6 +68,9 @@ const pageTitle = "Webouille";
           Au départ, sur les conseils du CK qui avait bien digué la question, on était parti sur une base <a href="https://gohugo.io/">HUGO</a> - un générateur de site statique libre, basé sur le langage Go / <a href="https://www.netlify.com/">Netlify</a> comme solution d'hébergement. Vu qu'on était tous à peu près noob en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/">tutoriel</a> assez complet et précis pour débuter avec ces outils (principalement HUGO).
         </p>
         <p>
+          De fait avant de passer
+        </p>
+        <p>
           Bon, on va pas se mentir, cette première initiative a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à la flemme standard en passant par des voyages à l'autre bout du monde. Pour ce qui me concerne, je n'ai pas été très à l'aise avec HUGO que j'ai laissé de coté par pure flemme procrastinatoire. Le projet quant à lui ne s'est pas perdu pour autant, il s'est calé dans un coin de ma tête en attendant des jours meilleurs. 
         </p>     
         <h3>2025, année du reboot</h3>
@@ -63,7 +78,10 @@ const pageTitle = "Webouille";
           Le A, comme on l'appelle dans la Silicon Valley du 16, c'est pas le genre à se tanner la couenne au soleil quand il a quelque chose en tête, je vous invite à jeter un œil à son <a href="https://antoinemoreau.contact/">blog</a>. Une fois encore, c'est lui qui, continuant à fouiller le web à la recherche des meilleurs outils possibles pour sortir un site assez simplement, propre et à peu de frais, nous a dégoté un solution alternative à HUGO. En l'occurence <a href="https://astro.build/">Astro js</a> un autre <em>Framework web js</em>, cette fois plutôt optimisé création de blog <strong>html/css/js/md</strong> (toujours Netifly comme solution d'hébergement).
         </p>
         <p>
-          Pour moi c'était vraiment la solution idéale. Un tuto 'création de blog' très simple à suivre (malgré quelques oublis sur lesquels, peut-être, je reviendrais plus tard). 
+          Pour moi c'était vraiment la solution idéale, notamment grace à son tuto <strong>création de blog</strong> très simple à suivre (malgré quelques oublis sur lesquels, peut-être, je reviendrais plus tard).
+        </p>
+        <p>
+          
         </p>
         <div class="img">
           <Image

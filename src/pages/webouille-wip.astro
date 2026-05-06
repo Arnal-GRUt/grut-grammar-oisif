@@ -175,8 +175,20 @@ const pageTitle = "Webouille";
       z-index: 1 ;
       padding: 0 1ch;  
       font-size: 1rem;
-      font-style: italic;    
+      font-style: italic;   
+      height: fit-content;
+      max-width: 20%;
+      min-height: 80px;
+      min-width: 240px;
+      transform: rotateZ(-7deg) translateX(3rem);
+      padding: 0.8rem;
+      transition: auto; 
+      opacity: 0;
     }
+    &:hover::after {
+      opacity: 1;
+      transform: rotateZ(-5deg) translateX(0);
+    }    
     &:has(.proto-img):after {
       content:"Double page du projet 1 sur papier + personnage bd";
     }

@@ -103,9 +103,9 @@ const pageTitle = "Webouille";
         </p>
         <div class="img">
           <Image
-            class="proto-img"
+            class="astro-github-1"
             src={proto_projet_5}
-            alt="Double page du projet 1 sur papier + personnage bd"
+            alt="Structure d'un projet astro basique : dossier public, src contenant les pages, asset etc, et fichier package.json"
           />
         </div>
         <p>
@@ -166,6 +166,9 @@ const pageTitle = "Webouille";
     }  
     &:has(.Premier-proto):after {
       content:"Première version de l'accueil du site sur 3 écrans";
+    }    
+    &:has(.Premier-proto):after {
+      content:"Structure d'un projet astro basique avec dossiers public, src contenant les pages, asset etc, et un fichier package.json";
     }    
   }
   .webouille-main {

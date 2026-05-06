@@ -303,9 +303,7 @@ const pageTitle = "Webouille";
         height: auto;
       }
       & *:is(h2, h3) {
-        background: var(--white);
         padding: 8px 16px 8px 0;
-        color: var(--black);
         width: fit-content;
       }
       & *:is(h3, p) {
@@ -316,7 +314,9 @@ const pageTitle = "Webouille";
       }
       & h2 {
         font-size: 2rem;
-        
+        background: var(--white);
+        color: var(--black);
+
         &:nth-child(even) {
           transform: rotate(2deg);
         }
@@ -324,7 +324,11 @@ const pageTitle = "Webouille";
           transform: rotate(-2deg);
         }
       }
-      & h3 {
+      & h3 {        
+        background: transparent;
+        color: var(--yellow);
+        border: 2px dashed var(--yellow);
+
         &:nth-child(even) {
           transform: rotate(-2deg);
         }

@@ -192,7 +192,7 @@ const pageTitle = "Webouille";
     /* background-blend-mode: multiply; */
 
     & img {
-      height: fit-content;
+      height: fit-content;      
     }
 
     & h1 {
@@ -325,8 +325,9 @@ const pageTitle = "Webouille";
         }
       }
       & h3 {        
-        background: var(--yellow);
-        color: var(--black);        
+        color: var(--white);
+        border-bottom: 8px dashed var(--yellow);
+        padding: 0;       
 
         &:nth-child(even) {
           transform: rotate(-2deg);

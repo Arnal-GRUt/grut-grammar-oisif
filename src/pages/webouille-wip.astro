@@ -281,7 +281,6 @@ const pageTitle = "Webouille";
   }
 
   .webouille-done {
-    /* height: 100vh; */
     flex-grow: 1;
     width: auto;
     position: relative;
@@ -310,7 +309,7 @@ const pageTitle = "Webouille";
       & *:is(h3, p) {
         font-size: 1.3rem;
       }
-      & p {
+      & :is(p, ul li) {
         color: color-mix(in srgb, var(--white) 90%, var(--black));
       }
       & h2 {

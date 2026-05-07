@@ -99,27 +99,20 @@ const pageTitle = "Webouille";
           Le A, comme on l'appelle dans la Silicon Valley du Un Six, c'est pas le genre à se tanner la couenne au soleil quand il a quelque chose en tête, je vous invite à jeter un œil à son <a href="https://antoinemoreau.contact/" target="_blank">blog</a>. Une fois encore, c'est lui qui, continuant à fouiller le web à la recherche des meilleurs outils possibles pour sortir un site assez simplement, propre et à peu de frais, nous a dégoté un solution alternative à HUGO. En l'occurence <a href="https://astro.build/" target="_blank">Astro js</a> un autre <em>Framework web js</em>, cette fois plutôt optimisé création de blog <strong>html/css/js/md</strong> (toujours Netifly comme solution d'hébergement).
         </p>
         <h3>Maintenant qu'on a les bons outils</h3> 
-        <div class="display-flex mentions-legales" style="background: var(--yellow);">          
-          <div
-            ><img
-              src="../images/visuels-webouille/logo-astrojs.png"
+        <div class="display-flex tools-icon">          
+          <div>
+            <img
+              src="src/images/visuels-webouille/logo-astrojs.png"
               alt=""
-              style="max-width: 1.5rem;max-height:1em;margin-left: 1rem;"
             /><img
-              src="../images/visuels-webouille/logo-github.png"
+              src="src/images/visuels-webouille/logo-github.png"
               alt=""
-              style="max-width: 1.5rem;max-height:1em;margin-left: 1rem;"
             /><img
-              src="../images/visuels-webouille/logo-netlify.png"
+              src="src/images/visuels-webouille/logo-netlify.png"
               alt=""
-              style="max-width: 1.5rem;max-height:1em;margin-left: 1rem;"
-            /><img
-              src="../images/visuels-webouille/logo-vercel.png"
-              alt=""
-              style="max-width: 1.5rem;max-height:1em;margin-left: 1rem;"
-          /></div
-          >
-        </div>       
+            /></div>
+        </div>    
+        <p>Ou presque... Et je vais y venir assez vite</p>   
         <p>
           Astro js c'est révélé être la solution idéale, notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moment (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers etc, et quand on ne doit pas du tout), on se laisse tranquillement porter jusqu'à la fin.
         </p>
@@ -156,6 +149,26 @@ const pageTitle = "Webouille";
     transform: rotate(-2deg) translateX(-4rem);
     font-family: "Chelsea Market", system-ui;
     color: var(--black);
+  }
+
+  div:has(.tools-icon) {
+    display: flex;
+    flex-direction: row;
+    & .tools-icon div {
+      display: flex;
+      height: fit-content;
+      width: 100%;
+      justify-content: flex-start;
+      align-items: center;
+      height: 100%;
+      gap: 1rem;
+
+      & img {
+        height: 5rem;
+        padding: 1rem;
+        background: var(--white);        
+      }
+    }
   }
   div.img {
     position: relative;
@@ -316,7 +329,7 @@ const pageTitle = "Webouille";
     }
     
     & > div.main-done {
-      max-width: 1280px;
+      max-width: 1024px;
       padding: 2vh 4vw 8vh 10vw;
       scrollbar-color: transparent transparent;
       overflow-y: scroll;

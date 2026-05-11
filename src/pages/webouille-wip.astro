@@ -291,11 +291,6 @@ const pageTitle = "Webouille";
     width: auto;
     max-width: 20%;
 
-    & ul.liste-intext li:before {
-      content: "✓";
-      padding-right: 0.5rem;
-    }
-
     & * {
       color: var(--white);
     }
@@ -344,7 +339,13 @@ const pageTitle = "Webouille";
     flex-grow: 1;
     width: auto;
     position: relative;
-    max-width: 75%;   
+    max-width: 75%;  
+    
+    & ul.liste-intext li:before {
+      content: "✓";
+      padding-right: 0.5rem;
+    }
+
     & a {
       background-color: var(--yellow);      
     }

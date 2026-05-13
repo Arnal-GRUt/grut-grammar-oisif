@@ -7,6 +7,7 @@ import proto_projet_2 from "../images/visuels-webouille/Charte-graphique-v1-2.pn
 import proto_projet_3 from "../images/visuels-webouille/Old-proto-avant-2020-2.png";
 import proto_projet_4 from "../images/visuels-webouille/proto-site-2024.png";
 import proto_projet_5 from "../images/visuels-webouille/structure-astro-de-base.png";
+import proto_projet_6 from "../images/visuels-webouille/mood-board.png";
 
 // import BlogPost from "../components/BlogPost.astro";
 const pageTitle = "Webouille";
@@ -164,6 +165,7 @@ const pageTitle = "Webouille";
             src={proto_projet_2}
             alt="Charte graphique"
           />
+
         <p>
           Point positif, j'ai choisit assez vite les couleurs du site :
           <ul class="liste-intext">
@@ -180,9 +182,9 @@ const pageTitle = "Webouille";
         </p>
         <div class="img">
           <Image
-            class="Charte-graphique"
-            src={proto_projet_2}
-            alt="Charte graphique"
+            class="mood-board"
+            src={proto_projet_6}
+            alt="Assemblage d'écrans de blog pour la plupart japonais"
           />
         </div>
       </div>
@@ -267,7 +269,10 @@ const pageTitle = "Webouille";
     }    
     &:has(.astro-github-1):after {
       content:"Structure d'un projet astro basique avec dossiers public, src contenant les pages, asset etc, et un fichier package.json";
-    }    
+    } 
+    &:has(.mood-board):after {
+      content:"Moodboard : recherche de style, ton, etc.";
+    }   
   }
   .webouille-main {
     position: relative;

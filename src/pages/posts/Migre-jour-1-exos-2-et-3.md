@@ -254,3 +254,5 @@ Le tyran tentaculaire trône sur le monde, les "après tout" ont perverti notre 
 Résistez. Combattez.  
 
 ----
+
+[^1] : DC pour "*Destiny's Child*"

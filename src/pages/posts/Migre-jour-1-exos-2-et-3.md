@@ -11,7 +11,7 @@ tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoi
 
 ## Préambule
 
-Je n'ai pas eu le temps de tout reprendre dans l'après-midi, on voulait travailler sur autre chose. Je m'y suis remis le soir même, de retour du resto et l'aprem du deuxième jour. Les 2 derniers exercices de la journée sont donc disponibles juste après.  
+Je n'ai pas eu le temps de tout reprendre dans l'après-midi du premier jour, on voulait travailler sur autre chose. Je m'y suis remis le soir même, de retour du resto et l'aprem du deuxième jour. Les 2 derniers exercices de la première journée sont donc disponibles juste après.  
 
 Bonne lecture. Again.  
 

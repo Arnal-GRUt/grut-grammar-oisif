@@ -85,79 +85,6 @@ Le thème tiré de la liste de B : "Souviens toi toujours du néant"
 
 ### Le texte
 
->>*Auteurice inconnu.e* - "*Mes Lettres à tous*" - catégorie textes interdits  
->(extrait du journal d'un soldat).
-
-[...]  
-
-- Journal d'un conscrit - 21/05/2076   
-
-4ème jour de combats acharnés  
-
-Nous avons déjà perdu des millions de camarades. Précisemment, quatre millions deux cent cinquante-trois mille huit cent sept. Ca fait beaucoup.  
-
-[...]  
-
-- Journal d'un conscrit - 27/05/2076  
-
-10ème jour de combats.  
-
-J'ai arrêté de regarder les statistiques, de lire les noms des camarades tombé.e.s au combat. Le front occidental tient bien, pour autant que ce soit possible. Le front oriental, quant à lui, est une incarnation de l'enfer. Au sens propre. Les âmes tombent, brulent, se font manger, écarteler par des tentacules, happer par des trous noirs, parfois parteillement, parfois entièrement, quand ce ne sont pas les armes gluantes des bras énemis qui broyent, ce sont les yeux et leur regard brûlant, atroces, terrifiants, qui rendent fous au point de laisser nos camarades s'entretuer de pitié.  
-
-[...]  
-
-- Journal d'un conscrit - 16/06/2076  
-
-30ème jour de combats.
-
-De ce qu'on sait, il n'y a plus de front oriental. Il ne reste que le néant peuplé des créatures du vide. On ne sait comment les appeler, on ne sait vraiment les décrire, personne n'a encore vu leurs chefs, leur seigneur, le tyran tentaculaire. C'est mieux, parait-il.  
-
-[...]  
-
-J'ai appris par des proches, restés derrière les lignes, que les front occidental avait préféré monter sa bulle de protection, plutôt que d'aider le front oriental. On a essayé de m'expliquer que c'était le chemin à suivre et que de toute manière la chute du front oriental était écrite  
-
-[...]  
-
-- Journal d'un conscrit - un jour de juillet 2076 ?  
-
-Le front occidental ne cède toujours pas. Nos chefs sont fiers, l'espoir semble renaître dans une partie de nos rangs. Je ne sais quoi en penser. D'aucuns disent que c'est parce que leur dieu, le tyran tentaculaire en a décidé autrement et que, le jour où il l'aura décidé, il nous dévorera comme il a dévoré les autres.  
-
-Qu'attend-il ?  
-
-- Journal d'un conscrit - 21/09/2076  
-
-Nous rentrons. "Nous" AKA les survivants, les "*destiny's child*" comme on nous appelle, ceux qui ont survécu à l'*Enfer*.  
-
-[...]  
-
-Dans les territoires sous bulle, la vie semble avoir repris ses droits plus vite qu'ailleurs. Manifestement sauver son cul au détriment d'autruit à au moins servit à ça. Mais pour combien de temps ?  
-
-[...]  
-
-Depuis la fin de l'effondrement de la moitié du monde, la vie semble plus douce pour certains.  
-
-- Journal d'un DC [^1] - 08/09/2077
-
-Avec quelques anciens, des amis et quelques citoyens de bonne volonté, nous essayons de garder vivasses les souvenirs de la guerre. Les vrais souvenirs, pas les fantasmes de quelques tarés révisionnistes.  
-
-[...]  
-
-Depuis quelques semaines, nous sommes attaqués de toute part par celles et ceux qui nous traitent de pourvoyeurs de peur et de dépression. Dans certain milieu on commence à nous appeler les "*filles de la peur*" / "*filles de la chouine*". Dans toutes les langues. Bizarrement, jamais les "*fils*".  
-
-[...]   
-
-Dans la tête de beaucoup de nos concitoyens ce discours semble fonctionner. Jusqu'où et pourquoi ? Ca fait à peine 1 an que nous sommes rentré.e.s et ça part déjà en vrille ?  
-
-- Journal d'un chouineur - 21/04/2078  
-
-les élections ont mis du temps à revenir. Il y avait toujours un prétexte, des soubresauts à l'Est, des institutions pas encore prêtes, etc. Au final, on aurait peut-être pu attendre encore un peu, vu les résultats.  
-
-Ca nous pendait au nez, il faut bien l'admettre. Les faussoyeurs du front oriental, les adorateurs du tyran tentaculaire, ont remporté les élections. On va faire quoi maintenant ?  
-
-[...]  
-
-Je viens d'apprendre que notre mouvement a été dissous. Il parait qu'on fout le *zbeul*, qu'on est un danger pour l'équilibre social, que nos conférences sont des foyers de guerre civile, etc.  
-
 [...]  >*Auteurice inconnu.e* - "*Mes Lettres à tous*" - catégorie textes interdits  
 >(extrait du journal d'un soldat).
 
@@ -167,7 +94,7 @@ Je viens d'apprendre que notre mouvement a été dissous. Il parait qu'on fout l
 
 4ème jour de combats acharnés  
 
-Nous avons déjà perdu des millions de camarades. Précisément, quatre virgule deux cent cinquante-trois mille huit cent sept. Ça fait beaucoup.  
+Nous avons déjà perdu des millions de camarades. Précisément, quatre millions deux cent cinquante-trois mille huit cent sept. Ça fait beaucoup.  
 
 [...]  
 

@@ -24,13 +24,13 @@ Bonne lecture. Again.
 
 ### Les mots tirés du texte
 
-les mots à intégrer n'ont pas été tiré au hasard pour une fois. Nous en avons gardé les 4 que nous avions en commun dans nos listes respectives :  
+les mots à intégrer n'ont pas été tirés au hasard pour une fois. Nous avons gardé les 4 que nous avions en commun dans nos listes respectives :  
 
 Mes mots retenus : offrir / nuit / adorable / **silence** / monde / surnaturel / **pauvre** / onduler / regarder / **vide** / lychen / fantôme / vif / nuage / visiter / garçon / **poudre** / rouge / cristal / échouer / manque  
 
 Les mots de B : hanté / ouvert / Ghislaine / barrière / **silence** / épais / rouge-gorge / **pauvre** / autre coté / feuilleter / **vide** / décorés / laissent passer l'air / jardin / chevet / crédulité / ferme / poing serré / souillure / **poudre** / pont / à contre-jour / tourner  
 
-Les 4 à intégrer dans le texte : silence, pauvre, vide et poudre  
+Les 4 mots à intégrer dans le texte : silence, pauvre, vide et poudre  
 
 ### Le thème
 

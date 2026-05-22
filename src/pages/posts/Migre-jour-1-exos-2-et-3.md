@@ -58,7 +58,7 @@ Tiburce finit par se faire arrêter deux jours. Deux petits jours où il partit 
 
 Après cette petite coupure, Tiburce ne fit pas prolonger son arrêt et retourna au travail. Il était toujours épuisé, il ne dormait pas de la nuit. Son travail s'en ressentait, son humeur s'en ressentait.  
 
-Puis, un jour, en arrivant au bureau, personne ne lui adressa la parole, pas même son N+1. Comme d'habitude, il grimpa les escaliers qui menaient à son bench, et la place il y trouva un petit tas de poudre blanche. 
+Puis, un jour, en arrivant au bureau, personne ne lui adressa la parole, pas même son N+1. Comme d'habitude, il grimpa les escaliers qui menaient à son bench, et la place il y trouva un petit tas de poudre blanche.  
 
 Autour de lui, le silence, une lumière trouble, ses collègues qui passaient à travers lui, une lumière de plus en plus faible, puis la nuit la plus sombre qui soit, puis plus rien.  
 
@@ -136,9 +136,7 @@ Dans la tête de beaucoup de nos concitoyens, ce discours semble fonctionner. Ju
 
 - ***Journal d'un chouineur - 21/04/2078***  
 
-Les élections ont mis du temps à revenir. Il y avait toujours un prétexte, des soubresauts à l'Est, des institutions pas encore prêtes, etc. Au final, on aurait peut-être pu attendre encore un peu, vu les résultats.  
-
-Ça nous pendait au nez, il faut bien l'admettre. Les fossoyeurs du front oriental, les adorateurs du tyran tentaculaire, ont remporté les élections. On va faire quoi maintenant ? [...]  
+Les élections ont mis du temps à revenir. Il y avait toujours un prétexte, des soubresauts à l'Est, des institutions pas encore prêtes, etc. Au final, on aurait peut-être pu attendre encore un peu, vu les résultats. [...] Ça nous pendait au nez, il faut bien l'admettre. Les fossoyeurs du front oriental, les adorateurs du tyran tentaculaire, ont remporté les élections. On va faire quoi maintenant ?  
 
 - ***Journal d'un chouineur - 22/04/2078***  
 

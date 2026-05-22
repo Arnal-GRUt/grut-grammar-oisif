@@ -53,7 +53,7 @@ Des centaines voire des milliers de haineux qui défilent, ça fait peur. Des ce
 
 ### Texte 3 avec le mot **campagne** (+/- 8 min)
 
-Après trois mois à sillonner les campagnes de Charente-Maritime, Pibalou le citadin est déçu. Pas tellement par le paysage qui est plutôt joli et verdoyant, bien que relativement plat, mais plutôt par les gens. Lui qui vient de la ville, haut lieu d'ouverture d'esprit et d'intelligence, il ne s'attendait pas à tant de discours haineux sur l'autre, l'étranger, les écolos, et plus généralement tout ce qui n'est pas très "eux".  
+Après trois mois à sillonner les campagnes de Charente-Maritime, Pibalou le citadin est déçu. Pas tellement par le paysage qui est plutôt joli et verdoyant, bien que relativement plat, mais plutôt par les gens. Lui qui vient de la ville, haut lieu d'ouverture d'esprit et d'intelligence, il ne s'attendait pas à tant de discours haineux sur l'autre, l'étranger, les écolos, et plus généralement tout ce qui n'est pas très "*eux*".  
 
 Enfin de retour chez lui, en ville, chez les gens civilisés, mais tout de même bien heureux de son voyage, il a prévu de faire le tri dans ses photos, de mettre aux propres ses carnets de dessins et son journal d'aventurier.  
 

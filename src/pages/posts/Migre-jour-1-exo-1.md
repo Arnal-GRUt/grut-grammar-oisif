@@ -13,10 +13,10 @@ tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoi
 
 Attention ! C'est le retour des exercices d'écritouille en "retraite littéraire", osons les grands mots.  
 
-Cette fois, on est parti se planquer à Migré, à environ une grosse quarantaine de minutes de chez nous. L'aventure quoi, le dépaysement total, le trek à faire palir les pros de la rando.  
+Cette fois, on est parti se planquer à Migré, à environ une grosse quarantaine de minutes de chez nous. L'aventure quoi, le dépaysement total, le trek à faire pâlir les pros de la rando.  
 
-Ce matin on était dans la grande chambre à écrire, cet aprem, on est dehors à profiter du bon air de la campagne. Fait grand beau comme on dit, une brise délicate nous accompagne pendant qu'on met au propre les écrits du matin sur nos ordis.  
- 
+Ce matin, on était dans la grande chambre à écrire, cet aprem, on est dehors à profiter du bon air de la campagne. Fait grand beau comme on dit, une brise délicate nous accompagne pendant qu'on met au propre les écrits du matin sur nos ordis.  
+
 Bref, c'est tout chaud sorti du four, avec très peu de recul et de corrections.  
 
 Bonne lecture quand même.  

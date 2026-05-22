@@ -15,12 +15,14 @@ Je n'ai pas eu le temps de tout reprendre dans l'après-midi du premier jour, on
 
 Bonne lecture. Again.  
 
+-----
+
 ## Exercice 2 du matin  
 
 -- Texte source n°1 – BOBIN, Christian. *Les différentes régions du ciel – œuvres choisies* - page 785 : *Noirclaire* (2015)
 -- 25 minutes max  
 -- 4 mots retenus du texte lu  
--- Un thème dans la liste d'avril de K. Steward    
+-- Un thème dans la liste d'avril de K. Steward  
 
 ### Les mots tirés du texte
 
@@ -35,8 +37,6 @@ Les 4 mots à intégrer dans le texte : silence, pauvre, vide et poudre
 ### Le thème
 
 Le thème dans la [liste d'avril 2026](https://bsky.app/profile/ktastrof.bsky.social/post/3mietr4e3ik2g) : voile (n° 2)  
-
------
 
 ### Le texte  
 
@@ -62,6 +62,8 @@ Puis, un jour, en arrivant au bureau, personne ne lui adressa la parole, pas mê
 
 Autour de lui, le silence, une lumière trouble, ses collègues qui passaient à travers lui, une lumière de plus en plus faible, puis la nuit la plus sombre qui soit, puis plus rien.  
 
+-----
+
 ## Exercice 3 du matin  
 
 -- Texte source : MONTESQUIEU. *Lettres persanes* - page 51  
@@ -79,9 +81,7 @@ Les 4 à intégrer dans le texte : lettre, chemin, douceur et oriental(e)
 
 ### Le thème
 
-Le thème tiré de la liste de B : "Souviens toi toujours du néant"   
-
------
+Le thème tiré de la liste de B : "Souviens toi toujours du néant"  
 
 ### Le texte
 
@@ -102,7 +102,7 @@ J'ai arrêté de regarder les statistiques, de lire les noms des camarades tomb�
 
 - ***Journal d'un conscrit - 16/06/2076***  
 
-20ème jour.
+30ème jour.
 
 De ce qu'on sait, il n'y a plus de front oriental. Il ne reste que le néant peuplé des créatures du vide. On ne sait comment les appeler, on ne sait vraiment les décrire, personne n'a encore vu leurs chefs, leur seigneur, le tyran tentaculaire. C'est mieux, paraît-il.  
 

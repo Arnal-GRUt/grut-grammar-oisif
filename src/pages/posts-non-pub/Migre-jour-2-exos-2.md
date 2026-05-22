@@ -2,11 +2,11 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Deuxième jour à Migré, exo 2'
 pubDate: "05-22-2026"
-description: "Deuxième jour et exercice 2. Lecture de textes sources, écriture, lecture des textes rédigés et thèmes"
+description: "Deuxième jour, exercice 2. Lecture de textes sources, écriture, lecture des textes rédigés et thèmes"
 author: "GRUt·"
-contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 2/2 - exercice 2 et 3"
+contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 2/2 - exercice 2"
 enonce : "1 exercice, des mots à intégrer dans 5 textes (5 x 5 min environ)"
-tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti"]
+tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
 ## Préambule

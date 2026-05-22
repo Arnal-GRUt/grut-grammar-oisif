@@ -148,15 +148,15 @@ Je viens d'apprendre que notre mouvement a été dissous. Il paraît qu'on fout 
 
 Je reprends rapidement le clavier pour quelques secondes, pour la mémoire, pour notre mémoire. Je vais être arrêté aujourd'hui. Ils arrivent, ils sont en bas. Je vous écris ces derniers mots depuis mon bureau, entre deux anti-dépresseurs.  
 
-Dehors, je les entends se rassembler, tous ces trous de balles, des fils de sac à merde ! TOUS ! [...] Ils crient mon nom, m'insultent, en veulent à mes amis, à ma famille, ça balance des légumes pourris contre la façade de mon immeuble [...]  
+Dehors, je les entends se rassembler, tous ces trous de balles, des fils de fions ! TOUS ! [...] Ils crient mon nom, m'insultent, en veulent à mes amis, à ma famille, ça balance des légumes pourris contre la façade de mon immeuble [...]  
 
 - ***Journal d'un chouineur en zonzon - 23/12/2078***  
 
 Je vais être sacrifié ce soir. Je vais être donné à becter aux rejetons de l'autre saloperie qui sent la poiscaille.  
 
-Si je peux écrire, enfin, c'est qu'on m'a fait passer un petit carnet de notes et un stylo en douce. Il reste encore des gens qui résistent. Tous ne sont pas des "après tout".  
+Si je peux écrire, c'est qu'on a enfin pu faire passer un petit carnet de notes et un stylo en douce. Il reste encore des gens qui résistent. Tous ne sont pas des "*après tout*".  
 
-Le tyran tentaculaire trône sur le monde, les "après tout" ont perverti notre mémoire pour nous asservir. Ils sont arrivés au sommet, il est maintenant tant de redescendre.  
+Le tyran tentaculaire trône sur le monde, les "*après tout*" ont perverti notre mémoire pour nous asservir. Ils sont arrivés au sommet, il est maintenant temps, qu'ils redescendent.  
 
 Résistez. Combattez.  
 

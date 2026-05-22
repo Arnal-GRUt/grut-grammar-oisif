@@ -6,7 +6,7 @@ description: "Premier jour, deuxième et troisième exercice à Migré. Lecture 
 author: "GRUt·"
 contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 1/2 - exercice 2 et 3 sur 3"
 enonce : "2 exercices, des mots à intégrer, un thème à chaque fois, 25 min max par texte."
-tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti"]
+tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
 ## Préambule

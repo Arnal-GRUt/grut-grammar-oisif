@@ -6,7 +6,7 @@ description: "Premier jour, premier exercice à Migré. Lecture de textes source
 author: "GRUt·"
 contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 1/2 - exercice 1 sur 3"
 enonce : "4 courts textes devant intégrer chacun 1 mot parmi ceux tirés du texte lu"
-tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti"]
+tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
 ## Préambule

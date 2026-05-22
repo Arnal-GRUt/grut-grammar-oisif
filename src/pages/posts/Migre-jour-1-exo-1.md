@@ -49,7 +49,7 @@ On ne l'a plus jamais embêté, il n'a plus été frappé, on ne s'est plus moqu
 
 ### Texte 2 avec l'expression **des centaines voire des milliers** (+/- 5 min)
 
-Des centaines voire des milliers de haineux qui défilent, ça fait peur. Des centaines voire des milliers de haineux qui s'attaquent à des rassemblements pacifistes, ça fait peur et ça fait mal. Des centaines voire des milliers de haineux qui soutiennent les haineux dans les médias de haineux, ça fait peur. Des centaines voire des milliers de haineux, ça fait peur, mais ça fout la haine aussi. Des centaines voire des milliers de haineux qui foutent la haine, ça me fout la haine, que ça me foute la haine. La haine des centaines voire des milliers, ça rend aussi con que la haine.  
+Des centaines voire des milliers de haineux qui défilent, ça fait peur. Des centaines voire des milliers de haineux qui s'attaquent à des rassemblements pacifistes, ça fait peur et ça fait mal. Des centaines voire des milliers de haineux qui soutiennent les haineux dans les médias de haineux, ça fait peur. Des centaines voire des milliers de haineux, ça fait peur, mais ça fout la haine aussi. Des centaines voire des milliers de haineux qui foutent la haine, ça me fout la haine, que ça me foute la haine. La haine des centaines voire des milliers de haineux, ça rend aussi con que la haine.  
 
 ### Texte 3 avec le mot **campagne** (+/- 8 min)
 

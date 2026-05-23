@@ -13,13 +13,13 @@ tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires
 
 3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte.
 
-- Lecture d'un article du magazine Chut !- p.26  
-- Écrire 3 textes courts en 15min maximum.
+- -- Lecture d'un article du magazine Chut !- p.26  
+- -- Écrire 3 textes courts en 15min maximum.
 
 ### Texte 1 au PASSÉ
 
-- Liste des mots sélectionnés (mot utilisés en gras) :
-- programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
+- -- Liste des mots sélectionnés (mot utilisés en gras) :
+- -- programme / fondation / neige / technologie / mondial / scientifique / centrer / **vertical** / éducation
 
 L’échelle était bien placée contre le mur. Quasi à la verticale. Daron n’y voyait pas le souci. De mon côté un peu tout de même, il faut bien l’avouer. Le mur est de la maison était le plus haut et je ne comprenais pas pourquoi il était absolument nécessaire de passer par celui-ci pour monter sur le toit. Lui oui. C’était l’expert. J’étais le fils inexpérimenté qui s’inquiétait de tout et de rien. Surtout de rien.  
 
@@ -29,8 +29,8 @@ De fait quand il chuta à mi-parcours, entre les cris de Daronne qui eut la peur
 
 ### Texte 2 au PRÉSENT
 
-- Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"  
-- liste des mots sélectionnés (mot à utiliser en gras) : triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
+- -- Lecture d'un extrait de J.O. de R. Depardon - "Munich 1975"  
+- -- liste des mots sélectionnés (mot à utiliser en gras) : triomphe / équipe / artistique / **périlleux** / geste / pleurer / papillon / brasse / ivre
 
 « Il faut que tu sautes là, soupire J. P.  
 -- J’ai plus trop envie, répond Alfred.  
@@ -82,10 +82,10 @@ Le capitaine du « Barboteurs des étoiles ».
 
 Les mots tirés au sort :
 
-- Passé : VERTICAL
-- Présent : BRASSE
-- Futur : MÉDAILLE
-- Le thème de Katty : « Mélanger »
+- -- Passé : VERTICAL
+- -- Présent : BRASSE
+- -- Futur : MÉDAILLE
+- -- Le thème de Katty : « Mélanger »
 
 **Texte remanié d’après le premier jet sur le cahier (Moulin du Blochet).**
 

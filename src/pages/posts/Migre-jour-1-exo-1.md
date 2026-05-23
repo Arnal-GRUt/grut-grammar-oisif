@@ -23,12 +23,13 @@ Bonne lecture quand même.
 
 ## Exercice 1 du matin  
 
--- Texte source n°1 – [Socialter](https://www.socialter.fr/) – hors-série printemps 2026 - article page 90 « *Sleeping Giants, le collectif qui réveille la lutte contre la haine en ligne* » - propos recueillis par Caroline Vinet - illustrations Elie Huault   
--- 20 minutes max (moyenne 5 min par texte) 
+- -- Texte source n°1 – [Socialter](https://www.socialter.fr/) – hors-série printemps 2026 - article page 90 « *Sleeping Giants, le collectif qui réveille la lutte contre la haine en ligne* » - propos recueillis par Caroline Vinet - illustrations Elie Huault  
+- -- 20 minutes max (moyenne 5 min par texte)  
 
 ### Les mots tirés du texte
 
 Mes mots tirés de la première partie de l'article (les 2 gardés sont en gras) : - après / exporter / silhouette / gris / **campagne** / fondateur / remporter / culte / **lutte**  
+
 Les mots de B tirés de la deuxième partie de l'article (les 3 gardés sont en gras) : média / cibler / procéder / programmatique / **des centaines voire des milliers** /redistribuer / **haineux** / condamner / mouton / charte / **transparence** / investir / privé / déduire / enseigne / retrait  
 
 ### Le thème

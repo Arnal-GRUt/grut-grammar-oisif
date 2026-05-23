@@ -11,9 +11,9 @@ tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires
 
 ## Exercice 1 du matin
 
-- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
-- Écrire 4 textes courts en 20min maximum (moyenne 5min chacun)  
-- Utiliser 1 mot par texte court (tiré au sort dans la liste)  
+- -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
+- -- Écrire 4 textes courts en 20min maximum (moyenne 5min chacun)  
+- -- Utiliser 1 mot par texte court (tiré au sort dans la liste)  
 
 Le texte source :  BOBIN, Christian. *Les différentes régions du ciel – œuvres choisies* – page 357 : *Éloge du rien*  
 
@@ -51,10 +51,10 @@ La mémoire se travaille parait-il. Je n’ai pas de mémoire. Je ne retiens rie
 
 ## Exercice 2 du matin : texte à thème (cf. Ketty Stewart)
 
-- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
-- Écrire 1 texte court en 25min maximum  
-- Utiliser 4 mots tirés au sort dans la liste  
-- thème imposé tiré au sort dans la liste de thème de Ketty Stewart  
+- -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
+- -- Écrire 1 texte court en 25min maximum  
+- -- Utiliser 4 mots tirés au sort dans la liste  
+- -- thème imposé tiré au sort dans la liste de thème de Ketty Stewart  
 
 Le texte source : BOBIN, Christian. *La plus que vive* – page 483  
 
@@ -72,10 +72,10 @@ Miroslav s’en moque, il est ravi et commence à chanter. Derrière le portail,
 
 ## Exercice 3 du matin : texte à thème (cf. Ketty Stewart)
 
-- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
-- Écrire 1 texte court en 25min maximum  
-- Utiliser 4 mots tirés au sort dans la liste  
-- thème imposé tiré au sort dans la liste de thème de Ketty Stewart  
+- -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
+- -- Écrire 1 texte court en 25min maximum  
+- -- Utiliser 4 mots tirés au sort dans la liste  
+- -- thème imposé tiré au sort dans la liste de thème de Ketty Steward  
 
 Le texte source : DEPARDON, Raymond. *J. O.* – *Montréal 1976*  
 
@@ -105,10 +105,10 @@ Cette nouvelle a connu beaucoup de retouches jusqu'à très récemment, mais res
 
 --
 
-- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
-- Écrire 4 textes courts en 30min maximum (moyenne 7min 30 chacun)  
-- Utiliser 1 mot par texte court (tiré au sort dans la liste)  
-- Textes doivent avoir un lien entre eux (pas forcément thématique ou narratif)  
+- -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
+- -- Écrire 4 textes courts en 30min maximum (moyenne 7min 30 chacun)  
+- -- Utiliser 1 mot par texte court (tiré au sort dans la liste)  
+- -- Textes doivent avoir un lien entre eux (pas forcément thématique ou narratif)  
 
 Le texte source : *L’affaire Dreyfus* – article - *Crayon gris et encre noire*  
 Les mots : **dessin** / **efficace** / ligne / présence / exemple / esquisser / gestuel / atmosphère / don / charge / légende / **droit** / **sifflet** / grelot  

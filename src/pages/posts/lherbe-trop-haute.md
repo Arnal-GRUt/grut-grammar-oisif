@@ -7,7 +7,6 @@ author: "GRUt·"
 contexte : "D'après une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
 enonce : "n/a"
 tags: ["Écritouille", "Narratif", "Complet"]
-
 ---
 
 « — Dis ? fiston, t’as fait ta vidange ? ».  

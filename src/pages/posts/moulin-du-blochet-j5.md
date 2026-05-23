@@ -22,6 +22,7 @@ La soude ronge les chairs et les os. Dès lors, s’allonger dans la soude sembl
 ### Texte n°2 - sale/livide  
 
 -----
+
 « Il est livide Rodrigo en ce moment. On dirait un zombi »
 — Parce que c’est un zombie.  
 — Comment ça…  
@@ -39,23 +40,23 @@ La soude ronge les chairs et les os. Dès lors, s’allonger dans la soude sembl
 — Ah oui ? Qui ça.  
 — Des CRS. »  
 
-NA : l'histoire fonctionne avec la BRAV-M ou l'ICE
+NA : l'histoire fonctionne avec la BRAV-M ou l'ICE  
 
 ### Texte n°3 - pain/limite (la panne d'inspi)
 
 -----
 
 Une bonne farine donne un bon pain.  
-Dépasser la limite donne un bon pain.
+Dépasser la limite donne un bon pain.  
 
 ## Exercice n°2
 
 2 à 5 mots à placer dans un texte – 25min max.  
-Thème : [Ketty Stewart](https://linktr.ee/k_tastrof)  
+Thème : [Ketty Steward](https://linktr.ee/k_tastrof)  
 
-- Texte source : « Christian Bobin – les différentes régions du ciel » – La nuit du cœur P.847  
-- Les mots (ceux à intégrer sont en gras) : bol / percé·e / **proche** / voir / **étoiles** / vivre / **fraîche** / **jaunis** / **abeille** / lanterne / accueillir / fumée / mort / vert-de-gris / consentement
-- Le thème de Ketty : exfoliant ou essentiel·le  
+- -- Texte source : « Christian Bobin – les différentes régions du ciel » – La nuit du cœur P.847  
+- -- Les mots (ceux à intégrer sont en gras) : bol / percé·e / **proche** / voir / **étoiles** / vivre / **fraîche** / **jaunis** / **abeille** / lanterne / accueillir / fumée / mort / vert-de-gris / consentement  
+- -- Le thème de Ketty : exfoliant ou essentiel·le  
 
 ### Texte n°1
 
@@ -92,8 +93,8 @@ L’homme en costard trop grand était gêné devant Simona et Octave muets comm
 Juste un travail sur les mots  
 3 textes courts de quelques phrases. Sans thème particulier. Juste un mot à utiliser.  
 
-- Texte source : « Christian Bobin – les différentes régions du ciel » – Autoportrait au radiateur P.145  
-- Les mots/expresssions (mots à intégrer en gras) : **en pente** / fleur / **tulipe** / ne savent pas / ce qui passe / aucun réconfort / **vécu** / **poreux** / aérien / s’expliquer / un temps pur / **de partout** / imprévisible  
+- -- Texte source : « Christian Bobin – les différentes régions du ciel » – Autoportrait au radiateur P.145  
+- -- Les mots/expresssions (mots à intégrer en gras) : **en pente** / fleur / **tulipe** / ne savent pas / ce qui passe / aucun réconfort / **vécu** / **poreux** / aérien / s’expliquer / un temps pur / **de partout** / imprévisible  
 
 -----
 

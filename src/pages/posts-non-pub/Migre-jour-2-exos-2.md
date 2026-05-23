@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Deuxième jour à Migré, exo 2'
+title: 'Deuxième jour à Migré, exo 2/3'
 pubDate: "05-22-2026"
 description: "Deuxième jour, exercice 2. Lecture de textes sources, écriture, lecture des textes rédigés et thèmes"
 author: "GRUt·"
-contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 2/2 - exercice 2"
+contexte : "Retraite d'écritouille pour l'anniv de B à Migré, près de Saint-Jean d'Angelys - jour 2/2 - exercice 2/3"
 enonce : "1 exercice, des mots à intégrer dans 5 textes (5 x 5 min environ)"
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
@@ -31,9 +31,9 @@ Bref, bonne lecture.
 
 ## Exercice 2 du matin  
 
--- Texte source : VONNEGUT, Kurt (jr). *Abattoir 5* - page 785 : *Noirclaire* (2015)
--- 25 min pour 5 textes (moy 5 min/texte)  
--- 5 mots tirés du texte lu  
+- -- Texte source : VONNEGUT, Kurt (jr). *Abattoir 5* - page 785 : *Noirclaire* (2015)  
+- -- 25 min pour 5 textes (moy 5 min/texte)  
+- -- 5 mots tirés du texte lu  
 
 ### Les mots tirés du texte
 

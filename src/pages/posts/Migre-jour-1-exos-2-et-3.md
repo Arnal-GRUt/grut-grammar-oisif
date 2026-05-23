@@ -19,10 +19,10 @@ Bonne lecture. Again.
 
 ## Exercice 2 du matin  
 
--- Texte source n°1 – BOBIN, Christian. *Les différentes régions du ciel – œuvres choisies* - page 785 : *Noirclaire* (2015)
--- 25 minutes max  
--- 4 mots retenus du texte lu  
--- Un thème dans la liste d'avril de K. Steward  
+- -- Texte source n°1 – BOBIN, Christian. *Les différentes régions du ciel – œuvres choisies* - page 785 : *Noirclaire* (2015)  
+- -- 25 minutes max  
+- -- 4 mots retenus du texte lu  
+- -- Un thème dans la liste d'avril de K. Steward  
 
 ### Les mots tirés du texte
 
@@ -66,10 +66,10 @@ Autour de lui, le silence, une lumière trouble, ses collègues qui passaient à
 
 ## Exercice 3 du matin  
 
--- Texte source : MONTESQUIEU. *Lettres persanes* - page 51  
--- 25 minutes max  
--- 4 mots retenus du texte lu  
--- Un thème  
+- -- Texte source : MONTESQUIEU. *Lettres persanes* - page 51  
+- -- 25 minutes max  
+- -- 4 mots retenus du texte lu  
+- -- Un thème  
 
 ### Les mots tirés du texte
 

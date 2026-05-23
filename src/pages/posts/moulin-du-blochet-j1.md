@@ -11,13 +11,13 @@ blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhvt52vpb
 ---
 ## Exercice 1 du matin  
 
--- Texte n°1 – recueil Utopiales 2023 – nouvelle « *Coup d’oeil* » de Julien Heylbroeck Caldironi  
--- Le mot de [Ketty Steward](https://www.instagram.com/k_tastrof/) : cure (n°17)  
--- 25 minutes max  
+- -- Texte n°1 – recueil Utopiales 2023 – nouvelle « *Coup d’oeil* » de Julien Heylbroeck Caldironi  
+- -- Le mot de [Ketty Steward](https://www.instagram.com/k_tastrof/) : cure (n°17)  
+- -- 25 minutes max  
 
 ### Les mots tirés du texte
 
-- révolution / scaphandre / grippé / programme / **orbite** / **filandreux** / **rosâtre** / acide / galactique / regard / **tentacule** / pédoncule / navette / astre / dieu / chimérique / écu / **carcasse** / patron
+révolution / scaphandre / grippé / programme / **orbite** / **filandreux** / **rosâtre** / acide / galactique / regard / **tentacule** / pédoncule / navette / astre / dieu / chimérique / écu / **carcasse** / patron
 
 -----
 
@@ -62,13 +62,13 @@ Dans le vide pour l'éternité où le son n'existe pas, personne ne l'entendit[^
 
 ## Exercice 2 du matin  
 
--- Texte n°2 – L’affaire Dreyfus - Collections du Musée de Bretagne – p.28 - « *L’affaire sur les murs* »  
--- Le mot de Ketty Steward : mesuré.e (n°6)  
--- 25 minutes max  
+- -- Texte n°2 – L’affaire Dreyfus - Collections du Musée de Bretagne – p.28 - « *L’affaire sur les murs* »  
+- -- Le mot de Ketty Steward : mesuré.e (n°6)  
+- -- 25 minutes max  
 
 ### Les mots tirés du texte
 
-- Les mots piochés dans le texte (en gras les mots finalement choisis – mots communs entre nos 2 listes) : **mur** / **éditeur** / affiche / **horreur** / **bestialité** / couleur / personnage / première / **célébrité** / nationaliste / collection / innocent / exemplaire / cinéma  
+Les mots piochés dans le texte (en gras les mots finalement choisis – mots communs entre nos 2 listes) : **mur** / **éditeur** / affiche / **horreur** / **bestialité** / couleur / personnage / première / **célébrité** / nationaliste / collection / innocent / exemplaire / cinéma  
 
 -----
 

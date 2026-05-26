@@ -505,8 +505,9 @@ const pageTitle = "Webouille";
     &:hover::after {      
       transform: unset;
     }    
-    html#Webouille body .webouille-main .trigger-warning-blabla {
-      transform: none;  
+    html#Webouille body .webouille-main .webouille-done .trigger-warning-blabla {
+        transform: rotate(-2deg) translate(0rem);
+        margin-top: 16px;
     } 
   }
   @media (width < 601px ) {
@@ -523,10 +524,10 @@ const pageTitle = "Webouille";
       & h3 {
         font-size: 1.2rem;
       }       
-      & .trigger-warning-blabla {
+      /* & .trigger-warning-blabla {
         transform: rotate(-2deg) translate(0rem);
         margin-top: 16px;
-      }
+      } */
   }
   
 </style>

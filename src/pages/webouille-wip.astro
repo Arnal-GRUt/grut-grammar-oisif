@@ -506,11 +506,14 @@ const pageTitle = "Webouille";
       transform: unset;
     }    
     html#Webouille body .webouille-main .webouille-done .trigger-warning-blabla {
-        transform: rotate(-2deg) translate(0rem);
+        transform: unset;
         margin-top: 16px;
     } 
   }
   @media (width < 601px ) {
+    html#Webouille body .webouille-main .trigger-warning-blabla {
+      transform: rotate(-2deg) translate(0rem);      
+    }
     .webouille-main {
 
       & h1 {
@@ -524,10 +527,6 @@ const pageTitle = "Webouille";
       & h3 {
         font-size: 1.2rem;
       }       
-      /* & .trigger-warning-blabla {
-        transform: rotate(-2deg) translate(0rem);
-        margin-top: 16px;
-      } */
-  }
+    }
   
 </style>

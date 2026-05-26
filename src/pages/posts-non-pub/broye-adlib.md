@@ -11,9 +11,9 @@ tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
 
 ## Préambule  
 
-Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement je l'avais complètement oubliée.  
+Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement je l'avais complètement oublié.  
 
-C’est une très courte nouvelle. J'ai gardé la structure narrative du récit, le thème et la morale de l’histoire. En revanche, j’ai effectué pas mal de corrections stylistiques, souvent pour supprimer quelques tournures ampoulées (il en reste encore un peu peut-être).  
+C’est une très courte nouvelle. J'ai gardé la structure narrative du récit, le thème et la "morale" de l’histoire. En revanche, j’ai effectué pas mal de corrections stylistiques, souvent pour supprimer quelques tournures ampoulées (il en reste encore un peu peut-être).  
 
 Reste que c’est un très vieux texte dont la première version est lisible [ici](https://grammar-oisif.fr/posts/broye-adlib-original).  
 

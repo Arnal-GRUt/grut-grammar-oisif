@@ -72,7 +72,7 @@ Il me regarde l'air un chouya plus concerné, peut-être un poil surpris aussi, 
 
 « Je vais chercher le Docteur, le chirurgien qui vous a opéré, et au passage je préviens le service pour qu'on vous serve la soupe. Bonne journée monsieur et je vous souhaite un prompt rétablissement. »  
 
-J'essaye de me souvenir. Rien de vient. Je me concentre, je fouille au plus profond de ma mémoire, mais je n'arrive à rien. Au mieux, mon dernier souvenir remonte à deux mois environ. Il me vient imparfait, une image floue, une impression de moi receptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le cigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que j'ouvre le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
+J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de moi receptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le cigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que j'ouvre le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
 
 Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne recents aucune douleur.  
 
@@ -82,29 +82,32 @@ C'est à ce moment que le chir se décide à faire son entrée. Il a l'air séri
 
 « -- Vous n'avez plus aucun souvenirs de vos deux derniers mois n'est-ce pas ?  
 -- Oui c'est ça, je réponds de manière chiante encore, je vais recouvrer la mémoire ou bien ?  
--- J'ai bien peur que non », je vois bien qu'il essaie d'y mettre de la compassion.  
+-- J'ai bien peur que non. »  
 
-C'est raté. Je ne réponds pas tout de suite, il a des choses à me dire.  
+Je vois bien qu'il essaie d'y mettre de la compassion. C'est raté. Je ne réponds pas tout de suite, il a des choses à me dire.  
 
-« -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire et pourquoi avons-nous opéré une ablation de votre mémoire, mais plutôt...  
--- Pardon ?! De quoi ? je me redresse brusquement, mais c'est intolérable ! Je... »  
+« -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire et pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
+-- Pardon ?! je me redresse brusquement, mais c'est intolérable ! Je... »  
 
-Je hurle de colère, je hurle de douleur, les rubans cautocristrisants écartent les plaies. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge.  
+Je hurle de colère, je hurle de douleur, les rubans cautocicatrisants écartent les plaies. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge.  
 
-Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. L'infirmier entre dans la chambre en trombe et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanémant.  
-
-Pendant tout ce temps, malgré le bruit et le chaos, le chir a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, encore moins pigé un seul mot qu'il a prononcé.  
+Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. L'infirmier entre dans la chambre en trombe et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanémant. Pendant tout ce temps, malgré le bruit et le chaos, le chir a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, encore moins pigé un seul mot qu'il a prononcé.  
 
 Maintenant que le calme revenu dans la chambre, il me regarde les sourcils froncés par le vacarme et reprend :  
 
 « -- J'essayais de vous dire que les deux mois ne seraient malheureusement d'un début, et qu'il faut s'attendre à une emputation mémorielle complétementaire de plusieurs mois. Nous envisageons six mois.  
--- Hors de question, malgré l'antalgique de bourrin, je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
--- À titre personnel, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle emputation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
--- J'entends ce que vous dites. Mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ?  
--- C'est vous évidemment, je vois bien que je commence à le saouler, c'est vous. Tassitement, puisque vous ne vous y êtes pas opposé.  
--- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre.  
--- Comme vous voulez. »  
+-- Hors de question, malgré l'antalgique de bourrin je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
+-- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle emputation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
+-- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ?  
+-- C'est vous évidemment, je vois bien que je commence à le saouler, c'est vous.  
+-- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre. »  
 
-Il se barre, l'infirmier le suit gêné. Je suis seul dans ma chambre et toujours aucune autre cuve s'est ouverte.  
+Il se retourne, murmure un « ras le cul, à chaque fois le même drama », puis termine à haute voix : « Comme vous voulez »  
+
+Dans le mouvement il se barre, l'infirmier le suit gêné. Je suis seul dans ma chambre et toujours aucune autre cuve s'est ouverte.  
+
+---
+
+J'ai passé une bonne nuit. Je sors pas de cette hopital avant d'avoir récupére les bouts de mémoires manquant.  
 
 -----

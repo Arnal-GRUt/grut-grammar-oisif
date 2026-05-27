@@ -491,9 +491,9 @@ body .main {
 		font-weight: 400;
 		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
 		width: 100%;
-		-webkit-transform: translateY(-15vh);
-		-ms-transform: translateY(-15vh);
-		transform: translateY(-15vh);
+		-webkit-transform: translateY(5vh);
+			-ms-transform: translateY(5vh);
+			transform: translateY(5vh);
 		text-align: center;
 		text-shadow: 4px 4px var(--background);
 	}
@@ -518,10 +518,10 @@ body .main {
 	top: 0;
 	/* -o-object-fit: cover;
 	object-fit: cover; */
-	-o-object-fit: contain;
-	object-fit: contain;
-	-o-object-position: top right;
-	object-position: top right;
+	-o-object-fit: cover;
+	object-fit: cover;
+	-o-object-position: right top;
+	object-position: right top;
 	background: var(--yellow);
 }
 
@@ -542,10 +542,10 @@ body .main {
 		top: 0;
 		/* -o-object-fit: cover;
 		object-fit: cover; */
-		-o-object-fit: contain;
-		object-fit: contain;
-		-o-object-position: right;
-		object-position: right;
+		-o-object-fit: cover;
+		object-fit: cover;
+		-o-object-position: right top;
+		object-position: right top;
 		/* -o-object-position: bottom;
 		object-position: bottom; */
 		background: var(--yellow);

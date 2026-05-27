@@ -440,7 +440,7 @@ body .main {
 	position: relative;
 	z-index: 1;
 
-	& .display-flex.direction-row::before {
+	&.display-flex.direction-row::before {
 		content: "";
 		position: absolute;
 		width: 100%;

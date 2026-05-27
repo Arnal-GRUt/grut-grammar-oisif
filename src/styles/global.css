@@ -454,7 +454,7 @@ body .main {
 .carton-texte {
 	content: "";
 	position: absolute;
-	top: 39vh;
+	top: 20vh;
 	width: 100%;
 	min-width: auto;
 	height: auto;
@@ -540,6 +540,7 @@ body .main {
 	}
 
 	.carton-texte {
+
 		view-timeline-name: --to-opacity-0;
 		view-timeline-axis: block;
 		/* animation: linear to-opacity-0 both; */
@@ -548,7 +549,7 @@ body .main {
 		animation-range-start: 130vh;
 		animation-range-end: 250vh;
 		/* animation-range-end: 400vh;	 */
-		top: 39vh;
+		top: 20vh;
 
 		&:before {
 			display: none;

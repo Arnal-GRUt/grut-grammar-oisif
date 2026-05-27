@@ -454,7 +454,6 @@ body .main {
 .carton-texte {
 	content: "";
 	position: absolute;
-	/* top: 20vh; */
 	top: 39vh;
 	width: 100%;
 	min-width: auto;
@@ -541,7 +540,6 @@ body .main {
 	}
 
 	.carton-texte {
-
 		view-timeline-name: --to-opacity-0;
 		view-timeline-axis: block;
 		/* animation: linear to-opacity-0 both; */

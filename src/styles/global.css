@@ -2505,6 +2505,11 @@ span.icon-arrow {
 			transform: rotate(0);
 		}
 	}
+	@supports (view-timeline-axis: block) {
+		.image-container *.image-reveal {
+			object-position: 80% 0;
+		}
+	}
 }
 
 @media (width < 1281px) {
@@ -2970,14 +2975,11 @@ span.icon-arrow {
 	.carton-texte {
 		content: "";
 		position: absolute;
-		/* top: 13vh; */
-		top: 10vh;
-		width: 50%;
+		top: 47vh;
+		width: 40%;
 		animation-range-start: 100vh;
 		animation-range-end: 120vh;
-		/* animation-range-end: 200vh; */
 		padding: 24px 0;
-		/* left: 10vw; */
 		left: 5vw;
 		z-index: 2;
 
@@ -3169,6 +3171,10 @@ span.icon-arrow {
 		background-size: 10vh;
 		padding-top: 14vh;
 	}
+	.carton-texte {		
+		top: 41vh;		
+		left: 8vw;		
+	}
 }
 
 html:not([id*="Grammar"]) {
@@ -3211,5 +3217,12 @@ html:is([id*="about"], #Webouille) {
 				}
 			}
 		}
+	}
+}
+
+@media (width <432px) {
+	.carton-texte {
+		top: 14vh;			
+		left: 14vw;
 	}
 }

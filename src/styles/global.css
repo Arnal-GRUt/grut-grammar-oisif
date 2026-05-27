@@ -449,7 +449,7 @@ body .main {
 		background-size: cover;
 		height: 50px;
 		z-index: 2;
-		top: -2%;
+		top: -1.5%;
 	}
 }
 
@@ -516,8 +516,8 @@ body .main {
 	top: 0;
 	-o-object-fit: cover;
 	object-fit: cover;
-	-o-object-position: top;
-	object-position: top;
+	-o-object-position: top right;
+	object-position: top right;
 	background: var(--yellow);
 }
 

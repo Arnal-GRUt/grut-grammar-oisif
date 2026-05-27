@@ -2488,7 +2488,7 @@ span.icon-arrow {
 	.carton-texte {
 		/* top: 15vh; */
 		/* top: 39vh; */
-		top: 45vh;
+		top: 35vh;
 		left: -10vw;
 
 		&:before {
@@ -2671,7 +2671,7 @@ span.icon-arrow {
 	}
 
 	.carton-texte {
-		top: 41vh;
+		top: 35vh;
 		left: -13vw;
 	}
 
@@ -3025,7 +3025,7 @@ span.icon-arrow {
 	.carton-texte {
 		content: "";
 		position: absolute;
-		top: 47vh;
+		top: 15vh;
 		width: 40%;
 		animation-range-start: 100vh;
 		animation-range-end: 120vh;

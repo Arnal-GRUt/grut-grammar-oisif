@@ -516,8 +516,8 @@ body .main {
 	top: 0;
 	-o-object-fit: cover;
 	object-fit: cover;
-	-o-object-position: bottom;
-	object-position: bottom;
+	-o-object-position: top;
+	object-position: top;
 	background: var(--yellow);
 }
 

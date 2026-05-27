@@ -1555,8 +1555,8 @@ header nav .to-small-menu {
 
 @-webkit-keyframes to-top {
 	0% {
-		-webkit-transform: translateY(14vh);
-		transform: translateY(14vh);
+		-webkit-transform: translateY(34vh);
+		transform: translateY(34vh);
 	}
 
 	50% {
@@ -1574,8 +1574,8 @@ header nav .to-small-menu {
 
 @keyframes to-top {
 	0% {
-		-webkit-transform: translateY(14vh);
-		transform: translateY(14vh);
+		-webkit-transform: translateY(34vh);
+		transform: translateY(34vh);
 	}
 
 	50% {

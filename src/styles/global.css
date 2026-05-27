@@ -446,10 +446,10 @@ body .main {
 		width: 100%;
 		background-image: url(../images/barre-jonction-hero-corps.png);
 		background-repeat: no-repeat;
-		background-size: contain;
+		background-size: cover;
 		height: 50px;
 		z-index: 2;
-		top: -5px;  
+		top: -2%;
 	}
 }
 

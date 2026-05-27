@@ -1618,7 +1618,7 @@ header nav .to-small-menu {
 @supports (view-timeline-axis: block) {
 	@-webkit-keyframes to-small-titre {
 		0% {
-			font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
+			font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 7.1rem);
 			text-shadow: 3px 3px var(--background);
 		}
 
@@ -1633,7 +1633,7 @@ header nav .to-small-menu {
 
 	@keyframes to-small-titre {
 		0% {
-			font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
+			font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 7.1rem);
 			text-shadow: 3px 3px var(--background);
 		}
 

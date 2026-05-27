@@ -489,11 +489,11 @@ body .main {
 		position: absolute;
 		font-family: "Chelsea Market", system-ui;
 		font-weight: 400;
-		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 9rem);
+		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 7.1rem);
 		width: 100%;
-		-webkit-transform: translateY(5vh);
-			-ms-transform: translateY(5vh);
-			transform: translateY(5vh);
+		-webkit-transform: translateY(19vh) translateX(-7vw);
+			-ms-transform: translateY(19vh) translateX(-7vw);
+			transform: translateY(19vh) translateX(-7vw);
 		text-align: center;
 		text-shadow: 4px 4px var(--background);
 	}

@@ -491,9 +491,13 @@ body .main {
 		font-weight: 400;
 		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 7.1rem);
 		width: 100%;
-		-webkit-transform: translateY(19vh) translateX(-7vw);
+		-webkit-transform: translateY(7vh);
+			-ms-transform: translateY(7vh);
+			transform: translateY(7vh);
+		/* -webkit-transform: translateY(19vh) translateX(-7vw);
 			-ms-transform: translateY(19vh) translateX(-7vw);
-			transform: translateY(19vh) translateX(-7vw);
+			transform: translateY(19vh) translateX(-7vw); */
+			
 		text-align: center;
 		text-shadow: 4px 4px var(--background);
 	}
@@ -505,6 +509,23 @@ body .main {
 	}
 
 }
+
+/* Firefox */
+/*-----------------------------*/
+
+/* body .carton-texte.ff p {
+	transform: translateY(9vh);
+	font-size: 3rem;
+	width: 100%;
+	text-align: center;
+}
+
+.carton-texte.ff::before {
+	transform: translateX(0) translateY(-7vh);
+	font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 13rem);
+} */
+
+/*-----------------------------*/
 
 .image-container *.image-reveal {
 	width: 100%;

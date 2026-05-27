@@ -454,7 +454,8 @@ body .main {
 .carton-texte {
 	content: "";
 	position: absolute;
-	top: 20vh;
+	/* top: 20vh; */
+	top: 39vh;
 	width: 100%;
 	min-width: auto;
 	height: auto;
@@ -549,7 +550,7 @@ body .main {
 		animation-range-start: 130vh;
 		animation-range-end: 250vh;
 		/* animation-range-end: 400vh;	 */
-		top: 20vh;
+		top: 39vh;
 
 		&:before {
 			display: none;

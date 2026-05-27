@@ -2886,8 +2886,8 @@ span.icon-arrow {
 		height: 100vh;
 
 		& *.image-reveal {
-			-o-object-position: 85% bottom;
-			object-position: 85% bottom;
+			-o-object-position: 93% bottom;
+			object-position: 93% bottom;
 
 			view-timeline-axis: block;
 			-webkit-animation: clip-reveal 1s both;
@@ -2970,13 +2970,15 @@ span.icon-arrow {
 	.carton-texte {
 		content: "";
 		position: absolute;
-		top: 13vh;
+		/* top: 13vh; */
+		top: 10vh;
 		width: 50%;
 		animation-range-start: 100vh;
 		animation-range-end: 120vh;
 		/* animation-range-end: 200vh; */
 		padding: 24px 0;
-		left: 10vw;
+		/* left: 10vw; */
+		left: 5vw;
 		z-index: 2;
 
 		&:before {

@@ -466,9 +466,9 @@ body .main {
 .carton-texte {
 	content: "";
 	position: absolute;
+	/* top: 0vh; */
 	/* top: 20vh; */
-	top: 39vh;
-	/* top: 35vh; */
+	top: 35vh;
 	width: 100%;
 	min-width: auto;
 	height: auto;
@@ -491,9 +491,9 @@ body .main {
 		font-weight: 400;
 		font-size: clamp(5.3rem, 0.6906rem + 6.9245vw, 7.1rem);
 		width: 100%;
-		-webkit-transform: translateY(7vh);
-			-ms-transform: translateY(7vh);
-			transform: translateY(7vh);
+		-webkit-transform: translateY(-17vh);
+			-ms-transform: translateY(-17vh);
+			transform: translateY(-17vh);
 		/* -webkit-transform: translateY(19vh) translateX(-7vw);
 			-ms-transform: translateY(19vh) translateX(-7vw);
 			transform: translateY(19vh) translateX(-7vw); */
@@ -541,8 +541,8 @@ body .main {
 	object-fit: cover; */
 	-o-object-fit: cover;
 	object-fit: cover;
-	-o-object-position: right top;
-	object-position: right top;
+	-o-object-position: right bottom;
+	object-position: right bottom;
 	background: var(--yellow);
 }
 
@@ -565,8 +565,8 @@ body .main {
 		object-fit: cover; */
 		-o-object-fit: cover;
 		object-fit: cover;
-		-o-object-position: right top;
-		object-position: right top;
+		-o-object-position: right bottom;
+		object-position: right bottom;
 		/* -o-object-position: bottom;
 		object-position: bottom; */
 		background: var(--yellow);
@@ -593,7 +593,7 @@ body .main {
 		/* animation-range-end: 400vh;	 */
 		/* top: 20vh; */
 		/* top: 39vh; */
-		top: 35vh;
+		top: 26vh;
 
 		&:before {
 			display: none;
@@ -1600,8 +1600,8 @@ header nav .to-small-menu {
 
 @-webkit-keyframes to-top {
 	0% {
-		-webkit-transform: translateY(50vh);
-		transform: translateY(50vh);
+		-webkit-transform: translateY(22vh);
+		transform: translateY(22vh);
 	}
 
 	50% {
@@ -1619,8 +1619,8 @@ header nav .to-small-menu {
 
 @keyframes to-top {
 	0% {
-		-webkit-transform: translateY(50vh);
-		transform: translateY(50vh);
+		-webkit-transform: translateY(22vh);
+		transform: translateY(22vh);
 	}
 
 	50% {

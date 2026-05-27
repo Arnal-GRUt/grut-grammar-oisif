@@ -468,6 +468,7 @@ body .main {
 	position: absolute;
 	/* top: 20vh; */
 	top: 39vh;
+	/* top: 35vh; */
 	width: 100%;
 	min-width: auto;
 	height: auto;
@@ -514,8 +515,10 @@ body .main {
 	justify-self: center;
 	position: sticky;
 	top: 0;
-	-o-object-fit: cover;
-	object-fit: cover;
+	/* -o-object-fit: cover;
+	object-fit: cover; */
+	-o-object-fit: contain;
+	object-fit: contain;
 	-o-object-position: top right;
 	object-position: top right;
 	background: var(--yellow);
@@ -536,10 +539,14 @@ body .main {
 		justify-self: center;
 		position: sticky;
 		top: 0;
-		-o-object-fit: cover;
-		object-fit: cover;
-		-o-object-position: bottom;
-		object-position: bottom;
+		/* -o-object-fit: cover;
+		object-fit: cover; */
+		-o-object-fit: contain;
+		object-fit: contain;
+		-o-object-position: top right;
+		object-position: top right;
+		/* -o-object-position: bottom;
+		object-position: bottom; */
 		background: var(--yellow);
 
 		view-timeline-axis: block;
@@ -563,15 +570,17 @@ body .main {
 		animation-range-end: 250vh;
 		/* animation-range-end: 400vh;	 */
 		/* top: 20vh; */
-		top: 39vh;
+		/* top: 39vh; */
+		top: 35vh;
 
 		&:before {
 			display: none;
 		}
 
 		& p {
-			font-size: 4rem;
+			/* font-size: 4rem; */
 			padding: 32px 0;
+			font-size: 2rem;			
 		}
 	}
 }
@@ -1569,8 +1578,8 @@ header nav .to-small-menu {
 
 @-webkit-keyframes to-top {
 	0% {
-		-webkit-transform: translateY(34vh);
-		transform: translateY(34vh);
+		-webkit-transform: translateY(50vh);
+		transform: translateY(50vh);
 	}
 
 	50% {
@@ -1588,8 +1597,8 @@ header nav .to-small-menu {
 
 @keyframes to-top {
 	0% {
-		-webkit-transform: translateY(34vh);
-		transform: translateY(34vh);
+		-webkit-transform: translateY(50vh);
+		transform: translateY(50vh);
 	}
 
 	50% {
@@ -2456,7 +2465,8 @@ span.icon-arrow {
 @media (width < 1441px) {
 	.carton-texte {
 		/* top: 15vh; */
-		top: 39vh;
+		/* top: 39vh; */
+		top: 35vh;
 
 		&:before {
 			font-size: clamp(5.3rem, 7vh, 9rem);

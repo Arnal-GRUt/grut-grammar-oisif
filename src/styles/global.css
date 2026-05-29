@@ -1219,7 +1219,7 @@ footer *.navigation {
 	-ms-flex-pack: center;
 	justify-content: center;
 	padding: 24px;
-	gap: var(--gap-24);
+	gap: var(--gap-16);
 
 
 	& *:is(button, a) {

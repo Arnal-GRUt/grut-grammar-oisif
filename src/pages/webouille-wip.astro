@@ -185,8 +185,15 @@ const pageTitle = "Webouille";
           À ce stade, la fabrication du site à proprement parlé a commencé. J'ai d'abord pris en main des outils (créé des comptes, fait mes tests, etc.), j'ai refait quelques prototypes du figma, puis j'ai débuté le travail <em>from scratch</em> en local, sans serveur, avec pour unique outils un simple éditeur de texte pour balancer du code <em>html</em> et <em>css</em>.
         </p>
         <p>
-          En gros, j'ai créé les structures des pages, les classes, au passage ça m'a permis d'approfondir les orientations <em>design</em> en testant des backgrounds récupérés sur des banques d'images gratuites. Mais aussi, j'ai pu tester et coder une ou deux idées d'animations. Parce que, malgré tout, même si, comme expliqué plus haut, j'ai souhaité faire dans le simple pour la V1 de mon site, j'avais tout de même envie de caler une animation au <em>scroll</em> sur l'<em>en-tête</em> du site.
+          En gros, j'ai créé les structures des pages, les classes, au passage ça m'a permis d'approfondir les orientations <em>design</em> en testant des backgrounds récupérés sur des banques d'images gratuites. J'ai également tester et coder une ou deux idées d'animations, parce que, malgré tout, j'avais envie de caler une animation au <em>scroll</em> sur l'écran d'accueil. Pour le panache quoi.
         </p>
+        <div class="img">
+          <Image
+            class="anim-3-etapes"
+            src={proto_projet_2}
+            alt="3 images décrivant l'évolution de l'écran d'acceuil au scroll"
+          />
+      </div>
         <p>
           Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment, ça m'apprendra à coder pour chrome (les mauvaises habitudes du taf voyez-vous). 
         </p>
@@ -278,6 +285,9 @@ const pageTitle = "Webouille";
     } 
     &:has(.mood-board):after {
       content:"Moodboard : recherche de style, ton, etc.";
+    }      
+    &:has(.anim-3-etapes):after {
+      content:"Animations en 3 étapes";
     }   
   }
   .webouille-main {

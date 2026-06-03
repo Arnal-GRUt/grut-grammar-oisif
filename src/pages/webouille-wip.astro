@@ -218,18 +218,18 @@ const pageTitle = "Webouille";
   </div>
 </BaseLayout>
 <style>
-
-.menu-chapitre {  
-  & li:hover {
-    color: var(--yellow);
-  }
-}
   /* Fuyez pauvres fous ! Manque le gif du G */
   html#Webouille body .webouille-main .trigger-warning-blabla {
     background: var(--yellow);
     transform: rotate(-2deg) translateX(-4rem);
     font-family: "Chelsea Market", system-ui;
     color: var(--black);
+  }
+
+  ul.menu-chapitre {  
+    & li:hover a {
+      color: var(--yellow);
+    }
   }
 
   div:has(.tools-icon) {

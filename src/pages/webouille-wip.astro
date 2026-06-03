@@ -22,7 +22,7 @@ const pageTitle = "Webouille";
         <div>
           <h2 class="soustitre-page">Todo list</h2>        
           <p style="font-size: 1rem;">Maj : 04 mai 2026</p>
-          <ul style="padding: 1rem 0;">
+          <ul class="menu-chapitre" style="padding: 1rem 0;">
             <li></li>
             <li style="font-size: 1.2rem; padding-bottom: 0.5rem;">Chapitrage :</li>
             <li><a href="#top"> - Haut de page</a></li>
@@ -218,6 +218,12 @@ const pageTitle = "Webouille";
   </div>
 </BaseLayout>
 <style>
+
+.menu-chapitre {  
+  & li:hover {
+    text-decoration: dashed;
+  }
+}
   /* Fuyez pauvres fous ! Manque le gif du G */
   html#Webouille body .webouille-main .trigger-warning-blabla {
     background: var(--yellow);

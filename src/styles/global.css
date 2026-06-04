@@ -1679,7 +1679,7 @@ header nav .to-small-menu {
 		z-index: -1;
 	}
 
-	15% {
+	50% {
 		-webkit-transform: translateX(-100%) translateY(-20vh);
 		transform: translateX(-100%) translateY(-20vh);
 		left: 100%;
@@ -1687,7 +1687,7 @@ header nav .to-small-menu {
 
 	}
 
-	100% {
+	80%, 100% {
 		-webkit-transform: translateX(-100%) translateY(0);
 		transform: translateX(-100%) translateY(0);
 		left: 100%;
@@ -1706,7 +1706,7 @@ header nav .to-small-menu {
 		z-index: -1;
 	}
 
-	15% {
+	50% {
 		-webkit-transform: translateX(-100%) translateY(-20vh);
 		transform: translateX(-100%) translateY(-20vh);
 		left: 100%;
@@ -1714,7 +1714,7 @@ header nav .to-small-menu {
 
 	}
 
-	100% {
+	80%, 100% {
 		-webkit-transform: translateX(-100%) translateY(0);
 		transform: translateX(-100%) translateY(0);
 		left: 100%;

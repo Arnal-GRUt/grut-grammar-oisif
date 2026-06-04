@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image": {
+            "source": "./visuels-webouille/proto-depart-projet-pf.png",
+            "img_alt": "Double page du projet 1 sur papier + personnage bd"
+        },
+        "img_name": "Double page du projet 1 sur papier + personnage bd"
+    },
+    {
+        "id": 2,
+        "image": {
+            "source": "./visuels-webouille/Charte-graphique-v1.png",
+            "img_alt": "Charte graphique"
+        },
+        "img_name": "Charte graphique"
+    },
+    {
+        "id": 3,
+        "image": {
+            "source": "./visuels-webouille/Old-proto-avant-2020-2.png",
+            "img_alt": "Prototype 3 types d'écran"
+        },
+        "img_name": "Première version de l'accueil du site sur 3 écrans"
+    },
+    {
+        "id": 4,
+        "image": {
+            "source": "./visuels-webouille/proto-site-2024.png",
+            "img_alt": "Prototype 3 types d'écran"
+        },
+        "img_name": "Première version de l'accueil du site sur 3 écrans"
+    },
+    {
+        "id": 5,
+        "image": {
+            "source": "./visuels-webouille/structure-astro-de-base.png",
+            "img_alt": "Structure d'un projet astro basique : dossier public, src contenant les pages, asset etc, et fichier package.json"
+        },
+        "img_name": "Structure d'un projet astro basique avec dossiers public, src contenant les pages, asset etc, et un fichier package.json"
+    },
+    {
+        "id": 6,
+        "image": {
+            "source": "./visuels-webouille/mood-board.png",
+            "img_alt": "Assemblage d'écrans d'accueil de blogs/site"
+        },
+        "img_name": "Moodboard : recherche de style, ton, etc."
+    },
+    {
+        "id": 7,
+        "image": {
+            "source": "./visuels-webouille/screen_anim.png",
+            "img_alt": "3 images décrivant l'évolution de l'écran d'accueil au scroll"
+        },
+        "img_name": "Animations en 3 étapes"
+    }
+]

@@ -28,9 +28,3 @@ const webImg = defineCollection({
 
 export const collections = { grutArt: artwork, visuelsWebouille: webImg };
 // export const collections = { grutArt: artwork };
-// date: z
-//     .date()
-//     .transform((str) => new Date(str))
-//     .optional(),
-// style: z.enum(['Numérique', 'Trad', 'Mix']),
-// import { image } from 'astro:content';

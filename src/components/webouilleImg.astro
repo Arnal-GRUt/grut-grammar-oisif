@@ -11,7 +11,7 @@ const { img_path, img_name, img_alt } = Astro.props;
 ---
 
 <div class="img">
-    <Image src={img_path} alt={img_alt} />
+    <Image src={img_path} alt={img_alt} width="1024" />
 </div>
 <style is:global define:vars={img_name}>
     div.img:after {

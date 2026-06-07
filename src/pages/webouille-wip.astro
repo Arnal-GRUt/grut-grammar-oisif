@@ -12,7 +12,7 @@ import proto_projet_6 from "../images/visuels-webouille/mood-board.png";
 import proto_projet_7 from "../images/visuels-webouille/screen_anim.png";
 
 import webImg from "../components/webouilleImg.astro";
-const allImg = await getCollection('visuelsWebouille');
+const allImg = await getCollection("visuelsWebouille");
 const pageTitle = "Webouille";
 ---
 
@@ -86,10 +86,10 @@ const pageTitle = "Webouille";
 						} -->
 						{                    
 						  allImg
-                .slice(0,4)                
+                .slice(3,4)                
                 .map((visuel: any) => (                  							
                 <webImg
-										img_path={visuel.data.image.source}
+										source={visuel.data.image.source}                    
 										img_alt={visuel.data.image.img_alt}												
                     img_name={visuel.data.img_name}             
 									/>

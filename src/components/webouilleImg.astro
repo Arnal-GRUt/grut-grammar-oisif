@@ -2,16 +2,16 @@
 import { Image } from "astro:assets";
 // import type { ImageMetadata } from "astro";
 
-interface Props {
-    img_path: string;
-    img_alt: string;
-    img_name: string;
-}
-const { img_path, img_name, img_alt } = Astro.props;
+// interface Props {
+//     img_path: string;
+//     img_alt: string;
+//     img_name: string;
+// }
+const { source, img_name, img_alt } = Astro.props;
 ---
 
 <div class="img">
-    <Image src={img_path} alt={img_alt} width="1024" />
+    <Image src={source} alt={img_alt} width="1024" />
 </div>
 <style is:global define:vars={img_name}>
     div.img:after {

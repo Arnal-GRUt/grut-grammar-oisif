@@ -1,20 +1,21 @@
 ---
 import { Image } from "astro:assets";
-// import type { ImageMetadata } from "astro";
+import type { ImageMetadata } from "astro";
 
-// interface Props {
-//     img_path: string;
-//     img_alt: string;
-//     img_name: string;
-// }
-const { source, img_name, img_alt } = Astro.props;
+interface Props {
+    source: string;
+    img_id: number;
+    img_alt: string;
+    img_name: string;
+}
+const { source, img_id, img_name, img_alt } = Astro.props;
 ---
 
-<div class="img">
+<div class={`visuel-${img_id}`}>
     <Image src={source} alt={img_alt} width="1024" />
 </div>
 <style is:global define:vars={img_name}>
-    div.img:after {
+    div[class*="visuel-"]:after {
         content: var(--img_name);
         height: 100px;
     }

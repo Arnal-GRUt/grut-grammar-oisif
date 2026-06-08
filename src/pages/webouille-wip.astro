@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-import { getEntry } from "astro:content";
+import webImg from "../components/webouilleImg.astro";
 import proto_projet_1 from "../images/visuels-webouille/proto-depart-projet-pf.png";
 import proto_projet_2 from "../images/visuels-webouille/Charte-graphique-v1.png";
 import proto_projet_3 from "../images/visuels-webouille/Old-proto-avant-2020-2.png";
@@ -11,7 +11,7 @@ import proto_projet_5 from "../images/visuels-webouille/structure-astro-de-base.
 import proto_projet_6 from "../images/visuels-webouille/mood-board.png";
 import proto_projet_7 from "../images/visuels-webouille/screen_anim.png";
 
-import webImg from "../components/webouilleImg.astro";
+
 const allImg = await getCollection("visuelsWebouille");
 const pageTitle = "Webouille";
 ---
@@ -74,25 +74,13 @@ const pageTitle = "Webouille";
         <p>
           Puis est venu le temps du <em>reboot</em>. Ça a commencé en 2024, avec les copains du taf, des doutes, un ras-le-bol général et une envie collective de se faire un <strong>portfolio webdesigner</strong>. La première fois, on s'est donné rendez-vous un samedi après-midi au château de la Châtelaine et du CodeKeeper, pour travailler ensemble sur nos projets perso. L'idée était de miser sur l'émulation du groupe pour avancer et ne pas se laisser bouffer par la procrastination.
         </p>
-						<!-- {
-							allImg										
-								.map((visuel: any) => (
-									<webouilleImg
-										img_path={visuel.data.image.source}
-										img_alt={visuel.data.image.img_alt}												
-                    img_name={visuel.data.img_name}
-									/>
-								))
-						} -->
-						{                    
-						  allImg
-                .slice(3,4)                
+            {                    
+						  allImg  
+                .slice(4,5)                            
                 .map((visuel: any) => (                  							
-                <webImg
-										source={visuel.data.image.source}                    
-										img_alt={visuel.data.image.img_alt}												
-                    img_name={visuel.data.img_name}             
-									/>
+                <div class={`visuel-${visuel.id}`}>
+                    <Image src={visuel.data.image.source} alt={visuel.data.image.img_alt} width="1024" />
+                </div>
             ))							
 						}
         <p>
@@ -233,7 +221,7 @@ const pageTitle = "Webouille";
     <div class="overlay-done"></div>
   </div>
 </BaseLayout>
-<style>
+<style define:vars={webImg}>
   /* Fuyez pauvres fous ! Manque le gif du G */
   html#Webouille body .webouille-main .trigger-warning-blabla {
     background: var(--yellow);
@@ -265,7 +253,7 @@ const pageTitle = "Webouille";
       }
     }
   }
-  div.img {
+  div[class*="img"] {
     position: relative;
     z-index: 0;      
     display: flex;
@@ -293,10 +281,12 @@ const pageTitle = "Webouille";
       transition: 0.15s; 
       opacity: 0;
     }
+   
     &:hover::after {
       opacity: 1;
       transform: rotateZ(-5deg) translateX(0);
     }    
+   
     &:has(.proto-img):after {
       content:"Double page du projet 1 sur papier + personnage bd";
     }

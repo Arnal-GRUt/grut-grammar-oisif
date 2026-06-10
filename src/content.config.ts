@@ -1,6 +1,6 @@
-import { defineCollection } from 'astro:content';
+import { defineCollection, z } from 'astro:content';
 import { file } from 'astro/loaders';
-import { z } from 'astro/zod';
+// import { z } from 'astro/zod';
 // import { number } from 'astro:schema';
 
 const artwork = defineCollection({

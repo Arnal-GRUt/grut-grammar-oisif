@@ -12,7 +12,18 @@ import proto_projet_5 from "../images/visuels-webouille/structure-astro-de-base.
 import proto_projet_6 from "../images/visuels-webouille/mood-board.png";
 import proto_projet_7 from "../images/visuels-webouille/screen_anim.png";
 
-const allImg = await getCollection("visuelsWebouille");
+// const allImg = await getCollection("visuelsWebouille");
+
+export async function getStaticPaths() {
+  const allImg = await getCollection("visuelsWebouille");
+  return allImg.map((visuel: any) => ({
+    params: { id: visuel.id },
+    props: { visuel },
+  }));
+}
+
+const { visuel } = Astro.props;
+
 import wImg from "../components/webouilleImg.astro";
 const pageTitle = "Webouille";
 
@@ -78,7 +89,7 @@ const pageTitle = "Webouille";
         <p>
           Puis est venu le temps du <em>reboot</em>. Ça a commencé en 2024, avec les copains du taf, des doutes, un ras-le-bol général et une envie collective de se faire un <strong>portfolio webdesigner</strong>. La première fois, on s'est donné rendez-vous un samedi après-midi au château de la Châtelaine et du CodeKeeper, pour travailler ensemble sur nos projets perso. L'idée était de miser sur l'émulation du groupe pour avancer et ne pas se laisser bouffer par la procrastination.
         </p>
-            {                    
+            <!-- {                    
 						  allImg  
                 .slice(4,5)                            
                 .map((visuel: any) => (                  							
@@ -86,19 +97,15 @@ const pageTitle = "Webouille";
                     <Image src={visuel.data.image.source} alt={visuel.data.image.img_alt} width="1024" />
                 </div>
             ))							
-						}
-            <!-- {                    
-						  allImg  
-                .slice(3,4)                            
-                .map((visuel: any) => (                  							
-                <wImg
-                  source={visuel.data.image.source}
-                  img_id={visuel.id}
-                  img_alt={visuel.data.image.img_alt}
-                  img_name={visuel.data.img_name}
-                />
-            ))							
 						} -->
+            {                    
+            <wImg
+                source={visuel.data.image.source}
+                img_id={visuel.id}
+                img_alt={visuel.data.image.img_alt}
+                img_name={visuel.data.img_name}
+              />            							
+						}
             
         <p>
           Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet - moi le premier, j'ai raté quelques rendez-vous. Ces moments ont toujours été riches humainement, nos réunions ressemblaient à des <em>fab lab</em> sans pression, dans la bonne humeur, où le niveau de motivation était plus ou moins élevé suivant les personnes, et tout ça sous perfusion de <em>junk food</em> et de vannes foireuses. En ligne de mire, on s'était programmé une dernière réunion de présentation des pf terminés.

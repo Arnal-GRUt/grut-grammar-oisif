@@ -2,7 +2,6 @@
 import { Image } from "astro:assets";
 
 const { source, img_id, img_name, img_alt } = Astro.props;
-
 ---
 
 <div class={`visuel-${img_id}`}>
@@ -10,8 +9,7 @@ const { source, img_id, img_name, img_alt } = Astro.props;
 </div>
 <style is:global define:vars={img_name}>
     div[class*="visuel-"]:after {
-        content: var(--img_name);
-        /* content: "toto partout"; */
-        /* height: 100px; */
+        /* content: var(--img_name); */
+        content: "toto partout";
     }
 </style>

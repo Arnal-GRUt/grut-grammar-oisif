@@ -26,7 +26,7 @@ J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes 
 
 Mon regard plonge. Je vois mes jambes, des appendices noueux comme de vieilles branches pliées à maints endroits, inertes mais pleines de sève. Je ne sens rien, pas le moindre fourmillement, la moindre douleur, je ne sens rien.  
 
-Tout autour de nous, une musique bruyante et grasse nous écrase. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Viennent ensuite, ensemble, avant, après, des lumières sadiques, des flashs morbides, qui à chaque instant révèlent le massacre et crient : « *La mort ! La boue ! Les rats !* » Hurlent encore et encore ! « *La gloire dans le sang !* »  
+Tout autour de nous, une musique bruyante et grasse nous écrase. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Viennent ensuite, ensemble, avant, après, des lumières sadiques, des flashs morbides, qui à chaque instant révèlent le massacre et crient La mort, la boue, les rats. Ils hurlent encore et encore à la gloire dans le sang.
 
 Je ferme les yeux.
 
@@ -38,9 +38,9 @@ Je n’espère plus.
 
 J’ouvre les yeux.  
 
-Le calme est maintenant revenu. Allongé sur un lit de camp, une autre musique se joue autour de moi. Un medley tant malsain que rassurant. Des gémissements, du réconfort, des cris, des silences, des pleurs, des rires, le calme et la colère. Je sais où je suis. Des hommes, des femmes en blanc. L’infirmerie militaire. Encore elle. Déjà la cinquième fois de la matinée en à peine trois heures de combat.  
+Le calme est maintenant revenu. Allongé sur un lit de camp, une autre musique se joue autour de moi. Un medley tant malsain que rassurant, des gémissements, du réconfort, des cris, des silences, des pleurs, des rires, le calme et la colère. Je sais où je suis. Des hommes, des femmes en blanc. L’infirmerie militaire. Encore elle. Déjà la cinquième fois de la matinée en quelques heures de combat.  
 
-Il m’en faudra un peu encore, pour que je batte le record de passages au bloc de la section. Je vais vriller, je deviens fou. Mes bras et mes jambes sont brisées en un nombre d'endroits improbable. Et que dire de mon crâne, de mon visage, tous les deux mâchouillés, broyés, perforés. Combien de fois devra-t-on me réparer encore ? Cent ? Deux cent fois ? Vers l'infini et au-delà ?  
+Il m’en faudra un peu encore, pour que je batte le record de passages au bloc de la section. Je vais vriller, je deviens fou. Mes bras et mes jambes sont brisées en maints endroits. Et que dire de mon crâne, de mon visage, tous les deux mâchouillés, broyés, perforés. Combien de fois devra-t-on me réparer encore ? Cent ? Deux cent fois ? Vers l'infini et au-delà ?  
 
 Combien de coups de bistouri devrais-je subir ?  
 Combien de fois me plongera-t-on dans les cuves d’Hyper-Soin ?  
@@ -50,7 +50,7 @@ Que suis-je d'autre que la création indigne d’une science pervertie ?
 
 Je n'ai plus d'humanité, on me l'a volée.  
 
-Les minutes passent, mes engoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
+Les minutes passent, mes engoisses retournent à l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
 
 Je cherche alors à me lever. Sur le bord du lit, engourdis mais fonctionnels, mes membres inférieurs pendouillent dans le vide.  
 
@@ -61,7 +61,9 @@ Ma bouche pâteuse déconne à bloc. Délicatement, elle pose sa main sur mon é
 
 « Allez, calmez-vous, vous savez très bien que cela va passer, vous recouvrerez vos forces et cela plus vite si vous restez allongé. »  
 
-Ce n’est pas mon avis évidemment. « Lâchez-moi », je réponds en marmonnant les sourcils froncés.
+Ce n’est pas mon avis évidemment.  
+
+« Lâchez-moi », je réponds en marmonnant les sourcils froncés.  
 
 A-t-elle reçu le message ?  
 

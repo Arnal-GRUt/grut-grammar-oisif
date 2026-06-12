@@ -85,7 +85,7 @@ const pageTitle = "Webouille";
         </p>
             {                    
 						  allImg   
-                .slice(4,5)                                          
+                .slice(3,4)                                          
                 .map((visuel ) => (                  							
                 <div class={`visuel-${visuel.id}`}>
                     <Image 
@@ -112,13 +112,19 @@ const pageTitle = "Webouille";
         <p>
           Vu qu'on était tous à peu près <em>noob</em> en matière de création de site <em>from scratch</em>, l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/" target="_blank">tutoriel</a> assez complet et précis pour débuter autour d'HUGO.
         </p>
-        <div class="img">
-          <Image
-            class="proto-img"
-            src={proto_projet_1}
-            alt="Double page du projet 1 sur papier + personnage bd"
-          />
-        </div>
+        {                    
+          allImg   
+            .slice(0,1)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }
         <p>
           Bon, on va pas se mentir, cette première expérience a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à des voyages à l'autre bout du monde, en passant par un manque de temps et d'investissement standard. Je n'étais moi-même pas très à l'aise avec HUGO, si bien que j'ai fini par laisser pourrir le bouzin dans son coin après quelques sessions de travail.
           </p>
@@ -161,27 +167,39 @@ const pageTitle = "Webouille";
         </ul>
         <p>
           <em>Astro js</em> c'est révélé être la solution idéale - pour <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, etc., et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
-        </p>        
-        <div class="img">
-          <Image
-            class="astro-github-1"
-            src={proto_projet_5}
-            alt="Structure d'un projet astro basique : dossier public, src contenant les pages, asset etc, et fichier package.json"
-          />
-        </div>
+        </p>
+        {                    
+          allImg   
+            .slice(4,5)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }        
         <h3>Repartir de "Zéro,5"</h3>
         <p>
           Avant de passer à cette étape, j'ai repris le projet 2024 en partant du principe que je me devais d'être moins ambitieux sur la forme, au moins dans le cadre d'une v1 ; le but étant d'arriver à mettre en ligne le site assez rapidement et de me consacrer le plus tôt possible au contenu à proprement parler.</p>
         <p>
           Pour commencer, je me suis fait un mini <em>moodboard</em>. J'avais déjà en tête une structure simplifiée du projet 2024 (qui comprenait du scrolling horizontal, des animations partout et j'en passe, etc.), mais si je n'avais pas encore d'idée très précise de ce que je voulais comme style définitif, j'entrevoyais quelque chose de très <strong>graphique</strong>, qui intègre mes <strong>dessins</strong>.  
         </p>
-        <div class="img">
-          <Image
-            class="mood-board"
-            src={proto_projet_6}
-            alt="Assemblage d'écrans d'accueil de blogs/site"
-          />
-        </div>
+        {                    
+          allImg   
+            .slice(5,6)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }
         <p>
           Point positif, j'ai choisi assez vite les couleurs du site :
           <ul class="liste-intext">
@@ -213,22 +231,41 @@ const pageTitle = "Webouille";
         <p>
           En gros, j'ai créé les structures des pages, les classes, au passage ça m'a permis d'approfondir les orientations <em>design</em> en testant des backgrounds récupérés sur des banques d'images gratuites. J'ai également tester et coder une ou deux idées d'animations, parce que, malgré tout, j'avais envie de caler une animation au <em>scroll</em> sur l'écran d'accueil. Pour le panache quoi.
         </p>
-        <div class="img">
-          <Image
-            class="anim-3-etapes"
-            src={proto_projet_7}
-            alt="3 images décrivant l'évolution de l'écran d'accueil au scroll"
-          />
-      </div>
+        {                    
+          allImg   
+            .slice(6,7)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }
         <p>
           Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment, ça m'apprendra à coder pour chrome (les mauvaises habitudes du taf voyez-vous). 
         </p>
-        <div class="img">
+        {                    
+          allImg   
+            .slice(1,2)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }
+        <!-- <div class="img">
           <Image
             class="Charte-graphique"
             src={proto_projet_2}
             alt="Charte graphique"
-          />
+          /> -->
       </div>
     </section>
     <div class="overlay-done"></div>
@@ -300,53 +337,7 @@ const pageTitle = "Webouille";
       transform: rotateZ(-5deg) translateX(0);
     }    
   }
-    /* &:after {
-      content:"";      
-      position: absolute;      
-      bottom: -1.3rem;
-      right: 0%;
-      background-color: var(--white);
-      z-index: 1 ;
-      padding: 0 1ch;  
-      font-size: 1rem;
-      font-style: italic;   
-      height: fit-content;
-      max-width: 20%;
-      min-height: 80px;
-      min-width: 240px;
-      transform: rotateZ(-7deg) translateX(3rem);
-      padding: 0.8rem;
-      transition: 0.15s; 
-      opacity: 0;
-    } */
-   
-    /* &:hover::after {
-      opacity: 1;
-      transform: rotateZ(-5deg) translateX(0);
-    }     */
-   
-    /* &:has(.proto-img):after {
-      content:"Double page du projet 1 sur papier + personnage bd";
-    }
-    &:has(.oldies-v1):after {
-      content:"Version prototype Figma de ma maquette de site 2019. Cliquez sur l'image pour accéder à la démo";
-    }
-    &:has(.Charte-graphique):after {
-      content:"Charte graphique";      
-    }  
-    &:has(.Premier-proto):after {
-      content:"Première version de l'accueil du site sur 3 écrans";
-    }    
-    &:has(.astro-github-1):after {
-      content:"Structure d'un projet astro basique avec dossiers public, src contenant les pages, asset etc, et un fichier package.json";
-    } 
-    &:has(.mood-board):after {
-      content:"Moodboard : recherche de style, ton, etc.";
-    }      
-    &:has(.anim-3-etapes):after {
-      content:"Animations en 3 étapes";
-    }    */
-  /* } */
+
   .webouille-main {
     position: relative;
     flex-direction: row;

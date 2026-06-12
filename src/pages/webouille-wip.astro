@@ -544,19 +544,24 @@ const pageTitle = "Webouille";
         }        
       }
 
-      & div[class*="visuel-"] p.description {
-        opacity: 1;
-        width: 100%;
-        max-width: unset;
-        bottom: 0;
-        height: fit-content;
-        min-height: unset;
-        padding: 0.8rem;
-        transition: unset;
-        transform: unset;
-      }    
+      & div[class*="visuel-"]  {      
+        & p.description {
+          opacity: 1;
+          width: 100%;
+          max-width: unset;
+          bottom: 0;
+          height: fit-content;
+          min-height: unset;
+          padding: 0.8rem;
+          transition: unset;
+          transform: unset;
+        }
+        
+        &:hover p.description {
+          transform: unset;
+        }
     }
-    
+
     & div.overlay-done {
       content: "";
       position: absolute;

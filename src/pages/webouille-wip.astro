@@ -61,14 +61,20 @@ const pageTitle = "Webouille";
         <p>
           L'idée d'un site perso me trottait dans la tête depuis quelques années déjà. À l'époque, plutôt qu'un portfolio <em>webdesigner</em>, j'étais parti sur un site sur lequel je partagerais des nouvelles. Dans cette optique, j'ai donc commis pas mal de prototypes sur papier et sur <a href="https://www.figma.com/fr-fr/" target="_blank">Figma</a> dont j'ai poussé certains jusqu'à la maquette animée (cf. ci-dessous). Au final, la flemme et des problèmes de compétences évident, ont toujours repoussé à plus tard la production de ces sites. De toute manière, arrivé le moment de l'intégration, syndrome de l'imposteur en bandoulière, j'aurais eu du mal à poster quoi que ce soit de consistant, ce qui au final, aurait donné à ces sites des airs de coquilles vides.
         </p>
-        <div class="img">
-          <a href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1" target="_blank">
-          <Image
-            class="oldies-v1"
-            src={proto_projet_3}
-            alt="Écran figma d'un prototype de site sur mobil orienté contenu texte"            
-          />          
-          </a>
+        {                    
+          allImg   
+            .slice(1,2)                                          
+            .map((visuel ) => (                  							
+            <div class={`visuel-${visuel.id}`}>
+                <a href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1" target="_blank"></a>
+                <Image 
+                    src={visuel.data.image.source} 
+                    alt={visuel.data.image.img_alt} 
+                    width="1024" />
+                <p class="description">{visuel.data.img_name}</p>
+            </div>        
+        ))							
+        }               
         </div>
         <h2 id="reboot">Le reboot du projet</h2>
         <p>
@@ -90,16 +96,6 @@ const pageTitle = "Webouille";
                 </div>        
             ))							
 						}
-            <!-- {                    
-						  allImg.slice(3,4).map((visuel:any ) => ( 
-                  <webouilleImg
-                    img_id={visuel.id}
-                    source={visuel.data.image.source}
-                    img_alt={visuel.data.image.img_alt}
-                    img_name={visuel.data.img_name}
-                  />
-            ))	
-						} -->
         <p>
           Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet - moi le premier, j'ai raté quelques rendez-vous. Ces moments ont toujours été riches humainement, nos réunions ressemblaient à des <em>fab lab</em> sans pression, dans la bonne humeur, où le niveau de motivation était plus ou moins élevé suivant les personnes, et tout ça sous perfusion de <em>junk food</em> et de vannes foireuses. En ligne de mire, on s'était programmé une dernière réunion de présentation des pf terminés.
         </p>
@@ -285,6 +281,7 @@ const pageTitle = "Webouille";
       bottom: -1.3rem;
       right: 0%;
       background-color: var(--yellow);
+      color: var(--black);
       z-index: 1 ;
       padding: 0 1ch;  
       font-size: 0.8rem;

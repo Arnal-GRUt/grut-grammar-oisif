@@ -2494,9 +2494,9 @@ span.icon-arrow {
 
 		&:before {
 			font-size: clamp(5.3rem, 7vh, 9rem);
-			-webkit-transform: translatey(-8vh);
-			-ms-transform: translatey(-8vh);
-			transform: translatey(-8vh);
+			-webkit-transform: translatey(-12vh);
+			-ms-transform: translatey(-12vh);
+			transform: translatey(-12vh);
 		}
 	}
 

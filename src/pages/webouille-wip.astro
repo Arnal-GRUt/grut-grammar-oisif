@@ -239,19 +239,6 @@ const pageTitle = "Webouille";
         <p>
           Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment. Ça m'apprendra à coder pour chrome (on mettra ça sur les mauvaises habitudes du taf voyez-vous). 
         </p>
-        {                    
-          allImg   
-            .slice(1,2)                                          
-            .map((visuel ) => (                  							
-            <div class={`visuel-${visuel.id}`}>
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
-        }
       </div>
     </section>
     <div class="overlay-done"></div>

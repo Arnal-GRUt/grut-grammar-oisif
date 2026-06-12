@@ -559,7 +559,23 @@ const pageTitle = "Webouille";
     & img {      
       object-fit: contain;         
     }
-    &:after {
+
+    & p.discription {
+      opacity: 1;
+      width: 100%;
+      max-width: unset;
+      bottom: 0;
+      height: fit-content;
+      min-height: unset;
+      padding: 0.8rem;
+      transition: unset;
+      transform: unset;
+    }
+
+    &:hover p.description {
+      transform: unset;
+    }
+    /* &:after {
       bottom: 0;
       height: fit-content;
       max-width: unset;
@@ -569,10 +585,10 @@ const pageTitle = "Webouille";
       padding: .8rem;
       transition: unset;
       opacity: 1;
-    }
-    &:hover::after {      
+    } */
+    /* &:hover::after {      
       transform: unset;
-    }    
+    }     */
     html#Webouille body .webouille-main .trigger-warning-blabla {
         transform: unset;
         margin-top: 16px;

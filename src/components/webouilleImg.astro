@@ -5,7 +5,7 @@ const { source, img_id, img_name, img_alt } = Astro.props;
 
 <div class={`visuel-${img_id}`}>
     <Image src={source} alt={img_alt} width="1024" />
-    <p class="after">
+    <p class="description">
         {img_name}
     </p>
 </div>

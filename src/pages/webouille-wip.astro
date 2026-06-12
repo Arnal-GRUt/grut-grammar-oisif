@@ -66,12 +66,13 @@ const pageTitle = "Webouille";
             .slice(2,3)                                          
             .map((visuel ) => (                  							
             <div class={`visuel-${visuel.id}`}>
+              <a href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1" target="_blank">
                 <Image 
                     src={visuel.data.image.source} 
                     alt={visuel.data.image.img_alt} 
                     width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-                <a href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1" target="_blank"></a>
+              </a>
+              <p class="description">{visuel.data.img_name}</p>
             </div>        
         ))							
         }               

@@ -69,7 +69,7 @@
             "img_alt": "Homonde marchant avec une canne"
         },
         "img_name": "Homonde Grimp le sage",
-        "img_date": "03-08-2026"
+        "img_date": "06-17-2026"
     },
     {
         "id": 9,
@@ -214,5 +214,14 @@
         },
         "img_name": "Pantin de bois ancré au brou de noix",
         "img_date": "03-13-2026"
+    },
+    {
+        "id": 25,
+        "image": {
+            "source": "./artworks/SKULLS 16.jpg",
+            "img_alt": "16 têtes de mort façon tatou flash"
+        },
+        "img_name": "Tableau de 16 têtes de mort façon tatou flash (technique du 'petit point', c'est le terme technique)",
+        "img_date": "06-16-2026"
     }
 ]

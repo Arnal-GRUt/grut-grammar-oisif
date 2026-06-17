@@ -2011,7 +2011,8 @@ html:not([id*="Grammar"]) body {
 		width: 100vw;
 		padding: 82px 2vh;
 		z-index: 1;
-		background: var(--background);
+		background: var(--black);
+		/* background: var(--background); */
 
 		& .colonne-image {
 			-ms-grid-columns: 1fr var(--gap-16) 1fr var(--gap-16) 1fr var(--gap-16) 1fr;
@@ -3239,12 +3240,14 @@ span.icon-arrow {
 	}
 
 	html#Gribouille {
+		background-color: var(--yellow);
+
 		& body .galerie.display-flex {
 			-webkit-box-orient: vertical;
 			-webkit-box-direction: normal;
 			-ms-flex-direction: column;
-			flex-direction: column;
-
+			flex-direction: column;			
+			
 			& .colonne-image {
 				-ms-grid-columns: (1fr)[1];
 				grid-template-columns: repeat(1, 1fr);
@@ -3339,7 +3342,8 @@ html:not([id*="Grammar"]) {
 	}
 }
 
-html:is([id*="about"], #Webouille) {
+
+html:is([id*="about"], #Webouille, #Gribouille) {
 	background-color: var(--yellow);
 	/* background-color: transparent; */
 

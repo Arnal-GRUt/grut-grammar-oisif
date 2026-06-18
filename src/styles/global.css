@@ -3240,8 +3240,6 @@ span.icon-arrow {
 	}
 
 	html#Gribouille {
-		background-color: var(--yellow);
-
 		& body .galerie.display-flex {
 			-webkit-box-orient: vertical;
 			-webkit-box-direction: normal;
@@ -3343,17 +3341,14 @@ html:not([id*="Grammar"]) {
 }
 
 
-html:is([id*="about"], #Webouille, #Gribouille) {
+html:is([id*="about"], #Webouille, #Gribouille, #Écritouille) {
 	background-color: var(--yellow);
-	/* background-color: transparent; */
 
 	& header {
 		background-color: var(--yellow);
-		/* background-color: transparent;	 */
 
 		& nav.to-top {
 			background-color: var(--yellow);
-			/* background-color: transparent; */
 			border-bottom: none;
 		}
 	}

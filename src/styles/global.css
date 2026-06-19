@@ -1498,7 +1498,6 @@ header nav.to-top *.to-small-titre {
 	}
 }
 
-
 @supports (view-timeline-axis: block) {
 	header nav.to-top *.to-small-titre {
 		position: absolute;
@@ -1529,7 +1528,6 @@ header nav.to-top *.to-small-titre {
 		}
 	}
 }
-
 
 header nav .to-small-menu {
 	position: absolute;
@@ -2243,6 +2241,7 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		height: 100%;
 		background: var(--black);
 		opacity: 0.8;
+		overscroll-behavior: contain;      	
 	}
 }
 
@@ -2319,6 +2318,8 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		-webkit-transition: all 0.2s ease;
 		-o-transition: all 0.2s ease;
 		transition: all 0.2s ease;
+		overscroll-behavior: contain;
+      	overflow: hidden;
 
 		&:popover-open {
 			display: -ms-grid;

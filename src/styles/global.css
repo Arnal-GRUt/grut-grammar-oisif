@@ -2762,12 +2762,12 @@ span.icon-arrow {
 
 			& .figcaption {
 				position: relative;
-				width: 110%;
+				width: 104%;
 				height: -webkit-fit-content;
 				height: -moz-fit-content;
 				height: fit-content;
 				padding: 0.5rem 3vw;
-				z-index: 2;
+				z-index: 0;
 				inset: 0;
 				margin: auto;
 				opacity: 1;
@@ -2775,7 +2775,7 @@ span.icon-arrow {
 				-o-transition: opacity 0.3s ease;
 				transition: opacity 0.3s ease;
 				text-align: left;
-				margin: -3rem 0 0 0;
+				margin: -8rem 0 0 -0.4rem;
 				/* transform: translateY(-1rem); */
 
 			}
@@ -3267,19 +3267,6 @@ span.icon-arrow {
 		max-width: none;
 	}
 }
-
-/* @media (width < 769px) {
-
-    div.col-pres-publication {
-        width: 100%;
-    }
-    *:is(.col-pres-publication, .col-last-pub) {
-        padding-left: 0;
-    }
-	.ambiance {
-		padding-left: 0;
-	}
-} */
 
 
 @media (width < 769px) {

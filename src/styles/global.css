@@ -2340,7 +2340,7 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 			height: -webkit-fit-content;
 			height: -moz-fit-content;
 			height: fit-content;
-			max-height: 90vh;
+			/* max-height: 90vh; */
 			max-width: 40vw;
 			-ms-grid-column-align: center;
 			justify-self: center;

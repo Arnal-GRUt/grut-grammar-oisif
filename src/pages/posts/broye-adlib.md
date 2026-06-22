@@ -11,9 +11,9 @@ tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
 
 ## Préambule  
 
-Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement je l'avais complètement oublié.  
+Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement, je l'avais complètement oublié.  
 
-C’est une très courte nouvelle. J'ai gardé la structure narrative du récit, le thème et la "morale" de l’histoire. En revanche, j’ai effectué pas mal de corrections stylistiques, souvent pour supprimer quelques tournures ampoulées (il en reste encore un peu peut-être).  
+C’est une très courte nouvelle. J'ai gardé la structure narrative du récit, le thème et la "morale" de l’histoire. En revanche, j’ai effectué pas mal de corrections stylistiques, souvent pour supprimer quelques tournures ampoulées (il en reste encore un peu).  
 
 Reste que c’est un très vieux texte dont la première version est lisible [ici](https://grammar-oisif.fr/posts/broye-adlib-original).  
 
@@ -34,21 +34,18 @@ Je n’entends plus rien.
 
 J’attends.
 
-Je n’espère plus.
-
-J’ouvre les yeux.  
+Enfin, j’ouvre les yeux.  
 
 Le calme est maintenant revenu. Allongé sur un lit de camp, une autre musique se joue autour de moi. Un medley tant malsain que rassurant, des gémissements, du réconfort, des cris, des silences, des pleurs, des rires, le calme et la colère. Je sais où je suis. Des hommes, des femmes en blanc. L’infirmerie militaire. Encore elle. Déjà la cinquième fois de la matinée en quelques heures de combat.  
 
-Il m’en faudra un peu encore, pour que je batte le record de passages au bloc de la section. Je vais vriller, je deviens fou. Mes bras et mes jambes sont brisées en maints endroits. Et que dire de mon crâne, de mon visage, tous les deux mâchouillés, broyés, perforés. Combien de fois devra-t-on me réparer encore ? Cent ? Deux cent fois ? Vers l'infini et au-delà ?  
+Il m’en faudra un peu encore pour que je batte le record de passages au bloc de la section. Je vais vriller, je deviens fou. Mes bras et mes jambes sont brisées en maints endroits. Et que dire de mon crâne, de mon visage ? Tous les deux mâchouillés, broyés, perforés. Combien de fois devra-t-on me réparer encore ? Cent, deux cent fois ? Vers l'infini et au-delà ?  
 
 Combien de coups de bistouri devrais-je subir ?  
-Combien de fois me plongera-t-on dans les cuves d’Hyper-Soin ?  
+Combien de fois encore dans les cuves de soin ?  
 Qui dois-je remercier ?  
-Qui m'a doté d’une puce *de survie* greffée bien au fond du bulbe ?  
-Que suis-je d'autre que la création indigne d’une science pervertie ?
+Qui pour m'oter cette puce *de survie* greffée bien au fond du bulbe ?  
 
-Je n'ai plus d'humanité, on me l'a volée.  
+Mon humanité, on me l'a volée.  
 
 Les minutes passent, mes engoisses retournent à l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
 

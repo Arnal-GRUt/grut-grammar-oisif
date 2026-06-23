@@ -11,7 +11,7 @@ tags: ["Écritouille", "Narratif", "Complet"]
 
 ## Préambule  
 
-Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement je l'avais complètement oubliée.  
+Ce texte est vieux. Je l'ai retrouvé dans un dossier qui migre de disque dur en disque dur depuis plus de 10 ans. Honnêtement je l'avais complètement oublié.  
 
 C’est une très courte nouvelle dont la nouvelle version retravaillée est lisible [ici](https://grammar-oisif.fr/posts/broye-adlib).  
 

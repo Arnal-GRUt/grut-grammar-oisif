@@ -246,14 +246,14 @@ const pageTitle = "Webouille";
 <style>
   /* Fuyez pauvres fous ! Manque le gif du G */
   html#Webouille body .webouille-main .trigger-warning-blabla {
-    background: var(--yellow);
+    background: var(--grut-color);
     transform: rotate(-2deg) translateX(-4rem);
     font-family: "Chelsea Market", system-ui;
-    color: var(--black);
+    color: var(--defaut-txt);
   }
 
   /* html#Webouille body div.webouille-main ul.menu-chapitre li:hover a {
-    color: var(--yellow);
+    color: var(--grut-color);
   } */
 
   div:has(.tools-icon) {
@@ -289,8 +289,8 @@ const pageTitle = "Webouille";
       position: absolute;      
       bottom: -1.3rem;
       right: 0%;
-      background-color: var(--yellow);
-      color: var(--black);
+      background-color: var(--grut-color);
+      color: var(--defaut-txt);
       z-index: 1 ;
       padding: 0 1ch;  
       font-size: 0.9rem;
@@ -313,7 +313,7 @@ const pageTitle = "Webouille";
     position: relative;
     flex-direction: row;
     width: 100%;
-    background: var(--black) url(../images/visuels-webouille/fig_3.png);
+    background: var(--defaut-txt) url(../images/visuels-webouille/fig_3.png);
     z-index: 1;
     flex-wrap: wrap;
     background-size: cover;
@@ -340,7 +340,7 @@ const pageTitle = "Webouille";
       position: absolute;
       width: 100%;
       height: 30vh;
-      background-image: linear-gradient(transparent 10%, var(--black) 55%);
+      background-image: linear-gradient(transparent 10%, var(--defaut-txt) 55%);
       bottom: 0;
       right: 0;
       z-index: 1;
@@ -352,7 +352,7 @@ const pageTitle = "Webouille";
       width: 100%;
       height: 100%;
       z-index: 0;
-      background: var(--black);
+      background: var(--defaut-txt);
       opacity: 0.85;
     }
   }
@@ -430,14 +430,14 @@ const pageTitle = "Webouille";
         mask-size: contain;
         mask-position: center;
         mask-repeat: no-repeat;        
-        background-color: var(--yellow);        
+        background-color: var(--grut-color);        
         align-items: center;
         left: -1.6rem;                    
       }
     }
 
     & a {
-      background-color: var(--yellow);      
+      background-color: var(--grut-color);      
     }
     
     & > div.main-done {
@@ -461,12 +461,12 @@ const pageTitle = "Webouille";
         font-size: 1.3rem;
       }
       & :is(p, ul li) {
-        color: color-mix(in srgb, var(--white) 90%, var(--black));
+        color: color-mix(in srgb, var(--white) 90%, var(--defaut-txt));
       }
       & h2 {
         font-size: 2rem;
         background: var(--white);
-        color: var(--black);
+        color: var(--defaut-txt);
 
         &:nth-child(even) {
           transform: rotate(2deg);
@@ -477,7 +477,7 @@ const pageTitle = "Webouille";
       }
       & h3 {        
         color: var(--white);
-        border-bottom: 8px dashed var(--yellow);
+        border-bottom: 8px dashed var(--grut-color);
         padding: 0;       
 
         &:nth-child(even) {

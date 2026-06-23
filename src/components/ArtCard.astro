@@ -16,7 +16,7 @@ const { img_id, img_path, img_alt } = Astro.props;
             popovertarget={img_path}
             popovertargetaction="show"
         >
-            <img                
+            <img
                 src={img_path}
                 alt={img_alt}
                 loading={img_id < 20 ? "eager" : "lazy"}
@@ -28,7 +28,7 @@ const { img_id, img_path, img_alt } = Astro.props;
     </div>
     <dialog popover class="image-lightbox" id={img_path}>
         <div class="image-lightbox--img">
-            <img                
+            <img
                 src={img_path}
                 alt={img_alt}
                 loading={img_id < 20 ? "eager" : "lazy"}

@@ -66,7 +66,7 @@ h6 {
 }
 
 hr {  
-  border-bottom: 2px dashed var(--black);
+  border-bottom: 2px dashed var(--defaut-txt);
   color: transparent;
 }
 
@@ -94,11 +94,12 @@ h6 {
 
 
 :root {
-	--yellow: #f3bd22;
-	--black: #000000;
-	--white: #ffffff;
-	--background: #f4f2e8;
-	/* --background: #eeeadb; */
+
+	/******* defaut-txt contraste avec les autres couleurs *******/
+	--grut-color: #f3bd22; /* ancien --yellow */
+	--defaut-txt: #000000; /* ancien --black */
+	--back-2: #ffffff; /* ancien --white */
+	--background: #f4e8ef;		
 	--animStart: 150vh;
 	--animEnd: 150vh;
 	--weight: 400;
@@ -161,7 +162,7 @@ span.icon-arrow {
 	padding-left: 2rem;
 
 	a {
-		color: var(--black);
+		color: var(--defaut-txt);
 	}
 }
 
@@ -179,7 +180,7 @@ span.icon-arrow::before {
 }
 
 p a {
-	color: color-mix(in srgb, var(--black) 75%, transparent);
+	color: color-mix(in srgb, var(--defaut-txt) 75%, transparent);
 	font-style: italic;
 }
 
@@ -195,7 +196,7 @@ p a {
 	&:not(.lien-post, .lien-post-last)::before {
 		content: "";
 		position: absolute;
-		background: var(--black);
+		background: var(--defaut-txt);
 		width: 0%;
 		height: 3px;
 		left: 0;
@@ -244,7 +245,7 @@ p.accroche {
 	/* font-family: var(--font-chelsea-market); */
 	font-weight: 400;
 	font-style: normal;
-	color: var(--black);
+	color: var(--defaut-txt);
 }
 
 ul {
@@ -372,8 +373,8 @@ body .main {
 }
 
 .cta {
-	padding: 0 24px;
-	background: var(--yellow);
+	padding: 0 24px;	
+	background: var(--grut-color);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -388,7 +389,7 @@ body .main {
 	width: fit-content;
 	min-width: 200px;
 	border-radius: 100px;
-	border: 4px solid var(--black);
+	border: 4px solid var(--defaut-txt);
 	-webkit-transition: background 0.3s ease;
 	-o-transition: background 0.3s ease;
 	transition: background 0.3s ease;
@@ -404,13 +405,13 @@ body .main {
 	min-height: 3.5rem;
 
 	&:hover {
-		background-color: var(--black);
+		background-color: var(--defaut-txt);
 
 		& a {
-			color: var(--yellow);
+			color: var(--grut-color);
 
 			& div[class*="icon"] {
-				background: var(--yellow);
+				background: var(--grut-color);
 			}
 		}
 	}
@@ -418,7 +419,7 @@ body .main {
 	& a {
 		text-decoration: none;
 		text-align: center;
-		color: var(--black);
+		color: var(--defaut-txt);
 		/* font-size: clamp(1.5rem, 1rem + 1.2vw, 3rem); */
 		/* font-size: clamp(1.2rem, 1rem + 1vw, 2.5rem); */
 		font-size: clamp(1.2rem, 1.2rem + 0.5vw, 2rem);
@@ -543,7 +544,7 @@ body .main {
 	object-fit: cover;
 	-o-object-position: right bottom;
 	object-position: right bottom;
-	background: var(--yellow);
+	background: var(--grut-color);
 }
 
 @supports (view-timeline-axis: block) {
@@ -569,7 +570,7 @@ body .main {
 		object-position: right bottom;
 		/* -o-object-position: bottom;
 		object-position: bottom; */
-		background: var(--yellow);
+		background: var(--grut-color);
 
 		view-timeline-axis: block;
 		-webkit-animation: clip-reveal 1s both;
@@ -636,7 +637,7 @@ body .display-flex.direction-row.redirection-col {
 		width: 100%;
 		height: 100%;
 		z-index: 0;
-		background: var(--black);
+		background: var(--defaut-txt);
 	}
 }
 
@@ -664,7 +665,7 @@ body .display-flex.direction-row.redirection-col {
 	min-height: 100vh;
 
 	& .direction-column {
-		/* background-color: var(--white); */
+		/* background-color: var(--back-2); */
 		padding: 16px;
 
 		& h2 {
@@ -685,11 +686,11 @@ body .display-flex.direction-row.redirection-col {
 	-webkit-transform: rotate(-2.5deg);
 	-ms-transform: rotate(-2.5deg);
 	transform: rotate(-2.5deg);
-	border: 4px solid var(--black);
+	border: 4px solid var(--defaut-txt);
 	position: relative;
 	padding: 6vh 0 0 2vw;
 	z-index: 2;
-	/* background: var(--black);	 */
+	/* background: var(--defaut-txt);	 */
 	/* background-size: 50%;
     background-position: center;	
 	-webkit-transition: background 0.4s ease;	
@@ -765,7 +766,7 @@ body .display-flex.direction-row.redirection-col {
 	}
 
 	& *:is(h2, p) {
-		background-color: var(--white);
+		background-color: var(--back-2);
 		z-index: 2;
 	}
 
@@ -811,7 +812,7 @@ body .display-flex.direction-row.redirection-col {
 	justify-content: flex-start;
 	width: 100vw;
 	background-size: cover;
-	background: var(--black);
+	background: var(--defaut-txt);
 	min-height: 100vh;
 	height: -webkit-fit-content;
 	height: -moz-fit-content;
@@ -828,7 +829,7 @@ body .display-flex.direction-row.redirection-col {
 		background-position-x: 124%;
 
 		&::before {
-			background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.90), var(--black));
+			background-image: linear-gradient(var(--defaut-txt), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.90), var(--defaut-txt));
 		}
 	}
 
@@ -855,9 +856,9 @@ body .display-flex.direction-row.redirection-col {
 		content: "";
 		width: 100%;
 		height: 100%;
-		background-image: -webkit-gradient(linear, left top, left bottom, from(var(--black)), color-stop(rgba(0, 0, 0, 0.90)), color-stop(rgba(0, 0, 0, 0.85)), color-stop(rgba(0, 0, 0, 0.90)), to(var(--black)));
-		background-image: -o-linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
-		background-image: linear-gradient(var(--black), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--black));
+		background-image: -webkit-gradient(linear, left top, left bottom, from(var(--defaut-txt)), color-stop(rgba(0, 0, 0, 0.90)), color-stop(rgba(0, 0, 0, 0.85)), color-stop(rgba(0, 0, 0, 0.90)), to(var(--defaut-txt)));
+		background-image: -o-linear-gradient(var(--defaut-txt), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--defaut-txt));
+		background-image: linear-gradient(var(--defaut-txt), rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.90), var(--defaut-txt));
 		transition: 1s;
 	}
 }
@@ -866,23 +867,23 @@ body .display-flex.direction-row.redirection-col {
 	max-width: 1280px;
 	gap: var(--gap-24);
 	padding-bottom: 48px;
-	/* background: var(--black); */
+	/* background: var(--defaut-txt); */
 	z-index: 2;
 	height: -webkit-fit-content;
 	height: -moz-fit-content;
 	height: fit-content;
 
 	& :is(h2, h3, .style-h3) {
-		color: var(--white);
+		color: var(--back-2);
 	}
 
 	& p {
-		color: color-mix(in srgb, var(--white) 90%, var(--black));
+		color: color-mix(in srgb, var(--back-2) 90%, var(--defaut-txt));
 	}
 }
 
 .redirection-card-ecritouille .dernier-texte.display-flex.direction-row {
-	background: var(--black);
+	background: var(--defaut-txt);
 	-webkit-transform: rotate(1deg);
 	-ms-transform: rotate(1deg);
 	transform: rotate(1deg);
@@ -916,8 +917,8 @@ div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nt
 div.presentation .ambiance .col-pres-publication p[class*="home-ecritouille"]:nth-child(2n) {
 	font-size: 2rem;
 	line-height: 1;
-	background: var(--white);
-	color: var(--black);
+	background: var(--back-2);
+	color: var(--defaut-txt);
 }
 
 body .presentation .ambiance .col-pres-publication p.home-ecritouille-2 {
@@ -942,7 +943,7 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	-webkit-transform: rotate(-5deg);
 	-ms-transform: rotate(-5deg);
 	transform: rotate(-5deg);
-	background: var(--white);
+	background: var(--back-2);
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -950,15 +951,15 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	align-self: flex-end;
 
 	& span.style-h3 {
-		color: var(--black);
+		color: var(--defaut-txt);
 		line-height: 2;
 
 	}
 }
 
 .col-last-pub .presentation .carton-presentation {
-	/* background-color: var(--white); */
-	background-color: var(--yellow);
+	/* background-color: var(--back-2); */
+	background-color: var(--grut-color);
 }
 
 .redirection-card-ecritouille .dernier-texte .box {
@@ -973,7 +974,7 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	-ms-flex-pack: start;
 	justify-content: flex-start;
 	padding: 24px;
-	background: var(--black);
+	background: var(--defaut-txt);
 	-ms-flex-item-align: center;
 	-ms-grid-row-align: center;
 	align-self: center;
@@ -988,12 +989,12 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	}
 
 	*:not(.cta a) {
-		color: var(--white);
+		color: var(--back-2);
 	}
 }
 
 html#ecritouille body .tous-les-textes .box article {
-	border-bottom: 2px dashed var(--white);
+	border-bottom: 2px dashed var(--back-2);
 
 	&::hover a {
 		background-color: color-mix(in srgb, var(--background), 60%, transparent);
@@ -1090,7 +1091,7 @@ div.col-pres-publication {
 	padding-left: 24px;
 
 	& a.lien-post-last .presentation.direction-column .carton-presentation.display-flex p.sous-titre {
-		background: var(--white);
+		background: var(--back-2);
 		margin-left: -16px;
 		position: absolute;
 		top: -2rem;
@@ -1114,14 +1115,14 @@ div.col-pres-publication {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	background: var(--white) url(../images/fond-webd.png);
+	background: var(--back-2) url(../images/fond-webd.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
 	width: 40%;
 
 	& h2 {
-		background-color: var(--white);
+		background-color: var(--back-2);
 		transform: rotate(6deg) translate(3rem, -1.5rem);
 	}
 
@@ -1144,7 +1145,7 @@ div.col-pres-publication {
 	margin-left: 15%;
 	gap: var(--gap-24);
 	padding: 24px;
-	background: var(--yellow);
+	background: var(--grut-color);
 	z-index: 1;
 	transform: rotate(-4deg);
 
@@ -1152,8 +1153,8 @@ div.col-pres-publication {
 		font-size: 1.3rem;
 		transform: rotate(2deg);
 		font-family: 'Chelsea Market';
-		background: var(--black);
-		color: var(--yellow);
+		background: var(--defaut-txt);
+		color: var(--grut-color);
 		margin-left: -2rem;
 	}
 }
@@ -1176,7 +1177,7 @@ body footer {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	background: var(--yellow);
+	background: var(--grut-color);
 	background-size: 20%;
 	height: 100vh;
 	background-position: left bottom;
@@ -1245,7 +1246,7 @@ footer *.navigation {
 			mask-size: 100%;
 			-webkit-mask-position: center;
 			mask-position: center;
-			background: var(--black);
+			background: var(--defaut-txt);
 		}
 
 		& .icon-fbook {
@@ -1264,10 +1265,10 @@ footer *.navigation {
 		}
 
 		&:hover {
-			color: var(--yellow);
+			color: var(--grut-color);
 
 			& :is(div, span)[class*="icon-"] {
-				background: var(--yellow);
+				background: var(--grut-color);
 			}
 		}
 	}
@@ -1320,7 +1321,7 @@ body header nav.to-top {
 		}
 
 		& li.about {
-			background: var(--black);
+			background: var(--defaut-txt);
 			height: 1.6rem;
 			width: 1.6rem;
 			border-radius: 2rem;
@@ -1333,7 +1334,7 @@ body header nav.to-top {
 			-webkit-transition: all 0.2s ease;
 			-o-transition: all 0.2s ease;
 			transition: all 0.2s ease;
-			border: 2px solid var(--black);
+			border: 2px solid var(--defaut-txt);
 			-webkit-box-align: center;
 			-ms-flex-align: center;
 			align-items: center;
@@ -1342,12 +1343,12 @@ body header nav.to-top {
 				background: var(--background);
 
 				& a {
-					color: var(--black);
+					color: var(--defaut-txt);
 				}
 			}
 
 			& a {
-				color: var(--yellow);
+				color: var(--grut-color);
 				text-decoration: none;
 			}
 		}
@@ -1390,7 +1391,7 @@ body header nav.to-top {
 			}
 
 			& li.about {
-				background: var(--black);
+				background: var(--defaut-txt);
 				height: 1.6rem;
 				width: 1.6rem;
 				border-radius: 2rem;
@@ -1403,7 +1404,7 @@ body header nav.to-top {
 				-webkit-transition: all 0.2s ease;
 				-o-transition: all 0.2s ease;
 				transition: all 0.2s ease;
-				border: 2px solid var(--black);
+				border: 2px solid var(--defaut-txt);
 				-webkit-box-align: center;
 				-ms-flex-align: center;
 				align-items: center;
@@ -1412,12 +1413,12 @@ body header nav.to-top {
 					background: var(--background);
 
 					& a {
-						color: var(--black);
+						color: var(--defaut-txt);
 					}
 				}
 
 				& a {
-					color: var(--yellow);
+					color: var(--grut-color);
 					text-decoration: none;
 				}
 			}
@@ -1457,7 +1458,7 @@ header nav .to-small-menu {
 
 html:is([id*="Grammar"], [id*="about"]) {
 	header nav :is(.to-small-menu, .to-small-titre) {
-		background: var(--yellow);
+		background: var(--grut-color);
 	}
 }
 
@@ -1606,13 +1607,13 @@ header nav .to-small-menu {
 	50% {
 		-webkit-transform: translateY(0);
 		transform: translateY(0);
-		background: var(--yellow);
+		background: var(--grut-color);
 	}
 
 	100% {
 		-webkit-transform: translateY(0);
 		transform: translateY(0);
-		background: var(--yellow);
+		background: var(--grut-color);
 	}
 }
 
@@ -1625,13 +1626,13 @@ header nav .to-small-menu {
 	50% {
 		-webkit-transform: translateY(0);
 		transform: translateY(0);
-		background: var(--yellow);
+		background: var(--grut-color);
 	}
 
 	100% {
 		-webkit-transform: translateY(0);
 		transform: translateY(0);
-		background: var(--yellow);
+		background: var(--grut-color);
 	}
 }
 
@@ -1825,7 +1826,7 @@ html:not([id*="Grammar"]) body {
 
 	ul:not(.tags, .nav-links, .navigation) {
 		padding: 0px 24px;
-		border-left: 2px dashed var(--black);
+		border-left: 2px dashed var(--defaut-txt);
 	}
 
 	& h1.soustitre-page {
@@ -2009,7 +2010,7 @@ html:not([id*="Grammar"]) body {
 		width: 100vw;
 		padding: 82px 2vh;
 		z-index: 1;
-		background: var(--black);
+		background: var(--defaut-txt);
 		/* background: var(--background); */
 
 		& .colonne-image {
@@ -2051,7 +2052,7 @@ html:not([id*="Grammar"]) body {
 
 				& .figcaption {
 					font-size: clamp(1rem, 1.1rem, 1.3rem);
-					background-color: var(--black);
+					background-color: var(--defaut-txt);
 					width: -webkit-fit-content;
 					width: -moz-fit-content;
 					width: fit-content;
@@ -2074,7 +2075,7 @@ html:not([id*="Grammar"]) body {
 					-webkit-transform: rotate(-2deg);
 					-ms-transform: rotate(-2deg);
 					transform: rotate(-2deg);
-					color: var(--white);
+					color: var(--back-2);
 				}
 
 				&:hover .figcaption {
@@ -2095,7 +2096,7 @@ html:not([id*="Grammar"]) body {
 		width: 100%;
 
 		&:hover {
-			background: color-mix(in srgb, var(--white) 50%, transparent);
+			background: color-mix(in srgb, var(--back-2) 50%, transparent);
 		}
 
 		&:after {
@@ -2105,7 +2106,7 @@ html:not([id*="Grammar"]) body {
 		& .display-flex.direction-column.presentation {
 			max-width: calc(640px - 2rem);
 			width: 100%;
-			border: 2px dashed var(--black);
+			border: 2px dashed var(--defaut-txt);
 			padding: 8px;
 			-webkit-transition: background 0.1s ease;
 			-o-transition: background 0.1s ease;
@@ -2144,7 +2145,7 @@ html:not([id*="Grammar"]) body {
 
 		& p {
 			font-size: 1rem;
-			color: var(--black);
+			color: var(--defaut-txt);
 		}
 
 		& h2 {
@@ -2169,7 +2170,7 @@ html:not([id*="Grammar"]) body {
 		}
 
 		& div.contenu-texte {
-			border-bottom: 2px dashed var(--black);
+			border-bottom: 2px dashed var(--defaut-txt);
 		}
 
 		& .display-flex.direction-column.contenu-texte {
@@ -2209,8 +2210,8 @@ html:not([id*="Grammar"]) body {
 				transition: background 0.3s ease;
 
 				&:hover {
-					background: var(--black);
-					color: var(--white);
+					background: var(--defaut-txt);
+					color: var(--back-2);
 				}
 			}
 		}
@@ -2239,7 +2240,7 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		position: absolute;
 		width: 100%;
 		height: 100%;
-		background: var(--black);
+		background: var(--defaut-txt);
 		opacity: 0.8;
 		overscroll-behavior: contain;      	
 	}
@@ -2330,7 +2331,7 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 			align-content: center;
 			gap: 0.5rem;
 			opacity: 1;
-			color: var(--white);
+			color: var(--back-2);
 		}
 
 		& .image-lightbox--img {
@@ -2378,7 +2379,7 @@ html[id*="about"] {
 	position: relative;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	background: var(--yellow) url(../images/walking-moi.png);
+	background: var(--grut-color) url(../images/walking-moi.png);
 	background-position: 5vw 66%;
 	background-size: 25vw;
 	background-repeat: no-repeat;
@@ -2422,7 +2423,7 @@ html[id*="about"] {
 			width: -webkit-fit-content;
 			width: -moz-fit-content;
 			width: fit-content;
-			background: var(--white);
+			background: var(--back-2);
 			left: 2vw;
 			padding: 0 1rem;
 			font-size: 1.8rem;
@@ -2468,7 +2469,7 @@ span.icon-arrow {
 	padding-left: 2rem;
 
 	a {
-		color: var(--black);
+		color: var(--defaut-txt);
 	}
 }
 
@@ -2642,7 +2643,7 @@ span.icon-arrow {
 			-webkit-transform: initial;
 			-ms-transform: initial;
 			transform: initial;
-			background: var(--yellow);
+			background: var(--grut-color);
 			padding: 5vh 0;
 		}
 	}
@@ -2681,7 +2682,7 @@ span.icon-arrow {
 		}
 
 		& .display-flex.direction-column.contenu-texte {
-			background: var(--white);
+			background: var(--back-2);
 			width: 90vw;
 		}
 
@@ -2720,7 +2721,7 @@ span.icon-arrow {
 		padding-top: 18vh;
 
 		& section {
-			background: var(--yellow);
+			background: var(--grut-color);
 			padding-bottom: 5vh;
 			padding-top: 0;
 		}
@@ -2891,7 +2892,7 @@ span.icon-arrow {
 
 	body header nav.to-top {
 		z-index: 4;
-		background-color: var(--yellow);
+		background-color: var(--grut-color);
 	}
 
 	body ul.to-small-menu {
@@ -2900,7 +2901,7 @@ span.icon-arrow {
 		-ms-flex-direction: column;
 		flex-direction: column;
 		top: 0;
-		background: var(--yellow);
+		background: var(--grut-color);
 		border-radius: 4px;
 		gap: 1ch;
 		margin-top: 2.5rem;
@@ -2919,7 +2920,7 @@ span.icon-arrow {
 			gap: 0.5ch;
 
 			& span {
-				background: var(--black);
+				background: var(--defaut-txt);
 				z-index: 0;
 				width: 1.5rem;
 				height: 0.20rem;
@@ -3070,7 +3071,7 @@ span.icon-arrow {
 
 	html:is([id*="Grammar"], [id*="about"]) {
 		header nav *:is(.to-small-menu, .to-small-titre) {
-			background: var(--yellow);
+			background: var(--grut-color);
 		}
 	}
 
@@ -3188,7 +3189,7 @@ span.icon-arrow {
 		100% {
 			-webkit-transform: translateY(0);
 			transform: translateY(0);
-			background: var(--yellow);
+			background: var(--grut-color);
 		}
 	}
 
@@ -3198,7 +3199,7 @@ span.icon-arrow {
 		100% {
 			-webkit-transform: translateY(0);
 			transform: translateY(0);
-			background: var(--yellow);
+			background: var(--grut-color);
 		}
 	}
 
@@ -3325,20 +3326,20 @@ html:not([id*="Grammar"]) {
 
 		& nav.to-top {
 			background-color: var(--background);
-			border-bottom: 2px dashed var(--black);
+			border-bottom: 2px dashed var(--defaut-txt);
 		}
 	}
 }
 
 
 html:is([id*="about"], #Webouille, #Gribouille, #Écritouille) {
-	background-color: var(--yellow);
+	background-color: var(--grut-color);
 
 	& header {
-		background-color: var(--yellow);
+		background-color: var(--grut-color);
 
 		& nav.to-top {
-			background-color: var(--yellow);
+			background-color: var(--grut-color);
 			border-bottom: none;
 		}
 	}

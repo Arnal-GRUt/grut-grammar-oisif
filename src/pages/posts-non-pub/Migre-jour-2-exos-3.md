@@ -130,9 +130,11 @@ Dans le même temps, le chir me tend un document écrit recto-verso, ça ressemb
 
 C'est une lettre manuscrite, c'est bien mon écriture. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, sans fioriture, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, serait en danger administrativement avérée. Signé bla bla bla...* »  
 
-Les deux attendent que je prenne une décision définitive - J'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le mirroir.  
+Les deux attendent que je prenne une décision définitive - J'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le miroir.  
 
-« -- Donc ce que vous êtes autorisés à me dire, c'est 
+« -- Donc ce que vous êtes autorisés à me dire, c'est que j'ai dit oui à vos soins globaux ?  
+-- Vous avez un logo aussi, qu'il me dit.
+-- Incompréhensible navré.  
 
 
 

@@ -15,7 +15,7 @@ Je commence par l'exercice 2 et 3 parce que je n'ai pas terminé l'histoire corr
 
 « *C'est un exercice* » , me direz-vous, « *qu'est-ce t'en as à faire ?* ».  
 
-Et bien, j'en ai à faire qu'à mon avis, ce premier texte de la journée mérite une continuation et une fin. Donc, je ne vais pas le publier de suite, quand bien même ça contreviendrait à la promesse de départ : **tout partager, même si ce n'est pas terminé**.  
+Et bien, j'en ai à faire qu'à mon avis, ce premier texte de la journée mérite suite et fin. Donc, je ne vais pas le publier de suite, quand bien même ça contreviendrait à la promesse de départ : **tout partager, même si ce n'est pas terminé**.  
 
 Au passage, c'est pas demain la veille que je compte m'y atteler, j'ai encore d'autres écrits à terminer avant.  
 

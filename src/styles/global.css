@@ -99,7 +99,8 @@ h6 {
 	--grut-color: #f3bd22; /* ancien --yellow */
 	--defaut-txt: #000000; /* ancien --black */
 	--back-2: #ffffff; /* ancien --white */
-	--background: #f4e8ef;		
+	/* --background: #f4e8ef;		 */
+	--background: #fdfaec;		
 	--animStart: 150vh;
 	--animEnd: 150vh;
 	--weight: 400;

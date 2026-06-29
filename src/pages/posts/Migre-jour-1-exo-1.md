@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Premier jour à Migré, exo 1 sur 3'
+title: 'Premier jour à Migré, exo 1/3'
 pubDate: "05-20-2026"
 description: "Premier jour, premier exercice à Migré. Lecture de textes sources, écriture, lecture des textes rédigés"
 author: "GRUt·"

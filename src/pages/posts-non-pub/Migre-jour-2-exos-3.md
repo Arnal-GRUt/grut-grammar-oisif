@@ -136,9 +136,4 @@ Les deux attendent que je prenne une décision définitive - J'ai vraiment valid
 -- Vous avez un logo aussi, qu'il me dit.
 -- Incompréhensible navré.  
 
-
-
-
-
-
 -----

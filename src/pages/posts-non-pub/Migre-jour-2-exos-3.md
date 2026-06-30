@@ -168,9 +168,12 @@ Au bout de quatre sonneries ça décroche :
 
 La peau me brule sous les bandes, je facille et m'aggripe à la cuve pour ne pas me vaudrer sur la carlage de la chambre. À ce moment j'entends débouler *fissa* deux infirmiers, ils m'aggripent en 2/2 et me remettent dans la cuve sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement. Puis l'écran noir. 
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux infirmiers/molosses, un interne scribe classique et le chir. Toujours l'air blasé celui-ci.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux infirmiers/molosses, un interne scribe classique et le chir qui me scrute, jette un oeil à mes bandages, s'assure que je me suis rien pété en tombant.  
 
-« -- 
+Toujours l'air blasé celui-ci.
+
+« -- Bon, ça va, rien de mal. En plus je veux dire.  
+-- 
 
 
 

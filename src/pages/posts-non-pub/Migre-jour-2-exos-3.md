@@ -134,7 +134,7 @@ L'infirmière se précipite, balance la dose en antalgique, cette fois le chir a
 
 Dans le même temps, le chir me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chir me regarde et m'invite à lire le document. Aucun sadisme dans son regard, juste une porte fermée.  
 
-C'est une lettre manuscrite, c'est bien mon écriture. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, sans fioriture, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, serait en danger administrativement avérée. Signé bla bla bla...* »  
+C'est une lettre manuscrite, c'est bien mon écriture. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, sans fioriture, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* »  
 
 Les deux attendent que je prenne une décision définitive - j'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le miroir.  
 
@@ -142,15 +142,36 @@ Les deux attendent que je prenne une décision définitive - j'ai vraiment valid
 -- Vous avez un logo aussi, qu'il me dit.  
 -- Incompréhensible navré.  
 -- Je vous laisse le déchiffrer, nous reparlerons de tout ça demain.  
--- C'est ça, demain vous m'envoyer au bloc pour que je recouvre ma mémoire.  
--- Nous verrons, qu'il me dit toujours aussi neutre, je vous laisse une journéé suplémentaire pour réfléchir. »  
+-- C'est ça, demain vous m'envoyez au bloc pour que je recouvre ma mémoire, votre texte n'est pas légale, que je l'ai signé ou non.  
+-- Nous verrons, me répond-il sur un ton un poil méprisant, je vous laisse une journée suplémentaire pour réfléchir. »  
 
-Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton qu'il prend avec moi, « j'aime pas le ton que vous prenez avec moi ! », je crie comme un chanteur de death metal, ma voix est grasse et grave, à deux doigts de me faire peur.
+Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton qu'il prend avec moi, « j'aime pas le ton que vous prenez avec moi ! », je crie, ma voix est grasse, mon cou a doublé de volume, corpsegrinder *style*, à deux doigts de me faire peur.
 
 -----
 
-Je me sens pas rester dans la cuve toute la journée. J'arrive à me relever suffisament pour atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je place la cuve à 80° et m'apprète à descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins fortes qu'hier et je ça me tire beaucoup moins que les jours précédents. Je me lève donc et marche vers une petite table carré à hauteur d'homme. Dessus, il y a une carafe d'eau, je me sers un verre, et le bois en fermant les yeux. Ça fait un bien fou. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, ils sont bandés, certains à la tête, d'autres au niveau des jambes, du torse, il y en a même un qui ressemble à la momie de la Hammer.  
+Je me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches comme dirait l'autre. En me redressant suffisament, j'arrive à atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je place la cuve à 80° et m'apprète à descendre mais avant ça, je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins sont fortes que la veille. Je me lève donc et marche vers une petite table carré à hauteur d'homme. Dessus, il y a une carafe d'eau, je me sers un verre, et le bois en fermant les yeux façon publicité pour les produits laitiers. Ça fait un bien fou. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse, il y en a même un qui ressemble à la momie de la Hammer.  
 
 Qui sont ces gens ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles non ?   
+
+J'essaye toujours de capter mon environnement. Par la fenêtre il y a un parc fleuri, des arbres projettent leurs ombres bienfaitrices sur des bancs placés tout proche de leur tronc. Il est assez tôt, mais il y a l'air d'avoir pas mal d'activités en bas. En vrai, quelle heure est-il  ?Je descendrais bien prendre un café à la machine, mais j'ai rien sur moi, comment vais-je payer ? Je suis à poil sous de ma chemise de nuit, et je n'y a aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. 
+
+Au bout de quatre sonneries ça décroche :  
+« -- oui, bonjour... chambre... j'en sais rien en fait  
+-- 10A-932, évidemment qu'elle le connait le numéro.  
+-- Ok, bah merci, je dois être le seul à ne pas le savoir, j'ai l'air un poil couillon de suite.
+-- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
+-- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez et je ne vois pas mes affaires...  
+-- Vous êtes arrivé avec quasi rien monsieur et...  
+-- Dans quasi-rien, y'a quasi, quasi comme mes thunes par exemple, je l'ai interrompu, pas le temps niaiser.  
+-- Les quelques affaires qui vous restaient ont été incinérés monsieur, j'entends son air navré.  
+-- Pardon ?!! Mais merde, je ... Aouch ! »  
+
+La peau me brule sous les bandes, je facille et m'aggripe à la cuve pour ne pas me vaudrer sur la carlage de la chambre. À ce moment j'entends débouler *fissa* deux infirmiers, ils m'aggripent en 2/2 et me remettent dans la cuve sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement. Puis l'écran noir. 
+
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux infirmiers/molosses, un interne scribe classique et le chir. Toujours l'air blasé celui-ci.  
+
+« -- 
+
+
 
 -----

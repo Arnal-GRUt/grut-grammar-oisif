@@ -132,25 +132,25 @@ L'infirmière se précipite, balance la dose en antalgique, cette fois le chir a
 -- Génial, la mémoire ou la mort ? C'est ça que vous me proposer ?  
 -- Si vous refusez les soins, c'est tous les soins, vous serez responsable des conséquences. »  
 
-Dans le même temps, le chir me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse, le chir me regarde et m'invite à lire le document. Aucun sadisme dans son regard, juste une porte fermée.  
+Dans le même temps, le chir me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chir me regarde et m'invite à lire le document. Aucun sadisme dans son regard, juste une porte fermée.  
 
 C'est une lettre manuscrite, c'est bien mon écriture. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, sans fioriture, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, serait en danger administrativement avérée. Signé bla bla bla...* »  
 
-Les deux attendent que je prenne une décision définitive - J'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le miroir.  
+Les deux attendent que je prenne une décision définitive - j'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le miroir.  
 
 « -- Donc ce que vous êtes autorisés à me dire, c'est que j'ai dit oui à vos soins globaux ?  
 -- Vous avez un logo aussi, qu'il me dit.  
 -- Incompréhensible navré.  
 -- Je vous laisse le déchiffrer, nous reparlerons de tout ça demain.  
 -- C'est ça, demain vous m'envoyer au bloc pour que je recouvre ma mémoire.  
--- Nous verrons, qu'il me dit toujours aussi neutre, je vous laisse une nuit suplémentaire pour réfléchir. »  
+-- Nous verrons, qu'il me dit toujours aussi neutre, je vous laisse une journéé suplémentaire pour réfléchir. »  
 
-Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton qu'il prend avec moi, « j'aime pas le ton que vous prenez avec moi ! », je crie comme un chanteur de death metal, ma voix est grasse et grave, à deux doigts de me faire peur.  
+Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton qu'il prend avec moi, « j'aime pas le ton que vous prenez avec moi ! », je crie comme un chanteur de death metal, ma voix est grasse et grave, à deux doigts de me faire peur.
 
 -----
 
-Le jour d'après. J'ai passé une bonne nuit encore. J'arrive à me relever suffisament pour atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je place la cuve à 80° et m'apprète à descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins fortes qu'hier et je ça me tire beaucoup moins que les jours précédents. Je me lève donc et sur une petite table carré à hauteur d'homme, il y a une carafe d'eau. Je me sers un verre, et le bois en fermant les yeux, ça fait un bien fou. Autour de moi j'entends des bips et des blops. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, les corps sont endormis, ils sont bandés, certains à la tête, d'autres au niveau des jambes, du torse, il y en a même un qui ressemble à la momie de la Hammer.  
+Je me sens pas rester dans la cuve toute la journée. J'arrive à me relever suffisament pour atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je place la cuve à 80° et m'apprète à descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins fortes qu'hier et je ça me tire beaucoup moins que les jours précédents. Je me lève donc et marche vers une petite table carré à hauteur d'homme. Dessus, il y a une carafe d'eau, je me sers un verre, et le bois en fermant les yeux. Ça fait un bien fou. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, ils sont bandés, certains à la tête, d'autres au niveau des jambes, du torse, il y en a même un qui ressemble à la momie de la Hammer.  
 
-Qui sont ces gens ? Est-ce que je les connais ?  
+Qui sont ces gens ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles non ?   
 
 -----

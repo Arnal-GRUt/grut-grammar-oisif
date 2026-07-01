@@ -172,8 +172,9 @@ Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deu
 
 Toujours l'air blasé celui-ci.
 
-« -- Bon, ça va, rien de mal. En plus je veux dire.  
+« -- Bon, ça va, rien de mal ?  
 -- 
+
 
 
 

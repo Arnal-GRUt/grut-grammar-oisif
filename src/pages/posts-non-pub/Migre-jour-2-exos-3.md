@@ -55,7 +55,7 @@ Je vois un interne dans la pièce. En tous cas, c'est ce qui me semble. Il est p
 
 « Comment allez-vous ? me demande-t-il de manière neutralement chiante et fatiguée. »  
 
-Je réponds de manière chiante et neutre à mon tour. Une forme d'hommage à son charisme et à mon coltard.  
+Je réponds de manière chiante et neutre à mon tour, en forme d'hommage à son charisme et à mon coltard.  
 
 « Ça va, ça va, enfin je crois que ça va, je suis encore un peu déboussolé. »  
 
@@ -72,7 +72,7 @@ Il me regarde l'air un chouya plus concerné, peut-être un poil surpris aussi, 
 
 « Je vais chercher le Docteur, le chirurgien qui vous a opéré, et au passage je préviens le service pour qu'on vous serve la soupe. Bonne journée monsieur et je vous souhaite un prompt rétablissement. »  
 
-J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains receptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le cigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer encore.  
+J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains receptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le cigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer à nouveau.  
 
 Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne recents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je. Manifestement, je ne suis pas encore prêt à encaisser plus consistant.  
 
@@ -84,7 +84,7 @@ C'est à ce moment que le chir se décide à faire son entrée. Il a l'air séri
 
 Je vois bien qu'il essaie d'y mettre de la compassion. C'est raté. Je ne réponds pas tout de suite, il a des choses à me dire.  
 
-« -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...   
+« -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
 -- Pardon ! je me redresse brusquement, mais c'est intolérable ! Je... »  
 
 Je hurle de rage, de douleur plus encore, sous les rubans cicatrisants je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge.  
@@ -99,7 +99,7 @@ Le calme est revenu, il me regarde les sourcils froncés par feu le vacarme et r
 -- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ?  
 -- C'est vous évidemment, je vois bien que je commence à le saouler, c'est vous.  
 -- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre.  
--- Je ne peux pas tout vous dire, il en va de vôtre vie, mais peut-être que je pourrais vous donner quelque chose qui pourra vous aider à accepter ?  
+-- Je ne peux pas tout vous dire, il en va de votre vie, mais peut-être que je pourrais vous donner quelque chose qui pourra vous aider à accepter ?  
 -- Ma mémoire, c'est ça que je veux.  
 -- Comme vous voulez mais je reviendrais vous voir avec quelques éléments et peut-être changerez-vous d'avis ?
 -- M'étonnerait. »  
@@ -110,7 +110,7 @@ Il se retourne, murmure un « ras le cul, à chaque fois le même drama » puis 
 
 -----
 
-J'ai passé une bonne nuit, bien que courte. Le chir vient me voir à l'aube, il est accompagné d'une jeune interne manifestement. Elle a les cheveux courts et blonds, une paire de lunettes et un air sévère. Je suis son premier patient qu'il me dit. Il a l'air d'avoir dormi toute la nuit debout contre un mur, ses cheveux sont gras, ses yeux tombent jusqu'au menton. Je vais tenté d'y mettre du mien.  
+J'ai passé une bonne nuit, bien que courte. Le chir vient me voir à l'aube, il est accompagné d'une jeune interne manifestement. Elle a les cheveux courts et blonds, une paire de lunettes et un air sévère. Le chir me dit que je suis son premier patient de la journée. Il a l'air d'avoir dormi toute la nuit debout contre un mur, ses cheveux sont gras, ses yeux tombent jusqu'au menton. Je vais tenté d'y mettre du mien.  
 
 « -- La nuit a été dure docteur ? j'essaye le sourire sincère.  
 -- Oui en effet, un peu, il me répond le pad à la main sans même jeter un oeil sur moi, et vous, vous avez bien dormi ?  
@@ -136,9 +136,9 @@ Les deux médecins attendent que je prenne une décision définitive. L'interne 
 
 « -- Donc ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
 -- Vous avez un logo, la lettre est signée, ce sont des information, qu'il me dit.  
--- Le logo est incompréhensible navré, il ne me dit rien. 
+-- Le logo est incompréhensible navré, il ne me dit rien.  
 -- Ça reviendra, nous reparlerons de tout ça demain.  
--- C'est ça, demain vous m'envoyez au bloc pour que je recouvre ma mémoire, votre attestation n'est pas légale, que je l'ai signé ou non, je ne m'en souviens pas de toute manière. 
+-- C'est ça, demain vous m'envoyez au bloc pour que je recouvre ma mémoire, votre attestation n'est pas légale, que je l'ai signé ou non, je ne m'en souviens pas de toute manière.  
 -- En effet, c'est un problème. Vous devriez, disons que c'est la dernière chose dont vous devriez vous souvenir des six derniers mois passés.  
 -- Bah voilà, j'acquiesse, un instant j'ai bien cru qu'il allait céder.  
 -- Nous verrons, me répond-il finalement sur un ton un poil méprisant, je vous laisse une journée suplémentaire pour réfléchir. »  
@@ -147,16 +147,16 @@ Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le t
 
 -----
 
-Le calme est revenu. Je me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches comme dirait l'autre. Je place à 80° et m'apprète à descendre. Préalablement je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins sont fortes que la veille. Je me lève, tout va bien, je suis un peu raid cependant mais c'est ok. Je marche vers une petite table carrée à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, et le bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
+Le calme est revenu. Je ne me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches comme dirait l'autre. Je la place à 80° et m'apprète à descendre. Préalablement je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins sont fortes que la veille. Je me lève, tout va bien, je suis un peu raid cependant mais c'est ok. Je marche vers une petite table carrée à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, et le bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
 
-J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément Imothep. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles non ?   
+J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément *Imothep*. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles non ?  
 
 J'essaye toujours de capter mon environnement. Par la fenêtre il y a un parc fleuri, des arbres projettent leurs ombres bienfaitrices sur des bancs placés tout proche de leur tronc. Il est assez tôt, mais il y a l'air d'avoir pas mal d'activités en bas. En vrai, quelle heure est-il ? Je descendrais bien prendre un café à la machine, mais j'ai pas un radis, je suis à poil sous de ma chemise de nuit, et je n'y a aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je me rencarde.
 
 Au bout de quatre sonneries ça décroche :  
 « -- oui, bonjour... chambre... j'en sais rien en fait  
 -- 10A-932, évidemment qu'elle le connait le numéro.  
--- Ok, bah merci, je dois être le seul à ne pas le savoir, j'ai l'air un poil couillon de suite.
+-- Ok, bah merci, je dois être le seul à ne pas le savoir, j'ai l'air un poil couillon de suite.  
 -- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
 -- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez et je ne vois pas mes affaires...  
 -- Vous êtes arrivé avec quasi rien monsieur d'après ce que je vois, et...  
@@ -164,17 +164,33 @@ Au bout de quatre sonneries ça décroche :
 -- Les quelques affaires qui vous restaient ont été incinérées monsieur, j'entends son air navré.  
 -- Pardon ?!! je vrille instantanément, mais merde, je ... Aouch ! »  
 
-La peau me brule sous les rubans, je facille et m'aggrippe à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en 2/2 et me remettent dans la cuve, sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement. Puis l'écran noir. 
+La peau me brûle sous les rubans, je facille et j'essaye de m'aggripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en 2/2 et me remettent dans la cuve, sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants/molosses, un interne/scribe classique et le chir/au-bord-du-burnout qui me scrute. Il semble jeter un oeil à mes rubans.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants/molosses, la même interne/scribe  et le chir/dude-au-bord-du-burnout qui me scrute. Il semble jeter un oeil à mes rubans.  
 
-« -- Bon, ça va, plus de peur que de mal ? 
+« -- Bah alors ? Ça va ? Vous nous avez fait un petit peur à l'instant ?  
 -- Si on veut, j'esquive la question, je voudrais faire un tour dans le parc en bas, avec un café.  
--- Vous n'êtes pas en prison, dit-il en souriant, rien ne vous promener.
--- Et pour mon café ? J'aimerais qu'on me rende mes affaires personnelles.
--- On vous a déjà dit à ce sujet, il reprend son vieux ton de péteux là, elles ont été 
+-- Vous n'êtes pas en prison, répond-il en souriant, vous n'êtes pas interdit de promenade.  
+-- Certes, mais je voudrais me prendre un café au distributeur en bas ? moi aussi je souris.  
+-- Je peux vous faire servir un café, si c'est ce qui vous ferait plaisir, il sourit mais c'est yeux disent "*tu saoules*".  
+-- J'aimerais qu'on me rende mes affaires personnelles.  
+Il souffle et reprend de suite.  
+-- On vous a déjà répondu à ce sujet, elles ont été détruites.  
+-- En quoi ça m'empêche de m'acheter un café à la machine en bas ?  
+-- Pourquoi insistez-vous comme ça ? sa question est cash.  
+-- À votre avis ?  
+-- Malheureusement tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés le temps de votre convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons que cela sera possible. Vos réactions, depuis votre réveil, ne font que confirmer que ce n'est pas pour demain malheureusement. Et tout ça aussi, vous l'avez autorisé et signé.  
+-- Vous comptez m'enlever six mois de plus de toute manière, je réponds du tac au tac.  
+-- Certes, répond-t-il à son tour.  »  
 
+Il me tourne le dos et en sortant balance à l'interne « faites lui monter un café, si c'est vraiment son envie ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle souris et sort à son tour.  
 
+Bon, je vais un tour dehors.  
 
+-----
+
+En bas, je passe devant le distributeur à *junkfood*. je vais jeter un oeil, aucun produit en équilibre précaire prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvi du bâtiment. Il fait bon, chaud, on est en été à coup sûr. Je m'étire et me dirige vers un banc qui vient juste de se libérer. Je croise quelqu'un en y allant, un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière, il porte la même chemise de patient que moi. Je lui dit bonjour poliment et en profite pour lui demander l'heure. Il est dix heures qu'il me dit. Je tente de savoir où nous sommes au passage. Il me regarde longuement en souriant, un sourire prévenant, dénué de malice, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous », il s'arrête et après un petit rictus malin me dit ceci : « je suis incapable de répondre à votre question et très franchement, je m'en moque ». Il conclue par une petite tape sur mon épaule et continue sa route.  
+
+Je viens de prendre un coup sur la calbace. J'aurais voulu lui poser d'autres questions, mais le temps que j'encaisse, il est parti rejoindre un groupe de soignants.  
 
 -----

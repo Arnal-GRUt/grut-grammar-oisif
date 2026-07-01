@@ -62,7 +62,7 @@ Je réponds de manière chiante et neutre à mon tour. Une forme d'hommage à so
 Il prend le pad au pied de ma cuve et commence à inspecter mes datas. Il fait défiler des listes de médocs, des diagrames, zoome sur des chiffres, encadre quelques constantes, quelques pics de courbes, puis repose l'outil sur la tablette prévue à cet effet au pied de la cuve.  
 
 Après tout ça, il relève la tête vers moi :  
-« Je vois que vous avez bien encaissé l'opération. Les rubans calocicatrisants passent bien. C'est bien ça, beaucoup de patients les supportent mal. Vous avez faim peut-être ? »  
+« Je vois que vous avez bien encaissé l'opération. Les rubans icatrisants passent bien. C'est bien ça, beaucoup de patients les supportent mal. Vous avez faim peut-être ? »  
 
 Il me parle de choses que je ne comprends pas. Des ruban quoi ? Je fais quoi ici ?  
 
@@ -81,7 +81,7 @@ On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quig
 C'est à ce moment que le chir se décide à faire son entrée. Il a l'air sérieux ce monsieur. Il me scrute, prend le pad, regarde mes datas : il zoome, scroll, encadre, je vois bien qu'il cherche à évaluer la situation. Il finit par me poser une question :  
 
 « -- Vous n'avez plus aucun souvenirs de vos deux derniers mois n'est-ce pas ?  
--- Oui c'est ça, je réponds de manière chiante encore, je vais recouvrer la mémoire ou bien ?  
+-- Oui c'est ça, je réponds mollement, je vais recouvrer la mémoire ou bien ?  
 -- J'ai bien peur que non. »  
 
 Je vois bien qu'il essaie d'y mettre de la compassion. C'est raté. Je ne réponds pas tout de suite, il a des choses à me dire.  
@@ -89,15 +89,15 @@ Je vois bien qu'il essaie d'y mettre de la compassion. C'est raté. Je ne répon
 « -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
 -- Pardon, je me redresse brusquement, mais c'est intolérable ! Je... »  
 
-Je hurle de rage, de douleur plus encore, les rubans calocautotrucmachincicatrisants écartent les plaies. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge.  
+Je hurle de rage, de douleur plus encore, sous les rubans cicatrisants je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge.  
 
-Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. L'infirmier entre dans la chambre en trombe et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanémant. Pendant tout ce temps, malgré le bruit et le chaos, le chir continue de m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, encore moins pigé un seul des mots qu'il a prononcé.  
+Je retombe sur le dos, paralysé par la souffrance aigue, infernale, plus un son ne sort de ma bouche. L'infirmier entre dans la chambre en trombe et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanémant. Pendant tout ce temps, malgré le bruit et le chaos, le chir a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, et encore moins pigé un seul des mots qu'il a prononcés.  
 
 Le calme est revenu dans la chambre, il me regarde les sourcils froncés par le vacarme et reprend :  
 
 « -- J'essayais de vous dire que les deux mois ne seraient malheureusement d'un début, et qu'il faut s'attendre à une emputation mémorielle complétementaire de plusieurs mois. Nous envisageons six mois.  
 -- Hors de question, malgré l'antalgique de bourrin je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
--- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle emputation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
+-- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle amputation mémorielle soit nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
 -- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ?  
 -- C'est vous évidemment, je vois bien que je commence à le saouler, c'est vous.  
 -- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre.  
@@ -110,11 +110,11 @@ Définitif le boug.
 
 Il se retourne, murmure un « ras le cul, à chaque fois le même drama » puis sort de la chambre.
 
-Dans le mouvement l'infirmier le suit gêné. Je suis à nouveau seul et toujours aucune autre cuve s'est ouverte.  
+Dans le mouvement l'infirmier le suit gêné. Je suis à nouveau seul et toujours aucune autre cuve ne s'est ouverte.  
 
 -----
 
-J'ai passé une bonne nuit, bien que courte, le chir vient me voir à l'aube, il est accompagné d'une jeune interne manifestement. Elle a les cheveux courts et blonds, une paire de lunettes et un air sévère. Je suis son premier patient qu'il me dit. Il a l'air d'avoir dormi debout contre un mur, ses cheveux sont gras, ses yeux tombent jusqu'au menton. Je vais tenté d'y mettre du mien.  
+J'ai passé une bonne nuit, bien que courte. Le chir vient me voir à l'aube, il est accompagné d'une jeune interne manifestement. Elle a les cheveux courts et blonds, une paire de lunettes et un air sévère. Je suis son premier patient qu'il me dit. Il a l'air d'avoir dormi toute la nuit debout contre un mur, ses cheveux sont gras, ses yeux tombent jusqu'au menton. Je vais tenté d'y mettre du mien.  
 
 « -- La nuit a été dure docteur ? j'essaye le sourire sincère.  
 -- Oui en effet, un peu, il me répond le pad à la main sans même jeter un oeil sur moi, et vous, vous avez bien dormi ?  
@@ -125,35 +125,35 @@ Il me regarde maintenant, il attend que je dise autre chose peut-être ? Il repr
 « -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je ne pourrais pas faire plus, sinon il vous faudra annuler les soins globaux.  
 -- Quoi ? Mais arghhh..., je crie encore, j'ai mal encore... »  
 
-L'infirmière se précipite, balance la dose en antalgique, cette fois le chir a appris lui, il s'est arrêté de parler, et m'a ragardé gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :  
+L'infirmière se précipite, balance la dose en antalgique, cette fois le chir a appris lui, il s'arrête de parler, et me regarde gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :  
 
 « -- C'est quoi encore ce délire de soins globaux ?  
 -- L'amputation mémorielle fait partie des soins auquels vous avez eu droit. Soit vous annulez le tout, soit rien du tout.  
 -- Génial, la mémoire ou la mort ? C'est ça que vous me proposer ?  
--- Si vous refusez les soins, c'est tous les soins, vous serez responsable des conséquences. »  
+-- Si vous refusez les soins, c'est tous les soins, vous serez seul responsable des graves conséquences éventuelles. »  
 
 Dans le même temps, le chir me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chir me regarde et m'invite à lire le document. Aucun sadisme dans son regard, juste une porte fermée.  
 
-C'est une lettre manuscrite, c'est bien mon écriture. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, sans fioriture, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* »  
+C'est une lettre manuscrite, c'est bien mon écriture, disons que ça y ressemble. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, dans un style administratifo-juriste, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* »  
 
 Les deux attendent que je prenne une décision définitive - j'ai vraiment validé ça moi ? - l'interne a jeté un oeil inquiet au chir qui ne l'a pas regardé. Ce mec est clairement capable de snober son propre reflet dans le miroir.  
 
-« -- Donc ce que vous êtes autorisés à me dire, c'est que j'ai dit oui à vos soins globaux ?  
--- Vous avez un logo aussi, qu'il me dit.  
--- Incompréhensible navré.  
--- Je vous laisse le déchiffrer, nous reparlerons de tout ça demain.  
--- C'est ça, demain vous m'envoyez au bloc pour que je recouvre ma mémoire, votre texte n'est pas légale, que je l'ai signé ou non.  
+« -- Donc ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
+-- Vous avez un logo, la lettre est signée, ce sont des information, qu'il me dit.  
+-- Le logo est incompréhensible navré, il ne me dit rien. 
+-- Ça reviendra, nous reparlerons de tout ça demain.  
+-- C'est ça, demain vous m'envoyez au bloc pour que je recouvre ma mémoire, votre attestation n'est pas légale, que je l'ai signé ou non.  
 -- Nous verrons, me répond-il sur un ton un poil méprisant, je vous laisse une journée suplémentaire pour réfléchir. »  
 
 Il sort de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton qu'il prend avec moi, « j'aime pas le ton que vous prenez avec moi ! », je crie, ma voix est grasse, mon cou a doublé de volume, corpsegrinder *style*, à deux doigts de me faire peur.
 
 -----
 
-Je me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches comme dirait l'autre. En me redressant suffisament, j'arrive à atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je place la cuve à 80° et m'apprète à descendre mais avant ça, je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins sont fortes que la veille. Je me lève donc et marche vers une petite table carré à hauteur d'homme. Dessus, il y a une carafe d'eau, je me sers un verre, et le bois en fermant les yeux façon publicité pour les produits laitiers. Ça fait un bien fou. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse, il y en a même un qui ressemble à la momie de la Hammer.  
+Le calme est revenu. Je me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches comme dirait l'autre. En me redressant suffisamment, j'arrive à atteindre l'interrupteur qui commande l'inclinaison de la cuve de soins. Je la place à 80° et m'apprète à descendre. Préalablement je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs torrassiques quant à elles, sont moins sont fortes que la veille. Je me lève donc et marche vers une petite table carrée à hauteur d'homme. Dessus, il y a une carafe d'eau, je me sers un verre, et le bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou. J'ai toujours le verre aux lèvres quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément Imothep.  
 
 Qui sont ces gens ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles non ?   
 
-J'essaye toujours de capter mon environnement. Par la fenêtre il y a un parc fleuri, des arbres projettent leurs ombres bienfaitrices sur des bancs placés tout proche de leur tronc. Il est assez tôt, mais il y a l'air d'avoir pas mal d'activités en bas. En vrai, quelle heure est-il  ?Je descendrais bien prendre un café à la machine, mais j'ai rien sur moi, comment vais-je payer ? Je suis à poil sous de ma chemise de nuit, et je n'y a aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. 
+J'essaye toujours de capter mon environnement. Par la fenêtre il y a un parc fleuri, des arbres projettent leurs ombres bienfaitrices sur des bancs placés tout proche de leur tronc. Il est assez tôt, mais il y a l'air d'avoir pas mal d'activités en bas. En vrai, quelle heure est-il ? Je descendrais bien prendre un café à la machine, mais j'ai pas un radis, je suis à poil sous de ma chemise de nuit, et je n'y a aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je me rencarde.
 
 Au bout de quatre sonneries ça décroche :  
 « -- oui, bonjour... chambre... j'en sais rien en fait  
@@ -166,9 +166,9 @@ Au bout de quatre sonneries ça décroche :
 -- Les quelques affaires qui vous restaient ont été incinérés monsieur, j'entends son air navré.  
 -- Pardon ?!! Mais merde, je ... Aouch ! »  
 
-La peau me brule sous les bandes, je facille et m'aggripe à la cuve pour ne pas me vaudrer sur la carlage de la chambre. À ce moment j'entends débouler *fissa* deux infirmiers, ils m'aggripent en 2/2 et me remettent dans la cuve sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement. Puis l'écran noir. 
+La peau me brule sous les bandes, je facille et m'aggrippe à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux infirmiers, ils me prennent pas les bras en 2/2 et me remettent dans la cuve, sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement. Puis l'écran noir. 
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux infirmiers/molosses, un interne scribe classique et le chir qui me scrute, jette un oeil à mes bandages, s'assure que je me suis rien pété en tombant.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux infirmiers/molosses, un interne scribe classique et le chir qui me scrute, jette un oeil à mes bandages pour s'assurer que je me suis rien pété en tombant.  
 
 Toujours l'air blasé celui-ci.
 

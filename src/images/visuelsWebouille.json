@@ -54,5 +54,13 @@
             "img_alt": "3 images décrivant l'évolution de l'écran d'accueil au scroll"
         },
         "img_name": "Animations en 3 étapes"
+    },
+    {
+        "id": 8,
+        "image": {
+            "source": "./visuels-webouille/vercel-app.png",
+            "img_alt": "Copie d'écran de Vercel avec détail du projet Grammar-oisif"
+        },
+        "img_name": "Écran Vercel, avec noms de domaines, status, date de création etc"
     }
 ]

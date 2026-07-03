@@ -230,12 +230,12 @@ const pageTitle = "Webouille";
         <p>
           Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment. Ça m'apprendra à coder pour chrome - on mettra ça sur les mauvaises habitudes du taf voyez-vous - ce qui m'a obligé à bidouiller un truc moyennement satisfaisant pour le renard de feu. Je compte bien faire quelque chose de plus propre, mais c'est loin dans la pile de trucs à terminer/corriger/modifier. 
         </p>
-        <h2 id="astro-coding">Tout balancer sur Netlify (et finalement non)</h2>
+        <h2 id="astro-coding">Tout balancer sur Netlify... Et finalement non</h2>
         <p>
-          J'ai d'abord terminé de configurer mon site, un nom de domaine Netlify et lié le bouzin à mon GitHub.
+          J'ai d'abord terminé de configurer mon site, en créant un nom de domaine Netlify et lié le bouzin à mon GitHub.
         </p>
         <p>
-          À cette étape j'ai donc copié/collé les fichiers de ma base de test en local, puis j'ai remplacé mes premiers morceaux code en dur par des <em>components</em> (menu, etc.) et <em>layouts</em> (base de page avec head, etc.) adaptés en suivant le tuto Astro js. J'ai par ailleurs modifié le code <em>css</em> au besoin et commencé le responsive (pour les pages de base surtout). 
+          À cette étape j'ai donc copié/collé les fichiers de ma base de test en local, puis j'ai remplacé mes premiers morceaux code en dur par des <em>components</em> (menu, etc.) et des <em>layouts</em> (base de page + head, etc.) adaptés, en suivant le tuto Astro js. J'ai par ailleurs modifié le code <em>css</em> au besoin et commencé le <a href="https://fr.wikipedia.org/wiki/Site_web_r%C3%A9actif" target="_blank">responsive</a> (pour les pages de base surtout). 
         </p>
         <p>
           Je pourrais détailler un peu plus, mais ça ne parait pas très utile, la construction du site s'est faite, page par page, plus ou moins tranquillement au fil de l'eau, avec des hésitations, des besoins de coup de main, des blocages à se bouffer les doigts etc. Rien de bien original ou qui détonne des processus de créations habituels (doutes, hésitations, re-doutes, et <em>tutti quanti</em>). Cependant, il y a quand même quelque chose qu'il faut que j'évoque.
@@ -243,17 +243,24 @@ const pageTitle = "Webouille";
         <p>
           La vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, il a fallu me résoudre à utiliser le laptop de mon taf, un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span>*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
         </p>
+        <h3>
+          The state of art, ou comment imbriquer les mauvais timing comme on empile les feuilles de style en cascade           
+        </h3>
         <p>
-          En fait, j'ai imbriqué les mauvais <em>timing</em> comme on empile les feuilles de style en cascade :           
+          Pour commencer, le fait de ne pas pouvoir installer de serveur local sur le laptop du taf, à fait grimper le nombre de pushs de manière exponentielle. Quand bien même, j'ai un serveur local installé sur ma tour principale à la maison, le laptop est indispensable quand on est pas chez soi. Évidemment, comme tout bon professionnel, j'ai surtout travaillé avec les inspecteurs de <em>Chrome</em> et <em>Firefox</em>, mais quand on peut push, surtout pour du code basique, on push. Enfin, moi, je push en tout cas. 
         </p>
         <p>
-          Pour commencer, le fait de ne pas pouvoir installer de serveur local sur le laptop du taf, à fait grimper le nombre de pushs de manière exponentielle. Quand bien même, j'ai un serveur local installé sur ma tour principale à la maison, le laptop est indispensable quand on est pas chez soi. Évidemment, comme d'habitude, j'ai surtout travaillé avec les inspecteurs <em>Chrome</em> et <em>Firefox</em>, mais parfois on a besoin de compiler ou de jouer sur plusieurs plans ou pages du site.
+          De fait, du jour au lendemain, j'ai commencé à <em>pusher</em> comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1rem à 1.1rem). Au bout de 3 jours, Netlify m'envoie un message depuis mon interface : « <em>STOP ! Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, j'ai pushé 30 fois. Sur le coup, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site (<a href="onehuman.fr" target="_blank">Lolo</a> et le Ck), s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment leurs comptes sans succès, et je suis reparti fouiller un peu plus, histoire de comprendre.
+          
+        <p>
+          Bon, en réalité, ça a été rapide. Entre le moment où ils ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en transferts par mois, à une offre gratuite de 30 <em>pushes</em> max par mois. Autant dire, quedal. La douille, sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé mon compte un an plus tôt, quand on a commencé à travailler les portfolios, et d'autre part, si j'avais pû installer un serveur local sur le laptop du taf. Le combo de merde, disons le choses.  
+        </p>
         </p>
         <p>
-          De fait, du jour au lendemain, j'ai commencé à <em>pusher</em> comme un sagouin (des trucs indispensables comme la taille d'une font, passer d'un padding de 1rem à 1.1rem ou corriger une erreur d'orthographe par exemple). Au bout de 3 jours, Netlify m'envoie un message depuis mon interface : « <em>STOP ! Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». J'avais à peine pushé 30 fois depuis le 1er jour du mois. Sur le coup, j'ai cru à un problème configuration de compte. J'ai demandé aux potos qui avaient déjà bien avancé sur le site (<a href="onehuman.fr" target="_blank">Lolo</a> et le Ck), s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment leurs comptes sans succès, et je suis reparti fouiller un peu plus histoire de comprendre. Bon, en réalité, ça a été rapide. Entre le moment où les copaings ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en transferts par mois, à une offre gratuite de 30 <em>pushes</em> max par mois. Autant dire, quedal. La douille. 
+          En soit, on va pas se mentir, à part un peu plus de temps perdu, ça ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que j'ai dû me mettre en quête d'un outil équivalent qui propose une offre gratuite "utilisable". Après quelques courtes recherches, j'ai opté pour <a href="https://vercel.com/" target="_blank">Vercel</a>. L'offre gratuite est ok et la limite est très dure à atteindre. Une fois mes datas transférées d'une société d'herbergement à une autre, j'ai repris le travail sur mon site. 
         </p>
         <p>
-          En soit, on va pas se mentir, à part un peu plus de temps perdu, ça ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que j'ai dû me mettre en quête d'un outil équivalent, qui propose une offre gratuite "utilisable". Après quelques courtes recherches, j'ai opté pour <a  href="https://vercel.com/" target="_blank">Vercel</a>. L'offre gratuite est ok et la limite est très dure à atteindre. Une fois mes datas transférées d'une société d'herbergement à une autre, j'ai repris le travail sur mon site. Une libération. Du push ! Du push ! Une orgie de pushes ! Tous plus utiles les uns que les autres <em><b>PG 13 minimum</b></em>. 
+          Une libération ! La fête du push ! Du push en veux-tu ? En voilà ! Une orgie de pushies ! Du push ! Du push ! Du push !
           {                    
             allImg   
               .slice(7,8)                                          
@@ -269,7 +276,10 @@ const pageTitle = "Webouille";
           }
         </p>
         <p>
-          
+          Pour finir, il me restait en réalité une chose à faire avant de valider une v1 du site. Comme, je ne voulais pas me trimbaler avec nom de domaine "<em>vercel-app</em>" et que je voulais mon domaine "grammar-oisif.fr", comme les grands, j'ai fait sauter la banque. Plutôt que passer par Vercel, j'ai cherché une structure française un peu éthique et je suis tombé sur "Lebureau.coop", une <em><a href="https://entreprendre.service-public.gouv.fr/vosdroits/F31328">Scop</em></a>, dont je suis devenu sociétaire pour quelques euros de plus. 
+        </p>
+        <p>
+
         </p>
 
       </div>
@@ -392,7 +402,7 @@ const pageTitle = "Webouille";
   }
   section {
     z-index: 1;
-    height: 100vh;
+    /* height: 100vh; */
     padding-bottom: 15vh;
   }
 
@@ -409,6 +419,9 @@ const pageTitle = "Webouille";
       justify-content: space-between;
       align-items: flex-start;
       padding: 2vh 32px 8vh 32px;
+      max-height: calc(88vh);
+      position: sticky;
+      top: 10vh;
     }
     & ul {
       color: var(--back-2);

@@ -139,7 +139,7 @@ const pageTitle = "Webouille";
         </p>            
         <h2 id="2025">2025, année du reboot du reboot</h2>
         <p>
-          Le A, comme on l'appelle dans la Silicon Valley du Un Six, c'est pas le genre à se tanner la couenne au soleil quand il a quelque chose en tête, je vous invite à jeter un œil à son <a href="https://antoinemoreau.contact/" target="_blank">blog</a>. Une fois encore, c'est lui, qui continuant à fouiller le web à la recherche des meilleurs outils possibles, nous a dégoté une solution alternative à HUGO, en l'occurrence <a href="https://astro.build/" target="_blank">Astro js,</a> un autre <em>framework web js</em>, toujours optimisé création de blog <strong>html/css/js/md</strong>. Par ailleurs, il a l'avantage de ne pas exiger la maîtrise du langage <em>GO</em>.
+          Le A, comme on l'appelle dans la Silicon Valley du Un Six, c'est pas le genre à se tanner la couenne au soleil quand il a quelque chose en tête, je vous invite à jeter un œil à son <a href="https://antoinemoreau.contact/" target="_blank">blog</a>. Une fois encore, c'est lui, qui continuant à fouiller le web à la recherche des meilleurs outils possibles, nous a dégoté une solution alternative à HUGO, en l'occurrence <a href="https://astro.build/" target="_blank">Astro js</a>, un autre <em>framework web js</em>, toujours optimisé création de blog <strong>html/css/js/md</strong>. Par ailleurs, il a l'avantage de ne pas exiger la maîtrise du langage <em>GO</em>.
         </p>
         <h3>Maintenant que j'ai les bons outils (ou presque)</h3> 
         <ul class="liste-intext"> 
@@ -149,7 +149,7 @@ const pageTitle = "Webouille";
           </li>
         </ul>
         <p>
-          <em>Astro js</em> c'est révélé être la solution idéale - pour <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, etc., et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
+          <em>Astro js</em> c'est révélé être la solution idéale - pour un <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, etc., et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
         </p>
         {                    
           allImg   
@@ -241,7 +241,7 @@ const pageTitle = "Webouille";
           Je pourrais détailler un peu plus, mais ça ne parait pas très utile, la construction du site s'est faite, page par page, plus ou moins tranquillement au fil de l'eau, avec de la recherche de solutions adaptées, du code astro récupéré par-ci par-là, de la création de collections d'images (quelle tannée...) incluant la création de 2 fichiers <em>json</em>, des besoins de coup de main, des blocages à se bouffer les doigts etc., bref, rien de bien original ou qui détonne des processus de créations habituels (doutes, hésitations, re-doutes, et <em>tutti quanti</em>).
         </p>
         <p>
-          Il y a quand même une petite péripétie "rigolotte" à raconter. Plus haut dans la page je listais les différents points qui m'avaient fait opté pour mon ordi perso, plutôt que celui de mon travail. L'un des arguments principaux était qu'il m'était impossible d'installer un serveur local dessus (question d'autorisation). Le truc c'est que la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, il a fallu que je me résolve à utiliser le laptop du taf, un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span>*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
+          Il y a quand même une petite péripétie "rigolotte" à raconter. Plus haut dans la page je listais les différents points qui m'avaient fait opté pour mon ordi perso, plutôt que celui de mon travail. L'un des arguments principaux était qu'il m'était impossible d'installer un serveur local dessus (question d'autorisation). Le truc c'est que la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, il a fallu que je me résolve à utiliser le laptop du taf, un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span class="mindfuck">*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
         </p>
         <h3>
           The state of art, ou comment imbriquer les mauvais timing comme on empile les feuilles de style en cascade           
@@ -250,7 +250,7 @@ const pageTitle = "Webouille";
           Donc, le fait de ne pas pouvoir installer de serveur local sur le laptop du taf, à fait grimper le nombre de pushs de manière exponentielle. Quand bien même, j'ai un serveur local installé sur ma tour principale à la maison, le laptop est indispensable quand on est pas chez soi. Évidemment, comme tout bon professionnel, j'ai surtout travaillé avec les inspecteurs de <em>Chrome</em> et <em>Firefox</em>, mais quand on peut push, surtout pour du code basique, au bout d'un moment, on push. Enfin, moi, je push en tout cas. 
         </p>
         <p>
-          De fait, du jour au lendemain, j'ai commencé à <em>pusher</em> comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1 à 1.1rem), et puis rapidemment, Netlify m'envoie un message depuis mon interface : « <em>STOP !  Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, j'ai pushé 4 fois (c'est faux, j'exagère pas !). Sur le coup, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site (<a href="onehuman.fr" target="_blank">Lolo</a> et le Ck), s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment, je suis reparti fouiller un peu plus, histoire de comprendre.
+          De fait, du jour au lendemain, j'ai commencé à <em>pusher</em> comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1 à 1.1rem), et puis rapidemment, Netlify m'envoie un message depuis mon interface : « <em>STOP !  Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, j'ai pushé 4 fois et on est le 3 du mois ! Imaginez l'enfer, il fallait que j'attende le debut du moins d'après pour push à nouveau. Ça n'pas de sens. Sur le moment, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site (<a href="onehuman.fr" target="_blank">Lolo</a> et le Ck), s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment, je suis reparti fouiller un peu plus, histoire de comprendre.
           
         <p>
           Bon, en réalité, ça a été rapide. Entre le moment où ils ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en nombre de pushs par mois, à une offre gratuite super limitée en nombre de pushs par mois (ça a changé encore je crois, enfin bref). La douille, sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé mon compte un an plus tôt, quand on a commencé à travailler les portfolios, et d'autre part, si j'avais pû installer un serveur local sur le laptop du taf. Le combo de merde, disons le choses.  
@@ -483,7 +483,7 @@ const pageTitle = "Webouille";
       }
     }
 
-    & p span {
+    & p span.mindfuck {
       font-size: 1.1rem;
       font-weight: lighter;
       font-style: italic;

@@ -149,7 +149,7 @@ const pageTitle = "Webouille";
           </li>
         </ul>
         <p>
-          <em>Astro js</em> c'est révélé être la solution idéale - pour un <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, etc., et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
+          <em>Astro js</em> c'est révélé être la solution idéale - pour un  <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, etc., et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
         </p>
         {                    
           allImg   
@@ -187,7 +187,7 @@ const pageTitle = "Webouille";
           Assez rapidemment j'ai créé la palette de couleur du site :
           <ul class="liste-intext">
             <li>un jaune assez chaud (#f3bd22),</li> 
-            <li>une couleur papier/beige (#f4f2e8),</li>
+            <li>une couleur papier/beige très clair (#fdfaec),</li>
             <li>un gris très sombre (carbone ou anthracite). Au final j'ai dû me résoudre à choisir un noir #000 à cause des assets graphiques que j'utilise (dessins + éléments type "trace de peinture"). C'est d'ailleurs quelque chose que j'ai prévu de modifier à l'avenir.</li> 
             <li>un blanc (pur) qui devait contraster suffisamment avec le beige sur les pages <span><a  href="/Ecritouille" target="_blank">Écritouille</a></span> par exemple.</li> 
           </ul>
@@ -230,9 +230,9 @@ const pageTitle = "Webouille";
         <p>
           Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment. Ça m'apprendra à coder pour chrome - on mettra ça sur les mauvaises habitudes du taf voyez-vous - ce qui m'a obligé à bidouiller un truc moyennement satisfaisant pour le renard de feu. Je compte bien faire quelque chose de plus propre, mais c'est loin dans la pile de trucs à terminer/corriger/modifier. 
         </p>
-        <h2 id="astro-coding">Tout balancer sur Netlify... Et finalement non</h2>
+        <h2 id="astro-coding">Tout balancer sur <em>Netlify</em>... Et finalement non</h2>
         <p>
-          J'ai d'abord terminé de configurer mon site, en créant un nom de domaine Netlify et lié le bouzin à mon GitHub.
+          J'ai d'abord terminé de configurer mon site, en créant un nom de domaine <em>Netlify</em> et lié le bouzin à mon GitHub.
         </p>
         <p>
           À cette étape j'ai donc copié/collé les fichiers de ma base de test en local, puis j'ai remplacé mes premiers morceaux code en dur par des <em>components</em> (menu, etc.) et des <em>layouts</em> (base de page + head, etc.) adaptés, en suivant le tuto Astro js. J'ai par ailleurs modifié le code <em>css</em> au besoin et commencé le <a href="https://fr.wikipedia.org/wiki/Site_web_r%C3%A9actif" target="_blank">responsive</a> (pour les pages de base surtout). 
@@ -241,7 +241,7 @@ const pageTitle = "Webouille";
           Je pourrais détailler un peu plus, mais ça ne parait pas très utile, la construction du site s'est faite, page par page, plus ou moins tranquillement au fil de l'eau, avec de la recherche de solutions adaptées, du code astro récupéré par-ci par-là, de la création de collections d'images (quelle tannée...) incluant la création de 2 fichiers <em>json</em>, des besoins de coup de main, des blocages à se bouffer les doigts etc., bref, rien de bien original ou qui détonne des processus de créations habituels (doutes, hésitations, re-doutes, et <em>tutti quanti</em>).
         </p>
         <p>
-          Il y a quand même une petite péripétie "rigolotte" à raconter. Plus haut dans la page je listais les différents points qui m'avaient fait opté pour mon ordi perso, plutôt que celui de mon travail. L'un des arguments principaux était qu'il m'était impossible d'installer un serveur local dessus (question d'autorisation). Le truc c'est que la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, il a fallu que je me résolve à utiliser le laptop du taf, un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span class="mindfuck">*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
+          Il y a quand même une petite péripétie "rigolotte" à raconter. Plus haut dans la page je listais les différents points qui m'avaient fait opter pour mon ordi perso, plutôt que celui de mon travail. L'un des arguments principaux était qu'il m'était impossible d'installer un serveur local dessus (question d'autorisation). Le truc c'est que la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, il a fallu que je me résolve à utiliser le laptop du taf, un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span class="mindfuck">*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
         </p>
         <h3>
           The state of art, ou comment imbriquer les mauvais timing comme on empile les feuilles de style en cascade           
@@ -250,13 +250,13 @@ const pageTitle = "Webouille";
           Donc, le fait de ne pas pouvoir installer de serveur local sur le laptop du taf, à fait grimper le nombre de pushs de manière exponentielle. Quand bien même, j'ai un serveur local installé sur ma tour principale à la maison, le laptop est indispensable quand on est pas chez soi. Évidemment, comme tout bon professionnel, j'ai surtout travaillé avec les inspecteurs de <em>Chrome</em> et <em>Firefox</em>, mais quand on peut push, surtout pour du code basique, au bout d'un moment, on push. Enfin, moi, je push en tout cas. 
         </p>
         <p>
-          De fait, du jour au lendemain, j'ai commencé à <em>pusher</em> comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1 à 1.1rem), et puis rapidemment, Netlify m'envoie un message depuis mon interface : « <em>STOP !  Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, j'ai pushé 4 fois et on est le 3 du mois ! Imaginez l'enfer, il fallait que j'attende le debut du moins d'après pour push à nouveau. Ça n'pas de sens. Sur le moment, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site (<a href="onehuman.fr" target="_blank">Lolo</a> et le Ck), s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment, je suis reparti fouiller un peu plus, histoire de comprendre.
+          De fait, du jour au lendemain, j'ai commencé à pusher comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1 à 1.1rem), et puis rapidemment, <em>Netlify</em> m'a envoyé un message depuis mon interface : « <em>STOP !  Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, j'ai pushé 4 fois et on est le 3 du mois ! Imaginez l'enfer, il fallait que j'attende le debut du mois d'après, pour pusher à nouveau. Ça n'a pas de sens. Sur le moment, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site, s'ils avaient déjà été confronté à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidemment, je suis reparti diguer histoire de comprendre.
           
         <p>
-          Bon, en réalité, ça a été rapide. Entre le moment où ils ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en nombre de pushs par mois, à une offre gratuite super limitée en nombre de pushs par mois (ça a changé encore je crois, enfin bref). La douille, sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé mon compte un an plus tôt, quand on a commencé à travailler les portfolios, et d'autre part, si j'avais pû installer un serveur local sur le laptop du taf. Le combo de merde, disons le choses.  
+          Bon, en réalité, ça a été rapide. Entre le moment où les potos ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en nombre de pushs par mois, à une offre gratuite super limitée en nombre de pushs par mois (ça a changé encore je crois, enfin bref). La douille, sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé mon compte un an plus tôt, quand on a commencé à travailler les portfolios, et d'autre part, si j'avais pû installer un serveur local sur le laptop du taf. Le combo de merde, disons le choses.  
         </p>        
         <p>
-          En soit, on va pas se mentir, à part un peu plus de temps perdu, ça ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que j'ai dû me mettre en quête d'un outil équivalent qui propose une offre gratuite "utilisable". Après quelques courtes recherches, j'ai opté pour <a href="https://vercel.com/" target="_blank">Vercel</a>, dont l'offre gratuite est très généreuse, notamment en<em>Fast Data Transfer</em>. Une fois mes datas transférées d'une société d'herbergement à une autre, j'ai repris le travail sur mon site. 
+          En soit, on va pas se mentir, à part un peu plus de temps perdu, ça ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que j'ai dû me mettre en quête d'un outil équivalent qui propose une offre gratuite "utilisable". Après quelques courtes recherches, j'ai opté pour <a href="https://vercel.com/" target="_blank">Vercel</a>, dont l'offre gratuite est très généreuse, notamment en <em>Fast Data Transfer</em>. Une fois mes datas transférées d'une société d'herbergement à une autre, j'ai repris le travail sur mon site. 
         </p>
         <p>
           <!-- Une libération ! La fête du push ! Une orgie de pushies ! Du push ! Du push ! Du push ! -->
@@ -275,11 +275,24 @@ const pageTitle = "Webouille";
           }
         </p>
         <p>
-          Pour finir, il me restait en réalité une chose à faire avant de valider une v1 du site. Comme, je ne voulais pas me trimbaler avec une url "<em>vercel-app</em>" et que je voulais mon domaine "<em>grammar-oisif.fr</em>", comme les grands, j'ai fait sauter la banque. Plutôt que passer par Vercel, j'ai choisi une solution un peu éthique "<a href="https://lebureau.coop/" target="_blank">Lebureau.coop</a>", une <em><a href="https://www.les-scop.coop/les-scop" target="_blank">Scop</em></a>, c'est assez rare pour le signaler.
+          Voici les outils que j'ai finalement utilisés pour faire mon site :
+          <ul class="liste-intext tools">
+            <li>Notepad++</li>
+            <li>Figma</li>
+            <li>Astro js</li>
+            <li>GitHub</li>
+            <li>Vercel</li>            
+          </ul>
         </p>
-        <h2>La conclusion</h2>      
         <p>
-          
+          Pour finir, il me restait en réalité une chose à faire avant de valider une v1 du site. Comme, je ne voulais pas me trimbaler avec une url "<em>vercel-app</em>" et que je voulais mon domaine "<em>grammar-oisif.fr</em>", comme les grands, j'ai fait sauter la banque. Plutôt que passer par <em>Vercel</em>, j'ai choisi une solution française éthique, la <em><a href="https://www.les-scop.coop/les-scop" target="_blank">Scop</em></a> "<a href="https://lebureau.coop/" target="_blank">Lebureau.coop</a>".
+        </p>
+        <h2>Finish him !</h2>
+        <p>
+          Il y aurait peut-être des choses à raconter sur la fabrication du site, comme approfondir les aspects techniques par exemple, mais je voulais que cette page reste lisible pour la plupart des personnes qui passeront sur cette page. J'aurais pû aussi commenter mes faits d'armes professionnels, présenter ce que je fais actuellement dans le cadre du travail ou pour des amis, mais en réalité, ce n'est plus tellement d'un portofolio dont j'ai besoin aujourd'hui. 
+        </p>
+        <p>
+          Dans tous les cas, aussi inachevé soit-il, ce site représente pour moi une forme d'aboutissement ou tout le moins une étape importante. C'est un peu mon Mont du Destin à moi si vous voulez, un Mont du Destin mis en scène par Sam Raimi période Evil Dead, c'est à dire, très imparfait, un peu <em>cheap</em>, mais honnête. Si je parle d'aboutissement c'est que, comme beaucoup de monde, je procastine. Ça ne date pas d'hier, j'ai une <em>todo list</em> qui ne se vide quasiment jamais, mais qui continue de se remplir inexorablement d'années en années. 
         </p>
 
       </div>
@@ -481,6 +494,24 @@ const pageTitle = "Webouille";
         align-items: center;
         left: -1.6rem;                    
       }
+    }
+
+    & ul.liste-intext.tools {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 1rem;
+      flex-wrap: wrap;
+         
+
+      & li {
+        font-size: 1.3rem;
+        font-family: "Chelsea Market", system-ui;
+        min-width: calc(320px - 3rem);
+        text-wrap: nowrap;
+      }
+
     }
 
     & p span.mindfuck {

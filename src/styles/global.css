@@ -1121,11 +1121,28 @@ div.col-pres-publication {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
-	width: 40%;
+	width: 40%;	
+	transition: 0.3s;
+
+	
 
 	& h2 {
 		background-color: var(--back-2);
 		transform: rotate(6deg) translate(3rem, -1.5rem);
+		transition: 0.2s;
+	}
+
+	&:has(.cta:hover) h2 {
+		-webkit-transform: rotate(-2deg) translate(3rem, -1.5rem);
+		-ms-transform: rotate(-2deg)  translate(3rem, -1.5rem);
+		transform: rotate(-2deg)  translate(3rem, -1.5rem);
+	}
+
+	&:hover:has(.cta:hover) {	
+		-webkit-transform: scale(1.01);
+		-ms-transform: scale(1.01);
+		transform: scale(1.01);
+		background-blend-mode: exclusion;
 	}
 
 	& .cta {
@@ -1137,6 +1154,9 @@ div.col-pres-publication {
 		align-self: center;
 		z-index: 1;
 		position: relative;
+		-webkit-transform: rotate(2deg);
+		-ms-transform: rotate(2deg);
+		transform: rotate(2deg);
 	}
 }
 

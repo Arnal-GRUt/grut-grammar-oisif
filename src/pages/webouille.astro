@@ -341,7 +341,7 @@ const pageTitle = "Webouille";
     z-index: 0;      
     display: flex;
     align-items: center;
-    padding-bottom: 1rem;
+    padding-bottom: 1rem;    
     
     & img {      
       object-fit: contain;         
@@ -482,7 +482,10 @@ const pageTitle = "Webouille";
     
     & ul.liste-intext li {
       position:relative;
-      font-size: 1.1rem;            
+      font-size: 1.1rem;  
+      max-width: 640px;
+      margin-left: 1rem;          
+
 
       &:before {
         content: "";        
@@ -587,12 +590,12 @@ const pageTitle = "Webouille";
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      flex-wrap: wrap; 
+      flex-wrap: wrap;       
 
       & section {
         min-width: 100%;
         height: fit-content;        
-        padding: 24px;
+        padding: 24px;        
 
         &:is(.webouille-todo) {
           order: 1;
@@ -604,16 +607,27 @@ const pageTitle = "Webouille";
       }
 
       & div[class*="visuel-"]  {      
-        & p.description {
+        position: relative;
+        height: auto;
+        display:block;
+        max-width: 800px;
+
+        & *:is(p.description, img) {
+          position: relative;
+        }
+
+        & p.description {          
           opacity: 1;
           width: 100%;
-          max-width: unset;
           bottom: 0;
+          padding: 0.5rem;
+          object-fit: contain;
           height: fit-content;
+          max-width: unset;
           min-height: unset;
-          padding: 0.8rem;
           transition: unset;
           transform: unset;
+
         }
         
         &:hover p.description {

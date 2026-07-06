@@ -2565,7 +2565,7 @@ span.icon-arrow {
 	}
 	.main-text {
 		&.display-flex.direction-row::before {
-			top: -1.4%;
+			top: -1.2%;
 		} 
 	}
 

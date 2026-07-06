@@ -166,14 +166,14 @@ Au bout de quatre sonneries ça décroche :
 -- Les quelques affaires qui vous restaient ont été incinérées monsieur, elle ne fait pas la fière, je l'entends à sa voix.  
 -- Pardon ?!! je vrille instantanément, mais merde, je ... Aouch ! »  
 
-La peau me brûle sous les rubans, je facille et essaye de m'aggripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en 2/2 et me remettent dans la cuve, sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
+La peau me brûle sous les rubans, je facille et essaye de m'aggripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en deux-deux et me remettent dans la cuve, sans que j'ai le temps de couiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe  et le chirurgien *slash* dude-au-bord-du-burnout qui me scrute. Il semble jeter un oeil à mes rubans.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* dude-au-bord-du-burnout qui me scrute. Il semble jeter un oeil à mes rubans.  
 
 « -- Tout va bien, évitez les gestes brusques, ça tire sur les rubans et ça réveille les blessures.  
 -- ok, j'esquive sa remarque, je voudrais faire un tour dans le parc en bas, avec un café.  
 -- Vous n'êtes pas en prison, répond-il en souriant, vous n'êtes pas interdit de promenade.  
--- Certes, mais je voudrais me prendre un café au distributeur en bas ? je souris à mon tour.  
+-- Certes, mais je voudrais me prendre un café au distributeur en bas, je souris à mon tour.  
 -- Je peux vous faire servir un café, si c'est ce qui vous ferait plaisir, il sourit mais ses yeux disent "*tu saoules*".  
 -- J'aimerais qu'on me rende mes affaires personnelles.  
 Il souffle.  
@@ -181,13 +181,13 @@ Il souffle.
 -- En quoi ça m'empêche de m'acheter un café à la machine en bas, j'avais des thunes en arrivant non ?  
 -- Pourquoi insistez-vous comme ça ? sa question est cash.  
 -- À votre avis ?  
--- Malheureusement tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés le temps de votre convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons que cela sera possible. Vos réactions, depuis votre réveil, ne font que confirmer que ce n'est pas pour demain malheureusement. Et tout ça aussi, vous l'avez autorisé et signé.  
+-- Malheureusement tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés le temps de votre convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons que cela sera possible. Vos réactions, depuis votre réveil, ne font que confirmer que ce n'est pas pour demain malheureusement. Et tout ça aussi, vous l'avez autorisé et signé. Et nous inquiétez pas hein, on ne vous laissera par partir sans donner la facture, finit-il ironiquement. 
 -- Vous comptez m'enlever six mois de plus de toute manière, je réponds du tac au tac, et je vous rappelle que je me souviens toujours pas de tout ça.  
 -- Certes. »  
 
 Il me tourne le dos et en sortant balance à l'interne « faites lui monter un café, si c'est vraiment ce qui lui fait envie ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle me souris et sort à son tour.  
 
-J'attends quelques minutes et me décide à prendre l'air.  
+J'attends quelques minutes puis me décide à prendre l'air. Cette fois c'est la bonne.    
 
 -----
 

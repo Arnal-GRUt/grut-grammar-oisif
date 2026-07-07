@@ -191,7 +191,9 @@ J'attends quelques minutes puis me décide à prendre l'air. Cette fois c'est la
 
 En bas, je passe devant le distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvi du bâtiment. Il fait bon, chaud, c'est l'été à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui libre. Je croise le patient qui en vient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. Il est dix heures qu'il me dit. Au passage, je tente de savoir où nous sommes. Il me regarde longuement en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en moque ». Il conclue par une petite tape sur mon épaule et reprend sa route.  
 
-J'aurais voulu lui poser d'autres questions, mais j'ai bien compris qu'il n'était pas forcément très disponible.  
+J'aurais voulu lui poser d'autres questions, mais il n'était manifestement pas très disponible.  
+
+
 
 
 >> trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  

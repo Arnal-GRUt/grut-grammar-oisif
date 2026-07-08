@@ -30,7 +30,6 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     /*
 * Prefixed by https://autoprefixer.github.io
 */
-
     .lien-post-last .display-flex.direction-column.presentation {
         background: transparent;
         min-width: 460px;
@@ -144,8 +143,11 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
     @media (width < 769px) {
         .lien-post-last {
             padding-left: 0;
-            /* width: 85vw; */
-            max-width: 80vw;
+            width: 85vw;
+            
+            & .carton-presentation.direction-column {
+                padding: 0 34vw 5vw 5vw;
+            }
         }
     }
 </style>

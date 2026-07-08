@@ -144,7 +144,14 @@ const { title, url, pubDate, author, contexte, description, blueskyUri } =
         .lien-post-last {
             padding-left: 0;
             width: 85vw;
-            
+
+            & .carton-presentation.direction-column {
+                padding: 0 34vw 5vw 5vw;
+            }
+        }
+    }
+    @media (width < 600px) {
+        .lien-post-last {
             & .carton-presentation.direction-column {
                 padding: 0 34vw 5vw 5vw;
             }

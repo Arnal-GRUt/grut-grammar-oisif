@@ -99,13 +99,10 @@ h6 {
 	--grut-color: #f3bd22; /* ancien --yellow */
 	--defaut-txt: #000000; /* ancien --black */
 	--back-2: #ffffff; /* ancien --white */
-	/* --background: #f4e8ef;		 */
 	--background: #fdfaec;		
 	--animStart: 150vh;
 	--animEnd: 150vh;
 	--weight: 400;
-	/* entre 100 et 900 */
-	/* --min-height: 400vh; */
 	--gap-24: 24px;
 	--gap-16: 16px;
 }

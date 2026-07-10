@@ -68,13 +68,13 @@ Il me parle de choses que je ne comprends pas. Des ruban quoi ? Je fais quoi ici
 
 « Pardon, alors oui, je ne suis pas contre manger un morceau, mais, pardon encore, pourquoi je viens de me réveiller dans cette cuve ? »    
 
-Il me regarde l'air un chouya plus concerné, peut-être un poil surpris aussi, mais surtout, il lâche un léger sourire, reprend :    
+Il me regarde l'air un chouya plus concerné, peut-être un poil surpris aussi, mais surtout, il lâche un léger sourire, puis reprend :    
 
 « Je vais chercher le docteur, le chirurgien qui vous a opéré, et au passage je préviens le service pour qu'on vous serve la soupe. Bonne journée monsieur et je vous souhaite un prompt rétablissement. »   
 
 J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains receptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le cigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.    
 
-Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne recents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je. Manifestement, je ne suis pas encore prêt à encaisser plus consistant.   
+Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne recents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je, « manifestement, je ne suis pas encore prêt à encaisser plus consistant ».   
 
 C'est à ce moment que le chirurgien se décide à faire son entrée. Il a l'air sérieux ce monsieur. Il me scrute, prend le pad, regarde mes datas : il zoome, scroll, encadre, je vois bien qu'il cherche à évaluer la situation. Il finit par me poser une question :    
 
@@ -87,10 +87,10 @@ Je vois bien qu'il essaie d'y mettre de la compassion. C'est raté. Je ne répon
 « -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
 -- Pardon ! je me redresse brusquement, mais c'est intolérable ! Je... »  
   
-Je hurle de rage, de douleur plus encore, sous les rubans cicatrisants je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanémant. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, et encore moins pigé un seul des mots qu'il a prononcés.    
+Je hurle de rage, de douleur plus encore, sous les rubans cicatrisants je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le pad pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanément. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai rien entendu, et encore moins pigé un seul des mots qu'il a prononcés.    
 
-Le calme revenu, il me regarde les sourcils froncés par le vacarme et reprend :  
-« -- J'essayais de vous dire que les deux mois ne seraient malheureusement qu'un début, et qu'il faut s'attendre à une amputation mémorielle complétementaire de plusieurs mois. Nous envisageons six mois supplémentaires *a minima*[^1].  
+Le calme revenu, il me regarde les sourcils froncés par le vacarme et continue :  
+« -- J'essayais de vous dire que les deux mois ne seraient malheureusement qu'un début, et qu'il faut s'attendre à une amputation mémorielle complétementaire de plusieurs mois. Nous envisageons six mois supplémentaires *a minima*[^1]. Je suis navré.    
 -- Hors de question, malgré l'antalgique de bourrin je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
 -- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle amputation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
 -- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ?  
@@ -118,16 +118,16 @@ Il me regarde maintenant, il attend que je dise autre chose peut-être ? Il repr
 « -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je ne pourrais pas faire plus, je vous invite à lire attentivement, et dans le cas où vous souhaiteriez toujours recouvrer votre mémoire, il vous faudra alors annuler les soins globaux.  
 -- C'est quoi ça, encore, les "soins globaux" ?  
 -- L'amputation mémorielle fait partie des soins auquels vous avez eu droit. Soit vous annulez le tout, mémoire, brûlures, lacérations, etc., soit rien du tout.  
--- Quoi ? Mais arghhh..., et rebelotte. »    
+-- Quoi ? Mais... et rebelotte. »    
 
 L'interne se précipite, balance la dose en antalgique. Cette fois le chirurgien a appris, il s'arrête de parler, et me regarde gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :   
 
 « -- Génial, la souffrance ou la mort ? C'est ça que vous me proposer ?  
--- Si vous refusez les soins, c'est tous les soins, vous serez seul responsable des graves conséquences éventuelles ».    
+-- Si vous refusez les soins, c'est tous les soins, vous serez seul responsable des graves conséquences éventuelles ».   
 
-Le roi du bistouri me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi », conclue-t-il en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir.    
+Le roi du bistouri me tend un document écrit recto-verso, ça ressemble à un contrat, en tout cas une validation légale duement signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi », conclue-t-il en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir.  
 
-C'est une lettre manuscrite, c'est bien mon écriture, disons que ça y ressemble. En haut un logo, je ne le reconnais pas, tout ça est cryptique, mais reste que ce n'est pas celui dont je me souviens. Le texte est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée me donner. Partant du principe que je ne me souviens de rien, à quel moment ce truc est valable.    
+C'est une lettre manuscrite, c'est bien mon écriture, disons que ça y ressemble. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA, et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée me donner. Partant du principe que je ne me souviens de rien, à quel moment ce truc est valable.    
 
 Les deux médecins attendent que je prenne une décision définitive. L'interne a jeté un oeil inquiet au chirurgien qui n'a pas dénié jeté un oeil sur elle. Ce mec snoberait son propre reflet dans le miroir.   
 
@@ -152,10 +152,10 @@ Le calme est revenu, c'est limite angoissant. Je ne me sens pas rester dans la c
 
 J'ai toujours le verre aux lèvres, quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément *Imothep*. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça parait risqué de mettre ensemble de patients qui ont subit des amputations mémorielles, non ?    
 
-J'essaye toujours de comprendre mon environnement. Par la fenêtre, il y a un parc fleuri, des arbres feuillus projettent leurs ombres bienfaitrices sur des bancs placés harmonieusement sous leur protection. Nous sommes en fin de matinée *a priori* et il y a de l'activité en bas. Quelle heure est-il ? Je descendrais bien prendre un café à la machine, mais je n'ai pas un radis, je suis à poil sous de ma chemise de nuit, et je ne vois aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je vais me rencarder.   
+J'essaye toujours de comprendre mon environnement. Par la fenêtre, il y a un parc fleuri, des arbres feuillus projettent leurs ombres bienfaitrices sur des bancs placés harmonieusement sous leur protection. Nous sommes en fin de matinée *a priori*, il y a de l'activité en bas. Quelle heure est-il ? Je descendrais bien prendre un café à la machine, mais je n'ai pas un radis, je suis à poil sous de ma chemise de nuit, et je ne vois aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je vais me rencarder.   
 
 Au bout de quatre sonneries ça décroche :  
-« -- oui, bonjour... chambre... j'en sais rien en fait .
+« -- oui, bonjour... chambre euh, j'en sais rien en fait.  
 -- 10A-932, évidemment qu'elle le connait le numéro.  
 -- Ok, bah merci, je dois être le seul à ne pas le savoir, j'ai l'air un poil couillon de suite.  
 -- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
@@ -163,11 +163,11 @@ Au bout de quatre sonneries ça décroche :
 -- Vous êtes arrivé avec quasiment rien sur vous monsieur, d'après ce que je vois, et...  
 -- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, je l'ai interrompu, pas le temps niaiser.  
 -- Les quelques affaires qui vous restaient ont été incinérées monsieur, elle suinte le malaise, je l'entends à sa voix.  
--- Pardon ?!! je vrille instantanément, mais merde, je ... Aouch ! »    
+-- Pardon ?!! je vrille instantanément, mais merde, je... »  
 
-La peau me brûle sous les rubans, je facille et essaye de m'aggripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en deux-deux et me remettent dans la cuve, sans que j'ai le temps de chouiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.    
+Ma peau brûle sous les rubans, je facille et essaye de m'aggripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment, j'entends débouler *fissa* deux personnes, ils me prennent pas les bras en deux-deux et me remettent dans la cuve, sans que j'ai le temps de chouiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* dude-au-bord-du-burnout qui me scrute. Il inspecte à mes rubans.    
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* dude-au-bord-du-burnout qui me scrute. Il inspecte à mes rubans.  
 
 « -- Tout va bien, évitez les gestes brusques, ça tire sur les rubans et ça réveille les blessures.  
 -- ok, j'esquive sa remarque, je voudrais faire un tour dans le parc en bas et m'acheté un café au distributeur.  
@@ -180,22 +180,21 @@ Il souffle.
 -- En quoi ça m'empêche de m'acheter un café à la machine en bas, j'avais des thunes en arrivant non ?  
 -- Malheureusement non. Pour le moment vous êtes placé en convalescence moteur et psychologique. Dans ce cadre, tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés le temps de cette convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons que cela sera possible. Vos réactions, depuis votre réveil, ne font que confirmer que ce n'est pas pour demain malheureusement. Et tout ça aussi, vous l'avez autorisé et signé. Et nous inquiétez pas hein, on ne vous laissera pas partir sans vous donner la facture, finit-il ironiquement.  
 -- Vous comptez m'enlever six mois de plus de toute manière, je réponds du tac au tac, et je vous rappelle que je me souviens toujours pas de tout ça.  
--- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer de manière véhémente. »    
+-- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer de manière véhémente. »  
 
 Il me tourne le dos et en sortant balance à l'interne « faites lui monter un café, si c'est vraiment ce qui lui fait envie ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle me souris et sort à son tour.    
 
-J'attends quelques minutes puis me décide à prendre l'air. Cette fois c'est la bonne.    
+J'attends quelques minutes puis me décide à prendre l'air. Cette fois c'est la bonne.  
 
-En bas, je passe devant le distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvi du bâtiment. Il fait bon, chaud, c'est l'été à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. Il est dix heures qu'il me dit. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en moque ». Il conclue par une petite tape sur mon épaule et reprend sa route.    
+En bas, je passe devant le distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvi du bâtiment. Il fait bon, chaud, c'est le printemps à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. « Il est dix heures pétante », me dit-il. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous a priori ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en moque ». Il conclue par une petite tape sur mon épaule et reprend sa route.    
 
 J'aurais voulu lui poser d'autres questions, mais il n'était manifestement pas très disponible.   
 
+Je décide de rester quelques minutes en bas, histoire de faire le tour du propriétaire. Le parc a l'air assez petit finalement, j'arrive assez vite au portail d'entrée. Il est très haut, le grande portail est fermé. Il m'est impossible de voir la rue.  Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée. Soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative qu'à un hôpital. Les derniers étages n'ont manifestement pas d'ouverture vers l'extérieur.  
+
 -----
 
-
-
-
-> trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait
+> trucs à ajouter : il ne se souvient plus de son nom, qui il est en fait
 > il se débrouille pour fouiller dans les casiers au secretariat et trouve un portefeuille ne contenant pas grande chose à part une photo.
 > juste c'est une option légale en cas d'homicide involontaire ou truc dans le genre : l'oublie ou la mort
 

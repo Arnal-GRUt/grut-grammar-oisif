@@ -190,7 +190,7 @@ En bas, je passe devant le distributeur à *junkfood*, je ne repère aucun produ
 
 J'aurais voulu lui poser d'autres questions, mais il n'était manifestement pas très disponible.   
 
-Je décide de rester quelques minutes en bas, histoire de faire le tour du propriétaire. Le parc a l'air assez petit finalement, j'arrive assez vite au portail d'entrée. Il est très haut, le grande portail est fermé. Il m'est impossible de voir la rue.  Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée. Soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas d'ouverture vers l'extérieur.  
+Je décide de rester quelques minutes en bas, histoire de faire le tour du propriétaire. Le parc a l'air assez petit finalement, j'arrive assez vite à en faire le tour. Le portail d'entrée est très haut et fermé. Il m'est impossible de voir la rue.  Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée. Soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas d'ouverture vers l'extérieur.  
 
 -----
 

@@ -204,7 +204,7 @@
             "img_alt": "Un jeune pantin en bois habillé renaissance marche en tenant dans sa main gauche un sabre en bois décoré de multiples décoration et d'un drapeau"
         },
         "img_name": "Croquis de pantin de bois",
-        "img_date": "03-12-2026"
+        "img_date": "03-13-2026"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
             "img_alt": "Un pantin en bois habillé renaissance marche en tenant dans sa main gauche un sabre en bois décoré de multiples décoration et d'un drapeau"
         },
         "img_name": "Pantin de bois ancré au brou de noix",
-        "img_date": "03-13-2026"
+        "img_date": "03-12-2026"
     },
     {
         "id": 25,
@@ -223,5 +223,23 @@
         },
         "img_name": "Tableau de 16 têtes de mort façon tatou flash (technique du 'petit point', c'est le terme technique)",
         "img_date": "06-16-2026"
+    },
+    {
+        "id": 26,
+        "image": {
+            "source": "./artworks/bavou-sur-toile.JPEG",
+            "img_alt": "Une créature ouvre la bouche très grand"
+        },
+        "img_name": "Le bavou sur toile, version acrylique, crayon et bombe de peinture",
+        "img_date": "07-11-2026"
+    },
+    {
+        "id": 27,
+        "image": {
+            "source": "./artworks/crane-orange.JPEG",
+            "img_alt": "crâne orange sur toile de face"
+        },
+        "img_name": "Le crâne orange",
+        "img_date": "07-12-2026"
     }
 ]

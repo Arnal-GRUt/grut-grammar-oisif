@@ -5,9 +5,11 @@ import { Image } from "astro:assets";
 // import ArtCard from "../components/ArtCard.astro";
 
 const pageTitle = "Gribouille";
-const allArts = (await getCollection("grutArt")).sort(
-	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
-);
+// const allArts = (await getCollection("grutArt")).sort(
+// 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
+// );
+// const allArts = await getCollection("grutArt");
+const allArts = (await getCollection("grutArt")).sort((a, b) => b.id - a.id);
 ---
 
 <BaseLayout pageTitle={pageTitle}>

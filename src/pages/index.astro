@@ -16,9 +16,10 @@ allPosts.sort(
 		Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate),
 );
 
-const allArts = (await getCollection("grutArt")).sort(
-	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
-);
+// const allArts = (await getCollection("grutArt")).sort(
+// 	(a, b) => Date.parse(b.data.img_date) - Date.parse(a.data.img_date),
+// );
+const allArts = await getCollection("grutArt");
 
 const pageTitle = "Grammar Oisif";
 ---
@@ -113,7 +114,7 @@ const pageTitle = "Grammar Oisif";
 				<div class="display-flex direction-column">
 					{
 						allArts
-							.slice(0, 1)
+							.slice(-1)
 							.map((art) => (
 								<Image
 									src={art.data.image.source}

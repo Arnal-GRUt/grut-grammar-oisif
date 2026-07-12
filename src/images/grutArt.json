@@ -47,11 +47,11 @@
     {
         "id": 6,
         "image": {
-            "source": "./artworks/Homonde Barrage.jpg",
-            "img_alt": "Homonde courant et portant un genre d'oeuf dans ses bras façon rugbyman"
+            "source": "./artworks/crane-orange.JPEG",
+            "img_alt": "crâne orange sur toile de face"
         },
-        "img_name": "Homonde Barrage",
-        "img_date": "03-08-2026"
+        "img_name": "Le crâne orange",
+        "img_date": "07-12-2026"
     },
     {
         "id": 7,
@@ -231,15 +231,15 @@
             "img_alt": "Une créature ouvre la bouche très grand"
         },
         "img_name": "Le bavou sur toile, version acrylique, crayon et bombe de peinture",
-        "img_date": "07-11-2026"
+        "img_date": "07-13-2026"
     },
     {
         "id": 27,
         "image": {
-            "source": "./artworks/crane-orange.JPEG",
-            "img_alt": "crâne orange sur toile de face"
+            "source": "./artworks/Homonde Barrage.jpg",
+            "img_alt": "Homonde courant et portant un genre d'oeuf dans ses bras façon rugbyman"
         },
-        "img_name": "Le crâne orange",
-        "img_date": "07-12-2026"
+        "img_name": "Homonde Barrage",
+        "img_date": "03-08-2026"
     }
 ]

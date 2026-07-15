@@ -131,19 +131,19 @@ Le roi du bistouri me tend un document écrit recto-verso, ça ressemble à un c
 
 C'est une lettre manuscrite, c'est bien mon écriture, disons que ça y ressemble. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA - recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée me donner. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
 
-Les deux médecins attendent que je prenne une décision définitive. L'interne a jeté un oeil inquiet au chirurgien qui n'a toujours pas dénié jeté un oeil sur elle. Ce mec snoberait son propre reflet dans le miroir.   
+Les deux médecins attendent que je prenne une décision définitive. L'interne a jeté un oeil inquiet au chirurgien qui n'a toujours pas dénié jeté un oeil sur elle. Ce mec snoberait son propre reflet dans le miroir.  
 
 « -- Donc ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
 -- Vous avez un logo, la lettre est signée, ce texte contient quelques informations, lisez-le attentivement, insiste-t-il.  
 -- Le logo est incompréhensible en tout cas, navré, il ne me dit rien.  
 -- Ça reviendra, nous reparlerons de tout ça demain à tête réposée, si vous préférez.  
 -- C'est ça, demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation n'est pas légale, que je l'ai signé ou non, je ne m'en souviens pas de toute manière.  
-Il hésite un instant.
+Il hésite un instant.  
 -- En effet, que vous ne vous souveniez pas toujours pas avoir signé cet accord, est un problème. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des six derniers mois passés.  
 -- Bah voilà, j'acquiesse, du coup on annule, un instant j'ai bien cru qu'il allait céder.  
--- C'est compliqué hein, me répond-il finalement agassé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver une partie de votre mémoire, le fait est que la la chirurgie mémorielle ne se tank pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer. »    
+-- C'est compliqué hein, me répond-il finalement agassé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver une partie de votre mémoire, le fait est que la la chirurgie mémorielle ne se tank pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer. »  
 
-Il se retourne pour sortir et marque un temps et conclut « par ailleurs, vous étiez tout à fait en état mental d'écrire une attestation au moment où vous l'avez fait, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe. Prenez votre temps pour réfléchir à tout ça, vraiment. »    
+Il se retourne pour sortir et marque un temps et conclut « par ailleurs, vous étiez tout à fait en état mental d'écrire une attestation au moment où vous l'avez fait, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe. Prenez votre temps pour réfléchir à tout ça, vraiment. »  
 
 Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton que ce chirurgien prend avec moi, « j'aime pas le ton que vous prenez avec moi ! ».   
 

@@ -181,8 +181,8 @@ Il souffle.
 -- On vous a déjà répondu à ce sujet, elles ont été détruites.  
 -- En quoi ça m'empêche de m'acheter un café à la machine en bas, j'avais des thunes en arrivant non ?  
 -- Malheureusement non. Pour le moment vous êtes placé en convalescence moteur et psychologique. Dans ce cadre, tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés, le temps de cette convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons que cela sera possible. Vos réactions, depuis votre réveil, ne font que confirmer que ce n'est pas pour demain malheureusement. Et tout ça aussi, vous l'avez autorisé et signé. Et ne vous inquiétez pas hein, on ne vous laissera pas partir sans vous donner la facture, finit-il ironiquement.  
--- Vous comptez m'enlever six mois de plus de toute manière, je réponds du tac au tac, et je vous rappelle que je me souviens toujours pas de tout ça.  
--- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer de cette manière. »  
+-- Vous comptez m'enlever six mois de plus de toute manière, je réponds du tac au tac.  
+-- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer d'une manière aussi véhémente. »  
 
 Il me tourne le dos et en sortant balance à l'interne « faites lui monter un café, si c'est vraiment ce qu'il veut ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle me souris en retour et sort.  
 
@@ -192,9 +192,14 @@ En bas, je me pose devant le distributeur à *junkfood*, je ne repère aucun pro
 
 J'aurais voulu lui poser d'autres questions, mais il n'était manifestement pas très disponible.  
 
-Je décide de rester quelques minutes en bas, histoire de faire le tour du propriétaire. Le parc a l'air assez petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé. Il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée. Soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas de fenêtre. Tout est fait pour empêcher que le moindre détail remette en cause l'amputation mémorielle. Ça a beau être logique, ça me gonfle façon zeppelin.  
+Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air assez petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé. Il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée. Soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas de fenêtre. Tout est fait pour empêcher que le moindre détail remette en cause l'amputation mémorielle. Ça a beau être logique, ça me gonfle façon zeppelin.  
 
 -----
+
+Le reste de la journée je la passe à glander. Je fais des aller-retour parc - chambre, chambre - parc, les infirmières me matent. Les premières fois elles ont tiqué, au bout de la 10ème fois, elles ont fait la même tête que les parents en train de buguer devant la 32ème descente de toboggan enthousiaste du fiston Jean-Eude, 4 ans en janvier.  
+
+La nuit tombant, je suis resté dans ma chambre, et me faisant tellement chié que je me suis mis dans la cuve afin d'essayer de dormir. La journée n'ayant pas été très active, j'ai galéré, et finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisant, j'ai fini par me lever. J'ai pris la lettre manuscrite que m'a laissée Jean-Charles Burnout et, oubliant les mes camarades de chambrée toujours pas réveillé, sans faire gaffe au bordel que je pouvais faire, je suis descendu au petit salon-accueil en bas.  
+
 
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent  

@@ -1139,7 +1139,7 @@ div.col-pres-publication {
 		-webkit-transform: scale(1.01);
 		-ms-transform: scale(1.01);
 		transform: scale(1.01);
-		background-blend-mode: exclusion;
+		/* background-blend-mode: exclusion; */
 	}
 
 	& .cta {

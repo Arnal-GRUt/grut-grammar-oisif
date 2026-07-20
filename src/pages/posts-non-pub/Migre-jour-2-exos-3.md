@@ -198,15 +198,27 @@ Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du p
 
 Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque que je passe devant leur poste, les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Eude - celui qu'aura cinq ans en janvier.  
 
-La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je finis par me lever. Je  prends la lettre manuscrite que m'a laissée docteur *Burnout* et descends au petit salon d'accueil dans le grand hall de l'hôpital.  
+La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je suis fatigué mais je me lève. Je prends la lettre manuscrite que m'a laissée docteur *Burnout* et descends au petit salon d'accueil dans le grand hall de l'hôpital.  
 
-Je pourrais retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abbatoir, ça n'aurait aucun impact sur le sommeil de mes camarades de chambrée.  
+J'aurais pû retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abbatoir, ça n'aurait eu aucun impact sur le sommeil de mes camarades de chambrée.  
 
-En bas, l'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour mettre les pieds sur la table, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignotter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils. Les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne dorme pas.  
+En bas, l'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour mettre les pieds sur la table, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignotter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils. Les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
 
-Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt. Il y une intro à ce texte, je n'y avais pas fait attention la première fois. Elle est plus naturelle, moins solennelle et administrative. Ça ne raconte pas grand chose de très intéressant en soit, de toute manière, si ce moi du passé avait voulu donner des repaires ou filer des indices qui aurait pû représenter des accroches mémorielles, on lui aurait logiquement fait réécrire. C'est ce qui a dû se passer à mon avis.  
+Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt. Il y une intro à ce texte, je n'y avais pas fait attention la première fois. Elle est plus naturelle, moins solennelle et administrative, que le reste du document. Ça ne raconte pas grand chose de très utiles en soit, puisque de toute manière, si ce "moi du passé" avait voulu donner des repaires ou filer des indices qui aurait pû représenter des accroches mémorielles, on lui aurait logiquement fait réécrire.  
 
-Cela-dit, s'il est aussi têtu que moi, et il n'y a pas raison qu'il ne le soit pas, il s'est peut-être débrouiller pour caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter.  
+« *Cher moi du turfu.  
+
+Je ne sais pas vraiment comment te présenter la situation sans te décrire ce qu'il en est des motifs qui pourraient m'obliger à opter pour une amputation/ablation mémorielle, dans le cas où les événements qui se dérouleront dans une semaine environ, tourneraient au vinaigre et m'obligeraient à y avoir recours.  
+
+Sache-le. Ça ne me plait pas plus que toi.  
+
+Je te connais, je me connais, tu vas y mettre de la mauvaise volonté, ce qui t'amenera à ne pas être très urbain avec l'autorité médicale. 
+
+La seule chose que je peux faire, je n'ai malheureusement que ça à te proposer, c'est essayer de te convaincre que tu dois m'accorder ta confiance sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.* »  
+
+Cela-dit, s'il est aussi têtu que moi, et il n'y a pas raison qu'il ne le soit pas, il s'est peut-être débrouiller pour caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter. Je mets donc à y chercher des répétitions, des mots étrangements placés, des débuts de phrases, mais je ne trouve rien de spécial. Même chose pour ce qui concerne la structure en elle-même, on sait jamais, à la manière de George Sand, j'aurai pû tenter de balancer un messsage une ligne sur deux.  
+
+Non rien, toujours pas.  
 
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent  

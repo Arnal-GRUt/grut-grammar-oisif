@@ -210,42 +210,39 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 « *Cher moi du turfu.*  
 
-*Je ne sais pas vraiment comment te présenter la situation sans te lister les motifs qui pourraient m'obliger à opter pour une amputation/ablation mémorielle, dans le cas où les événements qui se dérouleront dans une semaine environ, tourneraient au vinaigre.*  
+*Je ne vois pas vraiment comment te présenter la situation sans te lister les motifs qui pourraient m'obliger à opter pour une amputation/ablation mémorielle, dans le cas où les événements qui se dérouleront dans une semaine environ, tourneraient au vinaigre.*  
 
-*Sache-le et sois en convaincu, j'ai décidé d'autoriser le recours à cette thérapie par nécessité, en pesant le pour et le contre.*  
-
-*Je te connais, je me connais, si cela arrive et donc, si tu lis cette lettre, tu vas y mettre de la mauvaise volonté, ce qui t'amènera très certainement à ne pas être très urbain avec l'autorité médicale.*  
+*Parce que, sache-le, sois en convaincu, j'ai décidé d'autoriser le recours à cette thérapie par nécessité, en pesant le pour et le contre.*  
 
 *La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
 
-*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie je ne signerais, tu ne signerais quelque chose contre ton intérêt, mon intérêt. Tu es probablement, la personne la plus égocentrique et la plus égoïste que je, que tu connaisses. Tous tes combats, mes combats politiques et moraux, n'ont vocations qu'à améliorer ou protéger mon aura, ton aura sociale. Je ne me fous, tu ne te fous que d'une seule et unique chose, ton cul, mon cul.*  
+*Je te connais, je me connais, si tu lis cette lettre c'est que nous y sommes. Je sais que tu mets déjà de la mauvaise volonté, que tu es très certainement odieux avec les autorités médicales.*  
 
-*Tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie je ne signerais, que tu ne signerais quelque chose contre ton intérêt, mon intérêt. Que tu en sois conscient ou non, tu es probablement, la personne la plus égocentrique et la plus égoïste que je, que tu connaisses. Tous tes combats, mes combats politiques et moraux, n'ont vocations qu'à améliorer ou protéger mon aura sociale, ton aura sociale. Je ne me fous, tu ne te fous que d'une seule et unique chose, ton cul, mon cul.*  
+
+*Chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
 *Il n'y a guère qu'à toi que je peux dire cette vérité.*  
 
-*Je termine.  Oui, tu risques de perdre beaucoup plus que deux semaines. Ça va te paraître absurde, à n'en pas douter, mais je te le demande solennellement, si le chirurgien qui t'opérera t'informe que tu auras besoin d'une nouvelle amputation de quelques semaines : accepte-la, signe-la, ne te bâts pas contre, il en va de notre avenir, il en va de ce pour quoi je me bâts, pour quoi tu te bâts, depuis que tu as, que j'ai, atteint l'âge de raison.*  
+*Je termine.  Oui, tu risques de perdre beaucoup plus que deux semaines. Ça va te paraître absurde, à n'en pas douter, mais je te le demande solennellement, d'accepter toutes les amputations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir, il en va de ce pour quoi je me bâts, pour quoi tu te bâts, depuis que tu as, que j'ai, atteint l'âge de raison, dans la ville même où je suis né, ou tu es nés.*  
 
-*Tu dois compter sur ces quelques lignes, elles sont la garantie d'un futur vivable et choisi.*  
+*Tu dois compter sur ces quelques lignes, elles sont ta garantie d'un futur vivable et choisi, elles sont ta garantie d'un retour.*  
 
-*"Oublier pour ne plus avoir à assumer ses actes", c'est la solution ultime, elle te tend la main, prends-là.*  »  
+*Oublier pour ne plus avoir à assumer ses actes, c'est mon choix, c'est ton choix.*  »  
 
-Pas très agréable, on va pas se mentir, mais ça me trouble quand même un peu.  
+La lecture n'a pas été très agréable, on va pas se mentir, mais je suis troublé.  
 
-Cela-dit, aussi convaincant que ce texte puisse paraître, s'il a été plus ou moins forcé à écrire un tel ramassis de saloperies, et/ou s'il est aussi têtu que moi - honnêtement, il y a peu de raisons qu'il ne le soit pas - il s'est peut-être débrouiller pour caler des indices par-ci par-là, via un code ou une logique, que je serais le seul à capter.  
+S'il a été plus ou moins forcé à écrire un tel ramassis de conneries, s'il est aussi têtu que moi, il a certainement intégrer une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter.  
 
-Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même, on sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux.  Il y a forcément quelque chose, parce que même si, j'ai écrit cette lettre complètement convaincu du bien-fondé de l'amputation mémorielle, je suis presque certain que je me suis laissé une porte de sortie au cas où.  
-
-Mais quelle est-elle ?  
+Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même, on sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux.  
 
 -----
 
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
-> ajout optionnel : il a des retours bizarre, des images qui surgissent  
-> il se débrouille pour fouiller dans les casiers au secrétariat et trouve un portefeuille ne contenant pas grande chose à part une photo.  
-> juste c'est une option légale en cas d'homicide involontaire ou truc dans le genre : l'oublie ou la mort  
-> il relit la lettre et y trouve quelque chose d'étrange. Comme un code.  
-> il vit un jour sur 4
+> ajout optionnel : il a des retours bizarre, des images qui surgissent ?
+> il se débrouille pour fouiller dans les casiers au secrétariat et trouve un portefeuille ne contenant pas grande chose à part une photo ?
+> juste c'est une option légale en cas d'homicide involontaire ou truc dans le genre : l'oublie ou la mort  ?
+> il vit un jour sur 4 ?
 
 -----
 

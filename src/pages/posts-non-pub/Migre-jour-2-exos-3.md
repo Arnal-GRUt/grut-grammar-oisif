@@ -252,4 +252,3 @@ Je me mets donc à chercher des répétitions, des mots étrangement placés, de
 -----
 
 [^1]: fin de la partie écrite à Migré  
-

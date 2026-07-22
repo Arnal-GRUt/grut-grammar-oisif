@@ -237,9 +237,8 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 La lecture n'a pas été très agréable, on va pas se mentir, mais je suis troublé.  
 
-S'il a été plus ou moins forcé à écrire un tel ramassis de conneries, s'il est aussi têtu que moi, il a certainement intégré une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter.  
+S'il a été plus ou moins contraint à écrire un tel ramassis de conneries et s'il est aussi têtu que moi, il a certainement intégré une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter. Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
 
-Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
 
 -----
 

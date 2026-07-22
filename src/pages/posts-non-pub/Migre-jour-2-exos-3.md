@@ -239,9 +239,9 @@ La lecture n'a pas été très agréable, on va pas se mentir, mais je suis trou
 
 S'il a été plus ou moins contraint à écrire un tel ramassis de conneries et s'il est aussi têtu que moi, il a certainement intégré une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter. Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
 
-
 -----
 
+> LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme. 
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?
 > il se débrouille pour fouiller dans les casiers au secrétariat et trouve un portefeuille ne contenant pas grande chose à part une photo ?

@@ -211,7 +211,7 @@ Dans le grand hall de l'hôpital,  je m'installe dans le petit salon avec vu sur
 
 L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour mettre les pieds sur la table, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
 
-Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont définitivement aucun intérêt. En la remettant dans l'enveloppe, je remarque un autre texte, je n'y avais pas prêté attention la première fois. Le style est plus naturel à première vue, moins solennel et administratif que le premier. C'est une espèce d'auto-pamphlet écrit bizarrement. À première vue, je vais avoir du mal à y trouver des réponses.  
+Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont définitivement aucun intérêt. En la remettant dans l'enveloppe, je remarque un autre texte, je n'y avais pas prêté attention la première fois. Le style est plus personnel à première vue, moins solennel et administratif que le premier, quoi qu'un peu étrange.  
 
 « *Cher moi du turfu.*  
 
@@ -219,25 +219,29 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Parce que, sache-le, sois en convaincu, j'ai décidé d'autoriser le recours à cette thérapie par nécessité, en pesant le pour et le contre.*  
 
-*La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
+*La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
 
 *Je te connais, je me connais, si tu lis cette lettre c'est que nous y sommes. Je sais que tu mets déjà de la mauvaise volonté, que tu es très certainement odieux avec l'autorité médicale.*  
 
-*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie je ne signerais, que tu ne signerais quelque chose contre ton intérêt, mon intérêt. Que tu en sois conscient ou non, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse, que tu connaisses. Tous tes combats, mes combats politiques et moraux, n'ont vocations qu'à améliorer ou protéger mon aura sociale, ton aura sociale. Je ne me fous, tu ne te fous que d'une seule et unique chose, ton cul, mon cul.*  
+*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie je ne signerais, que tu ne signerais quelque chose contre ton intérêt, mon intérêt. Que tu en sois conscient ou non, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse, que tu connaisses. Tous tes combats moraux, n'ont vocations qu'à améliorer ou protéger mon aura, ton aura en société. Je ne me fous, tu ne te fous que d'une seule et unique chose en vérité, ta gueule cul, mon gueule.*  
 
-*Chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Non, tu n'as jamais eu le courage du plus jeune des quatres sergents de La Rochelle, non jamais tu ne finiras en martyr. Chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
 *Il n'y a guère qu'à toi, que je peux dire cette vérité.*  
 
-*Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça va te paraître absurde, à n'en pas douter, mais je te le demande solennellement, d'accepter toutes les amputations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir, il en va de ce pour quoi je me bâts, ce pour quoi tu te bâts, depuis que tu as, que j'ai, atteint l'âge de raison, dans la ville même où je suis né, ou tu es nés.*  
+*Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça te paraîtra absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les amputations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir.*  
 
-*Tu dois compter sur ces quelques lignes, elles sont ta garantie d'un futur vivable et choisi, elles sont ta garantie d'un retour.*  
+*Tu dois compter sur ces quelques lignes, elles sont ta garantie d'un futur choisi, elles représente ta garantie d'un chemin qui te mènera à ton havre de paix intérieure.*  
 
 *Oublier pour ne plus avoir à assumer ses actes, c'est mon choix, c'est ton choix.*  »  
 
-La lecture n'a pas été très agréable, on va pas se mentir, mais je suis troublé.  
+C'est une espèce de pamphlet à l'intention de lui, de moi, une confession. J'ai fait all-in, dans cette lettre, la lecture n'a pas été très agréable, on va pas se mentir.  
 
-S'il a été plus ou moins contraint à écrire un tel ramassis de conneries et s'il est aussi têtu que moi, il a certainement intégré une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter. Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
+Je suis troublé oui.  
+
+Que mon moi du passé ait fait le choix du traitement ou non et s'il est aussi prudent que moi, il a certainement intégré une porte de sortie à tout ce bordel. Il lui aura suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter. Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
+
+
 
 -----
 

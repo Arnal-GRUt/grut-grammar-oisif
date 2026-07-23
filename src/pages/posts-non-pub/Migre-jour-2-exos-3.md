@@ -243,8 +243,6 @@ Cela-dit, que mon moi du passé ait fait le choix du traitement ou non et s'il e
 
 Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
 
-
-
 -----
 
 > LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme. 

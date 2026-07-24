@@ -1,7 +1,9 @@
 ---
 // import Menu from './Menu.astro';
+import { Image } from "astro:assets";
 import Navigation from "./Navigation.astro";
 import logo_go from "../images/logo-grut-2026.png";
+
 // const { pageTitle } = Astro.props;
 ---
 
@@ -10,7 +12,7 @@ import logo_go from "../images/logo-grut-2026.png";
     <div class="nav-box">
       <p class="page-titre to-small-titre">
         <a href="/">Grammar Oisif</a>
-        <img src={logo_go} alt="logo Grammar-Oisif" />
+        <Image src={logo_go} alt="logo Grammar-Oisif"/>
       </p>
       <Navigation />
     </div>

@@ -72,7 +72,7 @@ Il me regarde l'air un chouïa plus concerné, peut-être un poil surpris aussi,
 
 « Je vais chercher le docteur, le chirurgien qui vous a opéré, et au passage je préviens le service pour qu'on vous serve la soupe. Bonne journée monsieur et je vous souhaite un prompt rétablissement. »  
 
-J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains réceptionnant une lettre cachetonné. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le sigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
+J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains réceptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le sigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
 
 Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne récents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je, « manifestement, je ne suis pas encore prêt à encaisser plus consistant ».  
 
@@ -235,17 +235,16 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Oublier pour ne plus avoir à assumer ses actes, c'est le choix que j'ai fait, c'est ton choix.*  »  
 
-C'est une espèce de pamphlet à l'intention de moi-même, une confession, doublé d'un gros coup de pression, un all-in dans l'espoir de me faire faciller. La lecture n'a pas été très agréable, on va pas se mentir.  
+C'est une espèce de pamphlet à l'intention de moi-même, une confession aussi, doublé d'un gros coup de pression, un *all-in* dans l'espoir de me faire faciller. La lecture n'a pas été très agréable, troublante, on va pas se mentir.  
 
-Je suis troublé oui.  
+Cela-dit, s'il est aussi prudent que moi, que mon moi du passé ait fait le choix du traitement ou non, il a certainement intégré une porte de sortie cachée à tout ce bazard. Il lui a suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter rapidemment.  
 
-Cela-dit, que mon moi du passé ait fait le choix du traitement ou non et s'il est aussi prudent que moi, il a certainement intégré une porte de sortie à tout ce bazard. Il lui a suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter.  
-
-Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple.  
+Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des mots qui me *trigger*, des noms qui évoquent un passé lointain.  
 
 -----
 
 > LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme. 
+> lettre manuscrite avec le bon nombre de lignes (cf. carnet de brouillon)
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?
 > il se débrouille pour fouiller dans les casiers au secrétariat et trouve un portefeuille ne contenant pas grande chose à part une photo ?

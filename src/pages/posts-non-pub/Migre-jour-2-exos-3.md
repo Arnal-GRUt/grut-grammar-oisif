@@ -235,7 +235,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Oublier pour ne plus avoir à assumer ses actes, c'est le choix que j'ai fait, c'est ton choix.*  »  
 
-C'est une espèce de pamphlet à l'intention de moi-même, une confession aussi, doublé d'un gros coup de pression, un *all-in* dans l'espoir de me faire faciller. La lecture n'a pas été très agréable, troublante, on va pas se mentir.  
+C'est une espèce de pamphlet à l'intention de moi-même, une confession aussi, doublé d'un gros coup de pression, un *all-in* dans l'espoir de me faire faciller. La lecture n'a pas été très agréable, elle est troublante, on va pas se mentir.  
 
 Cela-dit, s'il est aussi prudent que moi, que mon moi du passé ait fait le choix du traitement ou non, il a certainement intégré une porte de sortie cachée à tout ce bazard. Il lui a suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter rapidemment.  
 

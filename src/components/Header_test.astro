@@ -20,13 +20,15 @@ import logo_go from "../images/logo-grut-2026.png";
 </header>
 <style>
   body header nav.to-top {
-    padding: 16px 2vw 0 16px;
+    padding: 16px 1vw 0 1vw;
 
     & *.to-small-titre {
       display: flex;
       flex-direction: row-reverse;
       gap: 0.5rem;
       padding: 0.3rem 0.6rem 0.3rem 0.3rem;
+      transform: translateX(0);
+      left: 0;
 
       &::before {
         display: none;
@@ -47,9 +49,14 @@ import logo_go from "../images/logo-grut-2026.png";
     }
   }
 
-  @media (width < 835px) {
+  @media (width < 1441px) {
     body header nav.to-top {
-      padding: 1vh 2vw 0 6vw;
+      padding: 1vh 2vw 0 1vw;
+
+      & *page-titre.to-small-titre {
+        transform: translateX(0);
+        left: 0;
+      }
     }
   }
 </style>

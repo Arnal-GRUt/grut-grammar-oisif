@@ -67,7 +67,7 @@ import logo_go from "../images/logo-grut-2026.png";
       }
     }
     /* Test flex sur burger */
-    @media (width < 835px) {
+    @media (width < 835px) {  
         body header nav.to-top .nav-box {
           justify-content: space-between;
 
@@ -80,8 +80,13 @@ import logo_go from "../images/logo-grut-2026.png";
             width: auto;
           }
         }
-      }
-    }    
-  }
 
+        .carton-texte {
+          & p {
+            font-size: 3rem;        
+            text-align: left;
+          }
+        }
+      }
+  }
 </style>

@@ -54,17 +54,17 @@ import logo_go from "../images/logo-grut-2026.png";
     }
   }
 
-  /* Test flex sur burger */
-  @media (width < 835px) {
-    body header .nav-box {
-      justify-content: flex-end;
-    }
-    }
-  }
-
   @supports (view-timeline-axis: block) {
     body header nav.to-top {
       padding: 8px 2vw;
     }
+    /* Test flex sur burger */
+    @media (width < 835px) {
+        body header .nav-box {
+          justify-content: flex-end;
+        }
+      }
+    }    
   }
+
 </style>

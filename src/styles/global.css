@@ -2851,7 +2851,6 @@ span.icon-arrow {
 	}
 
 	.redirection-card-gribouille {
-
 		&::after {
 			content: none;
 		}

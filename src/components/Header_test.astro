@@ -59,7 +59,7 @@ import logo_go from "../images/logo-grut-2026.png";
       padding: 8px 2vw;
 
       & *.to-small-titre {
-          left: 50%;
+        	left: 50%;
           -webkit-transform: translateX(calc(-50% + 16px));
           -ms-transform: translateX(calc(-50% + 16px));
           transform: translateX(calc(-50% + 16px));
@@ -70,12 +70,13 @@ import logo_go from "../images/logo-grut-2026.png";
     @media (width < 835px) {
         body header .nav-box {
           justify-content: flex-end;
-          transform: translateX(0);
-          left: 0; 
 
-          & *page-titre.to-small-titre {
-            transform: translateX(0);
+          & *.to-small-titre {
             left: 0;
+            -webkit-transform: translateX(0);
+            -ms-transform: translateX(0);
+            transform: translateX(0);
+            width: auto;
           }
         }
       }

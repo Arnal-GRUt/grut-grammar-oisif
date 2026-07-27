@@ -71,7 +71,12 @@ import logo_go from "../images/logo-grut-2026.png";
         body header .nav-box {
           justify-content: flex-end;
           transform: translateX(0);
-          left: 0;
+          left: 0; 
+
+          & *page-titre.to-small-titre {
+            transform: translateX(0);
+            left: 0;
+          }
         }
       }
     }    

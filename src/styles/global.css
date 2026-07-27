@@ -2881,14 +2881,20 @@ span.icon-arrow {
 		margin-top: 2.5rem;
 	}
 
+	/* Test flex sur burger */
+	body header .nav-box {
+		justify-content: space-between;
+	}
+
 	body .nav-box div.burger-box {
-		width: 100%;
+		/* width: 100%; */
+		width: auto;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
-		-webkit-box-pack: end;
+		/* -webkit-box-pack: end;
 		-ms-flex-pack: end;
-		justify-content: flex-end;
+		justify-content: flex-end; */		
 
 		& .burger {
 			gap: 0.5ch;

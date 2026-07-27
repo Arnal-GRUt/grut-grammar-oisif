@@ -57,8 +57,14 @@ import logo_go from "../images/logo-grut-2026.png";
   @supports (view-timeline-axis: block) {
     body header nav.to-top {
       padding: 8px 2vw;
-      transform: initial;
-      left: initial;
+
+      & *.to-small-titre {
+          left: 50%;
+          -webkit-transform: translateX(calc(-50% + 16px));
+          -ms-transform: translateX(calc(-50% + 16px));
+          transform: translateX(calc(-50% + 16px));
+          width: auto;
+      }
     }
     /* Test flex sur burger */
     @media (width < 835px) {

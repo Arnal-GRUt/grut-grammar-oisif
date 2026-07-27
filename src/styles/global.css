@@ -1472,7 +1472,6 @@ html:is([id*="Grammar"], [id*="about"]) {
 
 header nav.to-top *.to-small-titre {
 	position: relative;
-	/* left: 5vw; */
 	left: calc(5vw + 32px);
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);

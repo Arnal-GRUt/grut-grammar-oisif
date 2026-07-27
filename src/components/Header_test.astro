@@ -59,34 +59,33 @@ import logo_go from "../images/logo-grut-2026.png";
       padding: 8px 2vw;
 
       & *.to-small-titre {
-        	left: 50%;
-          -webkit-transform: translateX(calc(-50% + 16px));
-          -ms-transform: translateX(calc(-50% + 16px));
-          transform: translateX(calc(-50% + 16px));
-          width: auto;
+        left: 50%;
+        -webkit-transform: translateX(calc(-50% + 16px));
+        -ms-transform: translateX(calc(-50% + 16px));
+        transform: translateX(calc(-50% + 16px));
+        width: auto;
       }
     }
     /* Test flex sur burger */
-    @media (width < 835px) {  
-        body header nav.to-top .nav-box {
-          justify-content: space-between;
+    @media (width < 835px) {
+      body header nav.to-top .nav-box {
+        justify-content: space-between;
 
-          & *.to-small-titre {
-            position: relative;
-            left: 0;
-            -webkit-transform: translateX(0);
-            -ms-transform: translateX(0);
-            transform: translateX(0);
-            width: auto;
-          }
-        }
-
-        .carton-texte {
-          & p {
-            font-size: 3rem;        
-            text-align: left;
-          }
+        & *.to-small-titre {
+          position: relative;
+          left: 0;
+          -webkit-transform: translateX(0);
+          -ms-transform: translateX(0);
+          transform: translateX(0);
+          width: auto;
         }
       }
+      .carton-texte:not(.ff) {
+        & p {
+          font-size: 3rem;
+          text-align: left;
+        }
+      }
+    }
   }
 </style>

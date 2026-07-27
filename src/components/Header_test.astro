@@ -43,11 +43,6 @@ import logo_go from "../images/logo-grut-2026.png";
     }
   }
 
-  @supports (view-timeline-axis: block) {
-    body header nav.to-top {
-      padding: 8px 2vw;
-    }
-  }
 
   @media (width < 1441px) {
     body header nav.to-top {
@@ -57,6 +52,12 @@ import logo_go from "../images/logo-grut-2026.png";
         transform: translateX(0);
         left: 0;
       }
+    }
+  }
+  
+  @supports (view-timeline-axis: block) {
+    body header nav.to-top {
+      padding: 8px 2vw;
     }
   }
 </style>

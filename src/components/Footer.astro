@@ -1,5 +1,6 @@
 ---
 import Social from "./Social.astro";
+import rss from "../images/rss.png";
 ---
 
 <footer class="display-flex direction-column">
@@ -26,6 +27,13 @@ import Social from "./Social.astro";
 		<li>
 			<div class="cta">
 				<a href="mailto:reverendgrut@hotmail.com">Le mail du gars</a>
+			</div>
+		</li>
+		<li>
+			<div class="cta">
+				<a href="rss.xml"
+					><img src={`${rss}`} alt="Flux rss" />Rate rien, click</a
+				>
 			</div>
 		</li>
 	</ul>

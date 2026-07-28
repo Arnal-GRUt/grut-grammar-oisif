@@ -9,6 +9,6 @@ export async function GET(context) {
     items: await pagesGlobToRssItems(
       import.meta.glob('./posts/*.{md,mdx}'),
       ),
-      stylesheet: '/public/pretty-feed-v3.xsl',
+      stylesheet: '/pretty-feed-v3.xsl',
   });
 }

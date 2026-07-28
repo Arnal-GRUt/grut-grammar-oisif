@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="/public/pretty-feed-v3.xsl" type="text/xsl"?>
+<?xml-stylesheet href="/pretty-feed-v3.xsl" type="text/xsl"?>
 <!--
 
 # Pretty Feed

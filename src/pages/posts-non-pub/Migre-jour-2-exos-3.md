@@ -72,7 +72,7 @@ Il me regarde l'air un chouïa plus concerné, peut-être un poil surpris aussi,
 
 « Je vais chercher le docteur, le chirurgien qui vous a opéré, et au passage je préviens le service pour qu'on vous serve la soupe. Bonne journée monsieur et je vous souhaite un prompt rétablissement. »  
 
-J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains réceptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le sigle est trouble, ma mémoire ne parvient pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
+J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains réceptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le sigle est trouble, je ne parviens pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
 
 Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne récents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je, « manifestement, je ne suis pas encore prêt à encaisser plus consistant ».  
 
@@ -84,14 +84,14 @@ C'est à ce moment que le chirurgien se décide à faire son entrée. Il a l'air
 Je vois bien qu'il essaie d'y mettre de la compassion. Il a des choses à me dire manifestement.  
 
 « -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
--- Pardon ! je me redresse brusquement, je... »  
+-- Pardon ! Je... »  
   
-Je *growl* de rage, de douleur plus encore, sous les rubans cicatrisants, je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le *pad* pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanément. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai pas entendu grand chose, et encore moins pigé un seul des mots qu'il a prononcés.  
+Je me redresse brusquement, je *growl* de rage, de douleur plus encore, sous les rubans cicatrisants, je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le *pad* pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanément. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai pas entendu grand chose, et encore moins pigé un seul des mots qu'il a prononcés.  
 
 Le calme revenu, il me regarde les sourcils froncés par le vacarme et continue :  
-« -- J'essayais de vous dire que les deux semaines ne seraient malheureusement qu'un début, et qu'il faut s'attendre à une amputation mémorielle complémentaire de plusieurs semaines. Nous envisageons six semaines supplémentaires *a minima*[^1]. Je suis navré.  
+« -- J'essayais de vous dire que les deux semaines ne seraient malheureusement qu'un début, et qu'il faut s'attendre à une ablation mémorielle complémentaire de plusieurs semaines. Nous envisageons six semaines supplémentaires *a minima*[^1]. Je suis navré.  
 -- Hors de question, malgré l'antalgique de bourrin je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
--- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle amputation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
+-- Légalement, je ne peux vous obliger à rien, mais pour votre santé mentale, il me semble évident qu'une nouvelle ablation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
 -- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ? C'est "moi" j'imagine ?  
 -- C'est "vous" évidemment, je vois bien que je commence à le saouler, c'est vous.  
 -- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre.  
@@ -114,9 +114,9 @@ J'ai passé une bonne nuit, bien que courte. Le chirurgien vient me voir à l'au
 
 Il me regarde maintenant, il attend que je dise autre chose peut-être ? Il reprend après quelques secondes.  
 
-« -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je ne pourrais pas faire plus, je vous invite à lire attentivement, et dans le cas où vous souhaiteriez toujours recouvrer votre mémoire, il vous faudra alors annuler les soins globaux.  
+« -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je vous invite à lire attentivement, je ne pourrais pas faire plus,et dans le cas où vous souhaiteriez toujours recouvrer votre mémoire, il vous faudra alors annuler les soins globaux.  
 -- C'est quoi ça, encore, les "soins globaux" ?  
--- L'amputation mémorielle fait partie d'une batterie de soins auxquels vous avez eu droit et qui sont indisociables. Soit vous annulez le tout, mémoire, brûlures, lacérations, etc., soit rien du tout.  
+-- L'ablation mémorielle fait partie d'une batterie de soins auxquels vous avez eu droit et qui sont indisociables. Soit vous annulez le tout, mémoire, brûlures, lacérations, etc., soit rien du tout.  
 -- Quoi ?! »  
 
 Et rebelote, souffrance atroce, brûlure, crème brulée.  
@@ -124,13 +124,13 @@ Et rebelote, souffrance atroce, brûlure, crème brulée.
 L'interne se précipite, balance la dose en antalgique. Cette fois le chirurgien a appris, il s'arrête de parler, et me regarde gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :  
 
 « -- Génial, la souffrance ou la mort ? C'est ça que vous me proposer ?  
--- Si vous refusez les soins, c'est tous les soins, vous serez seul responsable des graves conséquences éventuelles ».  
+-- Si vous refusez les soins, c'est tous les soins. C'est contractuel. ».  
 
 Tout ça n'a pas de sens.  
 
 Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre, ça ressemble à un contrat, en tout cas une validation légale dument signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai récupéré qu'une copie de l'accord final contenant la liste des différentes prise-en-charge que vous avez validées » conclue-t-il, en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir.  
 
-Il y a effectivement un protocole de soin détaillé, validé et une lettre manuscrite. « Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, ll me le tend. Je recopie quelques courtes phrases sur l'enveloppe, la main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA - recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une amputation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
+Il y a effectivement un protocole de soin détaillé, validé et une lettre manuscrite. « Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, ll me le tend. Je recopie quelques courtes phrases sur l'enveloppe, la main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas, tout ça est cryptique. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre de soins globaux au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
 
 Les deux médecins attendent que je prenne une décision définitive. L'interne a jeté un œil inquiet au chirurgien qui n'a toujours pas dénié jeté un œil sur elle. Ce mec snoberait son propre reflet dans le miroir.  
 
@@ -167,7 +167,7 @@ Au bout de quatre sonneries ça décroche :
 -- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez et je ne vois pas mes affaires...  
 -- Vous êtes arrivé avec quasiment rien sur vous monsieur, d'après ce que je vois, et...  
 -- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, c'est un peu sec mais pas le temps niaiser.  
--- Les quelques affaires qui vous restaient ont été incinérées monsieur, elle suinte le malaise, je l'entends à sa voix.  
+-- Les quelques affaires qui vous restaient ont été incinérées monsieur, sa voix suinte le malaise. 
 -- Pardon ? »  
 
 Je vrille instantanément.  
@@ -197,7 +197,7 @@ En bas, je me pose devant le distributeur à *junkfood*, je ne repère aucun pro
 
 J'aurais voulu lui poser d'autres questions, mais il n'est manifestement pas très disponible.  
 
-Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Limite une prison grand luxe. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'amputation mémorielle. Ça a beau avoir une forme de logique, ça me gonfle façon zeppelin.  
+Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Limite une prison grand luxe. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'ablation mémorielle. Ça a beau avoir une forme de logique, ça me gonfle façon zeppelin.  
 
 -----
 
@@ -207,17 +207,15 @@ La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été
 
 J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à abattoir, ça n'aurait absolument rien changer au sommeil de mes camarades de chambrée. Ça devient flippant.  
 
-Dans le grand hall de l'hôpital,  je m'installe dans le petit salon avec vu sur le parc.  
+Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour mettre les pieds sur la table, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
 
-L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour mettre les pieds sur la table, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
-
-Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont définitivement aucun intérêt. En la remettant dans l'enveloppe, je remarque un autre texte, je n'y avais pas prêté attention la première fois. Le style est plus personnel à première vue, moins solennel et administratif que le premier, quoi qu'un peu étrange.  
+Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont définitivement aucun intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre, je n'y avais pas prêté attention la première fois. Le style du texte est plus personnel à première vue, moins solennel et administratif que le premier, quoi qu'un peu étrange.  
 
 « *Cher moi du turfu.*  
 
-*Je ne vois pas vraiment comment te présenter la situation sans avoir l'autorisation de te lister les motifs qui pourraient m'obliger à opter pour une amputation/ablation mémorielle, dans le cas où les événements qui se dérouleront dans une semaine environ, tourneraient au vinaigre.*  
+*Je ne vois pas vraiment comment te présenter la situation sans avoir l'autorisation de te lister les motifs qui pourraient m'obliger à opter pour une ablation mémorielle.*  
 
-*Parce que, sache-le, sois en convaincu, j'ai décidé d'autoriser le recours à cette thérapie par nécessité, en pesant le pour et le contre.*  
+*Parce que, sache-le, sois en convaincu, j'ai décidé d'autoriser le recours à cette nouvelle thérapie par nécessité, en pesant le pour et le contre.*  
 
 *La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
 
@@ -229,7 +227,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Il n'y a guère qu'à toi, que je peux dire cette vérité.*  
 
-*Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça te paraîtra absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les amputations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir.*  
+*Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça te paraîtra absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir.*  
 
 *Tu dois compter sur ces quelques lignes, elles sont ta garantie d'un futur choisi, elles représente ta garantie d'un chemin qui te mènera à ton havre de paix intérieure.*  
 

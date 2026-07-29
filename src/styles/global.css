@@ -1268,7 +1268,10 @@ footer *.navigation {
 			-webkit-mask: url(../images/icon-rss.svg);
 			mask: url(../images/icon-rss.svg);
 		}
-
+		& .icon-mail {
+			-webkit-mask: url(../images/icon-mail.svg);
+			mask: url(../images/icon-mail.svg);
+		}
 		&:hover {
 			color: var(--grut-color);
 

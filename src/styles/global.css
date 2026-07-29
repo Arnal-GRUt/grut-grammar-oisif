@@ -1265,8 +1265,8 @@ footer *.navigation {
 			mask: url(../images/icon-bsky.svg);
 		}
 		& .icon-rss {
-			-webkit-mask: url(../images/rss.png);
-			mask: url(../images/rss.png);
+			-webkit-mask: url(../images/icon-rss.svg);
+			mask: url(../images/icon-rss.svg);
 		}
 
 		&:hover {

@@ -1264,6 +1264,10 @@ footer *.navigation {
 			-webkit-mask: url(../images/icon-bsky.svg);
 			mask: url(../images/icon-bsky.svg);
 		}
+		& .icon-rss {
+			-webkit-mask: url(../images/rss.png);
+			mask: url(../images/rss.png);
+		}
 
 		&:hover {
 			color: var(--grut-color);

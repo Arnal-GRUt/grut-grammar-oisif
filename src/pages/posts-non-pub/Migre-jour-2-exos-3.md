@@ -13,7 +13,7 @@ tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoi
 
 Exercice plus difficile. La première partie du texte a été écrite sur place. La seconde - je préciserais quand elle commence avec une petite note - a été écrite de retour à Saintes (et ça a pris le temps).  
 
-NB : vous allez participer. J'ai ajouté un genre d'énigme. Les vrai·e·s, celles et ceux qui auront trouvé la bonne réponse auront une fin, les autres, une autre fin. 
+NB : vous allez participer. J'ai ajouté un genre d'énigme. Les vrai·e·s, celles et ceux qui auront trouvé la bonne réponse auront une fin, les autres, une autre fin.  
 
 Je m'ajoute du taf pour le plaisir, pour le *gaming*.
 
@@ -118,10 +118,10 @@ J'ai passé une bonne nuit, bien que courte. Le chirurgien vient me voir à l'au
 
 Il me regarde maintenant, il attend que je dise autre chose peut-être ? Il reprend après quelques secondes.  
 
-« -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je vous invite à lire attentivement, je ne pourrais pas faire plus,et dans le cas où vous souhaiteriez toujours recouvrer votre mémoire, il vous faudra alors annuler le contrat et donc la prise en charge premium.  
--- C'est quoi ça, encore, la "prise en charge premium" ?  
--- L'ablation mémorielle fait partie d'une batterie de soins auxquels vous avez eu droit et qui sont indisociables. Soit vous annulez le tout, mémoire, brûlures, lacérations, etc., soit rien du tout.  
--- Quoi ?! »  
+« -- Je viens vous apporter les quelques informations que je suis autorisé à vous transmettre. Je vous invite à lire attentivement, je ne pourrais pas faire plus, et dans le cas où vous souhaiteriez toujours recouvrer votre mémoire, il vous faudra alors annuler le contrat et donc la prise en charge *premium*.  
+-- C'est quoi ça, encore, la "prise en charge *premium*" ?  
+-- L'ablation mémorielle fait partie d'une batterie de soins auxquels vous avez droit et qui sont indissociables. Soit vous annulez le tout, mémoire, brûlures, lacérations, etc., soit rien du tout.  
+-- C'est quoi cette connerie ?! »  
 
 Et rebelote, souffrance atroce, brûlure, crème brulée.  
 
@@ -132,9 +132,9 @@ L'interne se précipite, balance la dose en antalgique. Cette fois le chirurgien
 
 Tout ça n'a pas de sens.  
 
-Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre, ça ressemble à un contrat, en tout cas une validation légale dument signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai récupéré qu'une copie de l'accord final contenant la liste des différentes prise-en-charge auxquelles vous avez souscrit » conclue-t-il, en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir avec cette visite.  
+Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre, ça ressemble à un contrat, en tout cas une validation légale dument signée et datée. L'interne quant à elle se met à prendre des notes, elle a l'air studieuse. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai fait que récupérer une copie de l'accord final contenant la liste des différentes prise-en-charge auxquelles vous avez souscrit » conclue-t-il, en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir avec cette visite.  
 
-Il y a effectivement un protocole de soin détaillé, validé et une lettre manuscrite. « Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, ll me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise ne charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient en danger administrativement avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
+Il y a effectivement un protocole de soin détaillé, validé et une lettre manuscrite. « Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, ll me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise ne charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient mises en danger avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
 
 Les deux médecins attendent que je prenne une décision définitive. L'interne a jeté un œil inquiet au chirurgien qui n'a toujours pas dénié jeté un œil sur elle. Ce mec snoberait son propre reflet dans le miroir.  
 
@@ -145,9 +145,9 @@ Les deux médecins attendent que je prenne une décision définitive. L'interne 
 -- C'est ça, demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation ne vaut rien, que je l'ai signé ou non, je ne m'en souviens pas de toute manière.  
 Il hésite un instant.  
 -- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux semaines passées.  
--- Bah voilà, j’acquiesce, du coup on annule.  
+-- Bah voilà, du coup on annule.  
 Un instant j'ai bien cru qu'il allait céder.  
--- C'est compliqué hein, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
+-- C'est compliqué hein, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
 
 Il se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez tout à fait en état mental d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
 
@@ -168,15 +168,15 @@ Au bout de quatre sonneries ça décroche, une voix fatiguée :
 « -- Secrétariat étage 2, que puis-je pour vous ?  
 -- bonjour... chambre euh, j'en sais rien en fait.  
 -- 10A-932 monsieur, évidemment qu'elle le connait le numéro.  
--- Ok, bah merci, je dois être le seul à ne pas le savoir, j'ai l'air un poil couillon.  
+-- Ok, bah merci, je dois être le seul à ne pas le savoir.  
 -- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
--- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez et je ne vois pas mes affaires...  
+-- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez, et malheureusement je ne sais pas où on a rangé mes affaires...  
 -- Vous êtes arrivé avec quasiment rien sur vous monsieur, d'après ce que je vois, et...  
 -- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, c'est un peu sec mais pas le temps niaiser.  
--- Les quelques affaires qui vous restaient ont été incinérées monsieur, sa voix suinte le malaise. 
+-- Les quelques affaires qui vous restaient ont été incinérées monsieur, sa voix suinte le malaise.  
 -- Pardon ? »  
 
-Je vrille instantanément.  
+Je vrille à nouveau.  
 
 Ma peau brûle sous les rubans, je vacille et essaye de m’agripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment, j'entends débouler *fissa* deux personnes qui me prennent pas les bras en deux-deux et me remettent dans la cuve, sans que j'ai le temps de chouiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
@@ -191,7 +191,7 @@ Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deu
 Il souffle.  
 -- On vous a déjà répondu à ce sujet, malheureusement nous avons dû les détruire.  
 -- En quoi ça m'empêche de m'acheter un café à la machine en bas, j'avais des thunes en arrivant non ?  
--- Malheureusement non. Pour le moment vous êtes placé en convalescence moteur et psychologique. Dans ce cadre, tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés et ce, tout le temps de la convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons cela possible. Et ne vous inquiétez pas hein, on ne vous laissera pas partir sans vous donner la facture, finit-il ironiquement.  
+-- Malheureusement non. Pour le moment vous êtes placé en convalescence moteur et psychologique. Dans ce cadre, tout objet, bien personnel, moyen de paiement, babiole, livre, document d'identité *a fortiori*, trucmuche qui pourraient nuire à la pleine cicatrisation mémorielle sont prohibés et ce, tout le temps de la convalescence. De nouveaux documents d'identité vous seront remis quand nous estimerons cela possible. Il y des étapes à passer avant cela, mais ne vous inquiétez pas hein, on ne vous laissera pas partir sans vous donner la facture, finit-il ironiquement.  
 -- Vous comptez m'enlever six semaines de plus de toute manière, je réponds du tac au tac.  
 -- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer d'une manière véhémente. »  
 
@@ -199,55 +199,55 @@ Il me tourne le dos et en sortant balance agacé à l'interne « faites lui mont
 
 J'attends quelques minutes, puis me décide à prendre l'air. Cette fois c'est la bonne.  
 
-En bas, je me pose devant le distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvis du bâtiment. Il fait bon, chaud, c'est le printemps à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. « Il est dix heures pétante », me dit-il. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous a priori ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en moque ». Il conclue par une petite tape sur mon épaule et reprend sa route.  
+En bas, je me pose devant le distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvis du bâtiment. Il fait bon, chaud, c'est le printemps à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. « Il est dix heures pétante », me dit-il. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous a priori ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en cogne ». Il conclue par une petite tape sur mon épaule et reprend sa route.  
 
-J'aurais voulu lui poser d'autres questions, mais il n'est manifestement pas très disponible.  
-
-Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Presqu'une prison grand luxe. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'ablation mémorielle. Ça a beau avoir une forme de logique, ça me gonfle façon zeppelin.  
+Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'ablation mémorielle. Tout ça a beau relevé d'une forme de logique, ça me gonfle façon zeppelin.  
 
 -----
 
-Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque que je passe devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
+Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque passage devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
 
-La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et descends.  
+La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée. Ça devient flippant.  
 
-J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à abattoir, ça n'aurait absolument rien changer au sommeil de mes camarades de chambrée. Ça devient flippant.  
+Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
 
-Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur de sucre, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
-
-Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont que peu d'intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre, je n'y avais pas prêté attention la première fois. Le style du texte est plus personnel à première vue, moins solennel et administratif que le premier, un peu étrange aussi.  
+Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont que peu d'intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre, je n'y avais pas prêté attention la première fois. Le style du texte est plus personnel, moins solennel et administratif que le premier, un peu étrange aussi.  
 
 « *Cher moi du turfu.*  
 
-*Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclanchement d'une prise en charge premium.*  
+*Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Parce que, sache-le, sois en convaincu, j'ai décidé d'autoriser le recours à cette nouvelle thérapie par nécessité, en pesant le pour et le contre.*  
+*Parce que, sache-le, sois en convaincu, c'est moi, c'est toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
 
-*La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne. On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
+*La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne.*  
+
+*On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
 
 *Je te connais, je me connais, si tu lis cette lettre c'est que nous y sommes et que tu mets de la mauvaise volonté, que tu es très certainement odieux avec l'équipe médicale.*  
 
 *Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie je ne signerais, que tu ne signerais quelque chose contre ton intérêt, contre mon intérêt. Que tu en sois conscient ou non, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse, que tu connaisses. Tous tes combats moraux, n'ont vocations qu'à améliorer ou protéger mon aura en société, ton aura en société. Je ne m'intéresse, tu ne t'intéresses qu'à une seule et unique chose en vérité, ta personne, ma personne.*  
 
-*Non, tu n'as jamais eu le courage du plus jeune des quatres sergents de La Rochelle, non jamais tu ne finiras en martyr, et oui, chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Non, tu n'as jamais eu le courage du plus jeune des quatre sergents de La Rochelle, non jamais tu ne finiras en martyr, et oui, chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
-*Il n'y a guère qu'à toi, que je peux dire cette vérité.*  
+*Oublier pour ne plus avoir à assumer ses actes, c'est le choix que j'ai fait, c'est ton choix.*  
 
 *Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça te paraîtra absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires : accepte-les, ne te bâts pas contre, il en va de notre avenir.*  
 
-*Tu dois compter sur ces quelques lignes, elles sont ta garantie d'un futur choisi, elles représente ta garantie d'un chemin qui te mènera à ton havre de paix intérieure.*  
+*Tu dois te fier à ces quelques lignes, compter sur elles, elles te garantissent un futur choisi, elles représentent ton chemin vers ton havre de paix intérieure.*  
 
 *Oublier pour ne plus avoir à assumer ses actes, c'est le choix que j'ai fait, c'est ton choix.*  »  
 
-C'est une espèce de pamphlet à l'intention de moi-même, une confession aussi, doublé d'un gros coup de pression, un *all-in* dans l'espoir de me faire vaciller. La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir.  
+La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet à l'intention de moi-même, une confession aussi, un délire *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller. Cela-dit, si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il lui a suffit de caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à capter rapidement. Je ne sais pas encore comment je m'y suis pris à l'époque, mais je vais devoir trouver.  
 
-Cela-dit, si ce moi du passé est aussi prudent que moi, que le choix du traitement soit réellement le mien ou non, une porte de sortie cachée à forcément été intégrée à tout ce bazard. Il lui a suffit de caler des indices par-ci par-là, via un code ou une logique que je serais le seul à capter rapidemment. Je ne sais pas encore comment il s'y est pris, mais je vais devoir trouver.    
+Histoire d'éviter de tourner maboul, je vais devoir lui trouver un nom à ce "moi"du passé. Je vais lui trouver un prénom proche du mien. 
+
+Quel est mon prénom ?
 
 Je me mets donc à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des mots qui me *trigger*, des noms qui évoquent un passé lointain.  
 
 -----
 
-> LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme. 
+> LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme.  
 > lettre manuscrite avec le bon nombre de lignes (cf. carnet de brouillon)
 > trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?
@@ -258,3 +258,4 @@ Je me mets donc à chercher des répétitions, des mots étrangement placés, de
 -----
 
 [^1]: fin de la partie écrite à Migré  
+

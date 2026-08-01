@@ -239,7 +239,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet à l'intention de moi-même, une confession aussi, un délire *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller. Cela-dit, si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il lui a suffit de caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à capter rapidement. Je ne sais pas encore comment je m'y suis pris à l'époque, mais je vais devoir trouver.  
 
-Histoire d'éviter de tourner maboul, je vais devoir lui trouver un nom à ce "moi"du passé. Je vais lui trouver un prénom proche du mien. 
+Histoire d'éviter de tourner maboul, je vais devoir lui trouver un nom à ce "moi"du passé. Je vais lui trouver un prénom proche du mien.  
 
 Quel est mon prénom ?
 
@@ -258,4 +258,3 @@ Je me mets donc à chercher des répétitions, des mots étrangement placés, de
 -----
 
 [^1]: fin de la partie écrite à Migré  
-

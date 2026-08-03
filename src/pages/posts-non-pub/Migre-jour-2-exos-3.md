@@ -207,39 +207,44 @@ Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du p
 
 Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque passage devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
 
-La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée. Ça devient flippant.  
+La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième retournage dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée. De moins en moins rassurant.  
 
 Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
 
 Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont que peu d'intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre, je n'y avais pas prêté attention la première fois. Le style du texte est plus personnel, moins solennel et administratif que le premier, un peu étrange aussi.  
 
-« *Cher moi du turfu hypothétique.*  
+« *Cher moi du futur hypothétique.*  
 
 *Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Parce que, sois en convaincu, c'est bien toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
+*Parce que, sois en convaincu, tu te penses à Sainte-Hélène mais c'est bien toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
 
 *La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne.*  
 
 *On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
 
-*Je te connais, si tu lis cette lettre c'est que nous y sommes et que tu mets de la mauvaise volonté, que tu es très certainement odieux avec l'équipe médicale.*  
+*Je te connais, si tu lis cette lettre c'est que nous y sommes et que tu y mets de la mauvaise volonté.*  
 
-*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre mon intérêt, ton intérêt. Que tu en sois conscient ou non, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse. Tous tes combats moraux, n'ont vocations qu'à améliorer ou protéger ton aura en société. Tu ne t'intéresses qu'à une seule et unique chose en vérité, ta personne.*  
+*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre mon intérêt, ton intérêt. Nous le savons tous les deux, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
 
-*Non, tu n'as jamais eu le courage du plus jeune des quatre sergents de La Rochelle, non jamais tu ne finiras en martyr, et oui, chez toi, chez moi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Tu ne t'intéresses qu'à une seule et unique chose en vérité, ta personne.*  
 
-*Je termine. Oui, tu risques de perdre beaucoup plus que deux semaines. Ça te paraîtra absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires : choisis judicieusement, car le bon choix t'apportera un havre de paix, le mauvais précipitera ta perte.*  
+*Tous tes combats éthiques et moraux sont factices*  
 
-*Oublier pour ne plus avoir à assumer ses actes, c'est le choix que j'ai fait, c'est ton choix.*  »  
+*Et oui, chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
-La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet aux références incongrues à l'intention de moi-même, une confession, un délire nimbé de *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller.  
+*Car non, jamais tu ne sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
+*Alors oui, tu risques de perdre beaucoup plus que deux semaines de mémoire. Ça te parait absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  
 
-Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Il lui a suffit de caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui *trigger* quand bien même j'en aurais perdu le souvenir.  
+*Je te le redis une dernière fois : choisis judicieusement, car le bon choix t'apportera un havre de paix, le mauvais précipitera ta perte.*  
+
+La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet aux références historiques incongrues à l'intention de moi-même, une confession, un délire nimbé de *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller.  
+
+Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Il a dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir.  
 
 Je ne sais pas encore comment je m'y suis pris à l'époque, mais je vais devoir trouver.  
 
-Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gaumé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau.  
+Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau.  
 
 -----
 

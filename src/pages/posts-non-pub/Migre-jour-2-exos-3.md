@@ -217,13 +217,9 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Parce que, sois en convaincu, tu te penses à Sainte-Hélène mais c'est bien toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
+*Parce que, sois en convaincu, tu te penses à Sainte-Hélène, mais c'est bien toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
 
-*La seule chose que je peux faire donc, c'est essayer de te convaincre que tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne.*  
-
-*On peut se mentir à soi-même, mais on ne peut se trahir à soi-même.*  
-
-*Je te connais, si tu lis cette lettre c'est que nous y sommes et que tu y mets de la mauvaise volonté.*  
+*La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne.*  
 
 *Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre mon intérêt, ton intérêt. Nous le savons tous les deux, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
 
@@ -231,7 +227,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Tous tes combats éthiques et moraux sont factices*  
 
-*Et oui, chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
 *Car non, jamais tu ne sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
 *Alors oui, tu risques de perdre beaucoup plus que deux semaines de mémoire. Ça te parait absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  

@@ -24,4 +24,4 @@ const webImg = defineCollection({
     }),
 });
 
-export const collections = { grutArt : artwork, visuelsWebouille : webImg };
+export const collections = { grutArt: artwork, visuelsWebouille: webImg };

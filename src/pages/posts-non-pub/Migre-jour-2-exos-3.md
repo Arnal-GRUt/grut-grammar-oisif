@@ -233,7 +233,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Parce que chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
-*Oui, tu risques de perdre beaucoup plus que deux semaines de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*   
+*Oui, tu risques de perdre beaucoup plus que deux semaines de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  
 
 *Choisis judicieusement, parce que si le bon choix t'apportera un Havre de paix, le mauvais choix précipitera ta perte.*  
 
@@ -249,7 +249,7 @@ Je me mets alors à chercher des répétitions, des mots étrangement placés, d
 
 -----
 
-La fin de nuit a été compliquée et je me suis réveillé. 
+La fin de nuit a été compliquée et je me suis réveillé.  
 
 -----
 

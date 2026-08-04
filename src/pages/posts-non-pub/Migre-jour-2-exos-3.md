@@ -127,7 +127,7 @@ Et rebelote, souffrance atroce, brûlure, crème brulée.
 
 L'interne se précipite, balance la dose en antalgique. Cette fois le chirurgien a appris, il s'arrête de parler, et me regarde gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :  
 
-« -- Génial, la souffrance ou la mort ? C'est ça que vous me proposer ?  
+« -- Génial, l'oublie ou la mort ? C'est ça que vous me proposer ?  
 -- Si vous refusez les soins, c'est tous les soins. C'est contractuel. ».  
 
 Tout ça n'a pas de sens.  
@@ -180,7 +180,7 @@ Je vrille à nouveau.
 
 Ma peau brûle sous les rubans, je vacille et essaye de m’agripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. À ce moment, j'entends débouler *fissa* deux personnes qui me prennent pas les bras en deux-deux et me remettent dans la cuve, sans que j'ai le temps de chouiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* dude-au-bord-du-burnout qui me scrute. Il inspecte mes rubans.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* *dude*-au-bord-du-*burnout* qui me scrute. Il inspecte mes rubans.  
 
 « -- Tout va bien, évitez les gestes brusques hein, ça tire sur les rubans et ça réveille les blessures.  
 -- OK, je voudrais faire un tour dans le parc en bas et m'acheter un café au distributeur.  
@@ -215,24 +215,29 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 « *Cher moi du futur hypothétique.*  
 
+*Je vais te tutoyer c'est plus simple.*  
+
 *Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Parce que, sois en convaincu, tu te penses à Sainte-Hélène, mais c'est bien toi qui a autoriser le recours à cette nouvelle thérapie, par nécessité, en pesant le pour et le contre.*  
+*Sois en convaincu, tel Napoléon, tu te penses à Sainte-Hélène, mais c'est bien toi qui a autorisé le recours à cette thérapie, par nécessité, en pesant le pour et le contre, tu tu es volontaire.*  
 
-*La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne.*  
+*La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne, et c'est pour cette raison que je ne vais pas y aller par 4 chemins.*  
 
-*Je ne vais donc pas y aller par quatre chemins. Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre mon intérêt, ton intérêt. Nous le savons tous les deux, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
+*Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre ton intérêt. Ce que nous savons également tous les deux, c'est que tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
 
-*Tu ne t'intéresses qu'à une seule et unique chose en vérité, ta personne.*  
+*Tous tes combats éthiques et moraux sont factices.*  
 
-*Tous tes combats éthiques et moraux sont factices*  
+*Toutes tes luttes et tes batailles n'ont vocation qu'à te donner une bonne image de ta personne.*  
 
-*Chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Et nous le savons tous les deux, jamais tu ne sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
 
-*Car non, jamais tu ne sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
-*Alors oui, tu risques de perdre beaucoup plus que deux semaines de mémoire. Ça te parait absurde, à n'en pas douter, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  
+*Parce que chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
-*Je te le redis une dernière fois : choisis judicieusement, car le bon choix t'apportera un havre de paix, le mauvais précipitera ta perte.*  
+*Oui, tu risques de perdre beaucoup plus que deux semaines de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*   
+
+*Choisis judicieusement, parce que si le bon choix t'apportera un Havre de paix, le mauvais choix précipitera ta perte.*  
+
+*Ton toi du passé* »  
 
 La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet aux références historiques incongrues à l'intention de moi-même, une confession, un délire nimbé de *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller.  
 
@@ -240,7 +245,11 @@ Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix d
 
 Je ne sais pas encore comment je m'y suis pris à l'époque, mais je vais devoir trouver.  
 
-Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau.  
+Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement je reste crevé malgré l'excitation dû à la découverte de la deuxième lettre, je pique du nez. Incapable de tenir plus de dix secondes sur une ligne, je me décide à remonter dans ma chambre pour enfin réussir à dormir. Après tout, ce travail peut bien attendre demain.  
+
+-----
+
+La fin de nuit a été compliquée et je me suis réveillé. 
 
 -----
 

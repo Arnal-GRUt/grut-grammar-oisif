@@ -243,13 +243,11 @@ La lecture n'a pas été très agréable, elle a été troublante, on va pas se 
 
 Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Il a dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir.  
 
-Je ne sais pas encore comment je m'y suis pris à l'époque, mais je vais devoir trouver.  
-
 Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement je reste crevé malgré l'excitation dû à la découverte de la deuxième lettre, je pique du nez. Incapable de tenir plus de dix secondes sur une ligne, je me décide à remonter dans ma chambre pour enfin réussir à dormir. Après tout, ce travail peut bien attendre demain.  
 
 -----
 
-La fin de nuit a été compliquée et je me suis réveillé.  
+Je n'ai pas dormi longtemps mais j'ai bien dormi. Il me semble également que mes plaies sont moins douloureuses.  
 
 -----
 

@@ -47,6 +47,13 @@ const allArts = (await getCollection("grutArt")).sort((a, b) => b.id - a.id);
 									width="1200"
 									height="400"
 								/>
+								<button
+									popovertarget={`grib-${art.id}`}
+									popovertargetaction="hide"
+									class="close-btn"
+								>
+									X
+								</button>
 							</div>
 						</dialog>
 					</div>
@@ -55,3 +62,20 @@ const allArts = (await getCollection("grutArt")).sort((a, b) => b.id - a.id);
 		</div>
 	</div>
 </BaseLayout>
+<style>
+	.image-lightbox--img {
+		position: relative;
+		display: flex;
+		height: fit-content;
+
+		& button.close-btn {
+			border-radius: 0;
+			background: var(--grut-color);
+			color: var(--defaut-txt);
+			position: absolute;
+			width: 44px;
+			height: 44px;
+			font-size: 24px; 
+		}
+	}
+</style>

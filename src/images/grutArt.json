@@ -241,5 +241,14 @@
         },
         "img_name": "Homonde Barrage",
         "img_date": "03-08-2026"
+    },
+    {
+        "id": 28,
+        "image": {
+            "source": "./artworks/Homonde Patriarche.jpg",
+            "img_alt": "Homonde marchant avec une canne gourdin avec un bouclier tenu devant et sur sa tête un temple en noir et blanc "
+        },
+        "img_name": "Homonde Patriarche version du carnet",
+        "img_date": "08-08-2026"
     }
 ]

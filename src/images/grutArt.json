@@ -263,7 +263,7 @@
     {
         "id": 30,
         "image": {
-            "source": "./artwork/Homonde-flaginelle.png",
+            "source": "./artworks/Homonde-flaginelle.png",
             "img_alt": "Homonde à 5 jambes soutenant un tête zombiesque aux yeux morts tient dans un bras un drapeau et dans l'autre une lance et dans son dos des réacteurs et cheminées qui produisent de la fumée"
         },
         "img_name": "Homonde Flaginelle",

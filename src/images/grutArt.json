@@ -250,5 +250,14 @@
         },
         "img_name": "Homonde Patriarche version du carnet",
         "img_date": "08-08-2026"
+    },
+    {
+        "id": 29,
+        "image": {
+            "source": "./artworks/Homonde-abysse-nb.png",
+            "img_alt": "Homonde des abysses portant une ville sur son dos"
+        },
+        "img_name": "Homonde Abysse",
+        "img_date": "08-10-2026"
     }
 ]

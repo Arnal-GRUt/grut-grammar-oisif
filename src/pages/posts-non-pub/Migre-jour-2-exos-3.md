@@ -207,11 +207,11 @@ Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du p
 
 Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque passage devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
 
-La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième volte-face dans la cuve, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée. De moins en moins rassurant.  
+La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième volte-face, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée. Tout ça est de moins en moins rassurant.  
 
-Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive.  
+Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive. C'est étrange, mais ça m'arrange.  
 
-Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont que peu d'intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre petit format, je n'y avais pas prêté attention la première fois. Le style du texte est plus personnel, moins solennel et administratif que le premier, un peu étrange aussi.  
+Je commence à relire les lignes que j'ai manifestement écrites deux semaines plus tôt, elles n'ont que peu d'intérêt. En la remettant dans l'enveloppe, je remarque une autre lettre petit format, à laquelle je n'avais pas prêté attention la première fois. Le style du texte est plus personnel, moins solennel et administratif que le premier.  
 
 « *Cher moi du futur hypothétique.*  
 
@@ -219,50 +219,52 @@ Je commence à relire les lignes que j'ai manifestement écrites deux semaines p
 
 *Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Sois en convaincu, tel Napoléon, tu te penses à Sainte-Hélène, mais c'est bien toi qui a autorisé le recours à cette thérapie, par nécessité, en pesant le pour et le contre, tu tu es volontaire.*  
+*Cependant, sois en convaincu, tel Napoléon, tu te penses à Sainte-Hélène, mais c'est bien toi qui a autorisé le recours à cette thérapie, par nécessité, en pesant le pour et le contre.*  
 
-*La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne, et c'est pour cette raison que je ne vais pas y aller par 4 chemins.*  
+*La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne, et pour cette raison je ne vais pas y aller par 4 chemins.*  
 
-*Nous le savons tous les deux que, jamais de la vie  je ne signerais, quelque chose contre ton intérêt. Ce que nous savons également tous les deux, c'est que tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
+*Nous le savons tous les deux, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
 
 *Tous tes combats éthiques et moraux sont factices.*  
 
-*Toutes tes luttes et tes batailles n'ont vocation qu'à te donner une bonne image de ta personne.*  
+*Chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
 
-*Et nous le savons tous les deux, jamais tu ne sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
+*Toutes tes luttes et tes batailles n'ont vocation qu'à donner une bonne image de ta personne.*  
 
-*Parce que chez toi, tout est convenance, tout est système de protection, tout est faux-semblant, tout est lâcheté.*  
+*Et nous le savons tous les deux, jamais tu ne te sacrifieras pour un idéal, jamais tu n'auras le courage du plus jeune des quatre de La Rochelle.*  
 
-*Oui, tu vas perdre beaucoup plus que deux mois de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  
+*Et de fait, nous le savons tous les deux, jamais de la vie je ne signerais, quelque chose contre ton intérêt.*  
+
+*Alors, oui, tu vas perdre beaucoup plus que deux mois de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires.*  
 
 *Choisis judicieusement, parce que si le bon choix t'apportera un Havre de paix, le mauvais choix précipitera ta perte.*  
 
 *Ton toi du passé* »  
 
-La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de pamphlet aux références historiques incongrues à l'intention de moi-même, une confession, un délire nimbé de *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller.  
+La lecture n'a pas été très agréable, elle a été troublante, on va pas se mentir. Le texte est une espèce de auto-pamphlet aux références historiques incongrues, une confession, un délire nimbé de *new-age*, un énorme coup de pression, un *all-in* dans l'espoir de me faire vaciller.  
 
-Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Il a dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir.  
+Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Il a dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir. Si il y a bien une chose dont je suis convaincu, c'est de ça.  
 
-Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement je reste crevé malgré l'excitation dû à la découverte de la deuxième lettre et je pique du nez. Incapable de tenir plus de dix secondes sur un paragraphe, je me décide à remonter dans ma chambre et peut-être enfin réussir à dormir. Après tout, ce travail peut attendre demain.  
+Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement je reste crevé malgré l'excitation dû à la découverte de la deuxième lettre et je commence à piquer du nez. Incapable de tenir plus de dix secondes sur un paragraphe, je me décide à remonter dans ma chambre pour peut-être enfin réussir à dormir. Après tout, ce travail peut attendre demain ou après-demain, manifestement j'ai tout intérêt à faire le gentil toutou.  
 
 -----
 
-Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes plaies sont moins douloureuses. Je finis donc par me lever en me disant qu'après la toilette, je serai bien plus frais pour attaquer sérieusement le décryptage de la deuxième lettre.  
+Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes plaies sont moins douloureuses. Je me lève donc en me disant, qu'après la toilette, je serai bien plus frais pour attaquer sérieusement le décryptage de la deuxième lettre.  
 
 Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument, aucun moyen d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
 
 Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins de reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment et me mets à marcher de vive allure à la recherche de la moindre surface capable de me renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, ou juste une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
 
-En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant et essaye de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné n'approuverait, la vitre ne veut rien reflèter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Puis je me me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que les lumières qui éclairent les arbres et les chemins, m'ont trompé, mais j'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir.  
+En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant et essaye de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné n'approuverait, la vitre ne veut rien refléter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Puis je me me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que la veille les lumières qui éclairent les arbres et les chemins dehors, m'ont trompé ? J'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir.  
 
-Rien ici, dans ce bâtiment, dans cette prison, ne renvoit la moindre image. Rien.  
+Rien ici, dans ce bâtiment, dans cette prison, ne renvoie la moindre image, le moindre reflet. Rien. Nada. Niente.  
 
 -----
 
 > Faire le lien avec la nouvelle du soldat qui se réveille à l'infirmerie militaire adlib
 > LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme.  
 > lettre manuscrite avec le bon nombre de lignes (cf. carnet de brouillon)
-> trucs à ajouter : il ne se souvient plus de rien en fait, de qui il est, 
+> trucs à ajouter : il ne se souvient plus de rien en fait, de qui il est,
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?
 
 -----

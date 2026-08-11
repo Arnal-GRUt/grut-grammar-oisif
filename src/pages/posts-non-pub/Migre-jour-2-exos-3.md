@@ -253,19 +253,17 @@ Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas p
 
 Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins de reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment et me mets à marcher de vive allure à la recherche de la moindre surface capable de me renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, ou juste une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
 
-En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Il y a bien une vitre, mais elle ne reflète rien non plus, je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête tourne, quand je me me place face à l'énorme baie vitrée ayant vue sur le parc. Je n'y avais pas fait attention cette nuit, et pourtant j'aurais dû. Peut-être que les lumières qui éclairent les arbres et les chemins, m'ont trompé, mais j'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir.  
+En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant et essaye de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné n'approuverait, la vitre ne veut rien reflèter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Puis je me me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que les lumières qui éclairent les arbres et les chemins, m'ont trompé, mais j'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir.  
 
 Rien ici, dans ce bâtiment, dans cette prison, ne renvoit la moindre image. Rien.  
 
 -----
 
+> Faire le lien avec la nouvelle du soldat qui se réveille à l'infirmerie militaire adlib
 > LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme.  
 > lettre manuscrite avec le bon nombre de lignes (cf. carnet de brouillon)
-> trucs à ajouter : il ne se souvient plus de son nom, de qui il est en fait  
+> trucs à ajouter : il ne se souvient plus de rien en fait, de qui il est, 
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?
-> il se débrouille pour fouiller dans les casiers au secrétariat et trouve un portefeuille ne contenant pas grande chose à part une photo ?
-> juste c'est une option légale en cas d'homicide involontaire ou truc dans le genre : l'oublie ou la mort  ?
-> il vit un jour sur 4 ?
 
 -----
 

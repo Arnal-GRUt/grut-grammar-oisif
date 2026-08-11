@@ -1825,11 +1825,12 @@ html:not([id*="Grammar"]) body {
 		border-left: 2px dashed var(--defaut-txt);
 	}
 
+	/* Page about */
 	& ul.sources li {
 		list-style: disc;
 		font-size: 1rem;  
 	}
-
+	/**************/
 	& h1.soustitre-page {
 		max-width: calc(640px - 2rem);
 		position: relative;

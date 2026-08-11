@@ -104,7 +104,7 @@ Le calme revenu, il me regarde les sourcils froncés par le vacarme et continue 
 -- Comme vous voulez, mais je vais quand même revenir avec quelques éléments et peut-être changerez-vous d'avis ?  
 -- M'étonnerait. »  
 
-Il se retourne, murmure un « ras le cul, à chaque fois le même drama » puis sort de la chambre. Dans le mouvement, l'interne le suit gêné.  
+Il se retourne, murmure un « ras le cul, à chaque fois le même drama », puis sort de la chambre. Dans le mouvement, l'interne le suit gêné.  
 
 Il est tard le soir, la nuit est tombée, je suis crevé et toujours aucune autre cuve ne s'est ouverte dans la chambre.  
 
@@ -249,13 +249,13 @@ Je me mets alors à chercher des répétitions, des mots étrangement placés, d
 
 Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes plaies sont moins douloureuses. Je finis donc par me lever en me disant qu'après la toilette, je serai bien plus frais pour attaquer sérieusement le décryptage de la deuxième lettre.  
 
-Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument, aucun moyen de me voir, d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
+Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument, aucun moyen d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
 
-Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins de reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment et me mets à marcher de vive allure, à la recherche de la moindre surface capable de me renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais rien de rien, je ne trouve rien, je ne vois rien, ou juste une vague silhouette floue, presque vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix s'est perdue quand j'ai passé l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
+Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins de reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment et me mets à marcher de vive allure à la recherche de la moindre surface capable de me renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, ou juste une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
 
-En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Il y a bien une vitre, mais elle ne reflète rien non plus, la chose que je vois c'est les lignes de barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête tourne, quand je me me place face à l'énorme baie vitrée ayant vue sur le parc. Je n'avais pas fait attention cette nuit, et pourtant j'aurais dû. Peut-être que les lumières qui éclairent les arbres et les chemins, m'ont trompé, mais j'aurais dû le voir, j'aurais dû ne pas me voir dès la première fois.  
+En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Il y a bien une vitre, mais elle ne reflète rien non plus, je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête tourne, quand je me me place face à l'énorme baie vitrée ayant vue sur le parc. Je n'y avais pas fait attention cette nuit, et pourtant j'aurais dû. Peut-être que les lumières qui éclairent les arbres et les chemins, m'ont trompé, mais j'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir.  
 
-Elle ne reflète rien.  
+Rien ici, dans ce bâtiment, dans cette prison, ne renvoit la moindre image. Rien.  
 
 -----
 

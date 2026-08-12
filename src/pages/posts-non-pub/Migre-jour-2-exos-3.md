@@ -259,7 +259,7 @@ En bas, la première chose à laquelle je pense, c'est au distributeur de *junkf
 
 Rien. Nada. Niente.  
 
-Mon coeur qui me fait de plus en plus mal, la douleur provoquée par les cicatrices qui se réveille, j'ai les jambes qui tremblent, la vue qui se trouble, je vais tomber, je vais tomber encore, je vais perdre connaissance.  
+Mon cœur, qui me fait de plus en plus mal, la douleur provoquée par les cicatrices qui se réveille, les jambes qui tremblent, la vue qui se trouble, j'en peux plus, je vais tomber, je vais perdre connaissance.  
 
 -----
 

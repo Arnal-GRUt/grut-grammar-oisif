@@ -161,12 +161,12 @@ Manifestement dans la longue liste, je n'ai droit qu'à 6 types de soin au maxim
 -- C'est impossible malheureusement.  
 -- Demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation ne vaut rien, que je l'ai signé ou non, je ne m'en souviens pas de toute manière et pour être plus clair encore, c'est pas deux mois qu'on m'a retirés, c'est manifestement beaucoup plus.  
 Il hésite un instant.  
--- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passées. Quand au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.
+-- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passés. Quand au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.
 -- Regreffez-moi ma mémoire.  
 Un instant j'ai bien cru qu'il allait céder.  
--- C'est compliqué hein, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et la capacité à recouvrer la mémoire dépend aussi beaucoup des patients. »  
+-- C'est compliqué hein, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et de plus, la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
 
-Il se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez tout à fait en état mental d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
+Il s'assure du regard que je n'ai rien à dire de plus, puis se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez tout à fait en état mental d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe. Pour autant, je suis disponible pour répondre aux questions que vous vous posez par rapport à l'ablation mémorielle. Dans les limites des informations que je peux médicalement vous donner. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
 
 Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton que ce chirurgien prend avec moi.  
 
@@ -174,7 +174,7 @@ Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pa
 
 -----
 
-Le calme est revenu, c'est limite angoissant. Je ne me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches, comme dirait l'autre. Je place la cuve à la verticale pour descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs thoraciques quant à elles, sont moins fortes que la veille. Je me lève, tout va bien, je suis un peu raide cependant, mais c'est OK. Il y a une petite table carrée, à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, l'eau est fraiche, je bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
+Le calme est revenu, c'est limite angoissant. Je ne me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches, comme dirait l'autre. Je place la cuve à la verticale pour descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs thoraciques quant à elles, sont moins fortes que la veille. J'inspecte mes bandages, mes pansements, puis je me lève. Je suis un peu raide cependant, mais manifestement tout est OK. Il y a une petite table carrée, à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, l'eau est fraiche, je bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
 
 J'ai toujours le verre aux lèvres, quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément *Imothep*. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça parait risqué de mettre tous les amnésiques "volontaires" dans la même chambre non ?  
 
@@ -290,4 +290,3 @@ Mon coeur qui me fait de plus en plus mal, la douleur provoquée par les cicatri
 -----
 
 [^1]: fin de la partie écrite à Migré  
-

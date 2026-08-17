@@ -134,7 +134,7 @@ Tout ça n'a pas de sens.
 
 Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre et un protocole de soins détaillé, pendant que l'interne, quant à elle, se met à prendre des notes de manière studieuse. La lettre ressemble à un contrat, en tout cas une validation légale dument signée et datée. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai fait que récupérer une copie de l'accord final contenant la liste des différentes prise-en-charge auxquelles vous avez souscrit » conclue-t-il, en me regardant droit dans les yeux. Aucun sadisme dans son regard, une simple envie palpable d'en finir avec cette visite.  
 
-« Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, ll me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise ne charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient mises en danger avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
+« Vous permettez ? », je lui demande son stylo accroché à sa pochette de blouse, il me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise ne charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient mises en danger avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
 
 Je lève les yeux vers les deux médecins qui attendent que je prenne une décision définitive. L'interne a cherché du regard le chirurgien qui n'a même pas fait semblant d'en avoir quelque chose à faire. Ce mec snoberait son propre reflet dans le miroir, c'est certain.  
 
@@ -142,16 +142,21 @@ Je reprends mon travail d'inspection. À la lecture du protocole de soins détai
 
 Manifestement dans la longue liste, je n'ai droit qu'à 6 types de soin au maximum avec ma prise en charge *prémium* - sur les conseils d'un chirurgien conseil évidemment, c'est marqué en haut à droite du document. J'ai eu droit à tout ça :  
 
-- Soins défauts : 
-  - reconstruction base : + cicatrisants + bandages + antalgiques (niv 1)
-- greffe organes internes (jusqu'à 3) : coeur, poumon droit  
-- greffe régénérative temporaire (jusqu'à 3) : jambe droite à partir du genou  
+- Soins de base :  
+  - reconstruction de base : + cicatrisants + bandages + antalgiques (niv 1)  
+
+- Soins premium :  
+- greffe(s) organe(s) interne(s) (jusqu'à 3) :  
+  - cœur  
+  - poumon droit  
+- greffe(s) régénérative(s) temporaire(s) (jusqu'à 3) :  
+  - jambe droite à partir du genou  
 - greffes de peau (3 max):  
   - avant-bras droit  
   - + perfusion cicatrisant  
-  - antalgiques ++ (max niv 5)  
-  - anti-psychotropes (max niv 5)  
-- ablation mémorielle > niveau 1 (renouvellement jusqu'au niveau 5).  
+  - antalgique(s) ++ (max niv 5)  
+  - anti-psychotrope(s) (max niv 5)  
+- ablation mémorielle (niv 1)  - 1 à 3 renouvellement(s) (max niv 5).  
 
 « -- Donc ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
 -- Vous avez un logo, ces documents contiennent quelques informations a priori, lisez-le attentivement, insiste-t-il.  
@@ -161,7 +166,7 @@ Manifestement dans la longue liste, je n'ai droit qu'à 6 types de soin au maxim
 -- C'est impossible malheureusement.  
 -- Demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation ne vaut rien, que je l'ai signé ou non, je ne m'en souviens pas de toute manière et pour être plus clair encore, c'est pas deux mois qu'on m'a retirés, c'est manifestement beaucoup plus.  
 Il hésite un instant.  
--- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passés. Quand au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.
+-- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passés. Quand au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.  
 -- Regreffez-moi ma mémoire.  
 Un instant j'ai bien cru qu'il allait céder.  
 -- C'est compliqué hein, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et de plus, la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
@@ -187,7 +192,7 @@ Au bout de quatre sonneries ça décroche, une voix fatiguée :
 -- 10A-932 monsieur, évidemment qu'elle le connait le numéro.  
 -- Ok, bah merci, je dois être le seul à ne pas le savoir.  
 -- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
--- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez, et malheureusement je ne sais pas où on a rangé mes affaires...  
+-- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez, et malheureusement je ne sais pas où sont rangées mes affaires...  
 -- Vous êtes arrivé avec quasiment rien sur vous monsieur, d'après ce que je vois, et...  
 -- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, c'est un peu sec mais pas le temps niaiser.  
 -- Les quelques affaires qui vous restaient en arrivant ont été incinérées monsieur, sa voix suinte le malaise.  
@@ -258,7 +263,7 @@ Je commence à relire les lignes que j'ai manifestement écrites deux mois plus 
 
 *Ton toi du passé.* »  
 
-La lecture n'a pas été très agréable, elle a été troublante même, on va pas se mentir. Le texte est une espèce de auto-pamphlet aux références historiques incongrues, une confession, un délire nimbé de *new-age*, un énorme coup de pression, tout ça touillé dans un *all-in* et régurgité dans l'espoir de me faire vaciller.  
+La lecture n'a pas été très agréable, elle a été troublante même, on va pas se mentir. Le texte est une espèce d'auto-pamphlet aux références historiques incongrues et douteuses, une confession, un délire nimbé de *new-age*, un énorme coup de pression, tout ça touillé dans un *all-in* et régurgité dans l'espoir de me faire vaciller.  
 
 Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Ce n'est pas mon style. J'ai dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir. Si il y a bien une chose dont je suis convaincu, c'est de ça.  
 
@@ -270,13 +275,13 @@ Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes 
 
 Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument, aucun moyen d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
 
-Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins de reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment et me mets à marcher de vive allure à la recherche de la moindre surface capable de renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, au mieux une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
+Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins ne reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment en me mettant à marcher de vive allure à la recherche de la moindre surface capable de renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, au mieux une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
 
-En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant et essaye de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné n'approuverait, la vitre ne veut rien refléter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Puis je me me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que la veille les lumières qui éclairent les arbres et les chemins dehors, m'ont trompé ? J'aurais dû le voir dès la première fois, j'aurais dû voir que je ne pas me voir. Il n'y a rien ici, dans ce bâtiment, dans cette prison, qui ne renvoie la moindre image, le moindre reflet.  
+En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant et essaye de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné compétent n'approuverait, la vitre ne veut rien refléter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Je me retourne alors promptement et me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que la veille les lumières qui éclairent les arbres et les chemins dehors, m'ont trompé ? J'aurais dû le voir dès la première fois, j'aurais dû voir que je ne peux pas me voir. Il n'y a rien ici, dans ce bâtiment, dans cette prison, qui ne renvoie la moindre image, le moindre reflet.  
 
 Rien. Nada. Niente.  
 
-Mon coeur qui me fait de plus en plus mal, la douleur provoquée par les cicatrices qui se réveille, j'ai les jambes qui tremblent, la vue qui se trouble, je vais tomber, je vais tomber encore, je vais perdre connaissance.  
+Mon cœur qui me fait de plus en plus mal, la douleur provoquée par les cicatrices qui se réveille, les jambes qui tremblent, la vue qui se trouble, je vais tomber, je vais tomber encore, je vais perdre connaissance à nouveau.  
 
 -----
 

@@ -78,7 +78,7 @@ Il me regarde l'air un chouïa plus concerné, peut-être un poil surpris aussi,
 
 J'essaye de me souvenir. Rien ne vient. Je me concentre, je fouille au plus profond de ma mémoire. Toujours pas. Au mieux, mon dernier souvenir remonte à deux mois environ. Je le revois, il est imparfait, une image floue, une impression de mes mains réceptionnant une lettre cachetonnée. Un courrier administratif ? Officiel ? Une association ? Une récompense ? Une invitation ? Le sigle est trouble, je ne parviens pas à régler la netteté. Puis, alors que je retourne le courrier, instantanément, la vitre de la cuve qui s'ouvre et cet espace d'un temps impossible à évaluer.  
 
-Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne récents aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je, « manifestement, je ne suis pas encore prêt à encaisser plus consistant ».  
+Quelques minutes passent, j'ai le temps d'admirer les quatre bandes qu'on m'a placées sur tout le corps. Je sens que ça tire, mais je ne ressens aucune douleur. On m'apporte enfin mon repas. C'est une soupe, une souplette au sel avec un quignon de pain et un yaourt sucré. « Bon, je vais faire avec » me dis-je, « manifestement, je ne suis pas encore prêt à encaisser plus consistant ».  
 
 C'est à ce moment que le chirurgien se décide à faire son entrée. Il a un air très sérieux. Il me scrute, prend le *pad*, regarde mes datas : il zoome, *scroll*, encadre, je vois bien qu'il cherche à évaluer la situation. Il finit par me poser une question :  
 
@@ -152,7 +152,7 @@ Il hésite un instant.
 -- Regreffez-moi ma mémoire, un instant j'ai bien cru qu'il allait céder.  
 -- C'est compliqué, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et de plus, la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
 
-Il s'assure du regard que je n'ai rien à dire de plus, puis se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez légalement et psychiatriquement, tout à fait en état mental d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe qui découle du contrat que vous avez signé. Pour autant, je suis disponible pour répondre aux questions que vous vous posez en rapport avec l'ablation mémorielle. Dans les limites des informations que je peux médicalement vous donner. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
+Il s'assure du regard que je n'ai rien à dire de plus, puis se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez légalement, tout à fait en état d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe qui découle du contrat que vous avez signé. Pour autant, je suis disponible pour répondre aux questions que vous vous posez en rapport avec l'ablation mémorielle. Dans les limites des informations que je peux médicalement vous donner. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
 
 Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton que ce chirurgien prend avec moi.  
 
@@ -298,7 +298,7 @@ Mon cœur qui me fait de plus en plus mal, la douleur provoquée par les cicatri
 > Faire le lien avec « Adlib » et « Journal d'un conscrit »
 > LE JEU : une fin de nouvelle avec la bonne réponse à l'énigme. Une autre sans la bonne réponse à l'énigme.  
 > lettre manuscrite avec le bon nombre de lignes (cf. carnet de brouillon)
-> trucs à ajouter : il ne se souvient de quelques lignes de sa vie, et petit à petit, il commence à se souvenir de qui il est
+> trucs à ajouter : il ne se souvient de quelques lignes de sa vie, et petit à petit, il commence à se souvenir de qui il est  
 > ajout optionnel : il a des retours bizarre, des images qui surgissent ?  
 > si bon texte : il retrouve un ami (manifestement une personne d'âge mure) à la bonne adresse, à la bonne heure. Il est endormi et déposé à la gare de Châteauroux qui est en gros ce qui se fait de plus au centre de l'hexagone - entre 5h30 et 6h00 de route pour arriver à destination.  
 > il a des billets pour se rendre dans un centre de transfert vers une ville sous bulle (cf. « Journal d'un conscrit »)  

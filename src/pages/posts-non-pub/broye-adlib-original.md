@@ -4,7 +4,7 @@ title: 'À louer/Occasion/Bon rapport qualité prix'
 pubDate: "04-13-2026"
 description: "Une histoire de guerre - version originelle"
 author: "GRUt·"
-contexte : "Un vieux texte écrit a priori en 2013 (au + tard en 2014)"
+contexte : "Un vieux texte (a priori écrit en 2014)"
 enonce : "Une envie juste"
 tags: ["Écritouille", "Narratif", "Complet"]
 ---
@@ -17,8 +17,8 @@ C’est une très courte nouvelle dont la nouvelle version retravaillée est lis
 
 ## Version 2013/14 : « À louer/Occasion/Bon rapport qualité prix »
 
-> 748 mots  
-> 3478 caractères
+> 751 mots  
+> 4219 (+esp) / 3478 (-esp) caractères  
 
 J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes me privent de son regard et derrière les bleus qui gonflent ses pommettes, je distingue un visage vaguement humain, doux, froissé. Sa chevelure blonde planquée sous ce qui reste d’un casque bosselé par endroits et que je devine grâce aux mèches échouées près de son nez, a pris une teinte brunâtre pareille à la boue glacée qui nous sert de paillasse. Sur ses joues coulent en lignes parallèles des rigoles cramoisies. L’eau, la terre, le sang. Elles marquent ce temps :  celui qui vient sournoisement après la chute.  
 

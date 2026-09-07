@@ -4,7 +4,7 @@ title: 'Adlib'
 pubDate: "04-13-2026"
 description: "Une histoire de guerre"
 author: "GRUt·"
-contexte : "Un vieux texte écrit a priori en 2013 (au + tard en 2014)"
+contexte : "Un vieux texte (a priori écrit en 2014)"
 enonce : "Une envie juste"
 tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
 ---
@@ -19,8 +19,8 @@ Reste que c’est un très vieux texte dont la première version est lisible [ic
 
 ## Version 2026 : « Adlib »
 
-> 746 mots  
-> 3427 caractères
+> 728 mots  
+> 4064 (+esp) / 3343 (-esp) caractères  
 
 J’entrevois la face tuméfiée de ma voisine de gauche. Ses paupières closes me privent de son regard et derrière les bleus qui gonflent ses pommettes, je distingue un visage vaguement humain, doux, froissé. Sa chevelure blonde planquée sous ce qui reste d’un casque bosselé par endroits et que je devine grâce aux mèches échouées près de son nez, a pris une teinte brunâtre pareille à la boue glacée qui nous sert de paillasse. Sur ses joues coulent en lignes parallèles des rigoles cramoisies. L’eau, la terre, le sang. Elles marquent ce temps, celui qui vient sournoisement après la chute.  
 
@@ -28,11 +28,11 @@ Mon regard plonge. Je vois mes jambes, des appendices noueux comme de vieilles b
 
 Tout autour de nous, une musique bruyante et grasse nous écrase. Broyés, roués de notes tranchantes, de coups de boutoir syncopés, dans la trogne, dans les tripes, nous sommes au milieu d’une tournante sonore, violés par une marée de sons qui nous submerge. Viennent ensuite, ensemble, avant, après, des lumières sadiques, des flashs morbides, qui à chaque instant révèlent le massacre et crient La mort, la boue, les rats. Ils hurlent encore et encore à la gloire dans le sang.
 
-Je ferme les yeux.
+Je ferme les yeux.  
 
-Je n’entends plus rien.
+Je n’entends plus rien.  
 
-J’attends.
+J’attends.  
 
 Enfin, j’ouvre les yeux.  
 
@@ -45,16 +45,18 @@ Combien de fois encore dans les cuves de soin ?
 Qui dois-je remercier ?  
 Qui pour m'oter cette puce *de survie* greffée bien au fond du bulbe ?  
 
-Mon humanité, on me l'a volée.  
+Rendez-moi mon humanité !    
 
-Les minutes passent, mes angoisses retournent à l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
+Les minutes passent, mes angoisses retournent dans l'ombre, après quelques minutes je me sens peut-être un peu moins vaseux. Je cherche autour de moi la femme que j’ai croisée sur le champ de bataille. L’infirmière qui s’est occupée de mon réveil post-opératoire m’apprend qu’ils n’ont ramassé que mon corps sur place. À vrai dire j’en doute, je suis certain de l’avoir vue gisante à l'article de la mort. J’ai vu ses jambes arrachées et sa tripaille à l’air.  
 
 Je cherche alors à me lever. Sur le bord du lit, engourdis mais fonctionnels, mes membres inférieurs pendouillent dans le vide.  
 
 « — Que faites-vous soldat ? l’infirmière m’interpelle, vous êtes en convalescence. Sa voix est ferme mais non dénuée de compassion.  
 — Ça va, ça va, il faut juste que je me redresse... J’ai la gerbe. »  
 
-Ma bouche pâteuse déconne à bloc. Délicatement, elle pose sa main sur mon épaule et tente de me recoucher. Combien de fois a-t-elle fait ses gestes aujourd'hui ? Combien de fois a-t-elle fait semblant de sourire ? Comment fait-elle ?  
+Ma bouche pâteuse déconne à bloc. A-t-elle compris ce que je raconte ?  
+
+Délicatement, elle pose sa main sur mon épaule et tente de me recoucher. Combien de fois a-t-elle fait ses gestes aujourd'hui ? Combien de fois a-t-elle fait semblant de sourire ? Comment fait-elle ?  
 
 « Allez, calmez-vous, vous savez très bien que cela va passer, vous recouvrerez vos forces et cela plus vite si vous restez allongé. »  
 
@@ -66,6 +68,6 @@ A-t-elle reçu le message ?
 
 Imperturbable, elle force un peu sur mon épaule et me sourit la tête légèrement penchée sur le côté, juste assez pour me signifier qu'un refus d’obtempérer est vain.  
 
-Finalement elle n’a pas tort je crois. Une petite sieste encore, cinq, dix, trente minutes ? J’ai besoin de dormir, j’ai besoin d’être bien.
+Finalement elle n’a pas tort je crois. Une petite sieste encore, cinq, dix, trente minutes ? J’ai besoin de dormir, j’ai besoin d’être bien.  
 
-Donnez-moi des heures, des jours, rendez-moi mon temps.
+Donnez-moi des heures, des jours, rendez-moi mon temps.  

@@ -55,7 +55,7 @@ L'espace d'un temps impossible à évaluer, je me suis retrouvé dans une cuve d
 
 À part la mienne, aucune autre n'est ouverte.  
 
-Je vois un interne dans la pièce. En tous cas, c'est ce qui me semble. Il est petit, brun, ses cheveux longs et ondulés sont attachés avec un élastique, il ressemble à Steve Harris sans le charisme. Il m'a capté. Il a l'air éteint, son regard pue l'ennui. Il est là sans être là, un piquet devant ma cuve, à me regarder me réveiller.  
+Je vois un interne dans la pièce. En tous cas, c'est ce qui me semble. Il est petit, brun, ses cheveux longs et ondulés sont attachés avec un élastique, il ressemble à Steve Harris jeune, sans le charisme. Il m'a capté. Il a l'air éteint, son regard pue l'ennui. Il est là sans être là, un piquet devant ma cuve, à me regarder me réveiller.  
 
 « Comment allez-vous ? me demande-t-il fatigué. »  
 
@@ -66,9 +66,9 @@ Je réponds avec le même ton, dans le coltard, comme une forme d'hommage à son
 Il prend le *pad* au pied de ma cuve et commence à inspecter mes datas. Il fait défiler des listes de médocs, des diagrammes, zoome sur des chiffres, encadre quelques constantes, quelques pics de courbes, puis repose l'outil sur la tablette prévue à cet effet au pied de la cuve.  
 
 Après tout ça, il relève la tête vers moi :  
-« Je vois que vous avez bien encaissé l'opération, les rubans cicatrisants passent bien. C'est bon ça, beaucoup de patients les supportent mal voyez-vous. Puis il conclue poliment, vous avez faim peut-être ? »  
+« Je vois que vous avez bien encaissé l'opération, les rubans cicatrisants passent bien. C'est bon ça, beaucoup de patients les supportent mal voyez-vous. Puis il conclut poliment, vous avez faim peut-être ? »  
 
-Il me parle de choses que je ne comprends pas. Des ruban quoi ? Je fais quoi ici ?  
+Il me parle de choses que je ne comprends pas. Des rubans quoi ? Je fais quoi ici ?  
 
 « Pardon, alors oui, je ne suis pas contre manger un morceau, mais, pardon encore, pourquoi je viens de me réveiller dans cette cuve ? »  
 
@@ -90,12 +90,12 @@ Je vois bien qu'il essaie d'y mettre de la compassion. Il a des choses à me dir
 « -- Écoutez, à l'heure actuelle, la question n'est pas tellement quand retrouverez-vous la mémoire, ni pourquoi avons-nous opéré une ablation partielle de celle-ci, mais plutôt...  
 -- Pardon ! Je... »  
   
-Je me redresse brusquement, je *growl* de rage, de douleur plus encore, sous les rubans cicatrisants, je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le *pad* pour m'envoyer un *shoot* d'antalgiques. Les médocs font effets quasi-instantanément. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai pas compris un seul des mots qu'il a prononcés.  
+Je me redresse brusquement, je *growl* de rage, de douleur plus encore, sous les rubans cicatrisants, je sens des plaies qui s'ouvrent. La douleur est insoutenable, j'ai l'impression d'être une crème brulée qu'on caramélise au fer rouge. Je retombe sur le dos, paralysé par la souffrance infernale, plus un son ne sort de ma bouche. Aussi sec, un infirmier entre dans la chambre et se précipite sur le *pad* pour m'envoyer un *shoot* d'antalgiques. Les médocs font effet quasi-instantanément. Pendant tout ce temps, malgré le bruit et le chaos, le chirurgien a continué à m'expliquer la situation. Il a parlé dans le vide, je n'ai pas compris un seul des mots qu'il a prononcés.  
 
 Le calme revenu, il me regarde les sourcils froncés par le vacarme et continue :  
 « -- J'essayais de vous dire que les deux mois ne seraient malheureusement qu'un début, et qu'il faut s'attendre à une ablation mémorielle complémentaire de plusieurs semaines. Nous envisageons six semaines supplémentaires *a minima*[^1]. Je suis navré.  
 -- Hors de question, malgré l'antalgique de bourrin je suis maintenant bien réveillé, hors de question, dis-je à nouveau.  
--- Légalement, je ne peux vous obliger à rien, mais pour votre équilibre mentale, il me semble évident qu'une nouvelle ablation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
+-- Légalement, je ne peux vous obliger à rien, mais pour votre équilibre mental, il me semble évident qu'une nouvelle ablation mémorielle est nécessaire, sous peine de voir ressurgir des moments que vous n'avez absolument pas envie de revivre.  
 -- J'entends ce que vous dites, mais je m'en cogne. C'est à moi de décider. Et qui vous a autorisé à jouer avec mon cerveau comme ça ? C'est "moi" j'imagine ?  
 -- C'est "vous" évidemment, je vois bien que je commence à le saouler, c'est vous.  
 -- De la merde, je me tourne dans la cuve, re-greffez-moi ma mémoire. Point. Barre.  
@@ -129,30 +129,30 @@ Et rebelote, souffrance atroce, brûlure, crème brulée.
 
 L'interne se précipite, balance la dose en antalgique. Cette fois le chirurgien a appris, il s'arrête de parler, et me regarde gigoter sans broncher. Après quelques secondes, le temps que je reprenne mes esprits, je continue :  
 
-« -- Génial, l'oublie ou la mort ? C'est ça que vous me proposer ?  
+« -- Génial, l'oubli ou la mort ? C'est ça que vous me proposez ?  
 -- Si vous refusez les soins, c'est tous les soins. C'est contractuel. ».  
 
 Tout ça n'a pas de sens.  
 
-Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre et un protocole de soins détaillé, pendant que l'interne, quant à elle, se met à prendre des notes de manière studieuse. La lettre ressemble à un contrat, en tout cas une validation légale dument signée et datée. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai fait que récupérer une copie de l'accord final contenant la liste des différentes prise-en-charge auxquelles vous avez souscrit » conclue-t-il. Aucun sadisme dans son regard, une simple envie palpable d'en finir avec cette visite.  
+Le roi du bistouri me tend une enveloppe dans laquelle il y a une lettre et un protocole de soins détaillé, pendant que l'interne, quant à elle, se met à prendre des notes de manière studieuse. La lettre ressemble à un contrat, en tout cas une validation légale dument signée et datée. Le chirurgien me regarde et m'invite à lire le texte, « vous avez donné votre accord pour ça aussi, et pour information, je n'ai pas lu les documents écrits, je n'ai fait que récupérer une copie de l'accord final contenant la liste des différentes prises en charge auxquelles vous avez souscrit » conclut-il. Aucun sadisme dans son regard, une simple envie palpable d'en finir avec cette visite.  
 
-« Vous permettez ? », je lui demande son stylo accroché à la pochette de sa blouse, il me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise ne charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient mises en danger avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est sensée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
+« Vous permettez ? », je lui demande son stylo accroché à la pochette de sa blouse, il me le tend. Je recopie quelques courtes phrases sur l'enveloppe, ma main n'est pas très sure, mais c'est bien mon écriture - enfin je crois - disons que c'est fort probable. En haut un logo, je ne le reconnais pas. Le texte quant à lui, est court, dans un style administratifo-juridique lourdingue, ça ressemble à un truc pondu par une IA, c'est certainement un truc pondu par une IA, non mais c'est clairement un truc pondu par une IA et recopié à la main. Ça raconte que « *bla bla bla... dans la conjoncture situationnelle cadrée par les conventions de Genève, dans lesquelles le recours à une ablation mémorielle est autorisée, je souhaite bénéficier de celle-ci dans le cadre d'une *prise en charge premium* au cas où, et seulement au cas où, l'intégrité physique et/ou mentale de ma personne et/ou des personnes m'accompagnant tant professionnellement que dans un cadre privé, seraient mises en danger avéré. Signé bla bla bla...* ». C'est une autorisation administrative qui ne contient rien d'autres que ce qu'elle est censée contenir. Partant du principe que je ne me souviens de rien, à quel moment ce truc me sert ?  
 
 Je lève les yeux vers les deux médecins qui attendent que je prenne une décision définitive. L'interne a cherché du regard le chirurgien qui n'a même pas fait semblant d'en avoir quelque chose à faire. Ce mec snoberait son propre reflet dans le miroir.  
 
-« -- Donc ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
+« -- Donc, ce que vous êtes autorisés à me dire, c'est que vous avez rien à me dire en somme ?  
 -- Vous avez un logo, ces documents contiennent quelques informations a priori, lisez-le attentivement, insiste-t-il.  
 -- Le logo est incompréhensible, il ne me dit rien.  
 -- Ça reviendra, nous reparlerons de tout ça demain à tête reposée, si vous préférez.  
 -- Je veux savoir pourquoi je suis arrivé ici dans cet état.  
 -- C'est impossible malheureusement.  
--- Demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation ne vaut rien, que je l'ai signé ou non, je ne m'en souviens pas de toute manière et pour être plus clair encore, c'est pas deux mois qu'on m'a retirés, c'est manifestement beaucoup plus.  
+-- Demain vous m'envoyez au bloc pour me rendre l'intégralité de ma mémoire, votre attestation ne vaut rien, que je l'ai signée ou non, je ne m'en souviens pas de toute manière et pour être plus clair encore, c'est pas deux mois qu'on m'a retirés, c'est manifestement beaucoup plus.  
 Il hésite un instant.  
--- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passés. Quand au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.  
+-- En effet, que vous ne vous souveniez pas avoir signé cet accord, est un problème. Normalement cette partie a été exclue de l'ablation. Vous devriez, disons que c'est la seule chose dont vous devriez vous souvenir des deux mois passés. Quant au flou artistique général, il est tout à fait normal, vous n'avez pas à vous en inquiéter.  
 -- Regreffez-moi ma mémoire, un instant j'ai bien cru qu'il allait céder.  
--- C'est compliqué, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de votre mémoire, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculer et de plus, la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
+-- C'est compliqué, me répond-il agacé, il ne suffit pas d'appuyer sur un bouton. Vous devriez retrouver assez vite une partie de celle-ci, le fait est que la chirurgie mémorielle ne s'encaisse pas comme une opération de l'appendicite, il faut laisser au cerveau du temps pour reconnecter ce qui a été un peu bousculé et de plus, la capacité à recouvrer la mémoire dépend beaucoup des patients. »  
 
-Il s'assure du regard que je n'ai rien à dire de plus, puis se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez légalement, tout à fait en état d'écrire cette attestation au moment où vous l'avez rédigée, que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe qui découle du contrat que vous avez signé. Pour autant, je suis disponible pour répondre aux questions que vous vous posez en rapport avec l'ablation mémorielle. Dans les limites des informations que je peux médicalement vous donner. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
+Il s'assure du regard que je n'ai rien à dire de plus, puis se retourne pour sortir et marque un temps avant de conclure : « par ailleurs, vous étiez légalement tout à fait en état d'écrire cette attestation au moment où vous l'avez rédigée. Que vous ne vous en souveniez plus, ne change rien à l'affaire. C'est bien le principe qui découle du contrat que vous avez signé. Pour autant, je suis disponible pour répondre aux questions que vous vous posez en rapport avec l'ablation mémorielle. Dans les limites des informations que je peux médicalement vous donner. Prenez votre temps pour réfléchir à tout ça. Vraiment. »  
 
 Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pas le ton que ce chirurgien prend avec moi.  
 
@@ -160,22 +160,22 @@ Il sort enfin de la chambre, l'interne me salue et sort en suivant. Je n'aime pa
 
 -----
 
-Le calme est revenu, c'est limite angoissant. Je ne me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches, comme dirait l'autre. Je place la cuve à la verticale pour descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs thoraciques quant à elles, sont moins fortes que la veille. Au passage j'inspecte mes bandages, mes pansements, puis je me lève. Je suis un peu raide, mais manifestement tout est OK. Il y a une petite table carrée, à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, l'eau est fraiche, je bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
+Le calme est revenu, c'est limite angoissant. Je ne me sens pas rester dans la cuve toute la journée, je vais finir par me faire des escarres aux miches, comme dirait l'autre. Je place la cuve à la verticale pour descendre. Je teste mes jambes, elles ont l'air de fonctionner parfaitement, les douleurs thoraciques quant à elles, sont moins fortes que la veille. Au passage j'inspecte mes bandages, mes pansements, puis je me lève. Je suis un peu raide, mais manifestement tout est OK. Il y a une petite table carrée, à hauteur d'homme, sur laquelle est posée une carafe d'eau. Je me sers un verre, l'eau est fraîche, je bois en fermant les yeux façon publicité pour les produits laitiers. Ça me fait un bien fou.  
 
-J'ai toujours le verre aux lèvres, quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément *Imothep*. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça parait risqué de mettre tous les amnésiques "volontaires" dans la même chambre non ?  
+J'ai toujours le verre aux lèvres, quand je me mets à scruter les cuves des autres patients. Elles sont toujours fermées, j'entends des bips et des blops, les corps sont endormis, bandés, certains à la tête, d'autres au niveau des jambes, du torse et il y en a un c'est carrément *Imothep*. Qui sont ces gens au fait ? Est-ce que je les connais ? Ça paraît risqué de mettre tous les amnésiques "volontaires" dans la même chambre, non ?  
 
-J'essaye toujours de comprendre mon environnement. Par la fenêtre, il y a un parc fleuri, des arbres feuillus projettent leurs ombres bienfaitrices sur des bancs placés harmonieusement sous leur protection. Nous sommes en fin de matinée *a priori*, il y a de l'activité en bas. Quelle heure est-il ? Je descendrais bien prendre un café en bas - il y a forcément une machine qui distribue du café en bas - mais je n'ai pas un radis, je suis à poil sous ma chemise de nuit, et je ne vois aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je vais me rencarder.  
+J'essaye toujours de comprendre mon environnement. Par la fenêtre, il y a un parc fleuri, des arbres feuillus projettent leurs ombres bienfaitrices sur des bancs placés harmonieusement sous leur protection. Nous sommes en fin de matinée *a priori*, il y a de l'activité en bas. Quelle heure est-il ? Je descendrais bien prendre un café en bas - il y a forcément une machine qui distribue du café - mais je n'ai pas un radis, je suis à poil sous ma chemise de nuit, et je ne vois aucune affaire personnelle dans la chambre. Dans la cuve, il y a une commande pour contacter le bureau des infirmières. Je vais me rancarder.  
 
 Au bout de quatre sonneries ça décroche, une voix fatiguée répond :  
 
 « -- Secrétariat étage 2, que puis-je pour vous ?  
 -- bonjour... chambre euh, j'en sais rien en fait.  
--- 10A-932 monsieur, évidemment qu'elle le connait le numéro.  
+-- 10A-932 monsieur, évidemment qu'elle le connaît le numéro.  
 -- Ok, bah merci, je dois être le seul à ne pas le savoir.  
 -- Je peux vous aider ? Vous auriez besoin de quelque chose ?  
 -- Je voudrais descendre prendre un café à la machine, histoire de me dégourdir les gambettes voyez, et malheureusement je ne sais pas où sont rangées mes affaires...  
 -- Vous êtes arrivé avec quasiment rien sur vous monsieur, d'après ce que je vois, et...  
--- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, c'est un peu sec mais pas le temps niaiser.  
+-- Dans quasi-rien, y'a "quasi", "quasi" comme mes thunes par exemple, c'est un peu sec mais pas le temps de niaiser.  
 -- Les quelques affaires qui vous restaient en arrivant ont été incinérées monsieur, sa voix suinte le malaise.  
 -- Pardon ? »  
 
@@ -183,7 +183,7 @@ Je vrille à nouveau.
 
 Ma peau brûle sous les rubans, je vacille et essaye de m’agripper à la cuve pour ne pas me vautrer sur la carrelage de la chambre. Au même moment, j'entends débouler *fissa* deux personnes qui me prennent par les bras et me remettent dans la cuve en deux-deux, sans que j'ai le temps de chouiner. Ma tête tourne, je sens l'antalgique se répandre dans mon corps et tuer la douleur progressivement.  
 
-Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe et le chirurgien *slash* *dude*-au-bord-du-*burnout* qui me scrute. Il inspecte mes rubans.  
+Je crois que je suis tombé dans les vapes. En ouvrant les yeux, devant moi, deux aides-soignants *slash* molosses, la même interne *slash* scribe, et le chirurgien *slash* *dude*-au-bord-du-*burnout* qui me scrute. Il inspecte mes rubans.  
 
 « -- Tout va bien, évitez les gestes brusques, ça tire sur les rubans et ça réveille les blessures.  
 -- OK, je voudrais faire un tour dans le parc en bas et me prendre un café au distributeur.  
@@ -198,27 +198,29 @@ Il souffle.
 -- Vous comptez m'enlever six semaines de plus de toute manière, je réponds du tac au tac.  
 -- Vous n'êtes pas le premier pour qui c'est difficile et encore moins le premier à l'exprimer d'une manière véhémente. »  
 
-Il me tourne le dos et en sortant, balance agacé à l'interne « faites lui monter un café, si c'est vraiment ce qu'il veut ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle me souris en retour et sort.  
+Il me tourne le dos et en sortant, balance agacé à l'interne « faites lui monter un café, si c'est vraiment ce qu'il veut ». La jeune femme fronce les sourcils, me regarde, je lui signale d'un geste de la main que ce n'est pas la peine, elle me sourit en retour et sort.  
 
-J'attends quelques minutes, passe rapidement à la douche, puis me décide à prendre l'air. Cette fois c'est la bonne.  
+J'attends quelques minutes, passe rapidement à la douche sonique, puis me décide à prendre l'air. Cette fois, c'est la bonne.  
 
-En bas, je me pose devant un distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvis du bâtiment. Il fait bon, chaud, c'est le printemps à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. « Il est dix heures pétante », me dit-il. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous a priori ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en cogne ». Il conclue par une petite tape sur mon épaule et reprend sa route.  
+En bas, je me pose devant un distributeur à *junkfood*, je ne repère aucun produit en équilibre précaire, prêt à tester mon honnêteté. Je passe la porte du hall et arrive sur le parvis du bâtiment. Il fait bon, chaud, c'est le printemps à coup sûr. Je m'étire, respire un grand coup, puis me dirige vers un banc qui vient de se libérer. Je croise un patient, un petit vieux assez vaillant, avec une belle crinière argentée coiffée en arrière. Je le salue poliment et en profite pour lui demander l'heure. « Il est dix heures pétantes », me dit-il. Au passage, je tente de savoir où nous sommes. Il me regarde longuement, en souriant, puis me répond « jeune homme, je suis ici pour les mêmes raisons que vous a priori ». Il fait une pause et après un petit rictus coquin, précise tout bas : « je suis incapable de répondre à votre question et très franchement, je m'en cogne ». Il conclut par une petite tape sur mon épaule et reprend sa route.  
 
-Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fait un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble plus à une tour administrative, qu'à un hôpital. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'ablation mémorielle. Tout ça a beau relever d'une forme de logique, ça me gonfle façon zeppelin.  
+Je décide de rester quelques minutes en bas, dans l'idée de faire le tour du propriétaire. Le parc a l'air petit finalement, j'arrive assez vite à cadrer le périmètre. Le portail d'entrée est très haut et fermé, il m'est impossible de voir la rue. Je me retourne, fais un tour sur moi-même, la vue est systématiquement bouchée, soit par les grands arbres, soit par les murs et le grand portail fermé, soit par le bâtiment lui-même, qui ressemble moins à un hôpital qu'à une tour administrative. Les derniers étages n'ont manifestement pas de fenêtre, tout est fait pour empêcher que le moindre détail remette en cause l'ablation mémorielle. Tout ça a beau relever d'une forme de logique, ça me gonfle façon zeppelin.  
 
 -----
 
-Le reste de la journée, je la passe à glander et à faire des aller-retour parc - chambre, chambre - parc. Les infirmières me matent à chaque passage devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
+Le reste de la journée, je la passe à glander et à faire des allers-retours parc - chambre, chambre - parc. Les infirmières me matent à chaque passage devant leur poste. Les deux premières fois elles ont tiqué, au bout de la cinquième, elles ont commencé à faire la même tête que des parents abrutis par la 32ème descente de toboggan enthousiaste du fiston Jean-Sven, celui qu'aura cinq ans en janvier.  
 
-La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième volte-face, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturber le sommeil de mes camarades de chambrée.  
+La nuit à peine tombée, je me cale dans la cuve. La journée n'ayant pas été très active, je cherche le sommeil sans jamais le trouver. Finalement, après le huitième volte-face, en esquivant les positions douloureuses à cause des rubans cicatrisants, je me lève. Je prends l'enveloppe que m'a laissée docteur *Burnout* et me prépare à descendre. J'aurais pu retourner la cuve, taper sur les murs de ma chambre, déclencher l'alarme en mode sale gosse ou gueuler comme un porc qu'on égorge à l'abattoir, que ça n'aurait en rien perturbé le sommeil de mes camarades de chambrée.  
 
-Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vu sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Dans tous les cas, personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive. C'est étrange, mais ça m'arrange.  
+Dans le grand hall de l'hôpital, je m'installe dans le petit salon avec vue sur le parc. L'ambiance est *cosy*, la lumière douce qui descend des spots est suffisante pour ce que j'ai à faire. Trois fauteuils en cuir marron sont installés autour d'une table basse ronde en bois et comme je suis seul, j'en profite pour poser les pieds dessus, comme un malpoli. L'atmosphère feutrée n'est perturbée que par les passages réguliers du personnel médical, tantôt venu chercher de quoi grignoter au distributeur à *junkfood*, tantôt venu consulter des documents à l'accueil, la plupart ne s'occupe pas de moi, à peine me remarquent-ils, les autres m'offrent un sourire curieux et discret. Dans tous les cas, personne ne semble s'inquiéter du fait que je ne sois pas dans ma chambre à cette heure tardive. C'est étrange, mais ça m'arrange.  
 
 Je commence à relire les lignes que j'ai manifestement écrites deux mois plus tôt, elles n'ont que peu d'intérêt.  
 
-Je continu mon travail d'inspection en m'attaquant à la lecture du protocole de soins détaillé. J'ecarquille les yeux, je n'ai jamais vu un chantier pareil, c'est à se demander comment je suis encore vivant. Le pire que j'avais vécu jusque là, c'est une fracturette de l'index de la main droite autour de mes quinze ans. Une banale histoire de porte claquée à quatres heures du matin.  
+Je continue mon travail d'inspection en m'attaquant à la lecture du protocole de soins détaillé. J'écarquille les yeux, je n'ai jamais vu un chantier pareil, c'est à se demander comment je suis encore vivant. Le pire que j'avais vécu jusque-là, c'était une fracturette de l'index de la main droite autour de mes quinze ans. Une banale histoire de porte claquée à quatres heures du matin.  
 
-Manifestement dans la longue liste, je n'ai droit qu'à six types de soin au maximum avec ma prise en charge *prémium* - sur les conseils d'un chirurgien conseil évidemment, c'est marqué en haut à droite du document. J'ai eu droit à tout ça :  
+Manifestement dans la longue liste, je n'ai droit qu'à six types de soin au maximum avec ma prise en charge *prémium* - sur les conseils d'un chirurgien conseil évidemment, c'est marqué en haut à droite du document.  
+
+J'ai eu droit à tout ça :  
 
 - Soins de base :  
   - reconstruction de base : + cicatrisants + bandages + antalgiques (niv 1)  
@@ -229,7 +231,7 @@ Manifestement dans la longue liste, je n'ai droit qu'à six types de soin au max
   - poumon droit  
 - greffe(s) régénérative(s) temporaire(s) (jusqu'à 3) :  
   - jambe droite à partir du genou  
-- greffes de peau (3 max):  
+- greffes de peau (jusqu'à 3):  
   - avant-bras droit  
   - + perfusion cicatrisant  
   - antalgique(s) ++ (max niv 5)  
@@ -244,11 +246,11 @@ En le remettant dans l'enveloppe, je remarque une autre lettre petit format, à 
 
 *Je ne vois pas vraiment comment te présenter la situation sans pouvoir te lister les motifs qui ont donné le feu vert à l'enclenchement d'une prise en charge premium.*  
 
-*Cependant, sois en convaincu, tu n'es pas emprisonné à Sainte-Hélène, c'est bien toi qui a autorisé le recours à cette thérapie, par nécessité, en pesant le pour et le contre.*  
+*Cependant, sois-en certain, tu n'es pas emprisonné à Sainte-Hélène, c'est bien toi qui a autorisé le recours à cette thérapie, par nécessité, en pesant le pour et le contre.*  
 
 *La seule chose que je peux faire donc, c'est essayer de te convaincre. Tu dois m'accorder ta confiance, sur la seule et unique base que nous sommes la même personne, et pour cette raison je ne vais pas y aller par 4 chemins.*  
 
-*Nous le savons tous les deux, tu es probablement, la personne la plus égocentrique et la plus égoïste que je connaisse.*  
+*Nous le savons tous les deux, tu es probablement la personne la plus égocentrique et la plus égoïste que je connaisse.*  
 
 *Tous tes combats éthiques et moraux sont factices.*  
 
@@ -262,11 +264,11 @@ En le remettant dans l'enveloppe, je remarque une autre lettre petit format, à 
 
 *Et nous le savons tous les deux, jamais tu ne te sacrifieras pour un idéal, jamais tu n'auras le courage du sergent Goubin.*  
 
-*Et de fait, nous le savons tous les deux, jamais de la vie je ne signerais, quelque chose contre mon intérêt. Le tien aussi en l'occurence.*  
+*Et de fait, nous le savons tous les deux, jamais de la vie je ne signerai, quelque chose contre mon intérêt. Le tien en l'occurence.*  
 
 *Alors, oui, tu vas perdre beaucoup plus que deux mois de mémoire, mais je te le demande solennellement, accepte toutes les ablations mémorielles nécessaires. Tu n'as rien à gagner à les refuser. Absolument rien.*  
 
-*Tu dois te fier à ces quelques lignes, tu dois compter dessus, parce qu'elles d'éviterons de prendre un mauvais chemin qui précipiterait ta perte.*  
+*Tu dois te fier à ces quelques lignes, tu dois compter dessus, parce qu'elles t'éviteront de prendre un mauvais chemin qui précipiterait ta perte.*  
 
 *Solennellement,*  
 
@@ -276,17 +278,17 @@ La lecture n'a pas été très agréable, elle a été troublante même, on va p
 
 Si ce moi du passé est aussi prudent que je le suis aujourd'hui, que le choix du traitement soit réellement le mien ou non, une porte de sortie a forcément été cachée dans ce courrier. Il y a trop de choses étranges dans ce texte. Ce n'est pas mon style. J'ai dû caler des indices par-ci par-là, via un code ou un algo, des *easter eggs*, quelque chose dans le texte que je serais le seul à comprendre ou qui déclencherait en moi des réactions, quand bien même j'en aurais perdu le souvenir. Si il y a bien une chose dont je suis convaincu, c'est de ça.  
 
-Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement je suis crevé malgré la curiosité succitée à la découverte de la deuxième lettre et je commence à piquer du nez. Incapable de tenir plus de dix secondes sur un paragraphe, je me décide à remonter dans ma chambre pour peut-être enfin réussir à dormir. Après tout, ce travail peut attendre demain ou après-demain, manifestement j'ai tout intérêt à faire le gentil toutou.  
+Je me mets alors à chercher des répétitions, des mots étrangement placés, des débuts de phrases, je regarde la structure en elle-même. On sait jamais, à la manière de George Sand, j'aurais pu tenter de balancer un message une ligne sur deux, par exemple. Je cherche des références aussi, des noms, des mots qui évoquent un passé lointain, un passé qui n'aurait pas été gommé, juste caché, calé bien au fond du sac rapiécé que constitue mon cerveau. Malheureusement, je suis crevé malgré la curiosité suscitée à la découverte de la deuxième lettre, et je commence à piquer du nez. Incapable de tenir plus de dix secondes sur un paragraphe, je me décide à remonter dans ma chambre pour peut-être enfin réussir à dormir. Après tout, ce travail peut attendre demain ou après-demain, manifestement j'ai tout intérêt à faire le gentil toutou.  
 
 -----
 
-Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes plaies sont moins douloureuses. Je me lève donc en me disant, qu'après la toilette, je serai bien plus frais pour attaquer sérieusement le décryptage de la deuxième lettre.  
+Je n'ai pas dormi longtemps, mais j'ai bien dormi. Il semble également que mes plaies sont moins douloureuses. Je me lève donc en me disant qu'après la toilette, je serai bien plus frais pour attaquer sérieusement le décryptage de la deuxième lettre.  
 
-Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument, aucun moyen d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
+Dans la petite salle de bain, je remarque une chose à laquelle je n'avais pas prêter attention la première fois que j'y ai mis les pieds. Il n'y a pas de miroir au dessus du lavabo. Pas même une surface sur laquelle pourrait se refléter mon visage. Absolument aucun moyen d'inspecter ma vilaine peau. Je commence à me dire que je vais devoir saouler les infirmier·e·s une fois encore, mais j'ai comme un drôle de pressentiment.  
 
 Je sors de la salle de bain un nœud à l'estomac. Dans la chambre je ne peux voir aucun reflet non plus, les *tabs* des cuves de soins ne reflètent rien, même éteintes, les grandes vitres qui donnent une vision panoramique sur le parc, non plus. L'angoisse monte alors d'un cran. J'agrippe ma robe de chambre et tout en l’enfilant, je sors précipitamment en me mettant à marcher de vive allure à la recherche de la moindre surface capable de renvoyer mon visage, mes traits, mes rides, mes yeux, la couleur de mes yeux, de mes cheveux, ma calvitie, mais non rien de rien, je ne trouve rien, je ne vois rien, au mieux une vague silhouette floue, quasi vampirique. Je croise un infirmier qui m'interpelle et me demande de ralentir. Je m'en tape de ce qu'il me raconte, sa voix se perd quand je passe l'angle du couloir. Je descends au rez-de-chaussez par l'ascenseur, toujours pas de surface réfléchissante, de reflet, même déformé, rien ne m'est donné.  
 
-En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant en essayant de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné compétent n'approuverait, la vitre ne veut rien refléter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Je me retourne alors promptement et me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que la veille les lumières qui éclairent les arbres et les chemins dehors, m'ont trompé ? J'aurais dû le voir dès la première fois, j'aurais dû voir que je ne peux pas me voir. Il n'y a rien ici, dans ce bâtiment, dans cette prison, qui ne renvoie la moindre image, le moindre reflet.  
+En bas, la première chose à laquelle je pense, c'est au distributeur de *junkfood*. Je me mets devant en essayant de trouver un angle, une ligne de vue, un moyen de feinter le système. J'ai beau gesticuler dans tous les sens, me mettre dans des positions qu'aucun kiné compétent n'approuverait, la vitre ne veut rien refléter. Je ne vois que des lignes de produits, des barres et de boissons sucrées *ad nauseam*. Je commence à paniquer. La pression monte encore, je sens mon cœur battre très vite, de plus en plus vite, c'est douloureux, anormalement douloureux. Ma tête commence à tourner. Je me retourne alors promptement et me place face à l'énorme baie vitrée avec vue sur le parc. Peut-être que la veille, les lumières qui éclairent les arbres et les chemins dehors, m'ont trompé ? J'aurais dû le voir dès la première fois, j'aurais dû voir que je ne peux pas me voir. Il n'y a rien ici, dans ce bâtiment, dans cette prison, qui ne renvoie la moindre image, le moindre reflet.  
 
 Rien. Nada. Niente.  
 

@@ -9,8 +9,6 @@ enonce : "Plusieurs exercices sur du texte court voire très court"
 tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires", "Complet", "Avec corrections", "Temps imparti", "Moulin du Blochet"]
 ---
 
-> [Texte de l'exercice 2](#le-texte-2) / [Texte de l'exercice 3](#le-texte-3)  
-
 ## Exercice 1 du matin
 
 - -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  

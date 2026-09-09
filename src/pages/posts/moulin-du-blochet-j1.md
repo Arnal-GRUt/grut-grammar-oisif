@@ -16,12 +16,6 @@ blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhvt52vpb
 
 ## Exercice 1 du matin  
 
-| **Exercice 1 du matin**                                                                        | ****                                                                                                                                                                                                                   | ****                                                                          |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Texte source                                                                                   | Mots tirés du texte source                                                                                                                                                                                             | Thème                                                                         |
-| Texte n°1 – recueil Utopiales 2023 – nouvelle « *Coup d’oeil* » de Julien Heylbroeck Caldironi | révolution / scaphandre / grippé / programme / **orbite** / **filandreux** / **rosâtre** / acide / galactique / regard / **tentacule** / pédoncule / navette / astre / dieu / chimérique / écu / **carcasse** / patron | Le mot de [Ketty Steward](https://www.instagram.com/k_tastrof/) : cure (n°17) |
-
-
 - -- Texte n°1 – recueil Utopiales 2023 – nouvelle « *Coup d’oeil* » de Julien Heylbroeck Caldironi  
 - -- Le mot de [Ketty Steward](https://www.instagram.com/k_tastrof/) : cure (n°17)  
 - -- 25 minutes max  

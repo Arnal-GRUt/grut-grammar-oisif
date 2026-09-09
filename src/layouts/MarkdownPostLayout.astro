@@ -20,8 +20,14 @@ const { frontmatter } = Astro.props;
             <span>|</span><span class="auteur">{frontmatter.author}</span>
           </p>
           <form>
-          <input type="radio" id="html" name="choix-lect" value="text-only" />
-          <label for="html">Lire seulement les textes</label><br />
+            <!-- Pour choisir de se contenter des textes sans les préambules -->
+            <input
+              type="checkbox"
+              id="choix-lect"              
+              name="choix-lect"
+              value="t-o"
+            />
+            <label for="choix-lect">Lire seulement les textes</label><br />
           </form>
         </div>
         <div class="display-flex direction-column introduction">

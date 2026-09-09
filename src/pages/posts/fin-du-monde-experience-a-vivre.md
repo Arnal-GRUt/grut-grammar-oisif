@@ -12,6 +12,8 @@ blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhqttoblk
 
 ## Encore un peu de contexte
 
+[Aller au texte directement](#la-nouvelle)  
+
 En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà rédigé quelques nouvelles - la plupart inachevées - mais je ne m'étais pas encore imposé, à proprement parler, une discipline de travail. Ce que je cherchais à l'époque, c'était un moyen de réguler l'acte d'écriture, de créer une sorte de rendez-vous régulier avec celui-ci, quitte à ce que le résultat ne soit pas toujours probant. J'étais convaincu et je le suis encore, que la pratique régulière est le meilleur moyen de progresser, quel que soit le domaine.  
 
 Alors oui, je ne vous apprends rien. C'est de la pure eau tiède pressée à froid. Celà dit, être convaincu d'une chose c'est bien, mais ne rien en faire derrière c'est comme se dire qu'on a faim et attendre que le repas se fasse tout seul les panards posés sur la table basse. *Spoiler alert !* Il ne se passe rien et on meurt d'inanition (avec quelques étapes entre les 2 je l'admets volontiers, et si l'on pose la fin du patriarcat comme condition *sine qua non* à la réalisation de l'hypothèse. Cette parenthèse est beaucoup trop longue).  

@@ -9,6 +9,8 @@ enonce : "3 temps : passé, présent, futur - sélectionner plusieurs mots dans
 tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires", "Complet", "Avec corrections", "Temps imparti", "Moulin du Blochet"]
 ---
 
+> [Texte de l'exercice 2](#le-texte)  
+
 ## Exercice 1 du matin  
 
 3 temps : passé, présent, futur - sélectionner plusieurs mots dans 3 textes différents tirés au sort parmi 5 livres/revues - garder 1 mot de chaque liste de mots (tirage au sort) - 15 minutes par texte.
@@ -88,6 +90,8 @@ Les mots tirés au sort :
 - -- Le thème de Katty : « Mélanger »
 
 **Texte remanié d’après le premier jet sur le cahier (Moulin du Blochet).**
+
+### Le texte
 
 Il m’a mordu il y a 4 jours ce con de clébard. C’était un très gros chien-loup. J’y connais rien en race de chien mais toujours est-il que ça y ressemblait. En tous cas la blessure au bras m’a fait très mal. On m’avait prévenu que les bois derrière la ville étaient mal fréquentés même si je ne pensais pas à ce genre de « fréquentation » pour être tout à fait honnête. J’ai failli y passer vraiment. Heureusement que la bagnole était garée pas loin, à 1 ou 2 seconde près je finissais en quatre-heures pour le bestiau. Je crois que je n’ai jamais couru aussi vite de ma vie. Je mériterais une médaille pour une telle performance.  
 

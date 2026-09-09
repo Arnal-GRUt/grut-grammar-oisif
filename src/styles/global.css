@@ -1201,7 +1201,7 @@ footer p.accroche {
 	padding: 64px 24px;
 }
 
-input[type="checkbox"] {
+input[type="checkbox"]:not(#choix-lect) {
 	display: none;
 }
 

@@ -19,6 +19,10 @@ const { frontmatter } = Astro.props;
             >
             <span>|</span><span class="auteur">{frontmatter.author}</span>
           </p>
+          <form>
+          <input type="radio" id="html" name="choix-lect" value="text-only" />
+          <label for="html">Lire seulement les textes</label><br />
+          </form>
         </div>
         <div class="display-flex direction-column introduction">
           <h3>Présentation</h3>
@@ -57,7 +61,7 @@ const { frontmatter } = Astro.props;
       border: 2px solid var(--defaut-txt);
       transform: rotate(-1deg) translate(4rem);
       max-width: calc(100% - 4rem);
-      margin-bottom: 1rem;      
+      margin-bottom: 1rem;
 
       & p {
         font-size: 1rem;

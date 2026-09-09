@@ -9,8 +9,8 @@ enonce : "2 exercices, des mots à intégrer, un thème à chaque fois, 25 min m
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
-[Texte de l'exercice 1](#le-texte-1)  
-[Texte de l'exercice 2](#le-texte-2)  
+> [Texte de l'exercice 1](#le-texte-1)  
+> [Texte de l'exercice 2](#le-texte-2)  
 
 ## Préambule
 

@@ -100,4 +100,4 @@ Donnez-moi des heures, des jours, rendez-moi mon temps.
 * 8 PP : Initiales prénom nom : Patrick Palourde  
 * vr.24 : numéro de *reborn* = nombre de fois qu'il a été récupéré HS sur le champ de bataille  
   
-( ** ) BRA : Bon pour Rapatriement Arrière
+( ** ) BRA : Bon pour Rapatriement Arrière  

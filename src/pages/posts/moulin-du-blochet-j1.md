@@ -10,7 +10,8 @@ tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoi
 blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhvt52vpbk23'
 ---
 
-> [Texte de l'exercice 1](#le-texte-1) / [Texte de l'exercice 2](#le-texte-2)  
+> [Texte de l'exercice 1](#le-texte-1)  
+> [Texte de l'exercice 2](#le-texte-2)  
 
 ## Exercice 1 du matin  
 
@@ -75,7 +76,7 @@ Les mots piochés dans le texte (en gras les mots finalement choisis – mots co
 
 -----
 
-### Texte 2
+### le texte 2
 
 > non-modifié (ou très peu) 
 

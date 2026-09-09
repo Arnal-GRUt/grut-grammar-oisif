@@ -9,7 +9,7 @@ enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise d
 tags: ["Écritouille", "Narratif", "Complet", "Feuilleton"]
 ---
 
-[Aller au texte directement](#la-bourde---partie-13)
+> [Accès direct au texte](#la-bourde---partie-13)
 
 ## Préambule
 

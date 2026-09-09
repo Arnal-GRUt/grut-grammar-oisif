@@ -9,6 +9,9 @@ enonce : "Lecture d'un paragraphe dans un texte publié - on en tire autant de m
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Commentaires", "Moulin du Blochet"]
 blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhvt52vpbk23'
 ---
+
+> [Texte de l'exercice 1](#le-texte-1) / [Texte de l'exercice 2](#le-texte-2)  
+
 ## Exercice 1 du matin  
 
 - -- Texte n°1 – recueil Utopiales 2023 – nouvelle « *Coup d’oeil* » de Julien Heylbroeck Caldironi  
@@ -21,7 +24,7 @@ révolution / scaphandre / grippé / programme / **orbite** / **filandreux** / *
 
 -----
 
-### Le texte
+### Le texte 1
 
 C’est dans la chambre d’amis qu’une femme de ménage trouva le cadavre. Le mort était arrivé la veille. Il n’avait pas semblé malade, ni inquiet ou prêt à en finir d’une quelconque manière. Monsieur Pouliche c’était son nom, était une connaissance du baron. Il venait une fois l’an au château pour faire la fête aux frais de la princesse. Le baron et lui-même se racontaient des histoires de vieux combattant. Au sens propre du terme. Ils avaient tous les deux combattu le Neptunien à la bataille de *Terra Sanitatis*[^1] pendant les guerres solaires. Une énorme défaite ponctuelle pour une victoire finale qui la fit passer pour une réussite stratégique a posteriori. Entre deux vieux amis de la haute, ils se racontaient des histoires de scaphandre percés et de tripes à l’air, tout ça sur fond d’OST de films de Dany Boon - passion commune des deux hommes.
 
@@ -72,7 +75,9 @@ Les mots piochés dans le texte (en gras les mots finalement choisis – mots co
 
 -----
 
-### Texte non-modifié (ou très peu) ###
+### Texte 2
+
+> non-modifié (ou très peu) 
 
 C’est le mur le plus haut. Dans les champs de murs il y en a de toutes tailles. Des petits d’à peine quelques centimètres, des moyens qu’on peut escalader uniquement en sautant voire à plusieurs en se faisant la courte échelle. Enfin il y a les très hauts. Et parmi les très haut il y le **MUR**. Celui que peu de grimpeurs ont escaladé[^3]. Celui qui a à son actif un bon million d’échecs, parfois mortels, horribles.  
 

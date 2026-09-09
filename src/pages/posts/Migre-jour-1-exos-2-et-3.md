@@ -68,6 +68,8 @@ Autour de lui, le silence, une lumière trouble, ses collègues qui passaient à
 
 ## Exercice 3 du matin  
 
+> [Accès direct au texte](#le-texte-3)  
+
 - -- Texte source : MONTESQUIEU. *Lettres persanes* - page 51  
 - -- 25 minutes max  
 - -- 4 mots retenus du texte lu  

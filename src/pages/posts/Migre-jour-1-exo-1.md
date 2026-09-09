@@ -9,7 +9,7 @@ enonce : "4 courts textes devant intégrer chacun 1 mot parmi ceux tirés du tex
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
-[Accès direct aux 4 textes](#le-thème)  
+> [Accès direct aux 4 textes](#le-thème)  
 
 ## Préambule
 

@@ -9,6 +9,8 @@ enonce : "À partir d'une phrase prononcée par Roland Lehoucq avant la remise d
 tags: ["Écritouille", "Narratif", "Complet", "Feuilleton"]
 ---
 
+[Aller au texte directement](#la-bourde---partie-13)
+
 ## Préambule
 
 Ce texte contient quelques maladresses, lourdeurs et un peu trop références gratuites à mon goût. Il y a, par ailleurs, des passages (surtout au début) que j'écrirais autrement aujourd'hui. Ceci-dit ce texte reste la première longue nouvelle que j'ai terminée, et rien que pour ça je suis un peu fier.  

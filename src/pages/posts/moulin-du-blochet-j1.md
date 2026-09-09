@@ -66,6 +66,8 @@ Dans le vide pour l'éternité où le son n'existe pas, personne ne l'entendit[^
 
 ## Exercice 2 du matin  
 
+> [Texte de l'exercice 2](#le-texte-2)  
+
 - -- Texte n°2 – L’affaire Dreyfus - Collections du Musée de Bretagne – p.28 - « *L’affaire sur les murs* »  
 - -- Le mot de Ketty Steward : mesuré.e (n°6)  
 - -- 25 minutes max  

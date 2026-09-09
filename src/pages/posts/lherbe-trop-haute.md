@@ -5,7 +5,7 @@ pubDate: 02-04-2026
 description: "Une très courte nouvelle écrite en avril 2023"
 author: "GRUt·"
 contexte : "D'après une idée que j'ai eu il y a une quinzaine d'années et les aléas de la vie."
-enonce : "n/a"
+enonce : "Nope"
 tags: ["Écritouille", "Narratif", "Complet"]
 ---
 

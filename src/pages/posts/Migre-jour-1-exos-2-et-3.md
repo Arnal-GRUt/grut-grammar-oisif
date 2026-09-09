@@ -9,6 +9,9 @@ enonce : "2 exercices, des mots à intégrer, un thème à chaque fois, 25 min m
 tags: ["Écritouille", "Narratif", "Exercice", "Thème imposé", "Mots obligatoires", "Avec corrections", "Temps imparti", "Migré"]
 ---
 
+[Texte de l'exercice 1](#le-texte-thème--voile-)  
+[Texte de l'exercice 1](#le-texte-thème--souviens-toi-toujours-du-néant--)  
+
 ## Préambule
 
 Je n'ai pas eu le temps de tout reprendre dans l'après-midi du premier jour, on voulait travailler sur autre chose. Je m'y suis remis le soir même, de retour du resto et l'aprem du deuxième jour. Les 2 derniers exercices de la première journée sont donc disponibles juste après.  
@@ -38,7 +41,7 @@ Les 4 mots à intégrer dans le texte : silence, pauvre, vide et poudre
 
 Le thème dans la [liste d'avril 2026](https://bsky.app/profile/ktastrof.bsky.social/post/3mietr4e3ik2g) : voile (n° 2)  
 
-### Le texte  
+### Le texte (thème « voile ») 
 
 Tout a commencé avec un silence. Un silence étrange, un vrai silence, une absence totale de son qui dura trente secondes. Pour Tiburce, ce court moment fut le plus long, le plus malaisant, le plus angoissant qu'il n'ait eu à vivre dans sa courte vie de trentenaire.  
 
@@ -83,7 +86,7 @@ Les 4 à intégrer dans le texte : lettre, chemin, douceur et oriental(e)
 
 Le thème tiré de la liste de B : "Souviens toi toujours du néant"  
 
-### Le texte
+### Le texte (thème « Souviens toi toujours du néant » )
 
 >*Auteurice inconnu.e* - "*Mes Lettres à tous*" - catégorie textes interdits  
 >(extrait du journal d'un soldat).

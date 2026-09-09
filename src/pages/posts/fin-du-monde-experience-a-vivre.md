@@ -10,9 +10,9 @@ tags: ["Écritouille", "Narratif", "Exercice", "Complet", "Avec corrections", "A
 blueskyUri: 'at://did:plc:7mc75mand5jksyzfgdaaspsw/app.bsky.feed.post/3mhqttoblk22w'
 ---
 
-## Encore un peu de contexte
-
 [Aller au texte directement](#la-nouvelle)  
+
+## Encore un peu de contexte
 
 En 2016, ça faisait déjà un moment que j'essayais d'écrire. J'avais déjà rédigé quelques nouvelles - la plupart inachevées - mais je ne m'étais pas encore imposé, à proprement parler, une discipline de travail. Ce que je cherchais à l'époque, c'était un moyen de réguler l'acte d'écriture, de créer une sorte de rendez-vous régulier avec celui-ci, quitte à ce que le résultat ne soit pas toujours probant. J'étais convaincu et je le suis encore, que la pratique régulière est le meilleur moyen de progresser, quel que soit le domaine.  
 

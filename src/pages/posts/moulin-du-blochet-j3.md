@@ -9,6 +9,8 @@ enonce : "Plusieurs exercices sur du texte court voire très court"
 tags: ["Écritouille", "Narratif", "Exercice", "Premier jet", "Mots obligatoires", "Complet", "Avec corrections", "Temps imparti", "Moulin du Blochet"]
 ---
 
+> [Texte de l'exercice 2](#le-texte-2) / [Texte de l'exercice 3](#le-texte-3)  
+
 ## Exercice 1 du matin
 
 - -- 4 mots tirés au sort dans une liste de mots choisis dans un texte lu à voix haute.  
@@ -62,6 +64,8 @@ Les mots : **mort** / **ritournelle** / cerisier / gel / **floraison** / rire /
 
 Le thème : BULLE  
 
+### Le texte
+
 Au printemps, Miroslav Dumoulin sort ses compagnons les nains de jardin. Il n’a pas un très grand terrain, juste quelques mètres carrés devant et derrière sa maisonnette sur les hauteurs de la ville. Il ne sort ses nains qu’au printemps parce qu’il estime qu’il n’y a pas de raison valable de les laisser subir les fortes pluies de l’automne, le ruissellement des eaux, les feuilles tombantes du platane sur leur bonnet ou la neige des périodes de grands froids. Depuis qu’il est seul, les nains de jardin sont ses seuls amis. Miroslav s’est réfugié dans une petite bulle.  
 
 Son univers à lui est fait de lecture au coin du feu pendant les longues saisons humides. Il passe ses journées à lire à voix haute des histoires aux nains de jardin bien rangés devant la cheminée. Ils sont des auditeurs concentrés et respectueux. Quand le printemps revient, au moment des premières floraisons, Miroslav fait de même mais cette fois dans le jardin. Les nains sont toujours là, dispersés un peu partout sur le petit terrain. Il y en a quelques-uns sous le platane, d’autres près du portail qui mène à la rue et les derniers à côté du puits, derrière la maison.  
@@ -82,6 +86,8 @@ Le texte source : DEPARDON, Raymond. *J. O.* – *Montréal 1976*
 Les mots : **séjour** / affaire / kilo / idée / télévision / mitrailler / fraction / **qui-vive** / spécial / vedette / **couverture**  
 
 Le thème : SÉCHÉ·E  
+
+### Le texte
 
 Depuis une centaine d’années environ des colons se sont installés sur TERRA-2. Sur une échelle de 1 à 10, 1 signifiant « très hostile/invivable » et 10 « conditions optimales à la l’installation », TERRA-2 avait une note de 9. Jusqu’à sa découverte, l’humanité n’avait pu trouver tout au mieux que des T7, ce qui semblait déjà satisfaisant à première vue. D’autant que pendant plus d’un siècle après la mise en marche JWST la découverte d’une T4 était considérée comme un miracle. Puis les T4, les T5 et enfin les T6 apparurent en nombre grâce aux mises à jour successive du télescope, jusqu’à la découverte d’une T7 à la limite d’une T8, qui donna de grands espoirs à l’humanité.  
 

@@ -13,25 +13,7 @@ tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
 
 Très vieux texte dont la première version est lisible [ici](https://grammar-oisif.fr/posts/broye-adlib-original).  
 
-## Version 2026 : « Adlib V3 »
-
----
-layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Adlib'
-pubDate: "04-13-2026"
-description: "Une histoire de guerre"
-author: "GRUt·"
-contexte : "Un vieux texte retravaillé en profondeur (initialement écrit en 2014)"
-enonce : "Fait partie d'un ensemble de nouvelles comprenant pour le moment « Ablation » et « Journal d'un conscrit »"
-tags: ["Écritouille", "Narratif", "Complet", "Avec corrections"]
----
-
-## Préambule  
-
-Très vieux texte dont la première version est lisible [ici](https://grammar-oisif.fr/posts/broye-adlib-original).  
-
-## Version 2026 : « Adlib V3 »
-
+### Version 2026 : « Adlib V3 »
 
 > 728 mots  
 > 4064 (+esp) / 3343 (-esp) caractères  

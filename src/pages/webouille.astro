@@ -2,12 +2,10 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
-// import type { ImageMetadata } from "astro";
-const allImg = await getCollection("visuelsWebouille");  
+const allImg = await getCollection("visuelsWebouille");
 
-import webouilleImg from "../components/webouilleImg.astro";
+// import webouilleImg from "../components/webouilleImg.astro";
 const pageTitle = "Webouille";
-
 ---
 
 <BaseLayout pageTitle={pageTitle}>
@@ -16,16 +14,19 @@ const pageTitle = "Webouille";
     <section class="webouille-todo display-flex">
       <div class="display-flex">
         <div>
-          <h2 class="soustitre-page">Todo list</h2>        
+          <h2 class="soustitre-page">Todo list</h2>
           <p style="font-size: 1rem;">Maj : 04 mai 2026</p>
         </div>
         <ul>
           <li>&rsaquo;_</li>
           <li>Alléger le css</li>
-          <li>Améliorer la galerie de gribouilles / responsive</li>          
+          <li>Améliorer la galerie de gribouilles / responsive</li>
           <li>Intégrer les nouvelles flèches de retour section précédente</li>
           <li>Ajouter un système de commentaires pratique</li>
-          <li>Changer la couleur noire, à la place un gris anthracite (très sombre)</li>
+          <li>
+            Changer la couleur noire, à la place un gris anthracite (très
+            sombre)
+          </li>
         </ul>
       </div>
     </section>
@@ -33,654 +34,937 @@ const pageTitle = "Webouille";
       <div class="display-flex direction-column main-done">
         <p class="trigger-warning-blabla">
           <span id="top">! TRIGGER WARNING !</span>
-          </br>« Aux allergiques de la virgule, aux angoissés du blabla et aux phobiques du mot de trop, c'est le moment : « Fuyez ! Pauvres fous ! »          
+          « Aux allergiques de la virgule, aux angoissés du blabla et aux phobiques
+          du mot de trop, c'est le moment : « Fuyez ! Pauvres fous ! »
         </p>
         <p>
-          J'aime bien écrire. Si ce n'est pas votre première fois sur ce site, vous ne devriez pas être surpris·e de ce que vous trouverez sur cette page. Les autres, la majorité j'imagine, je vous préviens dès maintenant, ça risque d'être assez verbeux. Il y aura aussi des visuels et un peu de technique, mais je ne vais pas vous raconter d'histoire, enfin oui en fait, c'est plutôt ça l'idée, comme j'aime raconter des histoires, les origines de ce site constituant en soi une histoire, je vais la raconter. 
+          J'aime bien écrire. Si ce n'est pas votre première fois sur ce site,
+          vous ne devriez pas être surpris·e de ce que vous trouverez sur cette
+          page. Les autres, la majorité j'imagine, je vous préviens dès
+          maintenant, ça risque d'être assez verbeux. Il y aura aussi des
+          visuels et un peu de technique, mais je ne vais pas vous raconter
+          d'histoire, enfin oui en fait, c'est plutôt ça l'idée, comme j'aime
+          raconter des histoires, les origines de ce site constituant en soi une
+          histoire, je vais la raconter.
         </p>
         <h2 class="soustitre-page">Un peu de passif...</h2>
         <p>
-          L'idée d'un site perso me trottait dans la tête depuis quelques années déjà. À l'époque, plutôt qu'un portfolio <em>webdesigner</em>, j'étais parti sur un site sur lequel je partagerais des nouvelles. Dans cette optique, j'ai donc commis pas mal de prototypes sur papier et sur <a href="https://www.figma.com/fr-fr/" target="_blank">Figma</a> dont j'ai poussé certains jusqu'à la maquette animée (cf. ci-dessous). Au final, la flemme et des problèmes de compétences évident, ont toujours repoussé à plus tard la production de ces sites. De toute manière, arrivé le moment de l'intégration, syndrome de l'imposteur en bandoulière, j'aurais eu du mal à poster quoi que ce soit de consistant.
+          L'idée d'un site perso me trottait dans la tête depuis quelques années
+          déjà. À l'époque, plutôt qu'un portfolio <em>webdesigner</em>, j'étais
+          parti sur un site sur lequel je partagerais des nouvelles. Dans cette
+          optique, j'ai donc commis pas mal de prototypes sur papier et sur <a
+            href="https://www.figma.com/fr-fr/"
+            target="_blank">Figma</a
+          > dont j'ai poussé certains jusqu'à la maquette animée (cf. ci-dessous).
+          Au final, la flemme et des problèmes de compétences évident, ont toujours
+          repoussé à plus tard la production de ces sites. De toute manière, arrivé
+          le moment de l'intégration, syndrome de l'imposteur en bandoulière, j'aurais
+          eu du mal à poster quoi que ce soit de consistant.
         </p>
-        {                    
-          allImg   
-            .slice(2,3)                                          
-            .map((visuel ) => (                  							
+        {
+          allImg.slice(2, 3).map((visuel) => (
             <div class={`visuel-${visuel.id}`}>
-              <a href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1" target="_blank">
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
+              <a
+                href="https://www.figma.com/proto/qg2FYGixWEvQxpWFmzfn8g/ecritouilles?node-id=23-62&t=7Lj7x9PGXR3UTITO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A62&show-proto-sidebar=1"
+                target="_blank"
+              >
+                <Image
+                  src={visuel.data.image.source}
+                  alt={visuel.data.image.img_alt}
+                  width="1024"
+                />
               </a>
               <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
-        }               
+            </div>
+          ))
+        }
         <h2 id="reboot">Le reboot du projet</h2>
         <p>
-          En 2020, j'ai trouvé un travail de <strong>webdesigner/intégrateur</strong> qui m'a permis de me faire la main et surtout d'acquérir des réflexes professionnels. J'ai progressé auprès de mes collègues plus expérimenté·e·s et surtout, j'ai appris à travailler rapidement dans un cadre cependant peu propice à la créativité.
+          En 2020, j'ai trouvé un travail de <strong
+            >webdesigner/intégrateur</strong
+          > qui m'a permis de me faire la main et surtout d'acquérir des réflexes
+          professionnels. J'ai progressé auprès de mes collègues plus expérimenté·e·s
+          et surtout, j'ai appris à travailler rapidement dans un cadre cependant
+          peu propice à la créativité.
         </p>
         <p>
-          Puis est venu le temps du <em>reboot</em>. Ça a commencé en 2024, avec les copains du taf, des doutes, un ras-le-bol général et une envie collective de se faire un <strong>portfolio webdesigner</strong>. La première fois, on s'est donné rendez-vous un samedi après-midi au château de la Châtelaine et du CodeKeeper, pour travailler ensemble sur nos projets perso. L'idée était de miser sur l'émulation du groupe pour avancer et ne pas se laisser bouffer par la procrastination.
+          Puis est venu le temps du <em>reboot</em>. Ça a commencé en 2024, avec
+          les copains du taf, des doutes, un ras-le-bol général et une envie
+          collective de se faire un <strong>portfolio webdesigner</strong>. La
+          première fois, on s'est donné rendez-vous un samedi après-midi au
+          château de la Châtelaine et du CodeKeeper, pour travailler ensemble
+          sur nos projets perso. L'idée était de miser sur l'émulation du groupe
+          pour avancer et ne pas se laisser bouffer par la procrastination.
         </p>
-            {                    
-						  allImg   
-                .slice(3,4)                                          
-                .map((visuel ) => (                  							
-                <div class={`visuel-${visuel.id}`}>
-                    <Image 
-                        src={visuel.data.image.source} 
-                        alt={visuel.data.image.img_alt} 
-                        width="1024" />
-                    <p class="description">{visuel.data.img_name}</p>
-                </div>        
-            ))							
-						}
+        {
+          allImg.slice(3, 4).map((visuel) => (
+            <div class={`visuel-${visuel.id}`}>
+              <Image
+                src={visuel.data.image.source}
+                alt={visuel.data.image.img_alt}
+                width="1024"
+              />
+              <p class="description">{visuel.data.img_name}</p>
+            </div>
+          ))
+        }
         <p>
-          Après cette première réunion, on s'est vu une paire de fois, pas forcément au complet - moi le premier, j'ai raté quelques rendez-vous. Ces moments ont toujours été riches humainement, nos réunions ressemblaient à des <em>fab lab</em> sans pression, dans la bonne humeur, où le niveau de motivation était plus ou moins élevé suivant les personnes, et tout ça sous perfusion de <em>junk food</em> et de vannes foireuses. En ligne de mire, on s'était programmé une dernière réunion de présentation des portfolios terminés.
+          Après cette première réunion, on s'est vu une paire de fois, pas
+          forcément au complet - moi le premier, j'ai raté quelques rendez-vous.
+          Ces moments ont toujours été riches humainement, nos réunions
+          ressemblaient à des <em>fab lab</em> sans pression, dans la bonne humeur,
+          où le niveau de motivation était plus ou moins élevé suivant les personnes,
+          et tout ça sous perfusion de <em>junk food</em> et de vannes foireuses.
+          En ligne de mire, on s'était programmé une dernière réunion de présentation
+          des portfolios terminés.
         </p>
         <h3>Sous le haut patronage du CodeKeeper</h3>
         <p>
-          Au départ, sur les conseils du CodeKeeper, qui avait bien digué la question, on est parti sur une base :
-          <ul class="liste-intext"> 
-            <li><a href="https://gohugo.io/" target="_blank">HUGO</a> - <em>framework web</em> statique orienté blog, basé sur le langage Go</li>
-            <li><a href="https://www.netlify.com/" target="_blank">Netlify</a> - solution d'hébergement du site de travail/"recette"</li> 
-            <li>et <a href="https://github.com/?locale=fr-fr" target="_blank">GitHub</a> - gestionnaire de version, de flux, réseau social, etc.
+          Au départ, sur les conseils du CodeKeeper, qui avait bien digué la
+          question, on est parti sur une base :
+          <ul class="liste-intext">
+            <li>
+              <a href="https://gohugo.io/" target="_blank">HUGO</a> - <em
+                >framework web</em
+              > statique orienté blog, basé sur le langage Go
+            </li>
+            <li>
+              <a href="https://www.netlify.com/" target="_blank">Netlify</a> - solution
+              d'hébergement du site de travail/"recette"
+            </li>
+            <li>
+              et <a href="https://github.com/?locale=fr-fr" target="_blank"
+                >GitHub</a
+              > - gestionnaire de version, de flux, réseau social, etc.
             </li>
           </ul>
-        </p> 
-        <p>
-          Vu que certains étaient à peu près <em>noob</em> en matière de création de site <em>from scratch</em> - c'est à dire en partant d'un document vierge, sans code prémâché - l'idée de passer par ce type d'outils était de fait une bonne idée, d'autant plus que le CK nous avait confectionné un <a href="https://antoinemoreau.contact/blog/partie-1/" target="_blank">tutoriel</a> assez complet et précis pour débuter autour d'HUGO.
         </p>
-        {                    
-          allImg   
-            .slice(0,1)                                          
-            .map((visuel ) => (                  							
+        <p>
+          Vu que certains étaient à peu près <em>noob</em> en matière de création
+          de site <em>from scratch</em> - c'est à dire en partant d'un document vierge,
+          sans code prémâché - l'idée de passer par ce type d'outils était de fait
+          une bonne idée, d'autant plus que le CK nous avait confectionné un <a
+            href="https://antoinemoreau.contact/blog/partie-1/"
+            target="_blank">tutoriel</a
+          > assez complet et précis pour débuter autour d'HUGO.
+        </p>
+        {
+          allImg.slice(0, 1).map((visuel) => (
             <div class={`visuel-${visuel.id}`}>
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
+              <Image
+                src={visuel.data.image.source}
+                alt={visuel.data.image.img_alt}
+                width="1024"
+              />
+              <p class="description">{visuel.data.img_name}</p>
+            </div>
+          ))
         }
         <p>
-          Bon, on va pas se mentir, cette première expérience a tourné court pour des raisons diverses et plus ou moins sérieuses, allant du licenciement à des voyages à l'autre bout du monde, en passant par un manque de temps et d'investissement standard. Je n'étais moi-même pas très à l'aise avec HUGO (notamment à cause de ma méconnaissance du langage <em>GO</em>), si bien que j'ai fini par laisser pourrir le bouzin dans son coin après quelques sessions de travail.
-          </p>
+          Bon, on va pas se mentir, cette première expérience a tourné court
+          pour des raisons diverses et plus ou moins sérieuses, allant du
+          licenciement à des voyages à l'autre bout du monde, en passant par un
+          manque de temps et d'investissement standard. Je n'étais moi-même pas
+          très à l'aise avec HUGO (notamment à cause de ma méconnaissance du
+          langage <em>GO</em>), si bien que j'ai fini par laisser pourrir le
+          bouzin dans son coin après quelques sessions de travail.
+        </p>
         <p>
-          Pour ma défense, j'ai souhaité à l'origine installer HUGO sur mon vieux <em>laptop</em> qui avait déjà beaucoup de mal à lancer la moindre appli en ligne de commande et qui n'acceptait plus aucun périphérique de type écran secondaire. Alors, ça ressemble à une mauvaise idée évidemment, mais sur le moment, j'ai pesé le pour et le contre.
+          Pour ma défense, j'ai souhaité à l'origine installer HUGO sur mon
+          vieux <em>laptop</em> qui avait déjà beaucoup de mal à lancer la moindre
+          appli en ligne de commande et qui n'acceptait plus aucun périphérique de
+          type écran secondaire. Alors, ça ressemble à une mauvaise idée évidemment,
+          mais sur le moment, j'ai pesé le pour et le contre.
         </p>
         <p>
           En gros :
-            <ul class="liste-intext">
-              <li>il fallait que je puisse trimbaler l'outil aisément, de chez moi au château, donc pas d'installation sur ma tour (plus tard je l'ai installé sur ma tour aussi),</li>
-              <li>argument qui découle du précédent, je ne voulais pas utiliser celui du taf, par principe,</li>
-              <li>mais aussi parce que je n'avais pas la possibilité d'installer un serveur local (retenez bien ce point, je vais en reparler plus tard)</li>
-              <li>mon vieux machin tourne sous linux et l'installation d'un serveur local est très simple en ligne de commande,</li>
-              <li>en fait, j'avais envie de l'installer sur mon laptop</li>
-            </ul>
-        </p>        
+          <ul class="liste-intext">
+            <li>
+              il fallait que je puisse trimbaler l'outil aisément, de chez moi
+              au château, donc pas d'installation sur ma tour (plus tard je l'ai
+              installé sur ma tour aussi),
+            </li>
+            <li>
+              argument qui découle du précédent, je ne voulais pas utiliser
+              celui du taf, par principe,
+            </li>
+            <li>
+              mais aussi parce que je n'avais pas la possibilité d'installer un
+              serveur local (retenez bien ce point, je vais en reparler plus
+              tard)
+            </li>
+            <li>
+              mon vieux machin tourne sous linux et l'installation d'un serveur
+              local est très simple en ligne de commande,
+            </li>
+            <li>en fait, j'avais envie de l'installer sur mon laptop</li>
+          </ul>
+        </p>
         <p>
-          Sans surprise, c'était bien une idée moisie : 
+          Sans surprise, c'était bien une idée moisie :
           <ul class="liste-intext">
             <li>affichage en largeur max moins de 1366px,</li>
             <li>ordi en PLS 90 % du temps en raison d'un manque de mémoire,</li>
             <li>en lien avec le point précédent, des alt-tab de 8 ans,</li>
-            <li>le branchement d'un deuxième écran toujours impossible (problème matériel ingérable).</li>
+            <li>
+              le branchement d'un deuxième écran toujours impossible (problème
+              matériel ingérable).
+            </li>
           </ul>
         </p>
         <p>
-          <b>Conclusion</b> : le matos ça compte <em>a minima</em> quand même. Et oui, j'aurais évidemment perdu moins de temps si j'avais fait le choix d'utiliser le laptop du taf.
+          <b>Conclusion</b> : le matos ça compte <em>a minima</em> quand même. Et
+          oui, j'aurais évidemment perdu moins de temps si j'avais fait le choix d'utiliser
+          le laptop du taf.
         </p>
         <p>
-          De fait, même si ce n'est pas le seul motif d'abandon en rase campagne, ça n'a pas aidé et j'ai fini par mettre de côté le projet en attendant des jours meilleurs. Jours meilleurs qui sont finalement arrivés assez vite l'année suivante.         
-        </p>            
+          De fait, même si ce n'est pas le seul motif d'abandon en rase
+          campagne, ça n'a pas aidé et j'ai fini par mettre de côté le projet en
+          attendant des jours meilleurs. Jours meilleurs qui sont finalement
+          arrivés assez vite l'année suivante.
+        </p>
         <h2 id="2025">2025, année du reboot du reboot</h2>
         <p>
-          Le A, comme on l'appelle dans la Silicon Valley du Un Six, c'est pas le genre à se tanner la couenne au soleil quand il a quelque chose en tête, je vous invite à jeter un œil à son <a href="https://antoinemoreau.contact/" target="_blank">blog</a>. Une fois encore, c'est lui, qui continuant à fouiller le web à la recherche des meilleurs outils possibles, nous a dégoté une solution alternative à HUGO, en l'occurrence <a href="https://astro.build/" target="_blank">Astro js</a>, un autre <em>framework web js</em>, toujours optimisé création de blog <strong>html/css/js/md</strong>. Par ailleurs, il a l'avantage de ne pas exiger la maîtrise du langage <em>GO</em>.
+          Le A, comme on l'appelle dans la Silicon Valley du Un Six, c'est pas
+          le genre à se tanner la couenne au soleil quand il a quelque chose en
+          tête, je vous invite à jeter un œil à son <a
+            href="https://antoinemoreau.contact/"
+            target="_blank">blog</a
+          >. Une fois encore, c'est lui, qui continuant à fouiller le web à la
+          recherche des meilleurs outils possibles, nous a dégoté une solution
+          alternative à HUGO, en l'occurrence <a
+            href="https://astro.build/"
+            target="_blank">Astro js</a
+          >, un autre <em>framework web js</em>, toujours optimisé création de
+          blog <strong>html/css/js/md</strong>. Par ailleurs, il a l'avantage de
+          ne pas exiger la maîtrise du langage <em>GO</em>.
         </p>
-        <h3>Maintenant que j'ai les bons outils (ou presque)</h3> 
-        <ul class="liste-intext"> 
-          <li><del>HUGO</del> remplacé par <b>Astro Js</b> </li>
-          <li><a href="https://www.netlify.com/" target="_blank">Netlify</a> solution d'hébergement du site</li> 
-          <li>et <a href="https://github.com/?locale=fr-fr" target="_blank">GitHub</a> gestionnaire de version, de flux, réseau social, etc.
+        <h3>Maintenant que j'ai les bons outils (ou presque)</h3>
+        <ul class="liste-intext">
+          <li><del>HUGO</del> remplacé par <b>Astro Js</b></li>
+          <li>
+            <a href="https://www.netlify.com/" target="_blank">Netlify</a> solution
+            d'hébergement du site
+          </li>
+          <li>
+            et <a href="https://github.com/?locale=fr-fr" target="_blank"
+              >GitHub</a
+            > gestionnaire de version, de flux, réseau social, etc.
           </li>
         </ul>
         <p>
-          <em>Astro js</em> c'est révélé être la solution idéale - pour un  <em>dev Frontend</em> cela-dit - notamment grâce à son tuto <a href="http://docs.astro.build/fr/tutorial/0-introduction/" target="_blank">création de blog</a> très simple à suivre. La vf est assez complète et malgré quelques problèmes de traduction ou un manque de précision relativement pénible et bloquant par moments (pas toujours très clair de savoir quand on peut adapter les noms de dossier, fichiers, et quand on ne doit pas le faire du tout), on se laisse tranquillement porter jusqu'à la fin.
+          <em>Astro js</em> c'est révélé être la solution idéale - pour un <em
+            >dev Frontend</em
+          > cela-dit - notamment grâce à son tuto <a
+            href="http://docs.astro.build/fr/tutorial/0-introduction/"
+            target="_blank">création de blog</a
+          > très simple à suivre. La vf est assez complète et malgré quelques problèmes
+          de traduction ou un manque de précision relativement pénible et bloquant
+          par moments (pas toujours très clair de savoir quand on peut adapter les
+          noms de dossier, fichiers, et quand on ne doit pas le faire du tout), on
+          se laisse tranquillement porter jusqu'à la fin.
         </p>
-        {                    
-          allImg   
-            .slice(4,5)                                          
-            .map((visuel ) => (                  							
+        {
+          allImg.slice(4, 5).map((visuel) => (
             <div class={`visuel-${visuel.id}`}>
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
-        }        
+              <Image
+                src={visuel.data.image.source}
+                alt={visuel.data.image.img_alt}
+                width="1024"
+              />
+              <p class="description">{visuel.data.img_name}</p>
+            </div>
+          ))
+        }
         <h3>Repartir de "Zéro,5"</h3>
         <p>
-          Avant de passer à cette étape, j'ai repris le projet 2024 en partant du principe que je me devais d'être moins ambitieux sur la forme, au moins dans le cadre d'une v1 - le but étant d'arriver à mettre en ligne le site assez rapidement et de me consacrer le plus tôt possible au contenu.</p>
-        <p>
-          Pour commencer, je me suis fait un mini <em>moodboard</em>. J'avais déjà en tête une structure simplifiée du projet 2024 - qui comprenait du <em>scrolling horizontal</em>, des animations partout et j'en passe - mais si je n'avais pas encore d'idée très précise de ce que je voulais comme rendu définitif, j'entrevoyais déjà quelque chose de très <strong>graphique</strong>, qui intègre mes <strong>dessins</strong>.  
+          Avant de passer à cette étape, j'ai repris le projet 2024 en partant
+          du principe que je me devais d'être moins ambitieux sur la forme, au
+          moins dans le cadre d'une v1 - le but étant d'arriver à mettre en
+          ligne le site assez rapidement et de me consacrer le plus tôt possible
+          au contenu.
         </p>
-        {                    
-          allImg   
-            .slice(5,6)                                          
-            .map((visuel ) => (                  							
+        <p>
+          Pour commencer, je me suis fait un mini <em>moodboard</em>. J'avais
+          déjà en tête une structure simplifiée du projet 2024 - qui comprenait
+          du <em>scrolling horizontal</em>, des animations partout et j'en passe
+          - mais si je n'avais pas encore d'idée très précise de ce que je
+          voulais comme rendu définitif, j'entrevoyais déjà quelque chose de
+          très <strong>graphique</strong>, qui intègre mes <strong
+            >dessins</strong
+          >.
+        </p>
+        {
+          allImg.slice(5, 6).map((visuel) => (
             <div class={`visuel-${visuel.id}`}>
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
+              <Image
+                src={visuel.data.image.source}
+                alt={visuel.data.image.img_alt}
+                width="1024"
+              />
+              <p class="description">{visuel.data.img_name}</p>
+            </div>
+          ))
         }
         <p>
           Assez rapidement, j'ai créé la palette de couleur du site :
           <ul class="liste-intext">
-            <li>un jaune assez chaud (#f3bd22),</li> 
+            <li>un jaune assez chaud (#f3bd22),</li>
             <li>une couleur papier/beige très clair (#fdfaec),</li>
-            <li>un gris très sombre (carbone ou anthracite). Au final j'ai dû me résoudre à choisir un noir #000 à cause des assets graphiques que j'utilise (dessins + éléments type "trace de peinture"). C'est d'ailleurs quelque chose que j'ai prévu de modifier à l'avenir.</li> 
-            <li>un blanc (pur) qui devait contraster suffisamment avec le beige sur les pages <span><a  href="/Ecritouille" target="_blank">Écritouille</a></span> par exemple.</li> 
+            <li>
+              un gris très sombre (carbone ou anthracite). Au final j'ai dû me
+              résoudre à choisir un noir #000 à cause des assets graphiques que
+              j'utilise (dessins + éléments type "trace de peinture"). C'est
+              d'ailleurs quelque chose que j'ai prévu de modifier à l'avenir.
+            </li>
+            <li>
+              un blanc (pur) qui devait contraster suffisamment avec le beige
+              sur les pages <span
+                ><a href="/Ecritouille" target="_blank">Écritouille</a></span
+              > par exemple.
+            </li>
           </ul>
         </p>
         <p>
-          Comme structure, j'ai gardé le concept de base du projet 2024 : mise en avant de mon travail perso (écriture et dessin) + une présentation du projet qui devait remplacer la page <em>webdesign</em>, sensée mettre en avant mon travail pro.</p>
-        <p>
-          Le projet est donc parti, à l'origine, d'un besoin de portfolio <em>webdesign</em> professionnel avec +/- <strong>50% du contenu orienté WD - 50% taf perso</strong>, et au fur et à mesure de mes états d'âme, il est (re ?)-devenu un projet plus général de présentation de mon travail perso avec +/- <strong>45% illustration - 45% écriture - 10% <em>webdesign</em></strong>.
+          Comme structure, j'ai gardé le concept de base du projet 2024 : mise
+          en avant de mon travail perso (écriture et dessin) + une présentation
+          du projet qui devait remplacer la page <em>webdesign</em>, sensée
+          mettre en avant mon travail pro.
         </p>
         <p>
-          Concrètement la structure est devenue la suivante : 
+          Le projet est donc parti, à l'origine, d'un besoin de portfolio <em
+            >webdesign</em
+          > professionnel avec +/- <strong
+            >50% du contenu orienté WD - 50% taf perso</strong
+          >, et au fur et à mesure de mes états d'âme, il est (re ?)-devenu un
+          projet plus général de présentation de mon travail perso avec +/- <strong
+            >45% illustration - 45% écriture - 10% <em>webdesign</em></strong
+          >.
+        </p>
+        <p>
+          Concrètement la structure est devenue la suivante :
           <ul class="liste-intext">
-            <li>une page d'accueil en 4 parties qui redirige vers les pages,</li>
-            <li>une page "Gribouille" : galerie d'images pour présenter mes illustrations,</li>
-            <li>une page "Écritouille" : blog d'articles pour publier du texte (nouvelles, articles, etc.),</li>
-            <li>une page "Webouille" : pour présenter le site, sa vie, son œuvre, « <em>Mais où puise-t-il toute cette énergie ?</em> »,</li>
-            <li>une page "About" : pour me présenter (CV ultra simplifié, les copains, etc.) et d'autres choses plus tard</li>
+            <li>
+              une page d'accueil en 4 parties qui redirige vers les pages,
+            </li>
+            <li>
+              une page "Gribouille" : galerie d'images pour présenter mes
+              illustrations,
+            </li>
+            <li>
+              une page "Écritouille" : blog d'articles pour publier du texte
+              (nouvelles, articles, etc.),
+            </li>
+            <li>
+              une page "Webouille" : pour présenter le site, sa vie, son œuvre,
+              « <em>Mais où puise-t-il toute cette énergie ?</em> »,
+            </li>
+            <li>
+              une page "About" : pour me présenter (CV ultra simplifié, les
+              copains, etc.) et d'autres choses plus tard
+            </li>
           </ul>
         </p>
         <h2 id="start-coding">Les mains dans l'cambouis</h2>
         <p>
-          À ce stade, la mise en chantier concrète du site a commencé. J'ai d'abord pris sérieusement en main des outils (créé des comptes, fait mes tests, etc.), j'ai refait quelques prototypes figma, puis j'ai débuté le travail <em>from scratch</em> en local, sans serveur, avec pour unique outils, un éditeur de texte simple pour balancer du code <em>html</em> et <em>css</em>.
+          À ce stade, la mise en chantier concrète du site a commencé. J'ai
+          d'abord pris sérieusement en main des outils (créé des comptes, fait
+          mes tests, etc.), j'ai refait quelques prototypes figma, puis j'ai
+          débuté le travail <em>from scratch</em> en local, sans serveur, avec pour
+          unique outils, un éditeur de texte simple pour balancer du code <em
+            >html</em
+          > et <em>css</em>.
         </p>
         <p>
-          En gros, j'ai créé les structures des pages, les classes, au passage ça m'a permis d'approfondir les orientations <em>design</em> en testant des backgrounds récupérés sur des banques d'images gratuites. J'ai également testé et codé quelques animations, parce que malgré tout, j'avais envie de caler une animation au <em>scroll</em> sur l'écran d'accueil. Pour le panache quoi.
+          En gros, j'ai créé les structures des pages, les classes, au passage
+          ça m'a permis d'approfondir les orientations <em>design</em> en testant
+          des backgrounds récupérés sur des banques d'images gratuites. J'ai également
+          testé et codé quelques animations, parce que malgré tout, j'avais envie
+          de caler une animation au <em>scroll</em> sur l'écran d'accueil. Pour le
+          panache quoi.
         </p>
-        {                    
-          allImg   
-            .slice(6,7)                                          
-            .map((visuel ) => (                  							
+        {
+          allImg.slice(6, 7).map((visuel) => (
             <div class={`visuel-${visuel.id}`}>
-                <Image 
-                    src={visuel.data.image.source} 
-                    alt={visuel.data.image.img_alt} 
-                    width="1024" />
-                <p class="description">{visuel.data.img_name}</p>
-            </div>        
-        ))							
+              <Image
+                src={visuel.data.image.source}
+                alt={visuel.data.image.img_alt}
+                width="1024"
+              />
+              <p class="description">{visuel.data.img_name}</p>
+            </div>
+          ))
         }
         <p>
-          Une idée plutôt sympa en soi, mais qui s'est révélée un peu casse-gueule quand je me suis rendu compte que les <em>scroll-driven animations</em> n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment. Ça m'apprendra à coder pour chrome - on mettra ça sur les mauvaises habitudes du taf voyez-vous - et à oublier de checker sur différents navigateur, ce qui m'a obligé à bidouiller un truc moyennement satisfaisant pour le renard de feu. Je compte faire quelque chose de plus propre, mais c'est loin dans la pile des trucs à terminer/corriger/modifier. 
+          Une idée plutôt sympa en soi, mais qui s'est révélée un peu
+          casse-gueule quand je me suis rendu compte que les <em
+            >scroll-driven animations</em
+          > n'étaient toujours pas pris en charge par firefox. Après-coup, évidemment.
+          Ça m'apprendra à coder pour chrome - on mettra ça sur les mauvaises habitudes
+          du taf voyez-vous - et à oublier de checker sur différents navigateur, ce
+          qui m'a obligé à bidouiller un truc moyennement satisfaisant pour le renard
+          de feu. Je compte faire quelque chose de plus propre, mais c'est loin dans
+          la pile des trucs à terminer/corriger/modifier.
         </p>
-        <h2 id="astro-coding">Tout balancer sur Netlify... Et finalement non</h2>
+        <h2 id="astro-coding">
+          Tout balancer sur Netlify... Et finalement non
+        </h2>
         <p>
-          J'ai d'abord terminé de configurer mon site, en créant un nom de domaine <em>Netlify</em> et lié le bouzin à mon GitHub.
+          J'ai d'abord terminé de configurer mon site, en créant un nom de
+          domaine <em>Netlify</em> et lié le bouzin à mon GitHub.
         </p>
         <p>
-          À cette étape, j'ai donc copié/collé les fichiers de ma base de tests en local, puis j'ai remplacé mes premiers morceaux de code en dur par des <em>components</em> (menu, etc.) et des <em>layouts</em> (base de page + head, etc.) adaptés, en suivant le tuto Astro js. J'ai par ailleurs modifié le code <em>css</em> au besoin et commencé le <a href="https://fr.wikipedia.org/wiki/Site_web_r%C3%A9actif" target="_blank">responsive</a> (pour les pages de base surtout). 
+          À cette étape, j'ai donc copié/collé les fichiers de ma base de tests
+          en local, puis j'ai remplacé mes premiers morceaux de code en dur par
+          des <em>components</em> (menu, etc.) et des <em>layouts</em> (base de page
+          + head, etc.) adaptés, en suivant le tuto Astro js. J'ai par ailleurs modifié
+          le code <em>css</em> au besoin et commencé le <a
+            href="https://fr.wikipedia.org/wiki/Site_web_r%C3%A9actif"
+            target="_blank">responsive</a
+          > (pour les pages de base surtout).
         </p>
         <p>
-          Je pourrais détailler un peu plus, mais ça ne me parait pas très utile, la construction du site s'est faite, page par page, plus ou moins tranquillement au fil de l'eau, avec de la recherche de solutions adaptées, du code astro récupéré par-ci par-là, de la création de collections d'images (quelle tannée...), incluant la création de 2 fichiers <em>json</em>, malgré quelques besoins de coup de main et des blocages à se bouffer les doigts etc., bref, rien de bien original ou qui détonne des processus de création habituel (doutes, hésitations, re-doutes, et <em>tutti quanti</em>).
+          Je pourrais détailler un peu plus, mais ça ne me parait pas très
+          utile, la construction du site s'est faite, page par page, plus ou
+          moins tranquillement au fil de l'eau, avec de la recherche de
+          solutions adaptées, du code astro récupéré par-ci par-là, de la
+          création de collections d'images (quelle tannée...), incluant la
+          création de 2 fichiers <em>json</em>, malgré quelques besoins de coup
+          de main et des blocages à se bouffer les doigts etc., bref, rien de
+          bien original ou qui détonne des processus de création habituel
+          (doutes, hésitations, re-doutes, et <em>tutti quanti</em>).
         </p>
         <p>
-          Il y a quand même une petite péripétie "rigolote" à raconter. Plus haut dans la page je listais les différents points qui m'avaient fait opter pour mon ordi perso, plutôt que celui de mon travail. L'un des arguments principaux était qu'il m'était impossible d'installer un serveur local dessus (action réservée aux admins). Le truc c'est que la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma patience. Pour avancer correctement, je me suis résolu à utiliser le laptop du taf.
+          Il y a quand même une petite péripétie "rigolote" à raconter. Plus
+          haut dans la page je listais les différents points qui m'avaient fait
+          opter pour mon ordi perso, plutôt que celui de mon travail. L'un des
+          arguments principaux était qu'il m'était impossible d'installer un
+          serveur local dessus (action réservée aux admins). Le truc c'est que
+          la vétusté de mon laptop perso évoquée plus haut, a eu raison de ma
+          patience. Pour avancer correctement, je me suis résolu à utiliser le
+          laptop du taf.
           <p>
-          Un choix difficile, mais la vie n'est-elle pas une succession de choix difficiles ? <span class="mindfuck">*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span>.
+            Un choix difficile, mais la vie n'est-elle pas une succession de
+            choix difficiles ? <span class="mindfuck"
+              >*regard vers l'infini, couché de soleil, le vent dans les veuchs*</span
+            >.
           </p>
         </p>
         <h3>
-          The state of art, ou comment imbriquer les mauvais timing comme on empile les feuilles de style en cascade           
+          The state of art, ou comment imbriquer les mauvais timing comme on
+          empile les feuilles de style en cascade
         </h3>
         <p>
-          Le fait de ne pas avoir les autorisations admin pour installer de serveur local sur le laptop du taf, à fait grimper le nombre de pushs de manière exponentielle. Même si j'ai pu installer un serveur local sur ma tour principale à la maison, le laptop reste indispensable quand on n'est pas chez soi. Évidemment, comme tout bon professionnel, j'ai surtout travaillé avec les inspecteurs de <em>Chrome</em> et <em>Firefox</em>, mais quand on peut push, surtout pour du code basique, au bout d'un moment, on push. Enfin, moi, je push en tout cas. 
+          Le fait de ne pas avoir les autorisations admin pour installer de
+          serveur local sur le laptop du taf, à fait grimper le nombre de pushs
+          de manière exponentielle. Même si j'ai pu installer un serveur local
+          sur ma tour principale à la maison, le laptop reste indispensable
+          quand on n'est pas chez soi. Évidemment, comme tout bon professionnel,
+          j'ai surtout travaillé avec les inspecteurs de <em>Chrome</em> et <em
+            >Firefox</em
+          >, mais quand on peut push, surtout pour du code basique, au bout d'un
+          moment, on push. Enfin, moi, je push en tout cas.
         </p>
         <p>
-          De fait, du jour au lendemain, j'ai commencé à pusher comme un sagouin (des trucs indispensables du genre modifier la taille d'une <em>font</em> ou passer d'un padding de 1 à 1.1rem), et puis très vite, j'ai reçu un message de <em>Netlify</em> : « <em>STOP !  Non non, plus possible, tu donnes l'argent ou plus rien tu pusheras</em> ». Waouh ! Calme toi mon petit, que je lui ai dit, j'ai pushé 4 fois et on est le 3 du mois ! La lourdeur du truc, il fallait que j'attende le début du mois d'après, pour pusher à nouveau. Ça n'a pas de sens. Sur le moment, j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos qui avaient déjà bien avancé sur leur site, s'ils avaient déjà été confrontés à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidement, puis je suis reparti <em>diguer</em>, histoire de comprendre.
-          
-        <p>
-          Bon, en réalité, ça a été rapide. Entre le moment où les potos ont créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il s'est passé une année environ, durant laquelle la société a changé ses offres. On est passé d'une offre gratuite, quasi-illimité en nombre de pushs par mois, à une offre gratuite super limitée en nombre de pushs par mois (c'est un peu plus compliqué que ça mais passons). La douille, sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé mon compte un an plus tôt, quand on a commencé à travailler les portfolios, et d'autre part, si j'avais pu installer un serveur local sur le laptop du travail et surtout si j'avais pu continuer à travailler sur mon laptop perso. Le combo de merde, disons les termes.  
-        </p>        
-        <p>
-          En soit, on va pas se mentir, à part un peu plus de temps perdu, ça ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que j'ai dû me mettre en quête d'un outil équivalent qui propose une offre gratuite "utilisable". Après quelques courtes recherches, j'ai opté pour <a href="https://vercel.com/" target="_blank">Vercel</a>, dont l'offre gratuite est généreuse, notamment en terme de <em>Fast Data Transfer</em>. Une fois mes datas transférées d'une société d'hébergement à une autre, j'ai repris le travail sur mon site. 
-        </p>
-        <p>
-          Les outils que j'ai finalement utilisés :
-          <ul class="liste-intext tools">
-            <li>Notepad++</li>
-            <li>Figma</li>
-            <li>Astro js</li>
-            <li>GitHub</li>
-            <li>Vercel</li>            
-          </ul>
-        </p>
-        <p>
-          {                    
-            allImg   
-              .slice(7,8)                                          
-              .map((visuel ) => (                  							
-              <div class={`visuel-${visuel.id}`}>
-                  <Image 
-                      src={visuel.data.image.source} 
-                      alt={visuel.data.image.img_alt} 
-                      width="1024" />
-                  <p class="description">{visuel.data.img_name}</p>
-              </div>        
-          ))							
-          }
-        </p>
-        <p>
-          Pour finir, il me restait en réalité une chose à faire avant de valider une v1 du site. Comme, je ne voulais pas me trimbaler avec une url "<em>grammar-oisif.vercel-app</em>" et que je voulais mon url "<em>grammar-oisif.fr</em>" seule, j'ai fait sauter la banque. Au lieu de passer par les fournisseurs de noms de domaines habituels, j'ai opté pour <a href="https://lebureau.coop/" target="_blank">Lebureau.coop</a>", une <em><a href="https://www.les-scop.coop/les-scop" target="_blank">Scop</em></a> française, économiquement et socialement plus "éthique".
-        </p>
-        <h2>Finish him !</h2>
-        <p>
-          Il y aurait peut-être encore des choses à raconter sur la fabrication du site, comme par exemple, approfondir les aspects techniques du projet - avec la description de cas pratiques notamment - mais j'ai voulu que cette page reste lisible pour la plupart des personnes qui passeront ici. J'aurais pû aussi commenter mes faits d'armes professionnels, présenter ce que je fais actuellement dans le cadre du travail ou pour des amis, mais en réalité, ce n'est plus tellement d'un portfolio dont j'ai besoin aujourd'hui, et c'est pour cette raison que <span style='font-family: "Chelsea Market", system-ui; color: var(--grut-color);'>grammar-oisif</span> n'est pas à proprement parler le <b>portfolio webdesigner</b> qu'il ambitionnait d'être à l'origine.
-        </p>
-        <p>
-          Dans tous les cas, aussi inachevé (cf. la <em>todo list</em>) et imparfait soit-il, ce site représente une forme d'aboutissement, en tout cas est a minima un soulagement. Ça peut paraître un peu excessif dit comme ça, mais je suis un procrastinateur pathologique qui a une <em>todo list de la vie</em>, longue comme un film du MCU, qui ne se vide quasiment jamais, tout en continuant à se remplir inexorablement d'année en année. Et chacun sait que c'est coûteux tant psychologiquement que socialement. 
-        </p>
-        <p>  
-          Alors, oui, je n'ai pas grimpé l'Everest, entendons-nous bien, mais quelque part, c'est un peu ma randonnée Mont du Destin à moi si vous voulez, une rando Mont du Destin sans hobbits joufflus et mis en scène par Sam Raimi période <em>Evil Dead</em>, c'est à dire un poil bancale par endroit, mais une rando Mont du Destin honnête et personnelle.  
-        </p>
-        <p>
-          Je vais terminer (cette fois c'est vrai) en remerciant le <em>CodeKeeper</em>, dont la capacité à mobiliser a permis à ce projet d'arriver quelque part. Et bien évidemment, je remercie ma B qui m'a toujours encouragé, alors que j'ai passé beaucoup de temps devant mon ordi à m'occuper de ma face.
-        </p>        
-      </div>
-    </section>
-    <div class="overlay-done"></div>
-  </div>
-</BaseLayout>
-<style>
-  /* Fuyez pauvres fous ! Manque le gif du G */
-  html#Webouille body .webouille-main .trigger-warning-blabla {
-    background: var(--grut-color);
-    transform: rotate(-2deg) translateX(-4rem);
-    font-family: "Chelsea Market", system-ui;
-    color: var(--defaut-txt);
-  }
+          De fait, du jour au lendemain, j'ai commencé à pusher comme un sagouin
+          (des trucs indispensables du genre modifier la taille d'une <em
+            >font</em
+          > ou passer d'un padding de 1 à 1.1rem), et puis très vite, j'ai reçu un
+          message de <em>Netlify</em> : « <em
+            >STOP ! Non non, plus possible, tu donnes l'argent ou plus rien tu
+            pusheras</em
+          > ». Waouh ! Calme toi mon petit, que je lui ai dit, j'ai pushé 4 fois et
+          on est le 3 du mois ! La lourdeur du truc, il fallait que j'attende le début
+          du mois d'après, pour pusher à nouveau. Ça n'a pas de sens. Sur le moment,
+          j'ai cru à un problème configuration de compte, j'ai donc demandé aux potos
+          qui avaient déjà bien avancé sur leur site, s'ils avaient déjà été confrontés
+          à quelque chose dans le genre. Ils m'ont dit que non, on a regardé rapidement,
+          puis je suis reparti <em>diguer</em>, histoire de comprendre.
 
-  /* html#Webouille body div.webouille-main ul.menu-chapitre li:hover a {
+          <p>
+            Bon, en réalité, ça a été rapide. Entre le moment où les potos ont
+            créé leur compte <em>Netlify</em> et le moment où j'ai créé le mien, il
+            s'est passé une année environ, durant laquelle la société a changé ses
+            offres. On est passé d'une offre gratuite, quasi-illimité en nombre de
+            pushs par mois, à une offre gratuite super limitée en nombre de pushs
+            par mois (c'est un peu plus compliqué que ça mais passons). La douille,
+            sachant que je n'aurais pas eu ce problème si d'une part, j'avais créé
+            mon compte un an plus tôt, quand on a commencé à travailler les portfolios,
+            et d'autre part, si j'avais pu installer un serveur local sur le laptop
+            du travail et surtout si j'avais pu continuer à travailler sur mon laptop
+            perso. Le combo de merde, disons les termes.
+          </p>
+          <p>
+            En soit, on va pas se mentir, à part un peu plus de temps perdu, ça
+            ne m'a pas coûté grand chose. Mais, bon ça reste pénible, vu que
+            j'ai dû me mettre en quête d'un outil équivalent qui propose une
+            offre gratuite "utilisable". Après quelques courtes recherches, j'ai
+            opté pour <a href="https://vercel.com/" target="_blank">Vercel</a>,
+            dont l'offre gratuite est généreuse, notamment en terme de <em
+              >Fast Data Transfer</em
+            >. Une fois mes datas transférées d'une société d'hébergement à une
+            autre, j'ai repris le travail sur mon site.
+          </p>
+          <p>
+            Les outils que j'ai finalement utilisés :
+            <ul class="liste-intext tools">
+              <li>Notepad++</li>
+              <li>Figma</li>
+              <li>Astro js</li>
+              <li>GitHub</li>
+              <li>Vercel</li>
+            </ul>
+          </p>
+          <p>
+            {
+              allImg.slice(7, 8).map((visuel) => (
+                <div class={`visuel-${visuel.id}`}>
+                  <Image
+                    src={visuel.data.image.source}
+                    alt={visuel.data.image.img_alt}
+                    width="1024"
+                  />
+                  <p class="description">{visuel.data.img_name}</p>
+                </div>
+              ))
+            }
+          </p>
+          <p>
+            Pour finir, il me restait en réalité une chose à faire avant de
+            valider une v1 du site. Comme, je ne voulais pas me trimbaler avec
+            une url "<em>grammar-oisif.vercel-app</em>" et que je voulais mon
+            url "<em>grammar-oisif.fr</em>" seule, j'ai fait sauter la banque.
+            Au lieu de passer par les fournisseurs de noms de domaines
+            habituels, j'ai opté pour <a
+              href="https://lebureau.coop/"
+              target="_blank">Lebureau.coop</a
+            >, une <em
+              ><a href="https://www.les-scop.coop/les-scop" target="_blank"
+                >Scop</a
+              ></em
+            > française, sur le principe économiquement et socialement plus "éthique".
+          </p>
+          <h2>Finish him !</h2>
+          <p>
+            Il y aurait peut-être encore des choses à raconter sur la
+            fabrication du site, comme par exemple, approfondir les aspects
+            techniques du projet - avec la description de cas pratiques
+            notamment - mais j'ai voulu que cette page reste lisible pour la
+            plupart des personnes qui passeront ici. J'aurais pû aussi commenter
+            mes faits d'armes professionnels, présenter ce que je fais
+            actuellement dans le cadre du travail ou pour des amis, mais en
+            réalité, ce n'est plus tellement d'un portfolio dont j'ai besoin
+            aujourd'hui, et c'est pour cette raison que <span
+              style='font-family: "Chelsea Market", system-ui; color: var(--grut-color);'
+              >grammar-oisif</span
+            > n'est pas à proprement parler le <b>portfolio webdesigner</b> qu'il
+            ambitionnait d'être à l'origine.
+          </p>
+          <p>
+            Dans tous les cas, aussi inachevé (cf. la <em>todo list</em>) et
+            imparfait soit-il, ce site représente une forme d'aboutissement, en
+            tout cas est a minima un soulagement. Ça peut paraître un peu
+            excessif dit comme ça, mais je suis un procrastinateur pathologique
+            qui a une <em>todo list de la vie</em>, longue comme un film du MCU,
+            qui ne se vide quasiment jamais, tout en continuant à se remplir
+            inexorablement d'année en année. Et chacun sait que c'est coûteux
+            tant psychologiquement que socialement.
+          </p>
+          <p>
+            Alors, oui, je n'ai pas grimpé l'Everest, entendons-nous bien, mais
+            quelque part, c'est un peu ma randonnée Mont du Destin à moi si vous
+            voulez, une rando Mont du Destin sans hobbits joufflus et mis en
+            scène par Sam Raimi période <em>Evil Dead</em>, c'est à dire un poil
+            bancale par endroit, mais une rando Mont du Destin honnête et
+            personnelle.
+          </p>
+          <p>
+            Je vais terminer (cette fois c'est vrai) en remerciant le <em
+              >CodeKeeper</em
+            >, dont la capacité à mobiliser a permis à ce projet d'arriver
+            quelque part. Et bien évidemment, je remercie ma B qui m'a toujours
+            encouragé, alors que j'ai passé beaucoup de temps devant mon ordi à
+            m'occuper de ma face.
+          </p>
+        </p>
+      </div>
+      <div class="overlay-done"></div>
+    </section>
+  </div>
+  <style>
+    /* Fuyez pauvres fous ! Manque le gif du G */
+    html#Webouille body .webouille-main .trigger-warning-blabla {
+      background: var(--grut-color);
+      transform: rotate(-2deg) translateX(-4rem);
+      font-family: "Chelsea Market", system-ui;
+      color: var(--defaut-txt);
+    }
+
+    /* html#Webouille body div.webouille-main ul.menu-chapitre li:hover a {
     color: var(--grut-color);
   } */
 
-  div:has(.tools-icon) {
-    display: flex;
-    flex-direction: row;
-    & .tools-icon div {
+    div:has(.tools-icon) {
       display: flex;
-      height: fit-content;
-      width: 100%;  
-      justify-content: flex-start;
+      flex-direction: row;
+      & .tools-icon div {
+        display: flex;
+        height: fit-content;
+        width: 100%;
+        justify-content: flex-start;
+        align-items: center;
+        height: 100%;
+        gap: 1rem;
+
+        & img {
+          height: 5rem;
+          padding: 1rem;
+          background: var(--back-2);
+        }
+      }
+    }
+    html#Webouille body div.webouille-main div[class*="visuel-"] {
+      position: relative;
+      z-index: 0;
+      display: flex;
       align-items: center;
-      height: 100%;
-      gap: 1rem;
+      padding-bottom: 1rem;
 
       & img {
-        height: 5rem;
-        padding: 1rem;
-        background: var(--back-2);        
+        object-fit: contain;
       }
-    }
-  }
-  html#Webouille body div.webouille-main div[class*="visuel-"] {
-    position: relative;
-    z-index: 0;      
-    display: flex;
-    align-items: center;
-    padding-bottom: 1rem;    
-    
-    & img {      
-      object-fit: contain;         
-    }
-    & p.description {
-      position: absolute;      
-      bottom: -1.3rem;
-      right: 0%;
-      background-color: var(--grut-color);
-      color: var(--defaut-txt);
-      z-index: 1 ;
-      padding: 0 1ch;  
-      font-size: 0.9rem;
-      font-style: italic;   
-      height: fit-content;
-      max-width: 44%;
-      min-width: 240px;
-      transform: rotateZ(-7deg) translateX(3rem);
-      padding: 0.8rem;
-      transition: 0.15s; 
-      opacity: 0;
-    }
-    &:hover .description {
-      opacity: 1;
-      transform: rotateZ(-5deg) translateX(0);
-    }    
-  }
-
-  .webouille-main {
-    position: relative;
-    flex-direction: row;
-    width: 100%;
-    background: var(--defaut-txt) url(../images/visuels-webouille/fig_3.png);
-    z-index: 1;
-    flex-wrap: wrap;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    /* background-blend-mode: multiply; */
-
-    & img {
-      height: fit-content;      
-    }
-
-    & h1 {
-      width: 100%;
-      color: var(--back-2);
-      z-index: 2;
-      font-size: 4rem;
-      margin-top: 66px;
-      padding-left: 32px;
-    }
-
-    & div.overlay-done {
-      content: "";
-      position: absolute;
-      width: 100%;
-      height: 30vh;
-      background-image: linear-gradient(transparent 10%, var(--defaut-txt) 55%);
-      bottom: 0;
-      right: 0;
-      z-index: 1;
-    }
-
-    &:after {
-      content: "";
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      z-index: 0;
-      background: var(--defaut-txt);
-      opacity: 0.85;
-    }
-  }
-  section {
-    z-index: 1;
-    /* height: 100vh; */
-    padding-bottom: 15vh;
-  }
-
-  html#Webouille body .webouille-todo {
-    width: auto;
-    max-width: 20%;
-
-    & * {
-      color: var(--back-2);
-    }
-    & > div {
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      align-items: flex-start;
-      padding: 2vh 32px 8vh 32px;
-      max-height: calc(88vh);
-      position: sticky;
-      top: 10vh;
-    }
-    & ul {
-      color: var(--back-2);
-      width: inherit;
-      padding: 0;
-      line-height: 1.2rem;
-
-      & li {
-        /* list-style: none; */
-        font-family: sans-serif;
-        font-weight: lighter;
-        font-size: 0.8em;
-        font-family: sans-serif;
-      }
-      & li:first-of-type {
-        font-size: 1.2rem;
-        line-height: 1.5rem;
-        animation: blink-todo 3.5s ease 0s infinite normal forwards;
-        list-style: none;
-      }
-    }    
-  }
-  @keyframes blink-todo {
-    0%,
-    50%,
-    100% {
-      opacity: 1;
-    }
-
-    25%,
-    75% {
-      opacity: 0;
-    }
-  }
-
-  .webouille-done {
-    flex-grow: 1;
-    width: auto;
-    position: relative;
-    max-width: 75%;  
-    
-    & ul.liste-intext li {
-      position:relative;
-      font-size: 1.1rem;  
-      max-width: 640px;
-      margin-left: 1rem;          
-
-
-      &:before {
-        content: "";        
-        display: flex;
+      & p.description {
         position: absolute;
-        width: 1.2rem;
-        height: 1.2rem;
-        mask: url(/src/images/visuels-webouille/check-valid-png.png);      
-        mask-size: contain;
-        mask-position: center;
-        mask-repeat: no-repeat;        
-        background-color: var(--grut-color);        
-        align-items: center;
-        left: -1.6rem;                    
-      }
-    }
-
-    & ul.liste-intext.tools {
-      display: flex;
-      gap: 1rem;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 1rem;
-      flex-wrap: wrap;
-         
-
-      & li {
-        font-size: 1.3rem;
-        font-family: "Chelsea Market", system-ui;
-        min-width: calc(320px - 3rem);
-        text-wrap: nowrap;
-      }
-
-    }
-
-    & p span.mindfuck {
-      font-size: 1.1rem;
-      font-weight: lighter;
-      font-style: italic;
-    }
-
-    & a {
-      background-color: var(--grut-color);      
-    }
-    
-    & > div.main-done {
-      max-width: 1024px;
-      padding: 2vh 4vw 8vh 10vw;
-      scrollbar-color: transparent transparent;
-      overflow-y: scroll;
-      display: flex;
-      flex-direction: column;
-      gap: 2.5rem;
-
-      & *:is(h2, h3, p) {
-        max-width: 640px;
-        height: auto;
-      }
-      & *:is(h2, h3) {
-        padding: 8px 16px 8px 0;
-        width: fit-content;
-      }
-      & *:is(h3, p) {
-        font-size: 1.3rem;
-      }
-      & :is(p, ul li) {
-        color: color-mix(in srgb, var(--back-2) 90%, var(--defaut-txt));
-      }
-      & h2 {
-        font-size: 2rem;
-        background: var(--back-2);
+        bottom: -1.3rem;
+        right: 0%;
+        background-color: var(--grut-color);
         color: var(--defaut-txt);
-
-        &:nth-child(even) {
-          transform: rotate(2deg);
-        }
-        &:nth-child(odd) {
-          transform: rotate(-2deg);
-        }
+        z-index: 1;
+        padding: 0 1ch;
+        font-size: 0.9rem;
+        font-style: italic;
+        height: fit-content;
+        max-width: 44%;
+        min-width: 240px;
+        transform: rotateZ(-7deg) translateX(3rem);
+        padding: 0.8rem;
+        transition: 0.15s;
+        opacity: 0;
       }
-      & h3 {        
-        color: var(--back-2);
-        border-bottom: 8px dashed var(--grut-color);
-        padding: 0;       
-
-        &:nth-child(even) {
-          transform: rotate(-2deg);
-        }
-        &:nth-child(odd) {
-          transform: rotate(2deg);
-        }
+      &:hover .description {
+        opacity: 1;
+        transform: rotateZ(-5deg) translateX(0);
       }
     }
-  }
 
-  @media (width < 1025px) {
-    html#Webouille body div.webouille-main {
+    .webouille-main {
       position: relative;
-      flex-direction: column;
+      flex-direction: row;
       width: 100%;
+      background: var(--defaut-txt) url(../images/visuels-webouille/fig_3.png);
       z-index: 1;
+      flex-wrap: wrap;
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      flex-wrap: wrap;   
-      
+      background-position: center;
+      /* background-blend-mode: multiply; */
+
+      & img {
+        height: fit-content;
+      }
+
+      & h1 {
+        width: 100%;
+        color: var(--back-2);
+        z-index: 2;
+        font-size: 4rem;
+        margin-top: 66px;
+        padding-left: 32px;
+      }
+
+      & div.overlay-done {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 30vh;
+        background-image: linear-gradient(
+          transparent 10%,
+          var(--defaut-txt) 55%
+        );
+        bottom: 0;
+        right: 0;
+        z-index: 1;
+      }
+
       &:after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        background: var(--defaut-txt);
+        opacity: 0.85;
+      }
+    }
+    section {
+      z-index: 1;
+      /* height: 100vh; */
+      padding-bottom: 15vh;
+    }
+
+    html#Webouille body .webouille-todo {
+      width: auto;
+      max-width: 20%;
+
+      & * {
+        color: var(--back-2);
+      }
+      & > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 2vh 32px 8vh 32px;
+        max-height: calc(88vh);
+        position: sticky;
+        top: 10vh;
+      }
+      & ul {
+        color: var(--back-2);
+        width: inherit;
+        padding: 0;
+        line-height: 1.2rem;
+
+        & li {
+          /* list-style: none; */
+          font-family: sans-serif;
+          font-weight: lighter;
+          font-size: 0.8em;
+          font-family: sans-serif;
+        }
+        & li:first-of-type {
+          font-size: 1.2rem;
+          line-height: 1.5rem;
+          animation: blink-todo 3.5s ease 0s infinite normal forwards;
+          list-style: none;
+        }
+      }
+    }
+    @keyframes blink-todo {
+      0%,
+      50%,
+      100% {
         opacity: 1;
       }
 
-      & section {
-        min-width: 100%;
-        height: fit-content;        
-        padding: 24px;        
-
-        &:is(.webouille-todo) {
-          order: 1;
-        }
-
-        & > div {
-          padding: 0;
-        }        
+      25%,
+      75% {
+        opacity: 0;
       }
-
-      & div[class*="visuel-"]  {      
-        position: relative;
-        height: auto;
-        display:block;
-        max-width: 800px;
-
-        & *:is(p.description, img) {
-          position: relative;
-        }
-
-        & p.description {          
-          opacity: 1;
-          width: 100%;
-          bottom: 0;
-          padding: 0.5rem;
-          object-fit: contain;
-          height: fit-content;
-          max-width: unset;
-          min-height: unset;
-          transition: unset;
-          transform: unset;
-
-        }
-        
-        &:hover p.description {
-          transform: unset;
-        }
     }
 
-    & div.overlay-done {
-      content: "";
-      position: absolute;
-      display: none;
-    }
-    div.img {
+    .webouille-done {
+      flex-grow: 1;
+      width: auto;
       position: relative;
-      z-index: 0;      
-      display: flex;
-      align-items: center;
-      padding: 0 0 5rem 0;
-      
-      & img {      
-        object-fit: contain;         
+      max-width: 75%;
+
+      & ul.liste-intext li {
+        position: relative;
+        font-size: 1.1rem;
+        max-width: 640px;
+        margin-left: 1rem;
+
+        &:before {
+          content: "";
+          display: flex;
+          position: absolute;
+          width: 1.2rem;
+          height: 1.2rem;
+          mask: url(/src/images/visuels-webouille/check-valid-png.png);
+          mask-size: contain;
+          mask-position: center;
+          mask-repeat: no-repeat;
+          background-color: var(--grut-color);
+          align-items: center;
+          left: -1.6rem;
+        }
+      }
+
+      & ul.liste-intext.tools {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 1rem;
+        flex-wrap: wrap;
+
+        & li {
+          font-size: 1.3rem;
+          font-family: "Chelsea Market", system-ui;
+          min-width: calc(320px - 3rem);
+          text-wrap: nowrap;
+        }
+      }
+
+      & p span.mindfuck {
+        font-size: 1.1rem;
+        font-weight: lighter;
+        font-style: italic;
+      }
+
+      & a {
+        background-color: var(--grut-color);
+      }
+
+      & > div.main-done {
+        max-width: 1024px;
+        padding: 2vh 4vw 8vh 10vw;
+        scrollbar-color: transparent transparent;
+        overflow-y: scroll;
+        display: flex;
+        flex-direction: column;
+        gap: 2.5rem;
+
+        & *:is(h2, h3, p) {
+          max-width: 640px;
+          height: auto;
+        }
+        & *:is(h2, h3) {
+          padding: 8px 16px 8px 0;
+          width: fit-content;
+        }
+        & *:is(h3, p) {
+          font-size: 1.3rem;
+        }
+        & :is(p, ul li) {
+          color: color-mix(in srgb, var(--back-2) 90%, var(--defaut-txt));
+        }
+        & h2 {
+          font-size: 2rem;
+          background: var(--back-2);
+          color: var(--defaut-txt);
+
+          &:nth-child(even) {
+            transform: rotate(2deg);
+          }
+          &:nth-child(odd) {
+            transform: rotate(-2deg);
+          }
+        }
+        & h3 {
+          color: var(--back-2);
+          border-bottom: 8px dashed var(--grut-color);
+          padding: 0;
+
+          &:nth-child(even) {
+            transform: rotate(-2deg);
+          }
+          &:nth-child(odd) {
+            transform: rotate(2deg);
+          }
+        }
       }
     }
-  }
-  html#Webouille body .webouille-main .trigger-warning-blabla {
-      transform: unset;
-      margin-top: 16px;
-  } 
-  @media (width < 601px ) {
+
+    @media (width < 1025px) {
+      html#Webouille body div.webouille-main {
+        position: relative;
+        flex-direction: column;
+        width: 100%;
+        z-index: 1;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        flex-wrap: wrap;
+
+        &:after {
+          opacity: 1;
+        }
+
+        & section {
+          min-width: 100%;
+          height: fit-content;
+          padding: 24px;
+
+          &:is(.webouille-todo) {
+            order: 1;
+          }
+
+          & > div {
+            padding: 0;
+          }
+        }
+
+        & div[class*="visuel-"] {
+          position: relative;
+          height: auto;
+          display: block;
+          max-width: 800px;
+
+          & *:is(p.description, img) {
+            position: relative;
+          }
+
+          & p.description {
+            opacity: 1;
+            width: 100%;
+            bottom: 0;
+            padding: 0.5rem;
+            object-fit: contain;
+            height: fit-content;
+            max-width: unset;
+            min-height: unset;
+            transition: unset;
+            transform: unset;
+          }
+
+          &:hover p.description {
+            transform: unset;
+          }
+        }
+
+        & div.overlay-done {
+          content: "";
+          position: absolute;
+          display: none;
+        }
+        div.img {
+          position: relative;
+          z-index: 0;
+          display: flex;
+          align-items: center;
+          padding: 0 0 5rem 0;
+
+          & img {
+            object-fit: contain;
+          }
+        }
+      }
+    }
     html#Webouille body .webouille-main .trigger-warning-blabla {
       transform: unset;
       margin-top: 16px;
-  } 
-    .webouille-main {
-
-      & h1 {
-        font-size: 3rem;
-      }
-
-      & h2 {
-        font-size: 1.8rem;
-      }
-
-      & h3 {
-        font-size: 1.2rem;
-      }       
     }
-  
-</style>
+    @media (width < 601px) {
+      html#Webouille body .webouille-main .trigger-warning-blabla {
+        transform: unset;
+        margin-top: 16px;
+      }
+      .webouille-main {
+        & h1 {
+          font-size: 3rem;
+        }
+
+        & h2 {
+          font-size: 1.8rem;
+        }
+
+        & h3 {
+          font-size: 1.2rem;
+        }
+      }
+    }
+  </style>
+</BaseLayout>

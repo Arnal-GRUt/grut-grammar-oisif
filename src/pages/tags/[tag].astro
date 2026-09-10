@@ -3,14 +3,14 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BlogPost from "../../components/BlogPost.astro";
 
 const { posts } = Astro.props;
-const tous = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
+const tous = Object.values(import.meta.glob("./posts/*.{md,mdx}", { eager: true }));
 
 const tags = [
     ...new Set(posts.map((post: any) => post.frontmatter.tags).flat()),
 ];
 export async function getStaticPaths() {
     const allPosts = Object.values(
-        import.meta.glob("../posts/*.md", { eager: true }),
+        import.meta.glob("../posts/*.{md,mdx}", { eager: true }),
     );
     const uniqueTags = [
         ...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat()),
@@ -63,13 +63,12 @@ const { tag } = Astro.params;
   </div>
   <style>
     /* html#Ecritouille .contenu-page .main { */
+    /* html#{tag} .contenu-page .main {
+      max-width: 1024px;
+      /* & h1.soustitre-page */    
     html#{tag} .contenu-page .main {
       max-width: 1024px;
-      & h1.soustitre-page
-    }
-    html#{tag} .contenu-page .main {
-      /* max-width: 1024px; */
-      & h1.soustitre-page
+      /* & h1.soustitre-page */
     }
     ul.tags {
             display: flex;

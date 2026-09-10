@@ -981,7 +981,7 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 	}
 }
 
-html#ecritouille body .tous-les-textes .box article {
+html#Écritouille body .tous-les-textes .box article {
 	border-bottom: 2px dashed var(--back-2);
 
 	&::hover a {
@@ -1201,7 +1201,7 @@ footer p.accroche {
 	padding: 64px 24px;
 }
 
-input[type="checkbox"]:not(#choix-lect) {
+input[type="checkbox"] {
 	display: none;
 }
 
@@ -2651,7 +2651,7 @@ span.icon-arrow {
 		}
 	}
 
-	html#Ecritouille body .main-text {
+	html#Écritouille body .main-text {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
 		-ms-flex-direction: column;

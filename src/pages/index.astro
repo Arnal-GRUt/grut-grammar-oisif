@@ -7,7 +7,8 @@ import LastOne from "../components/LastPost.astro";
 
 // import { Debug } from "astro:components";
 const allPosts = Object.values(
-	import.meta.glob("./posts/*.md", { eager: true }),
+	import.meta.glob("./posts/*.{md,mdx}", { eager: true }),
+	// import.meta.glob("./posts/*.mdx", { eager: true }),
 );
 allPosts.sort(
 	(a, b) =>

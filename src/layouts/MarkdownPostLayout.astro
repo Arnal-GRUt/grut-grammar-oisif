@@ -20,14 +20,6 @@ const { frontmatter } = Astro.props;
             <span>|</span><span class="auteur">{frontmatter.author}</span>
           </p>
         </div>
-        <!-- <form>
-          <input
-            type="checkbox"
-            id="choix-lect"              
-            name="choix-lect"
-          />
-          <label for="choix-lect">Lire seulement les textes</label><br />
-        </form> -->
         <div class="display-flex direction-column introduction">
           <h3>Présentation</h3>
           <p>{frontmatter.contexte}</p>
@@ -42,6 +34,10 @@ const { frontmatter } = Astro.props;
         </div>
       </div>
       <div class="corps-texte display-flex direction-column">
+        <form>
+          <input type="checkbox" id="choix-lect" name="choix-lect" />
+          <label for="choix-lect">Lire seulement les textes</label><br />
+        </form>
         <slot />
         <span class="icon-arrow"
           ><a href="/Ecritouille">Retour aux textes</a></span
@@ -56,6 +52,10 @@ const { frontmatter } = Astro.props;
   </div>
 </BaseLayout>
 <style>
+  .corps-texte form input#choix-lect {
+    display: inline-block;
+    margin-right: 2vw;
+  }
   .main.page-texte .corps-texte.display-flex.direction-column {
     > blockquote {
       /* background: color-mix(in srgb, var(--back-2), transparent); */
@@ -168,9 +168,9 @@ const { frontmatter } = Astro.props;
 
   & .carton-presentation {
     & p.date-et-auteur {
-      padding-bottom: 4rem;
-      border-bottom: 2px dashed var(--defaut-txt);
-      margin-bottom: 1rem;
+      /* padding-bottom: 4rem;
+      border-bottom: 2px dashed var(--defaut-txt); */
+      /* margin-bottom: 1rem; */
       font-size: 1rem;
       position: relative;
       display: flex;

@@ -3,7 +3,9 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BlogPost from "../../components/BlogPost.astro";
 
 const { posts } = Astro.props;
-const tous = Object.values(import.meta.glob("./posts/*.{md,mdx}", { eager: true }));
+const tous = Object.values(
+    import.meta.glob("./posts/*.{md,mdx}", { eager: true }),
+);
 
 const tags = [
     ...new Set(posts.map((post: any) => post.frontmatter.tags).flat()),
@@ -26,51 +28,48 @@ export async function getStaticPaths() {
     });
 }
 
-posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+posts.sort(
+    (a, b) =>
+        Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate),
+);
 const { tag } = Astro.params;
 ---
+
 <BaseLayout pageTitle={tag}>
-  <div class="contenu-page display-flex direction-row">    
-    <div class="main">
-        <ul class="tags">
-            {
-                tags.map((tag) => (
-                    <li class="tag">
+    <div class="contenu-page display-flex direction-row">
+        <div class="main">
+            <ul class="tags">
+                {
+                    tags.map((tag) => (
+                        <li class="tag">
                             <a href={`/tags/${tag}`}>{tag}</a>
                         </li>
                     ))
                 }
-        <p style="padding-top: 1rem; width: 100%; font-size: 0.9rem;">Les textes de la catégorie :</p>
-        </ul>
-        <h1 class="soustitre-page">{tag}</h1>
+                <p style="padding-top: 1rem; width: 100%; font-size: 0.9rem;">
+                    Les textes de la catégorie :
+                </p>
+            </ul>
+            <h1 class="soustitre-page">{tag}</h1>
             {
-              
-              posts.map((post: any) => (
-          <BlogPost
-            url={post.url}
-            title={post.frontmatter.title}
-            pubDate={post.frontmatter.pubDate}
-            author={post.frontmatter.author}
-            title={post.frontmatter.title}
-            contexte={post.frontmatter.contexte}
-            description={post.frontmatter.description}
-            enonce={post.frontmatter.enonce}
-            tags={post.frontmatter.tags}            
-          />
-        ))
-      }
-    </div>  
-  </div>
-  <style>
-    /* html#Ecritouille .contenu-page .main { */
-    /* html#{tag} .contenu-page .main {
-      max-width: 1024px;
-      /* & h1.soustitre-page */    
-    html#{tag} .contenu-page .main {
-      max-width: 1024px;
-      /* & h1.soustitre-page */
-    }
-    ul.tags {
+                posts.map((post: any) => (
+                    <BlogPost
+                        url={post.url}
+                        title={post.frontmatter.title}
+                        pubDate={post.frontmatter.pubDate}
+                        author={post.frontmatter.author}
+                        title={post.frontmatter.title}
+                        contexte={post.frontmatter.contexte}
+                        description={post.frontmatter.description}
+                        enonce={post.frontmatter.enonce}
+                        tags={post.frontmatter.tags}
+                    />
+                ))
+            }
+        </div>
+    </div>
+    <style>
+        ul.tags {
             display: flex;
             gap: 8px;
             flex-wrap: wrap;
@@ -109,5 +108,5 @@ const { tag } = Astro.params;
                 }
             }
         }
-  </style>
+    </style>
 </BaseLayout>

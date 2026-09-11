@@ -12,7 +12,8 @@
     "@astrojs/markdoc": "^2.0.9",
     "@astrojs/mdx": "^8.0.1",
     "@astrojs/rss": "^4.0.19",
-    "astro": "^7.3.2"
+    "astro": "^7.3.2",
+    "lightningcss": "^1.33.0"
   },
   "devDependencies": {
     "typescript": "^5.9.3"

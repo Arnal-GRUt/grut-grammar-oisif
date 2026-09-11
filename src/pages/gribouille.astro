@@ -64,13 +64,12 @@ const allArts = (await getCollection("grutArt")).sort((a, b) => b.id - a.id);
 </BaseLayout>
 <style>
 	.image-lightbox--img {
-		position: relative;
+		/* position: relative;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
-		/* height: fit-content; */
 		height: calc(100% + 80px);
-		/* overflow */
+		max-height: 80vh; */
 
 		& button.close-btn {
 			border-radius: 100%;

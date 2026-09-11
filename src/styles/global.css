@@ -2038,7 +2038,6 @@ html:not([id*="Grammar"]) body {
 
 
 			& .figure {
-
 				&:hover img {
 					-webkit-filter: none;
 					filter: none;
@@ -2231,7 +2230,7 @@ html:not([id*="Grammar"]) body {
 }
 
 /* Page Gribouille */
-html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
+html#Gribouille .galerie .colonne-image:has(.image-lightbox:popover-open) {
 	&:after {
 		content: "";
 		position: absolute;
@@ -2300,9 +2299,6 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		position: fixed;
 		min-width: 80vw;
 		max-width: 90vw;
-		/* height: -webkit-fit-content;
-		height: -moz-fit-content;
-		height: fit-content; */
 		height: 100%;
 		top: 55%;
 		left: 50%;
@@ -2313,12 +2309,12 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 		padding: 0;
 		border: 0;
 		background: transparent;
-		overflow: visible;
 		-webkit-transition: all 0.2s ease;
 		-o-transition: all 0.2s ease;
 		transition: all 0.2s ease;
 		overscroll-behavior: contain;
       	overflow: hidden;
+      	/* overflow: visible; */
 
 		&:popover-open {
 			display: -ms-grid;
@@ -2335,12 +2331,8 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 			display: -ms-flexbox;
 			display: flex;
 			overflow: auto;
-			/* height: -webkit-fit-content;
-			height: -moz-fit-content;
-			height: fit-content; */
 			height: calc(100% + 80px);
 			max-height: 80vh;
-			/* max-width: 100%; */
 			-ms-grid-column-align: center;
 
 			& img {
@@ -2357,7 +2349,6 @@ html#Gribouille .colonne-image:has(.image-lightbox:popover-open) {
 }
 
 /* Page about */
-
 html[id*="about"] {
 	& body {
 		padding-bottom: 0;

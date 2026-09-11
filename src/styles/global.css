@@ -2864,7 +2864,7 @@ span.icon-arrow {
 		}
 	}
 
-	html[id*="Grammar"] body .nav-secondaire.nav-links {
+	html[id*="Grammar"] body .nav-secondaire.nav-links {	
 		display: none;
 	}
 

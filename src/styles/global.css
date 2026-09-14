@@ -988,8 +988,9 @@ body .presentation .ambiance .col-pres-publication p.home-ecritouille-3 {
 		color: var(--back-2);
 	}
 }
-
-html#Écritouille body .tous-les-textes .box article {
+/* 
+html#Écritouille body .tous-les-textes .box article { */
+html body .tous-les-textes .box article {
 	border-bottom: 2px dashed var(--back-2);
 
 	&::hover a {
@@ -2649,8 +2650,8 @@ span.icon-arrow {
 			grid-template-columns: repeat(3, 1fr);
 		}
 	}
-
-	html#Écritouille body .main-text {
+	/* html#Écritouille body .main-text { */
+	/* html#Écritouille body .main-text {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
 		-ms-flex-direction: column;
@@ -2701,7 +2702,7 @@ span.icon-arrow {
 				width: fit-content;
 			}
 		}
-	}
+	} */
 }
 
 @media (width < 1025px) {

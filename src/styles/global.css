@@ -8,12 +8,6 @@
 /****************** RESET - CSS ******************/
 /*************************************************/
 
-/* Police de caratère titres */
-@font-face {
-	font-family: 'Chelsea Market';
-	src: url('../fonts/ChelseaMarket-Regular.ttf') format('truetype');		
-}
-
 /* 1. Use a more-intuitive box-sizing model */
 *,
 *::before,

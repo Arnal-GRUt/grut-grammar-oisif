@@ -6,7 +6,8 @@ export async function GET(context) {
     description: 'Des textes, des histoires, de la méthodo et cie',
     site: 'https://grammar-oisif.fr/',
     items: await pagesGlobToRssItems(
-      import.meta.glob('./posts/*.{md,mdx}'),
+      // import.meta.glob('./posts/*.{md,mdx}'),
+      import.meta.glob('./posts/*.mdx'),
       ),
   });
 }

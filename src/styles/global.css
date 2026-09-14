@@ -2643,14 +2643,10 @@ span.icon-arrow {
 }
 
 @media (width < 1081px) {
-	html#Gribouille {
-
-		& .colonne-image {
-			-ms-grid-columns: (1fr)[3];
+	html#Gribouille .galerie .colonne-image {
+			/* -ms-grid-columns: (1fr)[3]; */
 			grid-template-columns: repeat(3, 1fr);
 		}
-	}
-	/* html#Écritouille body .main-text { */
 	/* html#Écritouille body .main-text {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;

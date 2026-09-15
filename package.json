@@ -9,11 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/markdoc": "^2.0.9",
-    "@astrojs/mdx": "^8.0.1",
+    "@astrojs/markdoc": "^0.15.10",
     "@astrojs/rss": "^4.0.19",
-    "astro": "^7.3.2",
-    "lightningcss": "^1.33.0"
+    "astro": "^5.16.14"
   },
   "devDependencies": {
     "typescript": "^5.9.3"

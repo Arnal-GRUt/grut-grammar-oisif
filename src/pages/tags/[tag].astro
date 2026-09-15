@@ -26,51 +26,46 @@ export async function getStaticPaths() {
     });
 }
 
-posts.sort(
-    (a, b) =>
-        Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate),
-);
+posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
 const { tag } = Astro.params;
 ---
-
 <BaseLayout pageTitle={tag}>
-    <div class="contenu-page display-flex direction-row">
-        <div class="main">
-            <ul class="tags">
-                {
-                    tags.map((tag) => (
-                        <li class="tag">
+  <div class="contenu-page display-flex direction-row">    
+    <div class="main">
+        <ul class="tags">
+            {
+                tags.map((tag) => (
+                    <li class="tag">
                             <a href={`/tags/${tag}`}>{tag}</a>
                         </li>
                     ))
                 }
-                <p style="padding-top: 1rem; width: 100%; font-size: 0.9rem;">
-                    Les textes de la catégorie :
-                </p>
-            </ul>
-            <h1 class="soustitre-page">{tag}</h1>
+        <p style="padding-top: 1rem; width: 100%; font-size: 0.9rem;">Les textes de la catégorie :</p>
+        </ul>
+        <h1 class="soustitre-page">{tag}</h1>
             {
-                posts.map((post: any) => (
-                    <BlogPost
-                        url={post.url}
-                        title={post.frontmatter.title}
-                        pubDate={post.frontmatter.pubDate}
-                        author={post.frontmatter.author}
-                        title={post.frontmatter.title}
-                        contexte={post.frontmatter.contexte}
-                        description={post.frontmatter.description}
-                        enonce={post.frontmatter.enonce}
-                        tags={post.frontmatter.tags}
-                    />
-                ))
-            }
-        </div>
-    </div>
-    <style>
         html .contenu-page .main {
             max-width: 1024px;
         }
         ul.tags {
+              posts.map((post: any) => (
+          <BlogPost
+            url={post.url}
+            title={post.frontmatter.title}
+            pubDate={post.frontmatter.pubDate}
+            author={post.frontmatter.author}
+            title={post.frontmatter.title}
+            contexte={post.frontmatter.contexte}
+            description={post.frontmatter.description}
+            enonce={post.frontmatter.enonce}
+            tags={post.frontmatter.tags}            
+          />
+        ))
+      }
+    </div>  
+  </div>
+  <style>
+    /* html#Ecritouille .contenu-page .main { */
             display: flex;
             gap: 8px;
             flex-wrap: wrap;
@@ -109,5 +104,5 @@ const { tag } = Astro.params;
                 }
             }
         }
-    </style>
+  </style>
 </BaseLayout>

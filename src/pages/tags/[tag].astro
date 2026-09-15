@@ -44,10 +44,7 @@ const { tag } = Astro.params;
         </ul>
         <h1 class="soustitre-page">{tag}</h1>
             {
-        html .contenu-page .main {
-            max-width: 1024px;
-        }
-        ul.tags {
+              
               posts.map((post: any) => (
           <BlogPost
             url={post.url}
@@ -66,6 +63,15 @@ const { tag } = Astro.params;
   </div>
   <style>
     /* html#Ecritouille .contenu-page .main { */
+    html#{tag} .contenu-page .main {
+      max-width: 1024px;
+      & h1.soustitre-page
+    }
+    html#{tag} .contenu-page .main {
+      /* max-width: 1024px; */
+      & h1.soustitre-page
+    }
+    ul.tags {
             display: flex;
             gap: 8px;
             flex-wrap: wrap;

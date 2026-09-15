@@ -41,12 +41,6 @@ const pageTitle = "Écritouille";
             </ul>        
         <h1 class="soustitre-page">{pageTitle}</h1>  
             {
-        html body .contenu-page .main {
-            max-width: 1024px;
-        }
-        ul.tags {
-            display: -webkit-box;
-            display: -ms-flexbox;
               
               allPosts.map((post: any) => (
           <BlogPost
@@ -65,9 +59,14 @@ const pageTitle = "Écritouille";
     </div>  
   </div>
   <style>
+    /* html#Ecritouille .contenu-page .main { */
+    html#{tag} .contenu-page .main {
+      max-width: 1024px;
+      & h1.soustitre-page
+    }
+    ul.tags {
             display: flex;
             gap: 8px;
-            -ms-flex-wrap: wrap;
             flex-wrap: wrap;
             font-size: 0.8rem;
             line-height: 2ch;

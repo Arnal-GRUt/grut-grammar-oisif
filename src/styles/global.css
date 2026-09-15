@@ -2643,7 +2643,9 @@ span.icon-arrow {
 }
 
 @media (width < 1081px) {
-	html#Gribouille .galerie .colonne-image {
+	html#Gribouille {
+
+		& .colonne-image {
 			-ms-grid-columns: (1fr)[3];
 			grid-template-columns: repeat(3, 1fr);
 		}

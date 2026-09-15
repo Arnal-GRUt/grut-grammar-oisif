@@ -1937,7 +1937,6 @@ html:not([id*="Grammar"]) body {
 	}
 
 	@-webkit-keyframes to-top-2 {
-
 		0%,
 		100% {
 			-webkit-transform: translateY(0);
@@ -1946,7 +1945,6 @@ html:not([id*="Grammar"]) body {
 	}
 
 	@keyframes to-top-2 {
-
 		0%,
 		100% {
 			-webkit-transform: translateY(0);
@@ -2843,7 +2841,6 @@ span.icon-arrow {
 
 @media (width < 835px) {
 	@-webkit-keyframes clip-reveal {
-
 		0%,
 		100% {
 			-webkit-clip-path: inset(0% 0% 0% 0%);
@@ -2852,7 +2849,6 @@ span.icon-arrow {
 	}
 
 	@keyframes clip-reveal {
-
 		0%,
 		100% {
 			-webkit-clip-path: inset(0% 0% 0% 0%);
@@ -3084,7 +3080,6 @@ span.icon-arrow {
 		}
 
 		@-webkit-keyframes to-small-titre {
-
 			0%,
 			100% {
 				top: 0;
@@ -3095,7 +3090,6 @@ span.icon-arrow {
 		}
 
 		@keyframes to-small-titre {
-
 			0%,
 			100% {
 				top: 0;
@@ -3160,7 +3154,6 @@ span.icon-arrow {
 	}
 
 	@-webkit-keyframes to-small-menu {
-
 		0%,
 		100% {
 			left: 100%;
@@ -3170,7 +3163,6 @@ span.icon-arrow {
 	}
 
 	@keyframes to-small-menu {
-
 		0%,
 		100% {
 			left: 100%;
@@ -3180,7 +3172,6 @@ span.icon-arrow {
 	}
 
 	@-webkit-keyframes to-top {
-
 		0%,
 		100% {
 			-webkit-transform: translateY(0);
@@ -3190,7 +3181,6 @@ span.icon-arrow {
 	}
 
 	@keyframes to-top {
-
 		0%,
 		100% {
 			-webkit-transform: translateY(0);
